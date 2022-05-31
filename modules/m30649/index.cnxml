@@ -1,0 +1,184 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:md="http://cnx.rice.edu/mdml">
+  <title>Lý thuyết ma sát và hao mòn</title>
+  <metadata>
+  <md:content-id>m30649</md:content-id><md:title>Lý thuyết ma sát và hao mòn</md:title>
+  <md:abstract>Lý  thuyết về ma sát và hao mòn</md:abstract>
+  <md:uuid>14bd1c7c-c4f1-4257-aad0-d15d2a013571</md:uuid>
+</metadata>
+
+<content>
+    <para id="id6881637">Nội dung:</para>
+    <section id="id-542168019289">
+      <title>LÝ THUYẾT CHUNG VỀ MA SÁT VÀ HAO MÒN</title>
+      <para id="id6286829">Khái niệm về ma sát</para>
+      <section id="id-181839271832">
+        <title>Quan điểm cổ điển</title>
+        <para id="id6990729">Lực ma sát Fms tỷ lệ thuận với tải trọng pháp tuyến N:</para>
+        <para id="id6751778">
+          <figure id="id6572411">
+            <media id="id8082293" alt=""><image src="graphics1.wmf" mime-type="image/wmf" height="29" width="75"/></media>
+          </figure>
+        </para>
+        <para id="id6751945">N- tải trọng pháp tuyến.</para>
+        <para id="id6925902">-hệ số ma sát,  =const.</para>
+        <para id="id6451115">Công thức trên chỉ có phạm vi sử dụng nhất định.</para>
+      </section>
+      <section id="id-112099429931">
+        <title>Quan điểm hiện đại</title>
+        <para id="id6270810">Ma sát là kết quả của nhiều dạng tương tác phức tạp khác nhau, khi có sự tiếp xúc và dịch chuyển hoặc có xu hướng dịch chuyển giữa hai vật thể, trong đó diễn ra các quá trình cơ, lý, hoá, điện...quan hệ của các quá trình đó rất phức tạp phụ thuộc vào đặc tính tải, vận tốc trượt, vật liệu và môi trường.</para>
+        <para id="id6897852">
+          <figure id="id6287602">
+            <media id="id4520459" alt=""><image src="graphics2.wmf" mime-type="image/wmf" height="29" width="75"/></media>
+          </figure>
+        </para>
+        <para id="id6881747">- hệ số ma sát,  = f(p,v,C)</para>
+        <para id="id6881756">N-tải trọng pháp tuyến</para>
+        <para id="id5875544">C-điều kiện ma sát (vật liệu, độ cứng, độ bóng, chế độ gia công, môi trường)</para>
+        <para id="id6803961">Công ma sát A chuyển hoá thành nhiệt năng Q và năng lượng hấp phụ giữa 2 bề mặt <media id="id7711728" alt=""><image src="graphics3.wmf" mime-type="image/wmf" height="18" width="15"/></media>E.</para>
+        <para id="id6611214">A = Q + <figure id="id7032845"><media id="id7497477" alt=""><image src="graphics4.wmf" mime-type="image/wmf" height="18" width="17"/></media></figure>E. </para>
+      </section>
+      <section id="id-347491610282">
+        <title>Các yếu tố ảnh hưởng đến hệ số ma sát</title>
+        <section id="id-526081741187">
+          <title>Ảnh hưởng của tải trọng. </title>
+          <table id="id6917482" summary="">
+            <tgroup cols="2">
+              <colspec colnum="1" colname="c1"/>
+              <colspec colnum="2" colname="c2"/>
+              <tbody>
+                <row>
+                  <entry><media id="id7357958" alt=""><image src="graphics5.wmf" mime-type="image/wmf"/></media>Hình1.1. Ảnh hưởng của tải trọng đến </entry>
+                  <entry>Khi thay đổi p thì  thay đổi theo. Nhưng tồn tại một khoảng pth1&lt; p &lt;pth2 mà trong đó  ổn định và nhỏ nhất. Khi  vượt ra ngoài khoảng đó thì xảy ra hư hỏng và  tăng cao.</entry>
+                </row>
+              </tbody>
+            </tgroup>
+          </table>
+          <para id="id6707761">Nhận xét:</para>
+          <para id="id6287037">Khi thay đổi điều kiện ma sát C thì dạng đường cong không thay đổi mà chỉ thay đổi các giá trị , pth1, pth2. </para>
+        </section>
+        <section id="id-888913728984">
+          <title>Ảnh hưởng của vận tốc. Hình 1.2</title>
+          <table id="id6666108" summary="">
+            <tgroup cols="2">
+              <colspec colnum="1" colname="c1"/>
+              <colspec colnum="2" colname="c2"/>
+              <tbody>
+                <row>
+                  <entry><media id="id5951715" alt=""><image src="graphics6.wmf" mime-type="image/wmf"/></media>Hình1.2. Ảnh hưởng của vận tốc đến </entry>
+                  <entry>Đường cong  = f(v,C) cũng có qui luật tương tự đường cong  = f(p,C).</entry>
+                </row>
+              </tbody>
+            </tgroup>
+          </table>
+        </section>
+        <section id="id-855021285022">
+          <title>Ảnh hưởng của điều kiện ma sát. Hình 1.3</title>
+          <table id="id6450216" summary="">
+            <tgroup cols="2">
+              <colspec colnum="1" colname="c1"/>
+              <colspec colnum="2" colname="c2"/>
+              <tbody>
+                <row>
+                  <entry><media id="id4883261" alt=""><image src="graphics7.wmf" mime-type="image/wmf"/></media>Hình1.3. Ảnh hưởng của điều kiện ma sát đến </entry>
+                  <entry>Thí nghiệm 1: cho cặp ma sát Fe-Fe làm việc với tải trọng p = const, vận tốc v = const, có cho và không cho bột mài vào giữa hai bề mặt ma sát.OA: không có bột mài.AB:  giảm do tác dụng rà trơn của bột màiBC:  tăng cao và không ổn định do sự phá hoại của bột mài.CD: không có bột mài --&gt;  ổn định và giảm.</entry>
+                </row>
+              </tbody>
+            </tgroup>
+          </table>
+          <para id="id7043839">Nhận xét:   const khi điều kiện ma sát thay đổi</para>
+          <para id="id6881589">Thí nghiệm 2: Cho ba cặp ma sát Fe-Fe, Al-Al, Cu-Cu làm việc với p = const, v =const, thay đổi chế độ gia công để đạt độ bóng bề mặt khác nhau. Kết quả,  thay đổi như bảng 1.1</para>
+          <para id="id6268307">Bảng 1.1. Ảnh hưởng của độ bóng bề mặt đến </para>
+          <table id="id6751763" summary="">
+            <tgroup cols="5">
+              <colspec colnum="1" colname="c1"/>
+              <colspec colnum="2" colname="c2"/>
+              <colspec colnum="3" colname="c3"/>
+              <colspec colnum="4" colname="c4"/>
+              <colspec colnum="5" colname="c5"/>
+              <tbody>
+                <row>
+                  <entry>Độ bóng</entry>
+                  <entry>Phương pháp gia công</entry>
+                  <entrytbl namest="c3" nameend="c5" cols="3">
+                    <colspec colnum="1" colname="c1"/>
+                    <colspec colnum="2" colname="c2"/>
+                    <colspec colnum="3" colname="c3"/>
+                    <tbody>
+                      <row>
+                        <entry namest="c1" nameend="c3"></entry>
+                      </row>
+                      <row>
+                        <entry>Fe-Fe</entry>
+                        <entry>Al-Al</entry>
+                        <entry>Cu-Cu</entry>
+                      </row>
+                    </tbody>
+                  </entrytbl>
+                </row>
+                <row>
+                  <entry>7</entry>
+                  <entry>Đánh bóng bằng điện giải</entry>
+                  <entry>2,08</entry>
+                  <entry>4,05</entry>
+                  <entry>1,7</entry>
+                </row>
+                <row>
+                  <entry>14</entry>
+                  <entry>Đánh bóng bằng điện giải</entry>
+                  <entry>1,32</entry>
+                  <entry>3,00</entry>
+                  <entry>1,08</entry>
+                </row>
+                <row>
+                  <entry>14</entry>
+                  <entry>Đánh bóng bằng điện giải có lớp màng ô xít dày 300A0</entry>
+                  <entry>0,8</entry>
+                  <entry>1,08</entry>
+                  <entry>0,37</entry>
+                </row>
+                <row>
+                  <entry>14</entry>
+                  <entry>Giữa hai bề mặt có màng dầu bôi trơn</entry>
+                  <entry>0,06</entry>
+                  <entry>0,05</entry>
+                  <entry>0,07</entry>
+                </row>
+              </tbody>
+            </tgroup>
+          </table>
+          <para id="id6751675">Kết luận: hệ số ma sát phụ thuộc vào nhiều yếu tố.  = f(p,v,C)</para>
+          <para id="id7022565">-   const.</para>
+          <para id="id6785578">- Tồn tại khoảng có  = const và nhỏ nhất.</para>
+          <para id="id6246837">- Cho ta phương hướng chỉ đạo thực tiễn thay đổi điều kiện ma sát C sao cho mở rộng được phạm vi sử dụng mà  = const và nhỏ nhất. </para>
+        </section>
+      </section>
+      <section id="id-240601497706">
+        <title>Phân loại ma sát</title>
+        <para id="id6873587">- Dựa vào động học chuyển động:</para>
+        <table id="id6502789" summary="">
+          <tgroup cols="2">
+            <colspec colnum="1" colname="c1"/>
+            <colspec colnum="2" colname="c2"/>
+            <tbody>
+              <row>
+                <entry>+ Ma sát trượt.+ Ma sát lăn.+ Ma sát xoay. - Dựa vào sự tham gia của chất bôi trơn:+ Ma sát ướt.+ Ma sát khô.+ Ma sát tới hạn.</entry>
+                <entry>
+                  <media id="id8402559" alt=""><image src="graphics8.wmf" mime-type="image/wmf"/></media>
+                </entry>
+              </row>
+            </tbody>
+          </tgroup>
+        </table>
+        <para id="id6751646">- Dựa vào động lực học:</para>
+        <para id="id7007770">+ Ma sát tĩnh.</para>
+        <para id="id6750060">+ Ma sát động</para>
+        <para id="id6750065">- Dựa vào đặc tính quá trình ma sát:</para>
+        <para id="id6748959">+ Ma sát bình thường là quá trình ma sát trong đó chỉ xảy ra hao mòn tất yếu và cho phép (xảy ra từ từ, chỉ trên lớp cấu trúc thứ cấp, không xảy ra sự phá hoại kim loại gốc), trong phạm vi giới hạn của tải trọng, vận tốc trượt và điều kiện ma sát bình thường.</para>
+        <para id="id6999341">+ Ma sát không bình thường là quá trình ma sát trong đó p,v,C vượt ra ngoài phạm vi giới hạn, xảy ra hư hỏng: tróc loại 1, loại 2, mài mòn...</para>
+        <para id="id6915548">Người ta tìm các biện pháp thiết kế, công nghệ, sử dụng để mở rộng phạm vi cho phép của p, v, C theo hướng tăng hoặc giảm <media id="id7229070" alt=""><image src="graphics9.wmf" mime-type="image/wmf" height="18" width="17"/></media>.</para>
+        <para id="id5686499">Ví dụ: Cần tăng <media id="id7281383" alt=""><image src="graphics10.wmf" mime-type="image/wmf" height="18" width="17"/></media>: má phanh, bề mặt ma sát của đĩa ly hợp ma sát.</para>
+        <para id="id6435553"> Cần giảm <media id="id2366543" alt=""><image src="graphics11.wmf" mime-type="image/wmf" height="18" width="17"/></media>: ổ trượt, ổ lăn...</para>
+      </section>
+    </section>
+  </content>
+</document>

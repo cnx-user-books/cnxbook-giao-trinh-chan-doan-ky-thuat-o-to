@@ -1,0 +1,155 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:md="http://cnx.rice.edu/mdml">
+  <title>Hao mòn, hư hỏng một số chi tiết điển hình</title>
+  <metadata>
+  <md:content-id>m30364</md:content-id><md:title>Hao mòn, hư hỏng một số chi tiết điển hình</md:title>
+  <md:abstract>Hao mòn của một số chi tiết điển hình</md:abstract>
+  <md:uuid>9be8ef74-c798-4530-ac60-b65881c52527</md:uuid>
+</metadata>
+
+<content>
+    <para id="id6469349">Nội dung</para>
+    <section id="id-329290308937">
+      <title>Hao mòn xy lanh</title>
+      <section id="id-549192240558">
+        <title>Hình 1.11. Qui luật phân bố áp suất khí thể trên xi lanhMa sát tới hạnMa sát ướtMa sát khô Điều kiện làm việc</title>
+        <para id="id5686704">
+          <table id="id5686726" summary="">
+            <tgroup cols="2">
+              <colspec colnum="1" colname="c1"/>
+              <colspec colnum="2" colname="c2"/>
+              <tbody>
+                <row>
+                  <entry>- Chịu nhiệt độ cao và biến thiên không đều:Động cơ xăng: Tmax = 2800 0KĐộng cơ Diesel: Tmax = 2200 0KVùng trên chịu nhiệt độ cao hơn vùng dưới và thay đổi trong một chu kỳ.- Chịu ma sát lớn, đặc biệt đối với động cơ cao tốc. Ở khu vực sát buồng cháy thường phải chịu ma sát khô và tới hạn, vùng dưới ma sát tới hạn và ma sát ướt.- Môi trường: sản vật cháy chứa các chất ăn mòn như: CO2, NO, SO2...kết hợp với nước tạo thành các axit.- Chịu tải trọng lớn và thay đổi theo chu kỳ.</entry>
+                  <entry/>
+                </row>
+              </tbody>
+            </tgroup>
+          </table>
+        </para>
+        <table id="id6451274" summary="">
+          <tgroup cols="4">
+            <colspec colnum="1" colname="c1"/>
+            <colspec colnum="2" colname="c2"/>
+            <colspec colnum="3" colname="c3"/>
+            <colspec colnum="4" colname="c4"/>
+            <tbody>
+              <row>
+                <entry namest="c1" nameend="c2">Ma sát giữa séc măng và xi lanh phụ thuộc vào lực ép của séc măng lên xi lanh:Pxi = Px + ki.PktPxi-lực của séc măng thứ i tác dụng lên xi lanhPx-lực bung hướng kính của séc măngPkt-lực khí thểk1 = 0,7  0,8k2 = 0,1  0,15k3 = 0,05  0,08</entry>
+                <entry><media id="id7092847" alt=""><image src=".png" mime-type="image/png"/></media>pktkipktHinh 1.12. Áp lực séc măng tác dụng lên xi lanh</entry>
+                <entry><media id="id8241920" alt=""><image src="../../media/graphics1-e8cd.png" mime-type="image/png"/></media>Hình1.13. Phương của lực ngang tác dụng lên xi lanh</entry>
+              </row>
+              <row>
+                <entry>Piston ép lên xi lanh theo phương vuông góc bệ chốt về 2 phía do lực ngang N. Sự biến thiên của lực ngang N theo chiều cao của xi lanh và theo góc quay của trục khuỷu được biểu diễn như hình 1.14.</entry>
+                <entry namest="c2" nameend="c4"><media id="id4041859" alt=""><image src=".png" mime-type="image/png"/></media>0180360180360540720540Hình 1.14. Áp suất(do N) tác dụng lên thành xi lanh theo các kỳ</entry>
+              </row>
+            </tbody>
+          </tgroup>
+        </table>
+        <para id="id6665944">Vận tốc trượt do tiếp xúc giữa séc măng và thân piston thay đổi lớn. Hao mòn của xi lanh tỷ lệ thuận với lực, vận tốc trượt, nhiệt độ. Đó là hao mòn có qui luật.</para>
+      </section>
+      <section id="id-714150078078">
+        <title>Hao mòn xy lanh theo phương dọc trục</title>
+        <para id="id6665966"><figure id="id6665985"><media id="id3905273" alt=""><image src=".png" mime-type="image/png" height="196" width="306"/></media></figure>pvtDạng mònHình 1.15. Dạng mòn hướng trục của xi lanh p_áp suấtv_Vận tốct_nhiệt độ<figure id="id6935913"><media id="id5611333" alt=""><image src=".png" mime-type="image/png" height="297" width="203"/></media></figure></para>
+      </section>
+      <section id="id-169118602683">
+        <title>Hao mòn theo phương hướng kính</title>
+        <para id="id7023059">Theo phương lực ngang N xi lanh bị mòn nhiều nhất dọc theo chiều trục.</para>
+      </section>
+      <section id="id-466467387069">
+        <title>Hao mòn không theo qui luật</title>
+        <para id="id6806606">Trong vùng nhiều bụi, khoảng giữa xi lanh mòn nhiều do bụi (hạt mài tỷ lệ với vận tốc trượt). Bụi càng nhiều qui luật mòn càng tăng về phía dưới.</para>
+        <para id="id7017432">- Mòn nhiều theo phương vuông góc lực ngang N thì lý do là piston bị nghiêng.</para>
+        <para id="id7017441">- Đối với động cơ xăng: vùng đối diện xupáp nạp thường mòn nhiều, lý do là khí nạp rửa sạch màng dầu bôi trơn hoặc do ngưng tụ sản phẩm gây mòn.</para>
+      </section>
+    </section>
+    <section id="id-554919763972">
+      <title>Hao mòn trục khuỷu</title>
+      <section id="id-965677965366">
+        <title>. Điều kiện làm việc</title>
+        <para id="id6968079">- Trục khuỷu làm việc trong điều kiện bôi trơn ma sát ướt, nhưng có khi ma sát khô hoặc tới hạn (lúc khởi động hoặc tắt máy, tăng giảm đột ngột vận tốc góc, khi khe hở trục bạc lớn).</para>
+        <para id="id6968094">- Chịu nhiệt độ từ 1502500C, do nhiệt truyền từ buồng cháy qua piston thanh truyền hoặc do bản thân ma sát giữa trục và bạc</para>
+        <para id="id6968116">- Chịu ma sát lớn. </para>
+        <para id="id6563387">- Tải trọng biến thiên, có tính chất va đập và phân bố không đều.</para>
+        <para id="id6563394">- Vận tốc trượt khá lớn: 5 10m/s.</para>
+        <para id="id6563406">- Chịu mài mòn: do lọc dầu không sạch hoặc do các hạt mài.</para>
+      </section>
+      <section id="id-184088948526">
+        <title>Hao mòn trục khuỷu có qui luật</title>
+        <para id="id6563424">Hao mòn, hư hỏng bình thường do qui luật làm việc của trục khuỷu.</para>
+        <table id="id6666112" summary="">
+          <tgroup cols="2">
+            <colspec colnum="1" colname="c1"/>
+            <colspec colnum="2" colname="c2"/>
+            <tbody>
+              <row>
+                <entry>Theo đồ thị hình 1.17 vùng trên số lần tác dụng ít, vùng dưới tác dụng nhiều. Dưới tác dụng của lực ly tâm các cổ trục của trục khuỷu nhiều xi lanh chịu phụ tải không đều.Động cơ xăng lượng hao mòn khác động cơ diesel, nhưng định tính như nhau.Động cơ 1 xi lanh mòn cổ chính bằng 1/2 lượng mòn cổ biên.Động cơ nhiều xi lanh cổ giữa thường mòn nhiều hơn.Tiếp xúc trục bạc, nếu có hạt mài thì hạt mài đọng lại gây hao mòn ở giữa nhiều hơn.</entry>
+                <entry>ZTHình 1.17. Đồ thị lực tác dụng lên chốt khuỷu</entry>
+              </row>
+            </tbody>
+          </tgroup>
+        </table>
+        <para id="id6611665">Giả sử hao mòn tỷ lệ thuận với lực tác dụng (áp lực) và thời gian (số lần) tác dụng của nó thì qui luật hao mòn của chốt khuỷu và cổ trục chính của động cơ xăng khác động cơ diesel. Sở dĩ vậy, là vì đồ thị phụ tải tác dụng lên chốt khuỷu của hai loại động cơ này là khác nhau:</para>
+        <para id="id6765388">- Động cơ xăng cao tốc: phần đầu to lực quán tính lớn và tác dụng nhiều lần, phần đuôi mặc dù có trị số lớn hơn, nhưng chỉ một lần tác dụng. Do đó, chốt khuỷu mòn phía dưới nhiều hơn và cổ trục chính mòn phía trên nhiều hơn.</para>
+        <para id="id6765402">- Động cơ diesel vận tốc góc không lớn lắm nhưng áp suất lớn, nên đồ thị lực tác dụng lên chốt khuỷu có đầu nhỏ đuôi to. Điều đó bù trừ với số lần tác dụng lực. Do đó chốt khuỷu và cổ trục chính mòn đều hơn</para>
+      </section>
+      <section id="id-0343536349485">
+        <title>Hao mòn trục khuỷu không có qui luật</title>
+        <para id="id6739103">Hao mòn, hư hỏng không bình thường, do các dạng kết cấu đặc biệt của trục khuỷu.</para>
+        <table id="id6739111" summary="">
+          <tgroup cols="2">
+            <colspec colnum="1" colname="c1"/>
+            <colspec colnum="2" colname="c2"/>
+            <tbody>
+              <row>
+                <entry>Dạng hao mòn</entry>
+                <entry>Dạng hao mòn</entry>
+              </row>
+              <row>
+                <entry namest="c1" nameend="c2">Hình 1.18. Hao mòn trục khuỷu không qui luật</entry>
+              </row>
+            </tbody>
+          </tgroup>
+        </table>
+        <para id="id6578158"/>
+        <para id="id6287518">- Do thanh truyền chế tạo lệch tâm nên phân bố lực không đều (dạng hình thang). Do đó, hao mòn không đều.</para>
+        <para id="id6287527">- Khoan lỗ dầu không hợp lý: do quán tính ly tâm mà các cặn dầu bám vào thành và đem sang phía trái (hình 1.18). Vì vậy, ở phía trái chốt khuỷu mòn nhiều hơn ở phía phải.</para>
+      </section>
+      <section id="id-410299596367">
+        <title>Hỏng do mỏi</title>
+        <para id="id6287548">Xuất hiện các vết nứt tế vi ở nơi tập trung ứng suất: góc lượn, cạnh sắc lỗ dầu...Dưới tác dụng của tải trọng biến thiên và đổi chiều mà các vết nứt tế vi dần phát triển lớn lên đến lúc làm gãy trục, vết gãy phẳng. Thường xảy ra đối với các trục khuỷu:</para>
+        <para id="id6287564">- Có kết cấu không hợp lý:  = 0 (không có độ trùng điệp). Ví dụ: động cơ D6-3D12 (gãy 4050%).</para>
+        <para id="id6767388">- Có quá trình gia công sửa chữa không đúng: không có góc lượn hoặc góc lượn không đúng, không làm cùn các cạnh sắc của lỗ dầu.</para>
+        <para id="id6767399">- Chế độ sử dụng không tốt: thay đổi tải đột ngột.</para>
+        <para id="id6767407">- Lắp ráp không tốt: các cổ trục không đồng tâm gây tải trọng phụ trong quá trình sử dụng.</para>
+      </section>
+    </section>
+    <section id="id-296440322082">
+      <title>Hao mòn séc măng</title>
+      <section id="id-859416997183">
+        <title>Điều kiện làm việc</title>
+        <para id="id6921033">- Chịu nhiệt độ cao: trong quá trình làm việc, séc măng trực tiếp tiếp xúc với khí cháy, do piston truyền nhiệt cho xi lanh qua séc măng và do ma sát với vách xi lanh nên séc măng có nhiệt độ cao, nhất là séc măng thứ nhất. Khi séc măng khí bị hở, không khít với xi lanh, khí cháy thổi qua chỗ bị hở làm cho nhiệt độ cục bộ vùng này tăng lên rất cao, có thể làm cháy séc măng và piston. Nhiệt độ của séc măng khí thứ nhất 623673K, các séc măng khí khác 473523K, séc măng dầu 373423K. Do nhiệt độ cao, sức bền cơ học bị giảm sút, séc măng dễ bị mất đàn hồi, dầu nhờn dễ bị cháy thành keo bám trên séc măng và xilanh, làm xấu thêm điều kiện làm việc, thậm chí làm bó séc măng.</para>
+        <para id="id6921076">- Chịu lực va đập lớn: khi làm việc, lực khí thể và lực quán tính tác dụng lên séc măng, các lực này có giá trị rất lớn, luôn thay đổi về trị số và chiều tác dụng nên gây ra va đập mạnh giữa séc măng và rãnh séc măng.</para>
+        <para id="id5930361">- Chịu mài mòn: khi làm việc, séc măng ma sát với vách xi lanh rất lớn. Công ma sát của séc măng chiếm đến 5060% toàn bộ công tổn thất cơ giới của động cơ đốt trong. Séc măng sở dĩ ma sát lớn và mài mòn nhiều (nhất là séc măng khí thứ nhất) là do áp suất tiếp xúc của séc măng tác dụng lên vách xi lanh lớn, tốc độ trượt lớn mà bôi trơn lại rất kém, bị ăn mòn hoá học và mài mòn bởi các tạp chất sinh ra trong quá trình cháy hoặc có lẫn trong khí nạp và trong dầu nhờn.</para>
+      </section>
+      <section id="id-666475401565">
+        <title>Hao mòn séc măng</title>
+        <table id="id5930395" summary="">
+          <tgroup cols="2">
+            <colspec colnum="1" colname="c1"/>
+            <colspec colnum="2" colname="c2"/>
+            <tbody>
+              <row>
+                <entry><media id="id4684465" alt=""><image src=".png" mime-type="image/png"/></media>Mòn miệngMòn lưngMòn Hình 1.19. Hao mòn sec măng</entry>
+                <entry><media id="id8715559" alt=""><image src=".png" mime-type="image/png"/></media>P = 3 ÷ 5 kgHình 1.20. Kiểm tra lực bung của séc măng</entry>
+              </row>
+            </tbody>
+          </tgroup>
+        </table>
+        <para id="id6897038">- Séc măng hao mòn ở phần miệng và phần lưng là nhiều nhất, hình 1.19. Đối với séc măng ô tô máy kéo khi khe hở miệng  = 1,5 2mm thì loại bỏ.</para>
+        <para id="id6897061">- Mòn theo chiều cao chủ yếu mòn ở các góc. </para>
+        <para id="id6897068">Khi mòn nhiều lực bung giảm kiểm tra như hình 1.20.</para>
+        <para id="id6897076">Thử bề dày séc măng: lăn trong rãnh séc măng không đảo là được.</para>
+      </section>
+    </section>
+  </content>
+</document>

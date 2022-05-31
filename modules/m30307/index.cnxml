@@ -1,0 +1,233 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:md="http://cnx.rice.edu/mdml">
+  <title>Chẩn đoán trạng thái đánh lửa</title>
+  <metadata>
+  <md:content-id>m30307</md:content-id><md:title>Chẩn đoán trạng thái đánh lửa</md:title>
+  <md:abstract>Chuẩn đoán hệ thống đánh lửa</md:abstract>
+  <md:uuid>7b34dfa3-95f2-4309-a67f-a002745a4c2d</md:uuid>
+</metadata>
+
+<content>
+    <list id="id6452859" list-type="enumerated">
+      <item>Nhiệm vụ và cấu tạo chung của hệ thống đánh lửa</item>
+    </list>
+    <para id="id6452870">Tạo ra tia lửa điện mạnh và đúng thời điểm để đốt cháy hỗn hợp trong động cơ đánh lửa cưỡng bức.</para>
+    <para id="id5676484">Cấu tạo chung bao gồm: nguồn, biến áp đánh lửa, bộ chia điện, bộ phận điều chỉnh góc phun sớm tự động, dây cao áp, bu gi. </para>
+    <para id="id5676493">Đối với hệ thống đánh lửa bán dẫn, có thêm cụm điều khiển bán dẫn ECM hay ECU. Hệ thống đánh lửa hiện đại, thời điểm đánh lửa được điều khiển hoàn toàn do những bộ phận điện tử, không còn tồn tại cơ cấu đánh lửa sớm ly tâm hay chân không nữa.</para>
+    <para id="id7007804">Các dạng hư hỏng của hệ thống đánh lửa</para>
+    <section id="id-107430403467">
+      <title>Hư hỏng của biến áp</title>
+      <para id="id5952757">Nứt, cháy sém nắp cao áp, chập mạch giữa các vòng dây, hỏng điện trở phụ.</para>
+    </section>
+    <section id="id-954254852592">
+      <title>Hư hỏng bộ chia điện</title>
+      <para id="id6191189">Tiếp điểm bị cháy, mòn không đều, khi tụ điện bảo vệ yếu vít tĩnh bị lõm, ngược lại vít động lõm khi tụ điện quá mạnh. Khe hở má vít ở trạng thái mở hoàn toàn không đúng do chỉnh sai vị trí má tĩnh, nếu nhỏ quá có thể gây cháy rỗ má vít, nếu lớn quá làm giảm dòng sơ cấp. Nứt cháy nắp phân phối gây rò điện cao áp, mòn cam, mòn vấu cần tiếp điểm gây muộn thời điểm đánh lửa. Lò xo lá ép cần tiếp điểm yếu gây ra tia lửa chập chờn. Vít bắt chặt má tĩnh bị lỏng cũng gây hiện tượng tương tự. Lò xo bộ điều chỉnh góc đánh lửa sớm theo số vòng quay bị yếu, gãy làm thay đổi thời điểm tác dụng điều chỉnh. Màng chân không bị chùng, rách, lò xo yếu cũng làm sai lệch thời điểm điều chỉnh góc đánh lửa theo phụ tải.</para>
+    </section>
+    <section id="id-0611774147252">
+      <title>Hư hỏng của bugi</title>
+      <para id="id5659243">Vỏ sứ bị nứt, rò điện từ cực giữa ra thành, khe hở điện cực quá lớn, điện cực bị mòn, bị cháy, đóng cặn làm tăng điện trở. </para>
+    </section>
+    <section id="id-622902810392">
+      <title>Chẩn đoán hệ thống đánh lửa</title>
+      <section id="id-905497397072">
+        <title>Tia lửa yếu</title>
+        <para id="id6656274">Có nghĩa là điện thế cao áp thấp, có thể do biến áp đánh lửa bị hỏng, chập, do má vít bẩn, rỗ, dây cao áp bị rò điện, bị hở, do bu gi bị bẩn, điện cực mòn quá, khe hở bu gi quá lớn.</para>
+      </section>
+      <section id="id-720140851154">
+        <title>Đánh lửa không đúng thời điểm</title>
+        <para id="id5903759">Đánh lửa sớm quá: Biểu hiện khi khởi động có hiện tượng quay ngược, chế độ không tải không ổn định, khi tăng tốc có tiếng kích nổ, nhiệt độ động cơ cao, tiêu hao nhiên liệu tăng. Nguyên nhân do: đặt lửa sai, do khe hở má vít quá lớn. Cần tiến hành đặt lửa lại.</para>
+        <para id="id6656280">Đánh lửa quá muộn: Động cơ khó khởi động, có tiếng nổ trong đường thải, nhiệt độ động cơ tăng cao, tiêu hao nhiên liệu tăng, không tăng tốc được. Nguyên nhân do đặt lửa sai, khe hở má vít quá nhỏ.</para>
+        <para id="id6439629">Kiểm tra trên băng thử chuyên dùng chiều dài tia lửa và hoạt động của các hệ thống điều chỉnh góc đánh lửa sớm tự động.</para>
+      </section>
+      <section id="id-0323281737687">
+        <title>Cách đặt lửa trên động cơ</title>
+        <para id="id6416740">Lắp delco ăn khớp với trục dẫn động. Quay trục khuỷu và quan sát vị trí con quay để xác định máy thứ nhất. Lắp các dây cao áp theo đúng thứ tự làm việc của động cơ. Xoay delco ứng với vị trí tốc độ động cơ lớn nhất và không có tiếng gõ.</para>
+      </section>
+      <section id="id-405616987892">
+        <title>Thiết bị kiểm tra đánh lửa trên động cơ</title>
+        <para id="id6416821">Cấu tạo: gồm có đèn hoạt nghiệm 1, hộp kẹp cảm ứng 2, các kẹp bình ác qui âm, dương 3 với dây nối điện.</para>
+        <para id="id6426693"><figure id="id6426699"><media id="id9300108" alt=""><image src="../../media/graphics1-9006.png" mime-type="image/png" height="343" width="409"/></media></figure>Hình 9.22. Kiểm tra thời điểm đánh lửa bằng đèn hoạt nghiệm1-Đèn hoạt nghiệm, 2-Hộp cảm ứng, 3-Kẹp điện, </para>
+        <para id="id6656390">Công dụng: </para>
+        <para id="id6656395">- Kiểm tra việc đặt lửa, cân lửa ban đầu có đúng yêu cầu kỹ thuật hay không.</para>
+        <para id="id6656404">- Kiểm tra tình trạng hoạt động của các cơ cấu đánh lửa sớm tự động.</para>
+        <para id="id5730561">- Kiểm tra góc ngậm má vít </para>
+        <para id="id5730568">Kiểm tra điểm cân lửa trên động cơ nhiều xi lanh:</para>
+        <para id="id5730575">1. Kẹp điện dương vào cọc dương ác qui, kẹp điện âm vào cọc âm ắc qui 12V.</para>
+        <para id="id6465970">2. Kẹp hộp cảm ứng vào dây cách điện cao thế bugi số 1.</para>
+        <para id="id6465977">3. Khởi động động cơ cho đạt đến nhiệt độ vận hành.</para>
+        <para id="id6785449">4. Chỉnh cho động cơ nổ không tải đúng số vòng quay trục khuỷu qui định.</para>
+        <para id="id6785456">5. Hướng đèn vào puli trục khuỷu và dấu cân lửa, bấm công tắc. Quan sát dấu cân lửa trên puli và số ghi độ nơi các te. Ví dụ qui định đánh lửa sớm 50, dấu cân lửa trên puli phải ngay nấc 50 mỗi khi đèn chớp sáng.</para>
+        <para id="id5903807">6. Nếu đánh lửa muộn, ta nới lỏng ốc siết vỏ delco vào thân máy, xoay nhẹ vỏ delco ngược chiều roto để tăng thêm góc đánh lửa sớm. Nếu đánh lửa quá sớm, ta xoay vỏ delco theo chiều quay của roto.</para>
+        <para id="id5903811">Kiểm tra cơ cấu đánh lửa sớm tự động ly tâm:</para>
+        <para id="id6656377">1. Tách ống chân không nơi cơ cấu đánh lửa sớm tự động chân không tại delco, bịt ống lại.</para>
+        <para id="id5903772">2. Cho động cơ nổ không tải, bấm đèn hoạt nghiệm quan sát dấu cân lửa. Tăng ga cho vận tốc trục khuỷu đạt đến 2000v/ph.</para>
+        <para id="id5903782">3. Khi tăng tốc dấu cân lửa trên puli phải từ từ di chuyển lui, ngược với chiều quay của puli để tăng lớn dần góc đánh lửa sớm.</para>
+        <para id="id6416782">4. Nếu khi tăng ga, dấu cân lửa vẫn đứng yên ở vị trí như lúc động cơ nổ không tải, hoặc động tác chạy lùi không đều, không ổn định, phải kiểm tra cơ cấu đánh lửa sớm ly tâm.</para>
+        <para id="id6416795">Kiểm tra cơ cấu đánh lửa sớm tự động chân không:</para>
+        <para id="id6439589">1. Nối ống vào cơ cấu đánh lửa sớm tự động bằng chân không nơi delco, cho động cơ nổ không tải.</para>
+        <para id="id6439598">2. Tăng tốc độ trục khuỷu lên 2000v/ph, góc đánh lửa sớm phải tăng nhiều hơn lần kiểm tra trên.</para>
+        <para id="id5994973">3. Dấu cân lửa phải di động lùi nhanh hơn lần kiểm tra trên.</para>
+        <para id="id5994980">Nếu kết quả kiểm tra không đạt được như thế là do hở hơi hộp chân không nơi delco, mâm lửa bị kẹt, hệ thống dẫn động chân không bị hỏng.</para>
+      </section>
+    </section>
+    <section id="id-842365755745">
+      <title>CHẨN ĐOÁN HỆ THỐNG KHỞI ĐỘNG</title>
+      <section id="id-615102621677">
+        <title>. Nhiệm vụ, phân loại và cấu tạo chung của hệ thống khởi động</title>
+        <para id="id6538723">Nhiệm vụ: Dùng năng lượng bên ngoài để quay động cơ tới “tốc độ khởi động” tức là tới một tốc độ đảm bảo cho nhiên liệu đưa vào động cơ bốc cháy.</para>
+        <para id="id6538738">Phân loại:</para>
+        <para id="id6426659">- Khởi động bằng động cơ điện.</para>
+        <para id="id6426665">- Khởi động bằng không khí nén.</para>
+        <para id="id6426671">- Khởi động bằng động cơ xăng phụ.</para>
+        <para id="id6416700">- Khởi động bằng tay quay.</para>
+        <para id="id6416706">- Khởi động bằng động cơ thuỷ lực.</para>
+        <para id="id6416712">Cấu tạo chung hệ thống khởi động bằng điện:</para>
+        <para id="id5491841"><figure id="id5491848"><media id="id12740065" alt=""><image src="../../media/graphics2-27b7.jpg" mime-type="image/jpeg" height="340" width="476"/></media></figure>Hình 9. 23. Hệ thống khởi động bằng điện CT130 - A31- tiếp điểm của rơle điều khiển; 3- tiếp điểm đóng mạch điển trở bổ sung; 3- cuộn của rơle điều khiển; 4- phần ứng của rơle điều khiển; 5- thanh kéo điều chỉnh; 6- vỏ bảo vệ cần đẩy; 7- cần đẩy; 8- vít điều chỉnh khoảng chạy của bánh răng; 9- nắp máy khởi động điện; 10- vòng tựa; 11-bánh răng dẫn động; 12- khớp một chiều; 13- lò xo; 14- khớp nối dẫn động; 15- thân máy khởi động điện; 16- phần ứng máy khởi động điện; 17- vít kéo; 18- cổ góp.</para>
+      </section>
+      <section id="id-582808950382">
+        <title>Các dạng hư hỏng của hệ thống khởi động</title>
+        <para id="id6516783">- Cháy rỗ tiếp điểm.</para>
+        <para id="id6516788">- Chập đứt cuộn dây rơle đóng mạch.</para>
+        <para id="id6016750">- Mòn khớp một chiều hoặc mòn rãnh xoắn.</para>
+        <para id="id6016756">- Mòn răng.</para>
+        <para id="id6016762">- Gãy hoặc giảm độ cứng lò xo khớp khởi động.</para>
+      </section>
+    </section>
+    <section id="id-288316839983">
+      <title>CHẨN ĐOÁN TRÊN ĐỘNG CƠ PHUN XĂNG</title>
+      <para id="id6605880">Với hệ thống điều khiển phun phức tạp và tinh vi, khi xảy ra sự cố kỹ thuật, (máy không chạy chậm được, không thể kéo tải được, tốc độ không tăng được...) không dễ phát hiện được sự cố kỹ thuật xảy ra. Để giúp người sử dụng xe, thợ sửa chữa nhanh chóng phát hiện hư hỏng trong hệ thống phun xăng, ECU được trang bị hệ thống tự chẩn đoán. Nó sẽ ghi lại toàn bộ những sự cố ở đa số các bộ phận quan trọng trong hệ thống và làm sáng đèn kiểm tra (Check engine lamp), thông báo cho lái xe biết hệ thống có sự cố. Khi thấy đèn báo hiệu sự cố sáng lái xe sẽ ngừng xe để chẩn đoán. Cách chẩn đoán của mỗi hãng khác nhau, ở đây chỉ giới thiệu hệ thống chẩn đoán trên loại xe TOYOTA.</para>
+      <para id="id6497606">Trong mạng điện của xe có bố trí những giắc hở (được đậy nắp bảo vệ) được gọi là giắc kiểm tra (check conector). Đối với hầu hết các xe TOYOTA, cách thao tác gồm hai bước:</para>
+      <para id="id6465998">- Normal mode: để tìm chẩn đoán hư hỏng ở các bộ phận xe.</para>
+      <para id="id6466006">- Test mode: Dùng để xóa bộ nhớ cũ (code cũ) và nạp lại từ đầu (code mới) sau khi đã sửa chữa hư hỏng.</para>
+      <para id="id6605887">* Normal mode: phải đáp ứng các điều kiện sau:</para>
+      <para id="id6785477">Hiệu điện thế accu bằng hoặc lớn hơn 11V.</para>
+      <para id="id6785483">Cánh bướm ga đóng hoàn toàn (công tắc ở cảm biên vị trí bướm ga đóng).</para>
+      <para id="id6785491">Tay số ở vị trí số không.</para>
+      <para id="id6785496">Ngắt tất cả các công tắc tải điện khác.</para>
+      <para id="id3588520">Bật công tắc về vị trí ON (không nổ máy).</para>
+      <para id="id3588527"/>
+      <table id="id3588531" summary="">
+        <tgroup cols="2">
+          <colspec colnum="1" colname="c1"/>
+          <colspec colnum="2" colname="c2"/>
+          <tbody>
+            <row>
+              <entry>Dùng đoạn dây điện nối tắt 2 đầu của giắc kiểm tra: lỗ E1 và TE1. Khi đó check engine chớp theo những nhịp phụ thuộc vào tình trạng của hệ thống. Nếu tình trạng bình thường thì đèn chớp đều đặn 2 lần/giây (với loại xe dùng cảm biến đo gió loại cánh, khoảng cách giữa những lần đèn sáng và đèn tắt khác nhau).</entry>
+              <entry><media id="id7873962" alt=""><image src="../../media/graphics3-a1cd.jpg" mime-type="image/jpeg"/></media>Hình 9.24. Hệ thống hoạt động bình thường</entry>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+      <para id="id6804354"/>
+      <table id="id6804358" summary="">
+        <tgroup cols="2">
+          <colspec colnum="1" colname="c1"/>
+          <colspec colnum="2" colname="c2"/>
+          <tbody>
+            <row>
+              <entry>Nếu xe có sự cố ở bộ phận nào của hệ thống phun xăng thì báo sự cố sẽ chớp theo những chuỗi khác nhau, mỗi chuỗi chớp ứng với một mã số hư hỏng.Ví dụ: Đối với loại phun xăng có cảm biến đo gió cánh trượt:Đèn chớp hai lần cách nhau 0,5s, nghỉ 1,5s chớp 1 lần (mã 21).Nghỉ 2,5s chớp 3 lần cách nhau 0,5s nghỉ 1,5s chớp 2 lần (mã 32).Nghỉ 4,5s chớp 2 lần cách nhau 0,5s chớp 1 lần (mã 21).</entry>
+              <entry>Code 21 Code 32 Code 21<media id="id18880714" alt=""><image src="../../media/graphics4-66c9.jpg" mime-type="image/jpeg"/></media>Hình 9.25. Hệ thống có sự cố</entry>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+      <para id="id6172340">Nếu trong hệ thống chỉ có một sự cố thì các mã này sẽ lặp sau khoảng nghỉ 4,5s. Nếu có nhiều sự cố thì hệ thống chẩn đoán sẽ phát lần lượt các mã số sự cố từ thấp đến cao. Khoảng nghỉ giữa sự cố này với sự cố kia là 2,5s. Sau khi phát hết lần lượt các mã sự cố đèn sẽ tắt 4,5s và lại lần lượt phát lại các mã số cho đến khi nào ta rút dây nối tắt lỗ E1 và TE1 ở giắc kiểm tra ra. Để không bị nhầm lẫn tốt nhất nên ghi lại chuỗi mã sự cố vài lần.</para>
+      <figure id="id5911999">
+        <media id="id20737892" alt=""><image src="graphics5.wmf" mime-type="image/wmf" height="499" width="687"/></media>
+      </figure>
+      <para id="id7006428">Căn cứ vào mã sự cố và bảng mã ta có thể tìm pan khắc phục.</para>
+      <para id="id7006436"/>
+      <table id="id7006441" summary="">
+        <tgroup cols="2">
+          <colspec colnum="1" colname="c1"/>
+          <colspec colnum="2" colname="c2"/>
+          <tbody>
+            <row>
+              <entry>Ở một số xe TOYOTA, việc chẩn đoán có thể không báo bằng đèn check engine mà báo bằng máy quét mã lỗi (scanner). Khi thực hiện thao tác chẩn đoán thì trên màn hình máy quét sẽ báo luôn các mã sự cố bằng số như ở hình.</entry>
+              <entry><media id="id12390051" alt=""><image src="../../media/graphics6-4409.jpg" mime-type="image/jpeg"/></media>Hình 9.26. Hệ thống chẩn đoán bằng máy quét</entry>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+      <para id="id6498138">* Test mode: phải thỏa mãn các điều kiện sau:</para>
+      <para id="id6498147">- Hiệu điện thế accu bằng 11 V hoặc lớn hơn.</para>
+      <para id="id6498155">- Công tắc cảm biến vị trí bướm ga đóng.</para>
+      <para id="id6873984">- Tay số ở vị trí số không. </para>
+      <para id="id6873995">- Tất cả các công tắc phụ tải khác phải tắt.</para>
+      <para id="id6874003">Dùng đoạn dây điện nối tắt chân E1 và TE2 của TDCL (Toyota Diagnostic Communication Line) hoặc check connector. Sau đó bật công tắc sang ON, quan sát đèn check engine chớp, tắt cho biết đang hoạt động ở chế độ test mode.</para>
+      <para id="id6874008">Khởi động động cơ lúc này bộ nhớ RAM sẽ xóa hết các mã chẩn đoán và ghi vào bộ nhớ các mã chẩn đoán mới. Nếu hệ thống chẩn đoán nhận biết động cơ vẫn còn bị hư hỏng thì đèn check engine vẫn sáng. Muốn tìm lại mã sự cố chúng ta thực hiện lại các bước ở Normal mode và sau khi khắc phục sự cố, phải xóa bộ nhớ. Nếu không xóa, nó sẽ giữ nguyên các mã cũ và khi có sự cố mới ta sẽ nhận được thông tin sai. Có thể tiến hành xóa bộ nhớ bằng cách đơn giản sau: tháo cầu chì chính của hệ thống phun xăng ra ít nhất là 10s, sau đó lắp lại. Nếu không biết cầu chì đó ở đâu thì có thể tháo cọc accu ra khoảng 15s.</para>
+      <para id="id6874013">* Chức năng fail-safe:</para>
+      <para id="id5759606">Khi có sự cố kỹ thuật trong hệ thống phun xăng khi xe đang hoạt động (mất tín hiệu từ cảm biến) việc điều khiển ổn định xe trở nên khó khăn hơn? Vì thế, chức năng, fail-safe được thiết kế để ECU lấy các dữ liệu tiêu chuẩn trong bộ nhớ tiếp tục điều khiển động cơ hoạt động hoặc ngừng động cơ nếu các sự cố nguy hiểm được nhận biết.</para>
+      <table id="id6923126" summary="">
+        <tgroup cols="3">
+          <colspec colnum="1" colname="c1"/>
+          <colspec colnum="2" colname="c2"/>
+          <colspec colnum="3" colname="c3"/>
+          <tbody>
+            <row>
+              <entry>Tín hiệu mất</entry>
+              <entry>Hiện tượng</entry>
+              <entry>Chức năng fail-safe</entry>
+            </row>
+            <row>
+              <entry>Tín hiệu đánh lửa của (IGF)</entry>
+              <entry>Hư hỏng ở hệ thống đánh lửa và việc đánh lửa không thể xảy ra (tín hiệu IGF không gởi đến ECU) </entry>
+              <entry>Ngừng phun nhiên liệu</entry>
+            </row>
+            <row>
+              <entry>Tín hiệu từ cảm biến áp suất đường ống nạp (MAP sensor).</entry>
+              <entry>Nếu mất tín hiệu từ cảm biến này lượng xăng phun cơ bản không được tính và kết quả là động cơ bị chết máy hoặc khó khởi động.</entry>
+              <entry>Nếu nối tắt cực T và E1 ECU sẽ lấy giá trị tiêu chuẩn (30 kPa) để thay thế cho tín hiệu này.</entry>
+            </row>
+            <row>
+              <entry>Tín hiệu đo gió</entry>
+              <entry>Nếu mất tín hiệu này ECU không thể nhận biết lượng gió nạp để tính lượng xăng phun cơ bản, kết quả là động cơ bị chết máy hay khó khởi động. </entry>
+              <entry>Giá trị chuẩn được lấy từ tín hiệu không tải cho việc tính lượng xăng phun và thời điểm đánh lửa. </entry>
+            </row>
+            <row>
+              <entry>Tín hiệu vị trí cánh bướm ga</entry>
+              <entry>Nếu mất tín hiệu này ECU không thể nhận biết vị trí bướm ga mở hay đóng hoàn toàn. Điều này sẽ làm động cơ chết máy hay chạy không êm. </entry>
+              <entry>ECU sẽ lấy giá trị tiêu chuẩn trong bộ nhớ để thay thế cho tín hiệu này. </entry>
+            </row>
+            <row>
+              <entry>Tín hiệu cảm biến nhiệt độ nước làm mát và cảm biến nhiệt độ khí nạp. </entry>
+              <entry>Mất tín liệu này ECU sẽ hiểu rằng nhiệt độ nước &lt; - 500C hay &gt;1390C. Điều này sẽ làm tỉ lệ hoà khí trở nên quá giàu hay quá nghèo. Kết quả là động cơ bị chết máy hoặc chạy không êm. </entry>
+              <entry>ECU sẽ lấy giá trị chuẩn trong bộ nhớ tùy thuộc vào loại động cơ với nhiệt độ nước: 890C và nhiệt độ khí nạp là 200C</entry>
+            </row>
+            <row>
+              <entry>Tín hiệu từ cảm biến o xy</entry>
+              <entry>Nếu vỏ bọc ngoài của cảm biến o xy bị đóng bẩn. ECU không thể nhận biết hàm lượng o xy trong khí thải vì thế nó không thể duy trì tỷ lệ hòa khí ở mức tối ưu. </entry>
+              <entry>Không thể thực hiện việc hiệu chỉnh hồi tiếp tỷ lệ hòa khí.</entry>
+            </row>
+            <row>
+              <entry>Tín liệu từ cảm biến kích nổ. </entry>
+              <entry>Nếu mất tín hiệu này, ECU không thể nhận biết khi động cơ bị kích nổ vì thế nó sẽ không điều chỉnh giảm góc đánh lửa sớm. </entry>
+              <entry>Điều chỉnh thời điểm đánh lửa trễ tối đa. </entry>
+            </row>
+            <row>
+              <entry>Cảm biến áp suất khí trời.</entry>
+              <entry>Nếu mất tín hiệu từ cảm biến này, ECU sẽ hiểu rằng áp suất khí trời luôn ở giá trị tối đa hay tối thiểu. Điều này làm hòa khí quá nghèo hay quá giàu. </entry>
+              <entry>Lấy giá trị áp suất khí trời ở mức tiêu chuẩn là 101 kPa (60 mmHg) thay thế cho tín hiệu này. </entry>
+            </row>
+            <row>
+              <entry>Tín hiệu điều khiển hộp số tự động. </entry>
+              <entry>Nếu có hư hỏng trong ECU điều khiển hộp số, hộp số hoạt động không tốt. </entry>
+              <entry>Không hiệu chỉnh góc đánh lửa theo sức kéo. </entry>
+            </row>
+            <row>
+              <entry>Tín hiệu từ áp suất tăng áp động cơ. </entry>
+              <entry>Nếu có sự tăng bất thường trong áp suất tăng áp động cơ hoặc lượng gió nạp. Điều này có thể làm hư hỏng động cơ. </entry>
+              <entry>Ngừng cung cấp nhiên liệu cho động cơ.</entry>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+      <para id="id7017826">Chức năng Back-up:</para>
+      <para id="id7017831">Chức năng Back-up được thiết kế để khi có sự cố kỹ thuật ở ECU, Back-up IC trong ECU sẽ lấy toàn bộ dữ liệu lưu trữ để duy trì hoạt động động cơ trong thời gian ngắn.</para>
+      <para id="id7017842">ECU sẽ hoạt động ở chức năng Back-up trong các điều kiện sau:</para>
+      <para id="id7017850">ECU không gửi tín hiệu điều khiển đánh lửa (IGT).</para>
+      <para id="id7017859">Mất tín hiệu từ cảm biến áp suất đường ống nạp (PIM).</para>
+      <para id="id7017867">Lúc này Back-up IC sẽ lấy tín hiệu dự trữ để điều khiển thời điểm đánh lửa và thời điểm phun nhiên liệu duy trì hoạt động động cơ. Dữ liệu lưu trữ này phù hợp với tín hiệu khởi động và tín hiệu từ công tắc không tải đồng thời đèn Check-engine sẽ báo sáng thông báo cho lái xe. </para>
+      <para id="id7017884"/>
+    </section>
+  </content>
+</document>

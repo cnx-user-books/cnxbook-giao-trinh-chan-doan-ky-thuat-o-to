@@ -1,0 +1,610 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:md="http://cnx.rice.edu/mdml">
+  <title>Kiểm tra phân loại chi tiết</title>
+  <metadata>
+  <md:content-id>m30619</md:content-id><md:title>Kiểm tra phân loại chi tiết</md:title>
+  <md:abstract>Kiểm tra phân loại chi tiết</md:abstract>
+  <md:uuid>f67f8e5a-fc8f-4f31-a4fb-aec903f053a6</md:uuid>
+</metadata>
+
+<content>
+    <para id="id6059531">Nội dung:</para>
+    <section id="id-780672500295">
+      <title>MỤC ĐÍCH, Ý NGHĨA CÔNG TÁC KIỂM TRA, PHÂN LOẠI CHI TIẾT</title>
+      <para id="id6059545">- Qua kiểm tra phân loại để cho phép sử dụng lại các chi tiết còn dùng lại được một cách có hiệu quả tránh lãng phí, loại bỏ những chi tiết bị hư hỏng và xác định những chi tiết có thể sửa chữa, phục hồi để dùng lại.</para>
+      <para id="id6059560">- Việc kiểm tra phân loại tốt sẽ cho phép nâng cao chất lượng và hạ giá thành sửa chữa.</para>
+      <para id="id6059569">- Nếu kiểm tra phân loại không tốt sẽ có hại cho việc sửa chữa và sử dụng sau này. Ví dụ: dùng lại các chi tiết hư hỏng.</para>
+      <para id="id6059580">Công tác kiểm tra phân loại chi tiết được tiến hành sau khi chi tiết đã được tẩy rửa sạch sẽ, bao gồm 3 loại công việc:</para>
+      <para id="id6468829">- Kiểm tra chi tiết để phát hiện và xác định trạng thái, chất lượng của chúng.</para>
+      <para id="id6468838">- Đối chiếu với tài liệu kỹ thuật để phân loại chúng thành:</para>
+      <para id="id6468847">+ Dùng được;</para>
+      <para id="id6468854">+ Phải sửa chữa mới dùng được;</para>
+      <para id="id6468862">+ Loại bỏ.</para>
+      <para id="id6468869">- Tập hợp các tài liệu sau khi kiểm tra phân loại để chỉ đạo công tác sửa chữa. </para>
+      <para id="id6468880">Nguyên tắc kiểm tra phân loại</para>
+      <para id="id6468885">Dựa trên cơ sở chức năng của chi tiết trong cụm máy mà tổ chức kiểm tra kỹ ở mức độ nào.</para>
+      <para id="id6468895">Kết quả phân loại. </para>
+      <figure id="id6468908">
+        <media id="id5802869" alt=""><image src="../../media/graphics1-eb24.png" mime-type="image/png" height="189" width="536"/></media>
+      </figure>
+    </section>
+    <section id="id-22130035921">
+      
+      <para id="id6468933">
+        <!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id-042126701529">
+      <title>CÁC HƯ HỎNG VÀ PHƯƠNG PHÁP KIỂM TRA</title>
+      <section id="id-412389617354">
+        <title>Hư hỏng</title>
+        <para id="id6843863">- Chi tiết biến dạng: cong, xoắn trục dẫn đến sự không song song, không vuông góc giữa các bề mặt, các cổ trục...</para>
+        <para id="id6843874">- Thay đổi kích thước do hao mòn: mòn côn, ô van, giảm chiều cao, mất tính chính xác của biên dạng làm việc. Những hư hỏng này đến một giới hạn nào đó sẽ làm cho đặc tính làm việc của chi tiết, của cặp ma sát không còn đảm bảo dẫn đến hư hỏng cụm máy, xe.</para>
+        <para id="id6843890">- Thay đổi về tính chất: độ cứng, độ đàn hồi, trạng thái ứng suất.</para>
+        <para id="id6843898">- Hư hỏng đột xuất ở mức vĩ mô: gãy vỡ, sứt mẻ, nứt, thủng... </para>
+      </section>
+      <section id="id-143025467675">
+        <title>Các phương pháp kiểm tra chủ yếu</title>
+        <section id="id-600016318957">
+          <title>a. Quan sát</title>
+          <para id="id6843923">Chủ yếu dựa vào kinh nghiệm để xác định mức độ hư hỏng của chi tiết.</para>
+        </section>
+        <section id="id-488860142119">
+          <title>b. Đo lượng mòn</title>
+          <para id="id6843941">- Dùng các dụng cụ đo để xác định kích thước: thước kẹp, pam me, đồng hồ đo lỗ, đo chiều sâu, căn lá, mũi V, bàn rà.</para>
+          <para id="id6843951">- Sử dụng các dụng cụ chuyên dùng: ca líp, các loại dưỡng, con lăn, trục chuẩn, các loại vòng chuẩn...</para>
+        </section>
+        <section id="id-20032070329">
+          <title>c. Kiểm tra hư hỏng ngầm</title>
+          <para id="id6843971">Sử dụng các dụng cụ đặc biệt để phát hiện hư hỏng ngầm hoặc kiểm tra tính chất chi tiết: máy đo độ cứng, độ bóng, đàn hồi, các máy cân bằng tĩnh, cân bằng động, các máy dò khuyết tật: từ, siêu âm, quang tuyến... các thiết bị đo sử dụng quang học, khí động, các loại dụng cụ đồ gá để kiểm tra các vị trí tương quan giữa các bề mặt, các đường tâm...</para>
+        </section>
+      </section>
+    </section>
+    <section id="id-453762841473">
+      <title>ĐỘ MÒN CHO PHÉP KHÔNG PHẢI SỬA CHỮA</title>
+      <table id="id6159008" summary="">
+        <tgroup cols="2">
+          <colspec colnum="1" colname="c1"/>
+          <colspec colnum="2" colname="c2"/>
+          <tbody>
+            <row>
+              <entry>HIttcrtlv1tgh1HIIttcrtlv2tgh2HIIIttcrtlv3tgh3Hình 6.2 Đồ thị hao mòn chi tiết HcrHcrHcrHgh1Hgh2Hgh3</entry>
+              <entry>Trong một cụm máy có nhiều loại chi tiết, điều kiện ma sát của từng loại cũng khác nhau. Các chi tiết khác nhau về vật liệu, gia công chế tạo... Vì vậy, trong quá trình làm việc các chi tiết của cụm máy có độ mòn không đồng đều. Khi cụm máy đưa vào sửa chữa có những chi tiết có thể dùng lại được, có chi tiết phải sửa chữa. Tuy nhiên, người ta chỉ quan tâm đến những chi tiết chủ yếu để quyết định đưa cụm máy vào sửa chữa.Nội dung kiểm tra phân loại là phát hiện và xác định những chi tiết còn dùng lại được, tức là chỉ mới mòn ở mức độ nào đó, chưa vượt quá giới hạn cho phép. Đó là độ mòn cho phép không phải sửa chữa của chi tiết. Ví dụ: có 3 chi tiết cùng lắp ghép với nhau trong một cụm máy. Giả sử tcr như nhau, do khả năng làm việc khác nhau nên tlv1&lt; tlv2 &lt; tlv3. Trong đó, chi tiết 2 là chi tiết chính, vì vậy lấy tlv2 là thời gian sử dụng của cụm máy giữa hai kỳ sửa chữa.</entry>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+      <para id="id6801459">Khi đó: </para>
+      <para id="id6801464">- Đối với chi tiết 1 hoặc là phải thay khi chưa tới kỳ sửa chữa (trong kỳ bảo dưỡng) hoặc là phải nâng cao chất lượng chế tạo chi tiết đó để cho tlv1= tlv2. Như vậy, nó sẽ được thay thế hoặc sửa chữa cùng với chi tiết 2.</para>
+      <para id="id6801489">- Đối với chi tiết 3 phải xác định xem có tiếp tục sử dụng thêm một kỳ sửa chữa lớn nữa hay không.</para>
+      <table id="id6801500" summary="">
+        <tgroup cols="2">
+          <colspec colnum="1" colname="c1"/>
+          <colspec colnum="2" colname="c2"/>
+          <tbody>
+            <row>
+              <entry>Httcrtlv2tgh3tlv3Hgh3HcpHcrABHình 6.3 Cách xác định thời gian tiếp tục làm việc của chi tiết</entry>
+              <entry>Cách xác định có còn sử dụng thêm một kỳ sửa chữa lớn nữa hay không:Từ tgh3 lấy ngược lại 1 khoảng bằng tlv2 của chi tiết chính điểm A. Từ A dóng vuông góc cắt đường cong hao mòn tại B, ứng với độ mòn Hcp. Đo chi tiết III trong thực tế được Hđo:- Nếu Hđo ≤ Hcp thì kết luận là chi tiết III được dùng lại thêm một kỳ sửa chữa lớn nữa mà không phải sửa chữa hoặc thay thế.</entry>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+      <para id="id6664297">- Nếu Hđo &gt; Hcp thì hoặc là phải thay thế chi tiết III trong các kỳ bảo dưỡng kế tiếp (trước khi sửa chữa lớn) hoặc là phải nâng cao chất lượng chế tạo chi tiết 3 để kéo dài thời gian sử dụng sao cho tlv3 ≥ 2tlv2.</para>
+      <para id="id6664334">Kích thước Hcp là kích thước giới hạn cho phép.</para>
+      <para id="id6664348">H = │Hcp - Hcr│ gọi là độ mòn cho phép.</para>
+      <para id="id5764421">Đối với động cơ thường chia chi tiết ra làm 2 loại:</para>
+      <para id="id5764427">- Loại không cho phép có lượng mòn khi lắp ghép như: piston-sécmăng, piston-xi lanh, piston-chốt piston, trục khuỷu-bạc, vỏ bơm-bánh răng bơm dầu... </para>
+      <para id="id5764439">- Loại cho phép có lượng mòn: </para>
+      <para id="id5764446">+ Độ mòn từ 0,01 ÷ 0,03: lỗ bu lông-bu lông bánh đà, trục-bạc bơm nước, trục-bạc bơm dầu. </para>
+      <para id="id5764456">+ Độ mòn từ 0,03 ÷0,15: con đội-dẫn hướng, xu páp-dẫn hướng. </para>
+      <para id="id5764466">+ Độ mòn từ 0,15÷ 0,3: chi tiết hệ thống truyền lực, các bánh răng, then hoa-rãnh then. </para>
+    </section>
+    <section id="id-498544624116">
+      <title>CÁC PHƯƠNG PHÁP ĐO KÍCH THƯỚC VÀ SAI LỆCH HÌNH DẠNG HÌNH HỌC</title>
+      <section id="id-225365237151">
+        <title>Kiểm tra chi tiết dạng lỗ </title>
+        <para id="id5764494">Các chi tiết dạng lỗ như xi lanh, lỗ ổ trục khuỷu, ổ trục cam v.v... chịu mài mòn hoặc biến dạng trong quá trình làm việc. Vì vậy, phương pháp kiểm tra các chi tiết dạng lỗ chủ yếu là đo lượng mòn và sai lệch hình dạng.</para>
+        <para id="id5764510">Nguyên tắc: dựa vào đặc tính mòn và đặc tính biến dạng của chi tiết để chọn vị trí kiểm tra. Ví dụ: đối với xi lanh các vị trí cần kiểm tra là:</para>
+        <para id="id5764521">Vùng I mòn nhiều theo qui luật. </para>
+        <para id="id5764528">Vùng II mòn nhiều nếu có bụi. </para>
+        <para id="id6720604">Vùng III vị trí dưới của xi lanh, ít mòn.</para>
+        <para id="id6720611">Tại các mặt cắt I-I, II-II, III-III kiểm tra theo các phương 1-1 và 2-2.</para>
+        <para id="id6720618"><figure id="id6720635"><media id="id5527504" alt=""><image src=".png" mime-type="image/png" height="283" width="164"/></media></figure><figure id="id6720658"><media id="id4910521" alt=""><image src=".jpg" mime-type="image/jpeg" height="306" width="160"/></media></figure><figure id="id6720686"><media id="id5641875" alt=""><image src=".jpg" mime-type="image/jpeg" height="355" width="230"/></media></figure>Hình 6.4. Vị trí và phương pháp kiểm tra xi lanh</para>
+        <para id="id6874416">Dụng cụ kiểm tra: thường dùng dụng cụ đo lỗ với đồng hồ so có độ chính xác 0,01mm hoặc panme đo lỗ.</para>
+        <para id="id6874427">Cách đo: giữ cho cán đồng hồ ở vị trí thẳng đứng, bằng cách lắc qua, lắc lại sao cho kim đồng hồ dao động ít nhất.</para>
+        <para id="id6874436">So sánh:</para>
+        <para id="id6874441">Với D0_đường kính trước sửa chữaDI1, DII1, DIII1</para>
+        <para id="id5944860">DI2, DII2, DIII2</para>
+        <para id="id5944890">Chọn Dmax để quyết định cốt sửa chữa.</para>
+        <para id="id5944905">Đối với các chi tiết dạng lỗ khác, dựa vào đặc tính hao mòn, kích thước và yêu cầu độ chính xác của chúng để chọn dụng cụ đo và phương pháp kiểm tra thích hợp:</para>
+        <para id="id5944915"><figure id="id5944932"><media id="id5794078" alt=""><image src=".jpg" mime-type="image/jpeg" height="158" width="304"/></media></figure>Hình 6. 5 Đo kiểm tra chi tiết dạng lỗ<figure id="id5861022"><media id="id6427328" alt=""><image src=".jpg" mime-type="image/jpeg" height="183" width="275"/></media></figure></para>
+        <para id="id5861046">Xác định: lượng mòn, độ côn, độ ô van, lượng mòn không đều về một phía (lệch so với đưòng tâm). </para>
+      </section>
+      <section id="id-561060798837">
+        <title>Kiểm tra các chi tiết dạng trục</title>
+        <para id="id5861064">Các chi tiết dạng trục như: trục khuỷu, trục cam, xu páp, đũa đẩy...Đặc điểm hư hỏng của chúng là:</para>
+        <para id="id5861074">- Mòn các bề mặt làm việc (cổ trục), làm tăng khe hở lắp ghép giữa trục và bạc, giảm áp suất dầu bôi trơn và phát sinh tiếng va đập khi động cơ làm việc.</para>
+        <para id="id5861089">- Biến dạng: cong, xoắn gây sai lệch góc công tác (đối với trục khuỷu) hoặc vi phạm chế độ lắp ghép giữa trục và bạc do các cổ mất đồng tâm gây nên.</para>
+        <para id="id5861101">- Kiểm tra vết nứt trên bề mặt ở những vùng chuyển tiếp giữa cổ trục và má. Những nơi có gờ cạch sắc hoặc những rãnh xước tế vi trên bề mặt trục do mỏi.</para>
+        <section id="id-701528586203">
+          <title>a. Kiểm tra độ mòn</title>
+          <para id="id5861108">Kiểm tra ở các cổ biên, cổ chính, cổ lắp bánh răng, cổ lắp ổ bi trục sơ cấp hộp số, chiều dài cổ lắp bạc hạn chế dọc trục...</para>
+          <para id="id6752704"><figure id="id6752721"><media id="id5480670" alt=""><image src=".jpg" mime-type="image/jpeg" height="199" width="256"/></media></figure><figure id="id6752745"><media id="id5891505" alt=""><image src=".jpg" mime-type="image/jpeg" height="206" width="304"/></media></figure>Hình 6.6. Dụng cụ đo đường kính trục</para>
+          <para id="id6752798">Dựa vào đặc tính hao mòn, kích thước và yêu cầu độ chính xác của chúng để chọn dụng cụ đo và phương pháp kiểm tra thích hợp:</para>
+          <para id="id6752810">Ví dụ kiểm tra mòn trục khuỷu: hình 6.7</para>
+          <table id="id5905524" summary="">
+            <tgroup cols="2">
+              <colspec colnum="1" colname="c1"/>
+              <colspec colnum="2" colname="c2"/>
+              <tbody>
+                <row>
+                  <entry><media id="id1166350644813" alt=""><image src=".png" mime-type="image/png"/></media>Hình 6.7. Kiểm tra mòn trục khuỷu</entry>
+                  <entry>- Vị trí kiểm tra: chọn tiết diện I-I, II-II cách má khuỷu 5 ÷10mm để đo lượng mòn. Ở mỗi tiết diện kiểm tra theo các phương vuông góc nhau (1-1, 2-2)- Dụng cụ đo: pamme có độ chính xác 1/100 ÷1/1000mm, thước cặp có độ chính xác 1/100mm</entry>
+                </row>
+              </tbody>
+            </tgroup>
+          </table>
+          <para id="id5905640">- Xác định: lượng mòn, độ côn, độ ô van, lượng mòn không đều về một phía (lệch so với đưòng tâm). Trên mòn nhiều hơn, sâu hơn so với dưới (động cơ diesel) và ngược lại (động cơ xăng)</para>
+        </section>
+        <section id="id-644368032179">
+          <title>b. Kiểm tra cong, xoắn</title>
+          <para id="id5905647">b1. Trục khuỷu:</para>
+          <para id="id5905652">- Xác định độ cong:</para>
+          <para id="id6450444">Chống tâm hai đầu trục khuỷu hoặc đặt 2 cổ 2 đầu lên 2 khôi V. Xoay trục khuỷu 1 vòng, mũi tỳ của đồng hồ so tỳ vào chỗ không mòn (ít mòn) sát lỗ dầu (vì chỗ đó ứng với rãnh của bạc nên không có ma sát) hoặc ở vai trục. Dao động của đồng hồ so sẽ cho ta xác định được độ cong của trục khuỷu.</para>
+          <para id="id6450460"><figure id="id6450476"><media id="id5772442" alt=""><image src=".png" mime-type="image/png" height="130" width="558"/></media></figure>Hình 6.8. Sơ đồ kiểm tra cong trục khuỷu bằng đồng hồ soa. Sử dụng chống tâm b. Sử dụng 2 khối V</para>
+          <table id="id6919545" summary="">
+            <tgroup cols="2">
+              <colspec colnum="1" colname="c1"/>
+              <colspec colnum="2" colname="c2"/>
+              <tbody>
+                <row>
+                  <entry><media id="id1166351915592" alt=""><image src=".png" mime-type="image/png"/></media>Hình 6.9 Kiểm tra cong trục khuỷu theo độ thở</entry>
+                  <entry>Độ cong trục khuỷu còn được xác định theo độ thở trục: <media id="id1166350877292" alt=""><image src="graphics2.wmf" mime-type="image/wmf"/></media>. Hình 6.9H1_kích thước giữa hai má khuỷu đo phía dướiH2_kích thước giữa hai má khuỷu đo phía trên</entry>
+                </row>
+              </tbody>
+            </tgroup>
+          </table>
+          <para id="id6668711"/>
+          <table id="id6668715" summary="">
+            <tgroup cols="2">
+              <colspec colnum="1" colname="c1"/>
+              <colspec colnum="2" colname="c2"/>
+              <tbody>
+                <row>
+                  <entry>Hình 6.10 Kiểm tra xoắn trục khuỷu<media id="id1166351878248" alt=""><image src=".png" mime-type="image/png"/></media></entry>
+                  <entry>- Xác định độ xoắn trục khuỷu: trục khuỷu được gối lên 2 khối V, hình 6.10. Dùng đồng hồ so kiểm tra các cổ 1 và 4 (đối với động cơ 4 xi lanh), hoặc 1 và 6 (đối với động cơ 6 xi lanh) ở đường sinh cao nhất. Hiệu số của 2 lần đo H chia cho bán kính khủyu trục là độ xoắn của trục.  tg <media id="id1166351533247" alt=""><image src="graphics3.wmf" mime-type="image/wmf"/></media> (rad)</entry>
+                </row>
+              </tbody>
+            </tgroup>
+          </table>
+          <para id="id5932839">b2. Kiểm tra cong supap</para>
+          <para id="id5932844">Sơ đồ kiểm tra như hình 6.11. Khi xu páp bị cong sẽ làm cho đường tâm thân và nấm supap không vuông góc, làm cho xu páp đóng không kín và gây bó kẹt xu páp. Độ không vuông góc (hoặc không đồng tâm) không được vượt quá 0,025mm. Xu páp phải loại bỏ nếu độ mòn thân ≥ 0,1mm, bề dày tán nấm ≤ 0,5mm, hoặc phải nắn lại nếu độ cong thân ≥ 0,03mm.</para>
+          <para id="id5932860"><figure id="id5932880"><media id="id1166350883644" alt=""><image src=".jpg" mime-type="image/jpeg" height="261" width="542"/></media></figure>Hình 6.11. Sơ đồ và dụng cụ kiểm tra cong xu páp1_giá dụng cụ; 2_khối V; 3_giá đồng hồ so; 4_bi tì; 5_tấm cữ; 6,7_các đồng hồ so<figure id="id6134836"><media id="id5586268" alt=""><image src=".png" mime-type="image/png" height="147" width="217"/></media></figure></para>
+        </section>
+      </section>
+      <section id="id-599611109954">
+        <title>Kiểm tra thanh truyền</title>
+        <para id="id6134869">Cong theo x,y, xoắn theo z.</para>
+        <para id="id6134876">Lấy đầu to làm chuẩn định vị, kiểm tra đầu nhỏ</para>
+        <table id="id6134884" summary="">
+          <tgroup cols="2">
+            <colspec colnum="1" colname="c1"/>
+            <colspec colnum="2" colname="c2"/>
+            <tbody>
+              <row>
+                <entry>- Dùng đồng hồ so:+ Cong theo y: 1, 2 lệch pha. 1 tăng, 2 giảm hoặc 1 giảm, 2 tăng cùng lượng.+ Cong theo x: 3,4 cùng pha. 3, 4 cùng tăng hoặc cùng giảm và 1, 2 tăng so với chuẩn.+ Xoắn theo z: 3 tăng, 4 giảm hoặc 3 giảm, 4 tăng.</entry>
+                <entry>1 3 2 4Hình 6.12 Kiểm tra cong, xoắn thanh truyền bằng đồng hồ so</entry>
+              </row>
+            </tbody>
+          </tgroup>
+        </table>
+        <para id="id6735890">- Dùng V ngắn kiểm tra. Khi cong theo y có khe hở a, khi xoắn theo z có khe hở b. Hình 6.13. </para>
+        <para id="id6875458">Thường cùng cong và xoắn làm cho kết quả đo bị biến đổi nên phải phân tích trị số đo.</para>
+        <para id="id6875467">Độ cong cho phép của thanh truyền đối với máy kéo 0,03 ÷ 0,05; đối với ô tô 0,02÷0,03 mm/100mm chiều dài thanh truyền (tính từ đường tâm lỗ đầu to đến đường tâm lỗ đầu nhỏ) </para>
+        <para id="id6875477">Độ xoắn cho phép đối với thanh truyền máy kéo là 0,05÷0,08mm; ô tô là 0,04÷0,06mm trên 100mm chiều dài. </para>
+        <table id="id6875484" summary="">
+          <tgroup cols="2">
+            <colspec colnum="1" colname="c1"/>
+            <colspec colnum="2" colname="c2"/>
+            <tbody>
+              <row>
+                <entry>Kiểm tra các chi tiết thân hộpThân hộp là những chi tiết có hình dạng, kết cấu phức tạp. Hư hỏng thường do biến dạng vì tải, nhiệt. Dẫn đến cong vênh, tương quan kích thước bị sai lệch: độ phẳng, độ đồng tâm, độ song song, độ vuông góc.a. Kiểm tra độ phẳngCó nhiều phương pháp kiểm tra độ phẳng như:- Phương pháp sai lệch đường: xác định khe hở giữa dụng cụ kiểm tra với bề mặt chi tiết bằng căn lá, cữ hoặc đồng hồ so. Hình 6.14</entry>
+                <entry>Hình 6.13. Kiểm tra cong, xoắn thanh truyền dùng V ngắn<media id="id4989244" alt=""><image src=".png" mime-type="image/png"/></media>bab</entry>
+              </row>
+            </tbody>
+          </tgroup>
+        </table>
+        <para id="id6242257"><figure id="id6242273"><media id="id6918507" alt=""><image src=".png" mime-type="image/png" height="105" width="355"/></media></figure>Chiều dài thước ≥ 2/3 chiều dài chi tiết<figure id="id3990964"><media id="id4923946" alt=""><image src=".jpg" mime-type="image/jpeg" height="209" width="313"/></media></figure>Hình 6.14 Kiểm tra độ phẳng</para>
+        <para id="id3991015">- Phương pháp khe hở sáng: xác định sự lọt ánh sáng qua khe hở giữa dụng cụ kiểm tra mặt và chi tiết khi áp lên nhau.</para>
+        <para id="id3991026">- Kiểm tra bằng bột màu: xác định độ phẳng chi tiết bằng diện tích bị nhuốm màu khi xoa chi tiết lên bàn rà mặt phẳng có bôi bột màu.</para>
+        <para id="id3991037">- Phương pháp phân bước: đo chuyển vị của các điểm chuẩn tinh đặc trên bề mặt kiểm tra so với một điểm ban đầu tùy chọn, bằng các dụng cụ: cọc chuẩn, ni-vô, kính ngắm.</para>
+        <para id="id3991050">- Phương pháp giao thoa ánh sáng: xác định độ không phẳng của các bề mặt nhẵn bóng bằng cách áp thước thuỷ tinh kiểm tra lên bề mặt, lúc này sẽ xuất hiện vân giao thoa, vân thẳng nếu bề mặt thẳng, vân cong nếu bề mặt không phẳng. Trị số độ không phẳng xác định theo tỉ số giữa độ cong và khoảng cách giữa các vân.</para>
+        <para id="id3991066">- Phương pháp khí động: đo độ không phẳng bằng cách xác định lượng tiêu hao khí nén lọt qua khe giữa đầu đo và mặt phẳng khi dịch chuyển đầu đo trên bề mặt kiểm tra.</para>
+        <para id="id6516311">Lựa chọn phương pháp kiểm tra phụ thuộc vào kích thước chi tiết và yêu cầu về độ chính xác đạt được. Ví dụ: với những chi tiết nhỏ như thân bộ chế hoà khí, có thể dùng bàn rà mặt phẳng, những chi tiết như thân và nắp động cơ ô tô có thể dùng thước đo độ phẳng với đồng hồ so. Những chi tiết có độ bóng bề mặt cao dùng phương pháp giao thoa ánh sáng. Những chi tiết lớn như như khung xe có thể sử dụng kính ngấm với cọc chuẩn. Trường hợp thiếu dụng cụ đo, nếu không đòi hỏi độ chính xác cao, có thể dùng biện pháp căng dây.</para>
+        <para id="id6516340">Độ chính xác của các phương pháp kiểm tra được giới thiệu trong bảng 6.1</para>
+        <para id="id6516347">Bảng 6.1. Phương pháp kiểm tra độ phẳng</para>
+        <table id="id6516353" summary="">
+          <tgroup cols="3">
+            <colspec colnum="1" colname="c1"/>
+            <colspec colnum="2" colname="c2"/>
+            <colspec colnum="3" colname="c3"/>
+            <tbody>
+              <row>
+                <entry>Chiều dài chi tiết (mm)</entry>
+                <entry>Độ chính xác (µm)</entry>
+                <entry>Phương pháp và dụng cụ kiểm tra</entry>
+              </row>
+              <row>
+                <entry>Đến 250</entry>
+                <entrytbl namest="c2" nameend="c3" cols="2">
+                  <colspec colnum="1" colname="c1"/>
+                  <colspec colnum="2" colname="c2"/>
+                  <tbody>
+                    <row>
+                      <entry>1,2</entry>
+                      <entry>Phương pháp giao thoa</entry>
+                    </row>
+                    <row>
+                      <entry>2,5 ÷ 12</entry>
+                      <entry>Phương pháp khe hở sáng</entry>
+                    </row>
+                    <row>
+                      <entry>12 ÷ 120</entry>
+                      <entry>Phương pháp sai lệch đường </entry>
+                    </row>
+                  </tbody>
+                </entrytbl>
+              </row>
+              <row>
+                <entry>250 ÷ 400</entry>
+                <entrytbl namest="c2" nameend="c3" cols="2">
+                  <colspec colnum="1" colname="c1"/>
+                  <colspec colnum="2" colname="c2"/>
+                  <tbody>
+                    <row>
+                      <entry>1,6</entry>
+                      <entry>Phương pháp giao thoa</entry>
+                    </row>
+                    <row>
+                      <entry>3 ÷ 8</entry>
+                      <entry>Phương pháp khe hở sáng</entry>
+                    </row>
+                    <row>
+                      <entry>8 ÷ 60</entry>
+                      <entry>Phương pháp phân bước</entry>
+                    </row>
+                    <row>
+                      <entry>25 ÷ 200</entry>
+                      <entry>Phương pháp sai lệch đường </entry>
+                    </row>
+                  </tbody>
+                </entrytbl>
+              </row>
+              <row>
+                <entry>400 ÷ 1000</entry>
+                <entrytbl namest="c2" nameend="c3" cols="2">
+                  <colspec colnum="1" colname="c1"/>
+                  <colspec colnum="2" colname="c2"/>
+                  <tbody>
+                    <row>
+                      <entry>4 ÷10</entry>
+                      <entry>Phương pháp khe hở sáng</entry>
+                    </row>
+                    <row>
+                      <entry>4 ÷ 16 </entry>
+                      <entry>Phương pháp khe hở sáng</entry>
+                    </row>
+                    <row>
+                      <entry>16 ÷ 320</entry>
+                      <entry>Phương pháp sai lệch đường </entry>
+                    </row>
+                  </tbody>
+                </entrytbl>
+              </row>
+              <row>
+                <entry>1000 ÷ 1600</entry>
+                <entrytbl namest="c2" nameend="c3" cols="2">
+                  <colspec colnum="1" colname="c1"/>
+                  <colspec colnum="2" colname="c2"/>
+                  <tbody>
+                    <row>
+                      <entry>12 ÷ 50</entry>
+                      <entry>Phương pháp phân bước</entry>
+                    </row>
+                    <row>
+                      <entry>12 ÷ 400</entry>
+                      <entry>Phương pháp sai lệch đường </entry>
+                    </row>
+                  </tbody>
+                </entrytbl>
+              </row>
+            </tbody>
+          </tgroup>
+        </table>
+        <section id="id-67108811987">
+          <title>b. Kiểm tra độ đồng tâm</title>
+          <para id="id6588999">Sơ đồ kiểm tra như hình 6.15</para>
+          <para id="id6589005">Hình 6.15. Kiểm tra độ đồng tâm các cổ trục động cơ.a). Dùng thước xẻ mặt phẳngb). Dùng trục kiểm tra và đồng hồ so: 1_Côn định vị. 2_Đông hồ so. 3_Các cổ trục cần đo. 4_trục đo<figure id="id6999123"><media id="id5615160" alt=""><image src=".png" mime-type="image/png" height="152" width="574"/></media></figure></para>
+          <para id="id6999146">Ở sơ đồ hình 6.15.a sử dụng căn lá đo khe hở tại các vị trí a, b để xác định độ không đồng tâm. Ở sơ đồ hình 6.15.b dùng đồng hồ 2 để xác định độ không đồng tâm.</para>
+          <para id="id6999155">Trường hợp động cơ ít xi lanh có thể dùng dây căng và thước để kiểm tra độ không đồng tâm của các cổ trục.</para>
+        </section>
+        <section id="id-590868632615">
+          <title>c. Kiểm tra song song và vuông góc</title>
+          <para id="id6999175">- Kiểm tra độ song song giữa hai dãy lỗ: hình 6.16. a) sử dụng hai trục kiểm và côn định vị lồng vào các ổ đầu và cuối của hai hàng lỗ. Đo khoảng cách giữa hai trục tại hai đầu bằng dưỡng, nếu bằng nhau chứng tỏ hai lỗ tâm cần kiểm tra song song và ngược lại. Ví dụ các lỗ cần kiểm tra: lỗ trục khuỷu và lỗ trục cam.</para>
+          <para id="id6999194"><figure id="id6999212"><media id="id5814046" alt=""><image src=".png" mime-type="image/png" height="213" width="643"/></media></figure>21a)221b)c)Hình 6.16 Kiểm tra độ song song và vuông góc giữa hai hàng lỗa). 1_dưỡng đo, 2_trục chuẩn; b). 1_trục chuẩn có lỗ ở đầu, 2_trục chuẩn có chốt ở đầuc). 1_trục chuẩn; 2_trục có đầu dò.</para>
+          <para id="id6979446"/>
+          <table id="id6979450" summary="">
+            <tgroup cols="2">
+              <colspec colnum="1" colname="c1"/>
+              <colspec colnum="2" colname="c2"/>
+              <tbody>
+                <row>
+                  <entry>- Kiểm tra độ vuông góc giữa các hàng lỗ: hình 6.16 b) sử dụng một trục có lỗ ở đầu và một trục có chốt ở đầu có đường kính vừa khít với lỗ ở trục khia. Nếu chốt trên trục thứ hai xuyên qua được lỗ trên trục thứ nhất thì hai trục vuông góc với nhau. Hoặc sử dụng trục có đầu dò như hình 6.1.6c)- Kiểm tra vuông góc của các cạnh:hình 6.17</entry>
+                  <entry><media id="id4699756" alt=""><image src=".jpg" mime-type="image/jpeg"/></media>Hình 6.17 Kiểm tra vuông góc của các cạnh</entry>
+                </row>
+              </tbody>
+            </tgroup>
+          </table>
+        </section>
+      </section>
+      <section id="id-71599571475">
+        <title>Kiểm tra lò xo, vòng bi, bánh răng</title>
+        <para id="id6979196">
+          <!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that added as a byproduct of the word importer.-->
+        </para>
+      </section>
+      <section id="id-118344683484">
+        <title>a. Kiểm tra lò xo</title>
+        <para id="id6979214">Lò xo được kiểm tra về độ mòn thân (trong trường hợp thân lò xo bị ma sát với thành lỗ dẫn hướng), kiểm tra các hiện tượng nứt mỏi, gãy và kiểm tra độ đàn hồi của lò xo khi chịu tải. Với các hư hỏng như nứt gãy hoặc mòn vẹt quá 1/3 đường kính dây quấn thì phải loại bỏ. Để kiểm tra độ đàn hồi trước hết phải đo chiều dài lò xo ở trạng thái tự do bằng thước cặp hoặc lò xo mẫu. Sau đó, kiểm tra chiều dài khi chịu tải.</para>
+        <para id="id6979229"><figure id="id6979246"><media id="id5594787" alt=""><image src=".png" mime-type="image/png" height="167" width="420"/></media></figure>Lò xo mẫuLò xo kiểm traHình 6.18. Các phương pháp kiểm tra lò xo</para>
+        <section id="id-985224966892">
+          <title>b. Kiểm tra vòng bi</title>
+          <para id="id7009580">Vòng bi bị mòn thể hiện độ rơ dọc trục và độ rơ hướng kính.</para>
+          <para id="id7009588">Kiểm tra rơ dọc trục:</para>
+          <para id="id7009594"><figure id="id7009612"><media id="id5834299" alt=""><image src=".png" mime-type="image/png" height="183" width="295"/></media></figure><figure id="id7009636"><media id="id1166350786829" alt=""><image src=".png" mime-type="image/png" height="189" width="283"/></media></figure>Hình 6.19 Kiểm tra rơ dọc trục của vòng bi</para>
+          <para id="id6887820">Kiểm tra rơ hướng kính:</para>
+          <para id="id6887827"><figure id="id6887843"><media id="id5295796" alt=""><image src=".png" mime-type="image/png" height="249" width="169"/></media></figure>Hình 6.20 Kiểm tra rơ hướng kính của vòng bi</para>
+        </section>
+        <section id="id-342438439144">
+          <title>c. Kiểm tra bánh răng</title>
+          <para id="id6887903">Bánh răng thường bị mòn hoặc tróc rỗ bề mặt răng, làm tăng khe hở giữa các răng, vì vậy phát sinh tiếng ồn khi làm việc, hiện tượng nứt chân răng do chèn ép dầu hoặc do chịu tải lớn dẫn đến nguy cơ gãy răng cũng thường xảy ra. Đối với các bánh răng hộp số, do thường xuyên thay đổi vị trí ăn khớp nên dễ bị va đập làm sứt mẻ phần đỉnh răng, làm giảm khả năng chịu tải. Những bánh răng côn như bánh răng chủ động cầu xe và bánh răng trên vỏ hộp vi sai, nếu điều chỉnh độ ăn khớp không chính xác sẽ làm chèn răng, lỏng răng hoặc ăn khớp lệch... đó cũng là nguyên nhân gây ồn hoặc tăng ma sát, tăng mài mòn.</para>
+          <para id="id6887921">Việc kiểm tra bánh răng khi sửa chữa chủ yếu là kiểm tra mòn, nứt, sứt mẻ răng, kiểm tra độ đồng tâm của vòng tròn chia và tâm trục. Khi lắp ráp, đặc biệt đối với hộp số và cầu xe, cần kiểm tra vết tiếp xúc và điều chỉnh chính xác độ ăn khớp giữa các bánh răng.</para>
+          <para id="id6134334">Kiểm tra mòn: dùng thước hoặc dưỡng đo răng, hình 6.21 nếu đáy dưỡng đo tỳ sát được vào đỉnh răng chứng tỏ răng đã mòn đến giới hạn. </para>
+          <para id="id6134346">a)b)Hình 6.21 Kiểm tra mòn răng bằng dưỡng đo răng (a) và thước cặp (b)1_có khe hở giữa dưỡng đo và đỉnh răng thì bánh răng còn dùng được2_không có khe hở giữa dưỡng đo và đỉnh răng: bánh răng phải loại bỏ<figure id="id6463492"><media id="id1166353306423" alt=""><image src=".png" mime-type="image/png" height="110" width="242"/></media></figure><figure id="id6463516"><media id="id1166351931906" alt=""><image src=".png" mime-type="image/png" height="133" width="217"/></media></figure></para>
+          <para id="id6463540"/>
+          <table id="id6463544" summary="">
+            <tgroup cols="2">
+              <colspec colnum="1" colname="c1"/>
+              <colspec colnum="2" colname="c2"/>
+              <tbody>
+                <row>
+                  <entry>Hình 6.22 Đo khe giữa các răng bánh răng trụ<media id="id8688221" alt=""><image src=".jpg" mime-type="image/jpeg"/></media></entry>
+                  <entry>Có thể kiểm tra mòn răng khi cho bánh răng kiểm tra ăn khớp với một bánh răng mẫu có biên dạng răng chính xác không mòn, sau đó đo khe hở giữa các răng bằng một đồng hồ so hình 6.22.Đặt đầu tỳ của đồng hồ đo vào răng của bánh răng thứ nhất. Bánh rằng này ăn khớp với bánh răng thứ hai. Quay bánh răng thứ nhất (hãm bánh răng thứ hai lại), lựa chọn he hở giữa các răng và đồng thời theo dõi độ xê dịch của kim đồng hồ. Sai lệch các số liệu do đồng hồ chỉ báo là khe hở giữa các răng của cặp bánh răng ăn khớp với nhau. Nếu khe hở không đồng đều thì phải xác định xem bánh răng nào hỏng.</entry>
+                </row>
+              </tbody>
+            </tgroup>
+          </table>
+          <para id="id6779318">Muốn vậy, phải tách một bánh răng ra và quay đi 1800 rồi lắp với nhau. Nếu thấy vẫn ăn khớp như cũ thì bánh răng hỏng chính là bánh răng cố định. Nếu trước khi quay bánh răng, khe hở là nhỏ nhất và sau khi quay, khe hở là lớn nhất thì bánh răng quay là bánh răng hỏng, phải thay thế.</para>
+          <para id="id6779341">Kiểm tra độ không đồng tâm và độ đảo của bánh răng:</para>
+          <para id="id6779348">Sau khi đã định vị bánh răng trên khối V lăn bằng trục và côn định tâm, đặt vào giữa các rãnh răng chốt kiểm 1 có đường kính phù hợp sao cho chốt tiếp xúc với các bề mặt răng ở vòng tròn chia. Khi quay bánh răng 1800, đồng hồ 2 tì lên chốt kiểm sẽ xác đinh độ không đồng tâm vòng chia và đồng hồ tì lên mặt đầu sẽ xác định độ đảo mặt đầu bánh răng so với đường tâm trục.</para>
+          <para id="id6779375"><figure id="id6779390"><media id="id1166357185924" alt=""><image src=".png" mime-type="image/png" height="275" width="337"/></media></figure>Hình 6.23 Kiểm tra độ không đồng tâm và độ đảo của bánh răng</para>
+        </section>
+      </section>
+    </section>
+    <section id="id-0110275219677">
+      <title>KIỂM TRA CÂN BẰNG TĨNH VÀ ĐỘNG CÁC CHI TIẾT QUAY</title>
+      <para id="id6510775">Khi mòn không đều và sau khi gia công cơ sửa chữa, do khó bảo đảm độ đồng tâm ban đầu nên các chi tiết quay như trục khuỷu, bánh đà, bánh răng, trục các đăng... trên động cơ thường mất cân bằng tĩnh và động. Độ mất cân bằng này thường được kiểm tra và xử lý trước khi lắp cụm máy, nhằm bảo đảm mức độ rung động trong phạm vi cho phép của nhà chế tạo.</para>
+      <para id="id6510791">Việc kiểm tra cân bằng tĩnh áp dụng cho các chi tiết có đường kính khá lớn so với chiều dài như các bánh răng, bánh đà... Kiểm tra cân bằng động đặc biệt cần thiết đối với các chi tiết trục có hình dạng phức tạp và có tốc độ quay cao như trục khuỷu, hoặc cho các trục có cách lắp ráp khá lỏng lẻo như trục các đăng. Bánh xe ô tô trong trạng thái lắp hoàn chỉnh, do lốp khó đạt độ đồng đều khi chế tạo nên cũng thường được kiểm tra cân bằng động.</para>
+      <section id="id-887603955171">
+        <title>Kiểm tra cân bằng tĩnh</title>
+        <section id="id-558942836309">
+          <title>a. Cân bằng tĩnh trên V lăn.</title>
+          <para id="id6510823">Một trục và côn định tâm được lồng vào moayơ của chi tiết kiểm tra đảm bảo độ đồng tâm cần thiết. Đặt toàn bộ khối chi tiết lên cặp V lăn, nếu với vị trí bất kỳ, chi tiết không tự động quay có nghĩa là chi tiết có độ cân bằng tốt. Nếu chi tiết tự quay và luôn luôn dừng lại tại một vị trí nhất định thì có thể khẳng định chi tiết bị mất cân bằng, điểm mất cân bằng sẽ nằm trên bán kính phía dưới theo phương thẳng đứng.</para>
+          <para id="id6510838">Để xác định khối lượng mất cân bằng, ta dán một miếng sáp tại vị trí thích hợp ở bán kính phía trên, sau đó kiểm tra và thêm bớt khối lượng sáp đã dán cho đến khi chi tiết đạt độ cân bằng theo yêu cầu.</para>
+          <para id="id6510848">Xử lý chi tiết mất cân bằng có thể dùng phương pháp hàn thêm kim loại ở phía dán miếng sáp hoặc lấy bớt kim loại ở phía đối diện (nơi có khối lượng thừa). Khối lượng và vị trí thêm bớt kim loại được xác định theo công thức:</para>
+          <para id="id6510864">mr = msrs</para>
+          <para id="id6510883">Trong đó: m, r­_khối lượng thêm hoặc bớt và khoảng cách tới tâm chi tiết</para>
+          <para id="id6510892"> ms,rs_khối lượng sáp sau khi đã cân bằng và khoảng cách của nó đến tâm.</para>
+          <para id="id5948591">Có thể chọn vị trí r sẽ hàn thêm hoặc lấy bớt kim loại để không ảnh hưởng đến kết cấu cũng như độ bền của nó, từ đó tính ra khối lượng m cần thêm hay bớt theo công thức:</para>
+          <para id="id5948604">
+            <figure id="id5948612">
+              <media id="id1166350820598" alt=""><image src="graphics4.wmf" mime-type="image/wmf" height="44" width="69"/></media>
+            </figure>
+          </para>
+          <para id="id5948636">Nếu hàn thêm kim loại phải cắt miếng kim loại hàn thêm sao cho đạt khối lượng m đã tính ở trên. Nếu lấy bớt kim loại phải xác định thể tích chỗ lấy:</para>
+          <para id="id5948648">
+            <figure id="id5948653">
+              <media id="id5462837" alt=""><image src="graphics5.wmf" mime-type="image/wmf" height="46" width="51"/></media>
+            </figure>
+          </para>
+          <para id="id5948681">- khối lượng riêng của kim loại, với sắt  = 78g/cm3; với đồng  = 89g/cm3</para>
+        </section>
+        <section id="id-584449891595">
+          <title>b. Cân bằng tĩnh trên dao lăn</title>
+          <para id="id6466736"/>
+          <table id="id6466741" summary="">
+            <tgroup cols="2">
+              <colspec colnum="1" colname="c1"/>
+              <colspec colnum="2" colname="c2"/>
+              <tbody>
+                <row>
+                  <entry>Hình 6.24 Kiểm tra cân bằng trên dao lăn<media id="id5437393" alt=""><image src=".png" mime-type="image/png"/></media></entry>
+                  <entry>Dụng cụ kiểm tra cân bằng tĩnh dùng dao lăn, hình 6.24 dùng hai lưỡi dao đặt song song và được điều chỉnh độ nằm ngang chính xác. Đặt khối chi tiết cùng trục định tâm lên trên hai lưỡi dao ở một vị trí bất kỳ. Nếu chi tiết không cân bằng, khối chi tiết sẽ tự động lăn trên dao cho tới khi điểm mất cân bằng nằm ở vị trí thấp nhất thì dừng lại. Sau khi đã xác định được vị trí mất cân bằng, tiến hành các bước kiểm tra điều chỉnh như trên.</entry>
+                </row>
+              </tbody>
+            </tgroup>
+          </table>
+        </section>
+        <section id="id-88890724518">
+          <title>c. Cân bằng tĩnh trên mâm xoay</title>
+          <para id="id7015811">Hình 6.25 Cân bằng tĩnh trên mâm xoay.1_chi tiết; 2_quả cân; 3_thước đo; 4_ổ tâm; 5_mâm gá chi tiết; 6_mũi dò thăng bằngDụng cụ gồm một mâm tròn 5 đặt trên ổ tâm 4, chi tiết được định tâm nhờ trụ định tâm trên mâm. Nhờ kết cấu này, khi chi tiết có khối lượng không cân bằng ở phía nào, mâm sẽ nghiêng về phía đó. Trên vành mâm có gắn sẵn một đòn cân và quả cân, chỉ cần xoay chi tiết cho phía mất cân bằng đối diện với đòn cân, sau đó điều chỉnh quả cân đến khi mâm thăng bằng trở lại. Từ khối lượng quả cân và khoảng cách của nó tới tâm đã biết, dễ dàng tính được mô men mất cân bằng để xử lý.</para>
+        </section>
+      </section>
+      <section id="id-651637423477">
+        <title>Kiểm tra cân bằng động.</title>
+        <para id="id7015886">Trước khi cân bằng động, các chi tiết trục phải qua cân bằng tĩnh. Do không xác định được khối lượng mất cân bằng nằm trên mặt phẳng nào, nên khối lượng cân bằng Q thường được thêm vào ở một mặt phẳng khác, cách khối lượng mất cân bằng một khoảng l nào đó, hình 6.26. Vì vậy, khi chi tiết quay, các lực ly tâm do hai khối lượng này sinh ra sẽ tạo thành một mô men M, với M = F.l. Đó chính là nguyên nhân gây ra rung động cho chi tiết. Trong trường hợp đó, chi tiết được gọi là mất cân bằng động.</para>
+        <table id="id7015891" summary="">
+          <tgroup cols="2">
+            <colspec colnum="1" colname="c1"/>
+            <colspec colnum="2" colname="c2"/>
+            <tbody>
+              <row>
+                <entry>Để khử mô men mất cân bằng này, phải đặt vào chi tiết một mô men có cùng giá trị nhưng ngược chiều với nó. Mô men cân bằng được tạo thành nhờ việc thêm hoặc bớt 2 khối lượng kim loại m1, m2 ở hai mặt phẳng cách nhau một khoảng l1 để tạo thành các lực ly tâm F1 sao cho F1l1 = Fl. Đó chính là thực chất của phương pháp cân bằng động trên hai mặt phẳng chọn trước.</entry>
+                <entry><media id="id1166351838111" alt=""><image src=".png" mime-type="image/png"/></media>Hình 6.26 Sơ đồ nguyên tắc cân bằng động chi tiết trục trên 2 mặt phẳng chọn trước</entry>
+              </row>
+            </tbody>
+          </tgroup>
+        </table>
+        <para id="id6915553"/>
+        <table id="id6915558" summary="">
+          <tgroup cols="2">
+            <colspec colnum="1" colname="c1"/>
+            <colspec colnum="2" colname="c2"/>
+            <tbody>
+              <row>
+                <entry>Hình 6.27 Nguyên lý thiết bị cân bằng trên 2 mặt phẳng chọn trước1,2_cảm biến biên độ dao động khung a,b_các ổ tì; A,B_các ổ đỡ trục trục trên khung dao động.<media id="id6486234" alt=""><image src=".png" mime-type="image/png"/></media></entry>
+                <entry>Thiết bị cân bằng động được giới thiệu trên hình 6.27. Khi cân bằng trước hết điều chỉnh ổ a cho tì vào khung dao động còn ổ b để tự do. Cho trục quay đến một tốc độ thích hợp, nếu mất cân bằng trục sẽ rung làm khung dao động rung theo. Do đầu phía a đã bị khống chế nên khung chỉ rung động tại đầu b, biên độ dao động phía đầu b được chỉ thị bởi cảm biến 2. Thêm một khối lượng vào đầu b tại mặt phẳng II-II sao cho độ dao động đầu b giảm thấp nhất trong phạm vi cho phép. Chuyển sang làm tương tự với đầu a, ta sẽ xác định được cặp khối lượng cân bằng đặt tại hai mặt phẳng I-I và II-II, từ đó xác định được mô men mất cân bằng và có phương án xử lý thích hợp.</entry>
+              </row>
+            </tbody>
+          </tgroup>
+        </table>
+        <para id="id6915698">Bảng 6.2. Độ không cân bằng cho phép của ô tô -53 và Zin-130</para>
+        <table id="id6647238" summary="">
+          <tgroup cols="4">
+            <colspec colnum="1" colname="c1"/>
+            <colspec colnum="2" colname="c2"/>
+            <colspec colnum="3" colname="c3"/>
+            <colspec colnum="4" colname="c4"/>
+            <tbody>
+              <row>
+                <entry>Loại chi tiết</entry>
+                <entry>Đặc điểm cân bằng</entry>
+                <entrytbl namest="c3" nameend="c4" cols="2">
+                  <colspec colnum="1" colname="c1"/>
+                  <colspec colnum="2" colname="c2"/>
+                  <tbody>
+                    <row>
+                      <entry namest="c1" nameend="c2">Độ không cân bằng m.r cho phép (g.cm)</entry>
+                    </row>
+                    <row>
+                      <entry>-53</entry>
+                      <entry>Zin-130</entry>
+                    </row>
+                  </tbody>
+                </entrytbl>
+              </row>
+              <row>
+                <entry>Trục khuỷu</entry>
+                <entry>Cân bằng động</entry>
+                <entry>15</entry>
+                <entry>30</entry>
+              </row>
+              <row>
+                <entry>Trục khuỷu-bánh đà -ly hợp</entry>
+                <entry>Cân bằng động</entry>
+                <entry>70</entry>
+                <entry>120</entry>
+              </row>
+              <row>
+                <entry>Cánh quạt gió</entry>
+                <entry>Cân bằng tĩnh</entry>
+                <entry>15</entry>
+                <entry>20</entry>
+              </row>
+              <row>
+                <entry>Bánh đà</entry>
+                <entry>Cân bằng tĩnh</entry>
+                <entry>35</entry>
+                <entry>50</entry>
+              </row>
+              <row>
+                <entry>Ly hợp</entry>
+                <entry>Cân bằng tĩnh</entry>
+                <entry>35</entry>
+                <entry>50</entry>
+              </row>
+              <row>
+                <entry>Các đăng lắp đầy đủ</entry>
+                <entry>Cân bằng động</entry>
+                <entry>50</entry>
+                <entry>70</entry>
+              </row>
+            </tbody>
+          </tgroup>
+        </table>
+      </section>
+    </section>
+    <section id="id-448378352442">
+      <title>KIỂM TRA CÁC HƯ HỎNG NGẦM</title>
+      <section id="id-870397677018">
+        <title>Thủ công</title>
+        <para id="id5749759">Gõ: giữa hai lớp kim loại bị tróc sẽ có tiếng kêu khác với chỗ không tróc (dùng âm thanh).</para>
+        <para id="id5749768">Xoa phấn: thoa dầu hoả lên bề mặt kiểm tra; lau sạch, rắc phấn lên, chỗ có vết nứt dầu chừa lại sẽ thấm lên, như vậy sẽ cho ta xác định được vết nứt.</para>
+      </section>
+      <section id="id-521838713117">
+        <title>Dùng khí nén hay nước có áp suất</title>
+        <para id="id5749790">Dùng khí nén bơm vào bên trong, xoa xà phòng bên ngoài hoặc nhúng vào trong nước, nếu có bọt khí chứng tỏ chỗ đó đã bị nứt.</para>
+        <para id="id5749801">Dùng nước áp lực 3 ÷ 5 at đưa vào để kiểm tra. Thường được áp dụng để kiểm tra két nước, bao kín đường ống... </para>
+      </section>
+      <section id="id-549416740807">
+        <title>Kiểm tra vết nứt bằng từ trường</title>
+        <table id="id5749808" summary="">
+          <tgroup cols="2">
+            <colspec colnum="1" colname="c1"/>
+            <colspec colnum="2" colname="c2"/>
+            <tbody>
+              <row>
+                <entry>Phương pháp này chỉ áp dụng được cho các chi tiết có khả năng nhiễm từ (những chi tiết làm bằng sắt) để phát hiện những vết nứt trên bề mặt. Thực chất của phương pháp này là đặt chi tiết trong một từ trường của nam châm điện nhằm tạo ra sự nhiễu từ và hình thành cực từ phụ tại hai đầu vết nứt, sau đó rắc bột sắt hoặc bột ô xít sắt (Fe3O4) lên bề mặt. Tại chỗ có vết nứt, bột sắt sẽ tụ lại ở các cực từ nên rất dễ quan sát, hình 6.28.</entry>
+                <entry>Hình 6.28 Phát hiện vết nứt bằng phương pháp từ trường<media id="id1166351534572" alt=""><image src=".png" mime-type="image/png"/></media></entry>
+              </row>
+            </tbody>
+          </tgroup>
+        </table>
+        <para id="id6976483">Đường sức từ của nam châm phải đặt vuông góc với trục vết nứt mới tạo ra được sự phân cực rõ rệt. Vì vậy, cần bố trí 2 nguồn từ trường vuông góc nhau để lần lượt phát hiện các vết nứt chạy dọc và vết nứt chạy ngang.</para>
+        <para id="id6976498">Đối với chi tiết trục, thường có các vết nứt mỏi theo phương hướng kính và các vết nứt dọc trục do chịu mô men xoắn lớn (khi bị bó bạc). Khi kiểm tra vết nứt mỏi sử dụng khung dây quấn vào đoạn trục, hoặc dùng ngay dây dẫn quấn quanh trục một vài vòng rồi cho dòng điện một chiều chạy qua để tạo từ trường dọc. Khi kiểm tra các vết nứt dọc trục, cho trực dòng điện một chiều chạy từ đầu này sang đầu kia của trục để tạo từ trường vòng cắt các vết nứt.</para>
+        <table id="id6976524" summary="">
+          <tgroup cols="2">
+            <colspec colnum="1" colname="c1"/>
+            <colspec colnum="2" colname="c2"/>
+            <tbody>
+              <row>
+                <entry>Với các chi tiết có độ từ thẩm yếu (ít nhiễm từ), thường duy trì nguồn nam châm điện hoặc nam châm vĩnh cửu.Với các chi tiết có độ từ thẩm cao, gây nhiễm từ ban đầu cho chi tiết và sử dụng từ dư trên chi tiết để kiểm tra. Như vậy, khi kiểm tra xong, phải khử từ dư cho chi tiết, nếu không khử từ dư, sau này các mạt sắt do mài mòn sẽ bám vào bề mặt gây cào xươc bạc và trục.Khi tạo từ bằng dòng điện một chiều thì phương pháp khử từ là cho dòng điện ngược chiều với dòng điện từ hoá ban đầu rồi giảm dần dòng điện này xuống không, chú ý trong quá trình khử từ phải thay đổi thường xuyên chiều cực để tránh chi tiết bị nhiễu từ mới. Cũng có thể dùng dòng điện xoay chiều đặt lên chi tiết và giảm dần xuống không.</entry>
+                <entry>Hình 6.29 Cách đặt từ trường lên chi tiết<media id="id1166350561746" alt=""><image src=".png" mime-type="image/png"/></media></entry>
+              </row>
+            </tbody>
+          </tgroup>
+        </table>
+      </section>
+      <section id="id-755969361832">
+        <title>Kiểm tra vết nứt bằng quang tuyến</title>
+        <para id="id6996810"/>
+        <table id="id6996814" summary="">
+          <tgroup cols="2">
+            <colspec colnum="1" colname="c1"/>
+            <colspec colnum="2" colname="c2"/>
+            <tbody>
+              <row>
+                <entry>Sử dụng dung dịch có chứa chất phát quang với thành phần: 75% dầu hỏa +15% dầu biến thế + 10% ben zôn + (3 ÷ 5)g/lít chất phát quang Fluorexein để bôi lên bề mặt. Sau đó lau sạch và sấy nóng ở nhiệt độ 60 ÷ 700C cho chất phát quang từ vết nứt tiết ra, dùng đèn tia cực tím chiếu lên bề mặt, ở chỗ có vết nứt, chất phát quang sẽ tiết ra sẽ tạo thành ánh sáng xanh lục rất dễ nhận thấy. Sơ đồ kiểm tra bằng quang tuyến giới thiệu trên hình 6.30.</entry>
+                <entry><media id="id5288255" alt=""><image src="graphics6.png" mime-type="image/png"/></media>Hình 6.30 Kiểm tra vết nứt bằng quang tuyến. 1_hộp đèn, 2_kính lọc tia, 3­_đèn chiếu tia, 4_biến thế cao áp, 5_biến thế nguồn, 6_chi tiết kiểm tra.</entry>
+              </row>
+            </tbody>
+          </tgroup>
+        </table>
+      </section>
+      <section id="id-00804969197783">
+        <title>Kiểm tra theo hiệu ứng xung (siêu âm)</title>
+        <table id="id6287076" summary="">
+          <tgroup cols="2">
+            <colspec colnum="1" colname="c1"/>
+            <colspec colnum="2" colname="c2"/>
+            <tbody>
+              <row>
+                <entry>Dựa trên hiện tượng phản xạ xung siêu âm, khi các xung phát ra và được ghi lại trên dao động kí điện tử có hình dạng đều đặn, chứng tỏ chi tiết không bị rỗ. Khi gặp phải chỗ rỗ, xuất hiện trên màn hình các xung phản xạ sẽ xác định được chiều sâu và kích thước của khuyết tật, hình 6.31.</entry>
+                <entry><media id="id6239596" alt=""><image src="graphics7.png" mime-type="image/png"/></media>Hình 6.31 Kiểm tra rỗ theo hiệu ứng xung1_chi tiết, 2_cực phát siêu âm, 3_bộ khuếch đại xung phản xạ, 4_ống dao động kí, 5-6-7_các bộ điều biến xung, 8_ chùm tia siêu âm, 9_vết rỗ ngầm.</entry>
+              </row>
+            </tbody>
+          </tgroup>
+        </table>
+      </section>
+    </section>
+  </content>
+</document>

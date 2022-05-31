@@ -1,0 +1,278 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:m="http://www.w3.org/1998/Math/MathML" xmlns:md="http://cnx.rice.edu/mdml">
+  <title>Kinh tế vận hành ô tô</title>
+  <metadata>
+  <md:content-id>m30616</md:content-id><md:title>Kinh tế vận hành ô tô</md:title>
+  <md:abstract>Kinh tế vận hành ô tô</md:abstract>
+  <md:uuid>ef283580-864d-4b8b-a1bc-aa8dbab4ac8c</md:uuid>
+</metadata>
+
+<content>
+    <para id="id6649348">Nội dung:</para>
+    <section id="id-946145718843">
+      <title>CÁC CHỈ TIÊU KINH TẾ VẬN HÀNH Ô TÔ</title>
+      <section id="id-338607291153">
+        <title>Định nghĩa</title>
+        <para id="id6417090">Là tổ hợp các thông số đặc trưng cho khả năng hoạt động của ô tô. Những thông số này được thể hiện dưới dạng các hệ số.</para>
+        <para id="id6417100">Quá trình vận chuyển: gồm toàn bộ các công việc để đưa hàng hoá từ nơi này đến nơi khác như: cân đong, đo đếm, bốc dỡ, vận chuyển...</para>
+        <para id="id6417112">Độ dài vận chuyển: khoảng cách xe đi có hàng.</para>
+        <para id="id6417119">Khối lượng vận chuyển: đo bằng tích khối lượng hàng hoá hoặc hành khách với quãng đường vận chuyển (T.km hay hành khách.km).</para>
+      </section>
+      <section id="id-531084219211">
+        <title>Các hệ số thời gian sử dụng</title>
+        <para id="id6733769">Hệ số ngày xe tốt T:</para>
+        <para id="id6733779">Đại lượng đánh giá thời gian xe ở tình trạng tốt có thể hoạt động được so với số ngày theo lịch thời gian.</para>
+        <para id="id6733787">Đối với một xe: <media id="id1172731125587" alt=""><image src="graphics1.wmf" mime-type="image/wmf" height="47" width="61"/></media>. </para>
+        <para id="id6733823">Dt- ngày xe tốt.</para>
+        <para id="id6287843">Dl- ngày xe theo lịch.</para>
+        <para id="id6287856">Đối với cả đoàn xe</para>
+        <para id="id6287862">
+          <figure id="id6287869">
+            <media id="id4613287" alt=""><image src="graphics2.wmf" mime-type="image/wmf" height="94" width="217"/></media>
+          </figure>
+        </para>
+        <para id="id6287893">Những yếu tố ảnh hưởng đến T:</para>
+        <para id="id6554393">- Khoảng cách vận chuyển.</para>
+        <para id="id6554399">- Điều kiện đường xá.</para>
+        <para id="id6554406">- Trình độ lái xe.</para>
+        <para id="id6554412">- Cấu tạo và chất lượng xe, độ tin cậy, độ bền của xe.</para>
+        <para id="id6554420">Đối với xe tải T= 0.75 - 0.9, xe du lịch T = 0.9 - 0.96 </para>
+        <para id="id6554447">Hệ số ngày xe hoạt động hd:</para>
+        <para id="id6173211">Đánh giá thực tế sử dụng xe.</para>
+        <para id="id6173216">Đối với một xe: <figure id="id6173222"><media id="id1172734677758" alt=""><image src="graphics3.wmf" mime-type="image/wmf" height="47" width="100"/></media></figure>. </para>
+        <para id="id6173247">Dhd-ngày xe hoạt động.</para>
+        <para id="id6173260">Dn-ngày xe nghỉ lễ.</para>
+        <para id="id6611448">Đối với một đoàn xe:</para>
+        <para id="id6611453">
+          <figure id="id6611460">
+            <media id="id1172733364960" alt=""><image src="graphics4.wmf" mime-type="image/wmf" height="94" width="306"/></media>
+          </figure>
+        </para>
+        <para id="id6611484">Hệ số sử dụng phương tiện sd:</para>
+        <para id="id6611499"><figure id="id6611506"><media id="id1172738416237" alt=""><image src="graphics5.wmf" mime-type="image/wmf" height="47" width="69"/></media></figure> = 0.5 - 0.9</para>
+        <para id="id6919374">Hệ số sử dụng thời gian trong ngày :</para>
+        <para id="id6919385">Th + Tn = 24</para>
+        <para id="id6919406"> Trong đó Th , Tn là số giờ xe hoạt động trong ngày và số giờ xe nghỉ trong ngày (giờ). Th bao gồm giờ xe chạy, tổ chức, bốc xếp.</para>
+        <para id="id6997127">
+          <figure id="id6997134">
+            <media id="id1172733822232" alt=""><image src="graphics6.wmf" mime-type="image/wmf" height="43" width="50"/></media>
+          </figure>
+        </para>
+        <para id="id6997158">Đối với đoàn xe:</para>
+        <para id="id6997162">
+          <figure id="id6997169">
+            <media id="id7857400" alt=""><image src="graphics7.wmf" mime-type="image/wmf" height="68" width="138"/></media>
+          </figure>
+        </para>
+        <para id="id6496024">Hệ số sử dụng thời gian làm việc :</para>
+        <para id="id6496037">
+          <figure id="id6496043">
+            <media id="id1172741073623" alt=""><image src="graphics8.wmf" mime-type="image/wmf" height="47" width="53"/></media>
+          </figure>
+        </para>
+      </section>
+      <section id="id-544012968253">
+        <title>Hệ số sử dụng quãng đường</title>
+        <para id="id6496076">Quãng đường xe chạy có tải: LT (km)</para>
+        <para id="id6739345">Quãng đường xe chạy không tải: LKT (km)</para>
+        <para id="id6739357">Quãng đường xe chạy sau một khoảng thời gian: L (km)</para>
+        <para id="id6739363">Hệ số sử dụng quãng đường:</para>
+        <para id="id6739369"><media id="id7972542" alt=""><image src="graphics9.wmf" mime-type="image/wmf" height="43" width="51"/></media> .</para>
+        <para id="id6739405"> Đối với đoàn xe: <media id="id1172734401481" alt=""><image src="graphics10.wmf" mime-type="image/wmf" height="94" width="81"/></media> nói chung  &lt;1 vì tuỳ thuộc kho bãi.</para>
+        <para id="id7004002">Hệ số chạy không:</para>
+        <para id="id7004008"><figure id="id7004013"><media id="id1172734678678" alt=""><image src="graphics11.wmf" mime-type="image/wmf" height="43" width="61"/></media></figure> .</para>
+        <para id="id6656600">Đối với đoàn xe: 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mi>ω</m:mi><m:mo stretchy="false">=</m:mo><m:mfrac><m:mrow><m:mrow><m:munderover><m:mo stretchy="false">∑</m:mo><m:mrow/><m:mstyle fontsize="8pt"><m:mrow><m:mi>n</m:mi></m:mrow></m:mstyle></m:munderover><m:mrow/></m:mrow><m:msub><m:mi>L</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mstyle fontstyle="italic"><m:mrow><m:mtext>KTi</m:mtext></m:mrow></m:mstyle></m:mrow></m:mstyle></m:msub></m:mrow><m:mrow><m:mrow><m:munderover><m:mo stretchy="false">∑</m:mo><m:mrow/><m:mstyle fontsize="8pt"><m:mrow><m:mi>n</m:mi></m:mrow></m:mstyle></m:munderover><m:mrow/></m:mrow><m:msub><m:mi>L</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mi>i</m:mi></m:mrow></m:mstyle></m:msub></m:mrow></m:mfrac></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ω= {  { Sum cSub {}  cSup { size 8{n} }  {} L rSub { size 8{ ital "KTi"} } }  over  { Sum cSub {}  cSup { size 8{n} }  {} L rSub { size 8{i} } } } } {}</m:annotation></m:semantics></m:math></para>
+      </section>
+      <section id="id-450912438913">
+        <title>Hệ số sử dụng tải trọng</title>
+        <para id="id5917560">Tỷ số giữa khối lượng vận chuyển thực tế với khối lượng vận chuyển định mức:</para>
+        <para id="id5917570">
+          <figure id="id5917576">
+            <media id="id1630024" alt=""><image src="graphics12.wmf" mime-type="image/wmf" height="47" width="63"/></media>
+          </figure>
+        </para>
+        <para id="id5917601">Trong đó: u là khối lượng vận chuyển thực tế (T.km). </para>
+        <para id="id5917609"> q là tải trọng định mức (T)</para>
+        <para id="id6432498">
+          <figure id="id6432504">
+            <media id="id2293077" alt=""><image src="graphics13.wmf" mime-type="image/wmf" height="94" width="90"/></media>
+          </figure>
+        </para>
+        <para id="id6432529">Đối với xe khách tính bằng hệ số xếp đầy: </para>
+        <para id="id6432535"><media id="id1172741313052" alt=""><image src="graphics14.wmf" mime-type="image/wmf" height="47" width="67"/></media> (tỷ số giữa số khách thực tế và số khách định mức).</para>
+      </section>
+      <section id="id-19434310234">
+        <title>Tốc độ vận chuyển</title>
+        <para id="id6817925">Tốc độ kỹ thuật:</para>
+        <para id="id6817932"><figure id="id6817939"><media id="id3731473" alt=""><image src="graphics15.wmf" mime-type="image/wmf" height="47" width="69"/></media></figure>(km/h)</para>
+        <para id="id6817965">Qui định: </para>
+        <table id="id6492177" summary="">
+          <tgroup cols="2">
+            <colspec colnum="1" colname="c1"/>
+            <colspec colnum="2" colname="c2"/>
+            <tbody>
+              <row>
+                <entry>Trong thành phố</entry>
+                <entry>19 - 22 km/h với xe không có mócDưới 19 km/h với xe có móc</entry>
+              </row>
+              <row>
+                <entry>Ngoài thành phố</entry>
+                <entry>30 - 40 km/h với xe không có móc25 - 35 km/h với xe có móc.</entry>
+              </row>
+            </tbody>
+          </tgroup>
+        </table>
+        <para id="id6897104">Tuỳ theo đặc điểm đường xá mà qui định tốc độ kỹ thuật.</para>
+        <para id="id6897112">Tốc độ sử dụng là tốc độ trung bình sau thời gian xe làm nhiệm vụ:</para>
+        <para id="id6897121"><figure id="id6897127"><media id="id1172739300487" alt=""><image src="graphics16.wmf" mime-type="image/wmf" height="47" width="63"/></media></figure> chú ý rằng <figure id="id6897153"><media id="id2750974" alt=""><image src="graphics17.wmf" mime-type="image/wmf" height="47" width="99"/></media></figure></para>
+      </section>
+      <section id="id-272117016741">
+        <title>Năng suất vận chuyển</title>
+        <para id="id6737814">Khối lượng hàng hoá hay hành khách vận chuyển sau một đơn vị thời gian.</para>
+        <para id="id6737822">
+          <figure id="id6737828">
+            <media id="id6535728" alt=""><image src="graphics18.wmf" mime-type="image/wmf" height="47" width="57"/></media>
+          </figure>
+        </para>
+        <para id="id6737852">Đối với đoàn xe:</para>
+        <para id="id5738927">
+          <figure id="id5738932">
+            <media id="id1172738303833" alt=""><image src="graphics19.wmf" mime-type="image/wmf" height="94" width="83"/></media>
+          </figure>
+        </para>
+        <para id="id5738956">
+          <figure id="id5738961">
+            <media id="id1172730468189" alt=""><image src="graphics20.wmf" mime-type="image/wmf" height="50" width="199"/></media>
+          </figure>
+        </para>
+        <para id="id5738985">Mặt khác <figure id="id5738991"><media id="id1172733816086" alt=""><image src="graphics21.wmf" mime-type="image/wmf" height="50" width="119"/></media></figure></para>
+        <para id="id5907043">Tổng số giờ xe chạy : <media id="id1172742774451" alt=""><image src="graphics22.wmf" mime-type="image/wmf" height="50" width="151"/></media></para>
+        <para id="id5907077">Do đó: <figure id="id5907083"><media id="id2130502" alt=""><image src="graphics23.wmf" mime-type="image/wmf" height="50" width="181"/></media></figure></para>
+        <para id="id6800911">Suy ra: <figure id="id6800917"><media id="id6217753" alt=""><image src="graphics24.wmf" mime-type="image/wmf" height="50" width="219"/></media></figure></para>
+        <para id="id6800941">Chú ý rằng: 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mrow><m:mrow><m:munderover><m:mo stretchy="false">∑</m:mo><m:mrow/><m:mstyle fontsize="8pt"><m:mrow><m:mi>n</m:mi></m:mrow></m:mstyle></m:munderover><m:msub><m:mi>T</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mstyle fontstyle="italic"><m:mrow><m:mtext>hi</m:mtext></m:mrow></m:mstyle></m:mrow></m:mstyle></m:msub></m:mrow><m:mo stretchy="false">=</m:mo><m:mtext>24</m:mtext></m:mrow><m:mtext>.</m:mtext><m:msub><m:mi>α</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mstyle fontstyle="italic"><m:mrow><m:mtext>sd</m:mtext></m:mrow></m:mstyle></m:mrow></m:mstyle></m:msub><m:mtext>.</m:mtext><m:mi>ρ</m:mi><m:mtext>.</m:mtext><m:mrow><m:munderover><m:mo stretchy="false">∑</m:mo><m:mrow/><m:mstyle fontsize="8pt"><m:mrow><m:mi>n</m:mi></m:mrow></m:mstyle></m:munderover><m:msub><m:mi>D</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mstyle fontstyle="italic"><m:mrow><m:mtext>li</m:mtext></m:mrow></m:mstyle></m:mrow></m:mstyle></m:msub></m:mrow></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ Sum cSub {}  cSup { size 8{n} }  {T rSub { size 8{ ital "hi"} } } ="24" "." α rSub { size 8{ ital "sd"} }  "." ρ "."  Sum cSub {}  cSup { size 8{n} }  {D rSub { size 8{ ital "li"} } } } {}</m:annotation></m:semantics></m:math></para>
+        <para id="id6683775">Do đó năng suất vận chuyển sẽ là:</para>
+        <para id="id6683782"><m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mrow><m:mi>W</m:mi><m:mo stretchy="false">=</m:mo><m:mtext>.</m:mtext></m:mrow><m:mi>δ</m:mi><m:mtext>.</m:mtext><m:msub><m:mi>v</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mstyle fontstyle="italic"><m:mrow><m:mtext>KT</m:mtext></m:mrow></m:mstyle></m:mrow></m:mstyle></m:msub><m:mtext>.</m:mtext><m:mi>β</m:mi><m:mtext>.</m:mtext><m:msub><m:mi>γ</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mi>T</m:mi></m:mrow></m:mstyle></m:msub><m:mtext>.</m:mtext><m:mi>q</m:mi></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{W= "." δ "." v rSub { size 8{ ital "KT"} }  "." β "." γ rSub { size 8{T} }  "." q} {}</m:annotation></m:semantics></m:math>(Tkm/h)</para>
+      </section>
+    </section>
+    <section id="id-919746377799">
+      <title>CÁC NHÂN TỐ ẢNH HƯỞNG ĐẾN TUỔI THỌ Ô TÔ</title>
+      <section id="id-584129361203">
+        <title>Định nghĩa</title>
+        <para id="id6765151">- Tuổi thọ ô tô: là thời gian giữ được khả năng làm việc đến một trạng thái giới hạn nào đó cần thiết phải dừng lại để bảo dưỡng kỹ thuật và sửa chữa. Giới hạn đó có thể xác định được bằng sự mài mòn của các chi tiết chính theo điều kiện làm việc an toàn và theo tính chất các thông số sử dụng đã được qui định trước. Thời hạn này xác định bằng quãng đường xe chạy, từ khi xe bắt đầu làm việc đến khi xe cần sửa chữa lớn, động cơ cũng như hệ thống truyền lực và các cụm khác.</para>
+        <para id="id6156389">- Tuổi thọ tối ưu: tuổi thọ ứng với giá thành 1 km xe chạy thấp nhất.</para>
+        <para id="id6156398">
+          <figure id="id6156404">
+            <media id="id1172742683555" alt=""><image src="graphics25.wmf" mime-type="image/wmf" height="47" width="128"/></media>
+          </figure>
+        </para>
+        <para id="id6156427">Các yếu tố làm giảm tuổi thọ ô tô: nguyên nhân cơ bản là sự mài mòn các chi tiết trong các cụm của ô tô, tức là sự phá hủy các bề mặt làm việc của các chi tiết, đưa kích thước chi tiết đến giá tri giới hạn..</para>
+        <para id="id6156442">Nếu điều kiện bảo dưỡng kỹ thuật tốt thì sự mài mòn các chi tiết xảy ra theo đúng qui luật được qui định của nhà chế tạo, tăng thời hạn giữa hai lần sửa chữa (theo đồ thị mài mòn) và ngược lại.</para>
+        <para id="id6720739">Khi mài mòn xảy ra mạnh, có thể xảy ra sự cố trong sử dụng làm giảm độ tin cậy của xe. Tuy nhiên, sự cố của xe còn do:</para>
+        <para id="id6720750">- Cấu tạo hợp lý của ô tô.</para>
+        <para id="id6720756">- Hệ số bền của các chi tiết.</para>
+        <para id="id6720763">- Chất lượng các nguyên vật liệu chế tạo chi tiết.</para>
+        <para id="id6720771">- Phương pháp gia công. </para>
+        <para id="id6720778">Đối với từng chi tiết mài mòn do những nguyên nhân:</para>
+        <table id="id6720784" summary="">
+          <tgroup cols="2">
+            <colspec colnum="1" colname="c1"/>
+            <colspec colnum="2" colname="c2"/>
+            <tbody>
+              <row>
+                <entry>- Tính chất lý hóa của các vật liệu chế tạo.- Chất lượng bề mặt làm việc của các chi tiết. - Áp suất riêng trên bề mặt.- Tốc độ chuyển động tương đối. - Nhiệt độ chi tiết.- Khôi lượng, chất lượng dầu bôi trơn, phương pháp bôi trơn.</entry>
+                <entry><media id="id1172738130808" alt=""><image src=".png" mime-type="image/png"/></media>Hnh 2.1. Qui luật hao mòn trục, lỗ.LỗTrục</entry>
+              </row>
+            </tbody>
+          </tgroup>
+        </table>
+      </section>
+      <section id="id-617306201716">
+        <title>Ảnh hưởng của nhân tố thiết kế chế tạo</title>
+        <para id="id5944078">- Cấu tạo: bảo đảm tính hợp lý kết cấu. Ví dụ: góc lượn, mép vát, đặt van hằng nhiệt khống chế nhiệt độ nước lúc khởi động, (độ nung nóng giảm 3 ÷ 4 lần và độ mài mòn tăng 6 ÷ 8 lần so với khi không có van). Chọn kết cấu hợp lý để đảm bảo điều kiện bôi trơn (khi nhiệt độ &lt; 800C mài mòn tăng là do: không đủ độ nóng để hình thành màng dầu bôi trơn, do có chất ngưng tụ). Xupáp tự xoay, hoặc trong có chứa Natri để tản nhiệt tốt, con đội thuỷ lực tự động điều chỉnh khe hở nhiệt xupáp.</para>
+        <para id="id5944113">- Chọn vật liệu: vật liệu chế tạo phải đảm bảo tính năng kỹ thuật phù hợp với điều kiện làm việc. Tương quan tính chất vật liệu của hai chi tiết tiếp xúc nhau, phải phù hợp với khả năng thay thế và giá thành chế tạo. Phải sử dụng hợp lý của các yếu tố ảnh hưởng đến chi tiết sử dụng. Ví dụ: tấm ma sát li hợp nếu khó mòn thì sẽ khó tản nhiệt dẫn đến tăng mài mòn vì nhiệt lên (vận tốc trượt).</para>
+        <para id="id5663361">Ví dụ: </para>
+        <para id="id5663367">+ Dùng gang hợp kim có độ bền cao hoặc vật liệu Crôm-Niken để chế tạo phần trên của ống lót xi lanh.</para>
+        <para id="id5663377">+ Dùng vật liệu chế tạo bánh răng có độ chống mòn, chống mỏi cao.</para>
+        <para id="id5663386">+ Thay thế một số bạc lót kim loại bằng bạc chất dẻo không cần bôi trơn.</para>
+        <para id="id5663395">- Phương pháp gia công: phải đáp ứng được điều kiện làm việc. Ví dụ: mạ, thấm Cr, Ni...</para>
+      </section>
+      <section id="id-193654064866">
+        <title>Ảnh hưởng của nhân tố sử dụng</title>
+        <para id="id5663412">- Điều kiện đường xá: theo tình trạng mặt đường, độ nghiêng, độ dốc, mật độ xe cộ, độ bụi bẩn...</para>
+        <para id="id6873521">Khi đường xấu xe phải chạy với nhiều tốc độ khác nhau làm cho phạm vi thay đổi tốc độ quay của các chi tiết lớn, rung xóc nhiều, tăng số lần sử dụng côn, phanh, chuyển số làm tăng mài mòn, tăng tải trọng động. Khi đường xá xấu, yêu cầu phải sử dụng ở tay số thấp, tuy tốc độ quay giảm, giảm khả năng bôi trơn, nhưng ảnh hưởng mài mòn ít hơn của tải trọng động. Mặt dù, suất tiêu hao nhiên liệu có tăng lên.</para>
+        <para id="id6873536">Tránh thay đổi ga đột ngột vì dễ làm xấu quá trình cháy, nhiên liệu cháy không hết, tạo thành nhiên liệu lỏng, rửa sạch màng dầu bôi trơn xi lanh làm tăng mài mòn xi lanh. </para>
+        <para id="id6873549">Va đập tăng làm tăng áp suất riêng phần, mài mòn tăng</para>
+        <para id="id6873557">Bụi bẩn nếu lọc không tốt, nhanh chóng làm giảm tuổi thọ các chi tiết của động cơ. Cát bụi bám vào các chi tiết của hệ thống truyền lực, giảm chấn (treo) làm mòn nhanh.</para>
+        <para id="id6873570">Đường dốc núi, tăng số lần phanh, mòn tăng, hiệu quả phanh giảm (5÷10 lần). Ngoài ra, đường nghiêng dốc làm biến dạng lốp, tuổi thọ có thể giảm xuống 3 ÷4 lần.</para>
+        <para id="id6554566">- Điều kiện khí hậu: đặc trưng: nhiệt độ trung bình không khí, độ ẩm, gió, áp suất khí quyển.</para>
+        <table id="id6554580" summary="">
+          <tgroup cols="2">
+            <colspec colnum="1" colname="c1"/>
+            <colspec colnum="2" colname="c2"/>
+            <tbody>
+              <row>
+                <entry>Nhiệt độ thấp: khó khởi động, độ nhớt dầu bôi trơn tăng, áp suất phun nhiên liệu thay đổi, nhiên liệu cháy không hết, công suất giảm, mài mòn tăng.Van hằng nhiệt có ý nghĩa quan trọng ở vùng nhiệt độ thấp.</entry>
+                <entry>t0Độ mòn85Hình 2.2. Ảnh hưởng của nhiệt độ đến hao mòn</entry>
+              </row>
+            </tbody>
+          </tgroup>
+        </table>
+        <para id="id5920296"/>
+        <para id="id5920302">Đối với nước ta: nhiệt độ cao, độ ẩm lớn do đó thoát nhiệt khó khăn. Nước sôi khi xe chạy tải lớn, nóng máy, kích nổ, bỏ máy làm cho công suất động cơ giảm rõ rệt. Độ nhớt dầu bôi trơn giảm làm mài mòn tăng. Độ ẩm cao tăng khả năng ô xi hóa, tuổi thọ giảm.</para>
+        <para id="id5920319">Chế độ làm việc: đặc trưng bởi tốc độ chuyển động, số lần sang số, dừng lại, phanh.</para>
+        <para id="id5920333">Tốc độ chuyển động: phụ thuộc đường xá, tải trọng.</para>
+        <para id="id6298251">- Tải trọng tăng quá mức qui định làm áp suất riêng tăng, tăng mài mòn chi tiết. Đặc biệt tuổi thọ lốp, hệ thống treo giảm nhanh.</para>
+        <para id="id6298262">Số lần chuyển đổi tốc độ tăng dẫn đến tăng mài mòn ổ đỡ, giảm khả năng bôi trơn bề mặt ma sát.</para>
+        <para id="id6298273">Trình độ lái xe: lái xe giỏi tránh được tải trọng động do điều kiện đường, khoảng thay đổi tốc độ không đáng kể. Trình độ lái xe đánh giá qua:</para>
+        <para id="id6298285">- Phương pháp tăng tốc sao cho lăn trơn nhờ quán tính.</para>
+        <para id="id6298293">- Sử dụng tay ga hợp lý (tải động cơ), kết hợp sử dụng ga và quán tính.</para>
+        <para id="id6298301">Thực nghiệm cho thấy, phương pháp thứ nhất tiết kiệm 5 ÷ 6% nhưng tốc độ xe thường xuyên thay đổi (nhất là khi động cơ không làm việc), mài mòn tăng 20 ÷ 28%</para>
+        <para id="id6298314">- Khả năng xử trí các sự cố trên đường, giữ vững tốc độ xe hợp lý, việc chuyển tay số, dùng ly hợp, phanh, ga ít nhất sao cho xe chạy êm thì tiêu hao nhiên liệu nhỏ nhất.</para>
+        <para id="id6553569">Với lái xe giỏi phải kết hợp chăm sóc bảo dưỡng tốt thì sẽ kéo dài thời kỳ giữa hai lần sửa chữa và có thể tiết kiệm đến 20%.</para>
+        <para id="id6553580">Chất lượng bảo dưỡng kỹ thuật và kỳ sửa chữa trước:</para>
+        <para id="id6553591">Sử dụng tốt các biện pháp kiểm tra và tổ chức trong bảo dưỡng kỹ thuật nhằm chuẩn bị tốt điều kiện làm việc của xe, nâng cao độ bền chi tiết, tăng tuổi thọ xe. Khi trong quá trình sử dụng không được chăm sóc dầu mỡ, điều chỉnh kịp thời thì mài mòn sẽ tăng nhanh đột ngột, dẫn đến phá hỏng: gãy, vỡ, mất an toàn kéo theo phá hỏng nhiều chi tiết khác.</para>
+        <para id="id6553607">Ví dụ: dầu nhờn tới thời hạn thay mà vẫn dùng thì sẽ dẫn đến điều kiện bôi trơn không đảm bảo, lột bạc, cong vênh, thậm chí đập vỡ cả thân máy.</para>
+        <para id="id6553619">Trục then hoa không bảo dưỡng tốt làm mài mòn, rơ, lệch trục các đăng, sinh gãy trục.</para>
+        <para id="id6553628">Để đảm bảo độ tin cậy và tuổi thọ động cơ, ô tô nhất thiết phải tuân thủ các qui tắc bảo dưỡng kỹ thuật.</para>
+        <para id="id6749189">Ví dụ: trong quá trình làm việc khe hở má vít bạch kim của bộ chia điện bị thay đổi so với tiêu chuẩn làm thay đổi góc đánh lửa sớm, tăng tiêu hao nhiên liệu, công suất động cơ giảm.</para>
+        <para id="id6749202">Khi góc đánh lửa sớm thay đổi 20 ÷ 500 thì tiêu hao nhiên liệu tăng 10÷ 15% công suất giảm 7 ÷ 10 %.</para>
+        <para id="id6749218">Hỗn hợp cháy loãng thì mài mòn xi lanh tăng 2,5 ÷ 3 lần</para>
+        <para id="id6749226">Áp suất lốp không đủ, tăng biến dạng, mòn nhanh.</para>
+        <para id="id6749232">Sử dụng nhiên liệu -nguyên liệu:</para>
+        <para id="id6749242">Đối với nhiên liệu: tính chất lý hóa của nhiên liệu đặc trưng cho khả năng sử dụng của nhiên liệu đó.</para>
+        <para id="id6749248">Khi sử dụng nhiên liệu không đúng sẽ tăng mức tiêu hao nhiên liệu, công suất động cơ giảm, tăng mài mòn động cơ.</para>
+        <para id="id6577910">Đối với xăng: đánh giá qua thành phần phân đoạn (bay hơi). Trị số ốc tan.</para>
+        <para id="id6577917">Đối với dầu diesel: đánh giá qua thành phần phân đoạn. Khả năng tự bốc cháy. Độ nhớt nhiên liệu. Trị số xê tan của nhiên liệu.</para>
+        <para id="id6577926">Đối với nhiên liệu xăng:</para>
+        <para id="id6577934">- Thành phần phân đoạn X, độ tin cậy khởi động, thời gian làm nóng động cơ, tính kinh tế và sự mài mòn động cơ. Nhiên liệu bay hơi kém, động cơ sẽ khó khởi động, tăng tiêu hao nhiên liệu. Phần nhiên liệu không bay hơi sẽ rửa màng dầu, phá vỡ khả năng bôi trơn làm mài mòn nhóm piston - xi lanh - séc măng dữ dội.</para>
+        <para id="id6577950">- Nếu giảm nhiệt độ bay hơi cuối cùng của xăng, cấp xăng khó khăn do có bọt khí, động cơ làm việc gián đoạn.</para>
+        <para id="id6577960">- Dùng xăng có trị số ốc tan sai tiêu chuẩn, sẽ gây kích nổ, tăng mài mòn động cơ, động cơ nóng lên dữ dội.</para>
+        <para id="id6577971">- Dùng xăng có thành phần S lớn thì mài mòn do ô xi hóa tăng. Nếu S tăng 0,05 ÷ 0,35 thì mài mòn sẽ tăng lên 3 lần.</para>
+        <para id="id5869873">Đối với dầu Diesel:</para>
+        <para id="id5869880">Khi độ nhớt nhỏ thì góc phun nhiên liệu sẽ lớn, quá trình hình thành hỗn hợp kém làm quá trình cháy xấu.</para>
+        <para id="id5869891">Khi độ nhớt tăng thì góc phun nhỏ, cháy kém, cháy rớt, công suất giảm.</para>
+        <para id="id5869899">Trị số cê tan nhỏ hơn qui chuẩn sẽ xấu khả năng tự bốc cháy, quá trình cháy kéo dài, nóng máy, công suất giảm.</para>
+        <para id="id5869910">Thành phần nhiên liệu nhiều hắc ín, gây bám muội, bó kẹt séc măng, hao mòn xi lanh, không đảm bảo kín, công suất giảm.</para>
+        <para id="id5869920">Đối với dầu bôi trơn: dầu duy trì điều kiện ma sát ướt, hạn chế mài mòn bề mặt làm việc của chi tiết tiếp xúc nhau.</para>
+        <para id="id5404897">Chiều cao nhỏ nhất của màng dầu:</para>
+        <para id="id5869930">
+          <figure id="id5404907">
+            <media id="id1172736225168" alt=""><image src="graphics26.wmf" mime-type="image/wmf" height="46" width="89"/></media>
+          </figure>
+        </para>
+        <para id="id5404931">A-hệ số phụ thuộc kích thước chi tiết tiếp xúc.</para>
+        <para id="id5404939">-độ nhớt tuyệt đối của dầu.</para>
+        <para id="id5404952">v-vận tốc tương đối của chi tiết.</para>
+        <para id="id5404960">p-áp suất riêng trên bề mặt chi tiết làm việc.</para>
+        <para id="id6586928">Theo kinh nghiệm:</para>
+        <para id="id6586934">hmin ≥ 1,5(1 + 2).</para>
+        <para id="id6586967">1, 2-độ gồ ghề lớn nhất của hai bề mặt ma sát</para>
+        <para id="id5875475">Hệ số ma sát ướt phụ thuộc nhiều vào <media id="id1172743029319" alt=""><image src="graphics27.wmf" mime-type="image/wmf" height="46" width="29"/></media> điều kiện hình thành màng dầu ứng với từng loại dầu.</para>
+        <para id="id5875513">Ảnh hưởng chế độ tải trọng:</para>
+        <para id="id5875522">Khi thường xuyên sử dụng tải trọng lớn, gây ra quá tải đối với các chi tiết trong cụm, làm cho tuổi thọ các chi tiết giảm nhanh.</para>
+        <para id="id5875533">- Nếu không đảm bảo tương quan giữa tải trọng và tốc độ (tỷ số truyền lực) theo như đặc tính động lực học ô tô, thì khả năng mài mòn tăng lên, tuổi thọ ô tô giảm. Do đó, phải thường xuyên bảo đảm tốc độ chuyển động hợp lý của ô tô, vừa đảm bảo tuổi thọ, vừa giảm tiêu hao nhiên liệu, tăng tính kinh tế. </para>
+      </section>
+    </section>
+  </content>
+</document>

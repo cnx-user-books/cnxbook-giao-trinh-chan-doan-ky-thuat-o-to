@@ -1,0 +1,567 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:md="http://cnx.rice.edu/mdml">
+  <title>Tháo và lắp, chạy rà, thử xe</title>
+  <metadata>
+  <md:content-id>m30787</md:content-id><md:title>Tháo và lắp, chạy rà, thử xe</md:title>
+  <md:abstract>Tháo lắp, chạy rà và thử xe</md:abstract>
+  <md:uuid>bf75453c-bf21-481b-ada1-babd0661c459</md:uuid>
+</metadata>
+
+<content>
+    <para id="id6794875">KHÁI NIỆM VỀ THÁO VÀ LẮP XE</para>
+    <section id="id-683292309919">
+      <title>Yêu cầu tháo và lắp</title>
+      <section id="id-246065899125">
+        <title>a. Tháo</title>
+        <para id="id6794895">- Quy trình tháo xe, tháo cụm phải hợp lý nhất nhằm đảm bảo năng suất và chất lượng tháo;</para>
+        <para id="id6794903">- Phải đảm bảo an toàn cho chi tiết tháo, tăng tính kinh tế sửa chữa;</para>
+        <para id="id6794911">- Phải cơ giới hoá, tự động hoá, cải tiến dụng cụ tháo để giải phóng lao động nặng nhọc và để tăng năng suất lao động.</para>
+      </section>
+      <section id="id-39891668842">
+        <title>b. Lắp</title>
+        <para id="id6794929">Quy trình lắp chặt chẽ hơn quy trình tháo.</para>
+        <para id="id6794935">- Là khâu quyết định chất lượng cụm máy, xe vì nó phải đảm bảo độ chính xác lắp ghép, vị trí tương quan giữa các bề mặt lắp ghép (khe hở, độ dôi, độ song song, độ vuông góc...);</para>
+        <para id="id6794948">- Phải đảm bảo quy trình lắp hợp lý, để đạt độ chính xác cao, năng suất cao. </para>
+        <para id="id6794956">- Phải có các nguyên công kiểm tra chặt chẽ ở từng công đoạn lắp, sử dụng nhiều dụng cụ kiểm tra;</para>
+        <para id="id6794965">- Khối lượng lao động nhiều hơn khi tháo, với trình độ tay nghề, kinh nghiệm cao hơn;</para>
+        <para id="id6794973">- Sử dụng nhiều dụng cụ, thiết bị, đồ gá...</para>
+        <para id="id6794979">Nếu lắp không tốt chất lượng của cụm máy, xe sẽ thấp, tăng hao mòn. Thậm chí có trường hợp phải tháo ra lắp lại.</para>
+      </section>
+    </section>
+    <section id="id-476855898566">
+      <title>Công việc tháo và lắp</title>
+      <section id="id-0667100728855">
+        <title>a. Tháo</title>
+        <para id="id6795006">Nguyên tắc tháo</para>
+        <para id="id6795011">- Những thiết bị bao che, thiết bị điện phải tháo trước;</para>
+        <para id="id6795019">- Tháo từ ngoài vào trong;</para>
+        <para id="id6502412">- Dụng cụ tháo phải được qui định cho từng bước tháo;</para>
+        <para id="id6502420">- Quá trình tháo nên tiến hành phân loại ngay chi tiết được tháo ra, vì nếu không tổ chức tốt thì sau đó rất mất thời gian để tìm kiếm;</para>
+        <para id="id6502431">- Cấm không dùng búa, đục để tháo chi tiết. Nếu các chi tiết bị han rỉ khó tháo thì tẩm dầu hoả, dầu Diesel ngâm một thời gian mới tháo.</para>
+        <para id="id6502443">Các bước công nghệ trong dây chuyền tháo:</para>
+        <para id="id6502449">- Tháo sơ bộ:</para>
+        <para id="id6502455">+ Đối với toàn xe: cabin, thùng bệ, che chắn, thiết bị điện...</para>
+        <para id="id6502463">+ Đối với cụm,ví dụ:</para>
+        <para id="id6502470"> Động cơ: tháo máy nén, bơm nước, quạt gió, bơm trợ lực lái, bầu lọc dầu, cácte dầu, bơm dầu, nắp che dàn xu páp, nắp bánh đà...</para>
+        <para id="id6502481"> Hộp số: nắp hộp số, nút dầu.</para>
+        <para id="id6502488"> Cầu sau: nắp cácte dầu, bán trục, nút dầu.</para>
+        <para id="id6502496">Trục trước: nắp moayơ bánh xe.</para>
+        <para id="id6502503">Mục đích của việc tháo sơ bộ là để rửa sạch trước khi tháo chi tiết.</para>
+        <para id="id6502511">- Tháo chi tiết: tháo cụm ra khỏi xe, tháo chi tiết ra khỏi cụm. Công việc được tiến hành ở các bộ phận tháo.</para>
+      </section>
+      <section id="id-874102386799">
+        <title>b. Lắp</title>
+        <para id="id6502530">Nguyên tắc lắp:</para>
+        <para id="id6502535">- Lắp từ trong ra ngoài (ngược với quy trình tháo);</para>
+        <para id="id6502543">- Qui định dụng cụ lắp, dụng cụ kiểm tra và kiểm tra cho mỗi bước lắp. Ví dụ: các khe hở ghép nối, khe hở xu páp, khe hở cụm truyền động, khe hở bạc trục...</para>
+        <para id="id6502555">- Theo đúng mômen siết bu lông đã được qui định. Ví dụ: bu lông thanh truyền, ổ trục chính, nắp máy, trục khuỷu - bánh đà...</para>
+        <para id="id6502566">- Kiểm tra độ kín khít các mối ghép (xu páp - đế), độ trơn tru của các mối ghép (piston- xi lanh...).</para>
+        <para id="id6502576">- Theo đúng qui định các biện pháp an toàn mối ghép: đệm vênh, chốt chẻ, dây buộc...</para>
+        <para id="id6664368">- Phải đảm bảo vệ sinh sạch sẽ trước mỗi công đoạn lắp ráp: rửa, xì nước, xì khí nén;</para>
+        <para id="id6664378">Các bước công nghệ trong dây chuyền lắp:</para>
+        <para id="id6664384">+ Chuẩn bị-sắp bộ: lựa sẵn những chi tiết sẽ lắp cho cụm máy đó;</para>
+        <para id="id6664392">+ Cân bằng tĩnh, động các chi tiết quay: trục khuỷu, bánh đà, quạt gió, puli...</para>
+        <para id="id6664401">+ Cân bằng khối lượng nhóm piston.</para>
+        <para id="id6664408">+ Chọn lắp: lựa chọn những chi tiết được sử dụng lại mà khe hở nhỏ</para>
+        <para id="id6664417">+ Chuẩn bị dụng cụ lắp và dụng cụ kiểm tra</para>
+        <para id="id6664425">+ Những nhóm chi tiết có thể lắp trước thì lắp trước, ví dụ: nhóm piston- séc măng- thanh truyền.</para>
+      </section>
+    </section>
+    <section id="id-57488458989">
+      <title>LẮP ĐỘNG CƠ</title>
+      <section id="id-884308801215">
+        <title>Công việc chuẩn bị</title>
+        <para id="id6664451">Các công việc chuẩn bị lắp phụ thuộc vào phương pháp sửa chữa riêng xe hay đổi lẫn, cách tổ chức sản xuất theo vị trí cố định hay theo dây chuyền...Những nội dung chính của công việc chuẩn bị gồm:</para>
+        <para id="id6664466">- Sắp bộ chi tiết;</para>
+        <para id="id6664472">- Kiểm tra điều chỉnh khối lượng và cân bằng tĩnh, động các chi tiết;</para>
+        <para id="id6664481">- Lắp trước một số nhóm chi tiết có yêu cầu lắp riêng.</para>
+        <section id="id-279420539744">
+          <title>a. Sắp bộ chi tiết</title>
+          <para id="id6664496">- Thống kê và giao nhận đầy đủ các chi tiết sẽ được đưa vào lắp cho một động cơ. Chú ý rằng, nếu không có điều gì đặc biệt thì các chi tiết chính của động cơ nào lắp lại cho động cơ đó (ví dụ: thân máy, trục khuỷu, bánh đà, trục cam, thanh truyền...) do đó trong khi tháo rửa và kiểm tra chúng thường được đánh dấu bằng sơn để khỏi lẫn với chi tiết cùng loại của động cơ khác.</para>
+          <para id="id6664512">- Chọn lắp những chi tiết được phép dùng lại mà không qua sửa chữa (khi áp dụng cách sửa chữa đổi lẫn chi tiết), ví dụ: chọn các con đội xu páp với lỗ dẫn hướng con đội, bu lông bánh đà với lỗ bu lông trên bánh đà đảm bảo khe hở lắp ghép giữa chúng. Chọn chiều dày đệm nắp máy mới theo độ nhô của piston trong xi lanh để có tỷ số nén theo thiết kế.</para>
+          <para id="id6664528">- Chế tạo các gioăng đệm, thông thường bằng bìa cáctông hoặc amiăng.</para>
+          <para id="id6733444">- Nhận các phụ kiện trong hệ thống nhiên liệu, bôi trơn, làm mát, khởi động...đã được sửa chữa hoàn chỉnh tại các bộ phận sửa chữa riêng.</para>
+          <para id="id6664534">- Sắp xếp toàn bộ các chi tiết trên một khay hoặc bàn lắp để bàn giao cho thợ lắp máy.</para>
+        </section>
+        <section id="id-898607050323">
+          <title>b. Kiểm tra điều chỉnh khối lượng và cân bằng tĩnh, động các chi tiết</title>
+          <para id="id6733474">Các chi tiết chuyển động quay như bánh đà, trục khuỷu trong quá trình sửa chữa phải mài cổ trục nên cần được kiểm tra cân bằng tĩnh và cân bằng động trong trạng thái lắp ghép chúng. Độ không cân bằng động cho phép tuỳ thuộc vào kết cấu và kích thước của trục đã được nhà chế tạo qui định cụ thể. Đối với động cơ nhiều xi lanh, nhóm các chi tiết piston - sécmăng - thanh truyền cần phải được cân bằng khối lượng. Khi có sự chênh lệch vượt quá giới hạn cho phép có thể lấy bớt kim loại bằng cách khoan hay phay ở những vùng không quan trọng (như phần chân piston...) </para>
+        </section>
+        <section id="id-652005201464">
+          <title>c. Lắp trước một số nhóm chi tiết có yêu cầu lắp riêng.</title>
+          <para id="id6733515">Một số chi tiết đòi hỏi có xử lý đặc biệt trước khi lắp như luộc, dùng máy ép... được lắp trước tại khâu chuẩn bị. Công việc này thường là: lắp chốt piston - thanh truyền, lắp xu páp vào nắp máy, ép bánh răng trục khuỷu, lắp bộ ly hợp.</para>
+          <para id="id6733531">Cần lưu ý trong khi gia công cơ các chi tiết này được lấy kích thước theo từng xi lanh hoặc cổ trục hay được rà thành bộ nên phải chọn lắp đúng theo dấu.</para>
+        </section>
+      </section>
+      <section id="id-651763692719">
+        <title>Trang thiết bị tháo-lắp</title>
+        <para id="id6733553">Trang thiết bị dùng cho lắp ráp có ảnh hưởng trực tiếp đến năng suất và chất lượng của việc lắp. Những thiết bị này bao gồm: </para>
+        <para id="id6733564">- Các giá lắp động cơ;</para>
+        <para id="id6733570">- Bàn hoặc giá để chi tiết lắp;</para>
+        <para id="id6733576">- Các loại vam hoặc dụng cụ chuyên dùng để tháo lắp những mối ghép dôi;</para>
+        <para id="id6733584">- Các dụng cụ kiểm tra khi lắp;</para>
+        <para id="id6733589">- Các loại dụng cụ lắp vạn năng và đặc biệt những dụng cụ dành cho những vị trí lắp khó...</para>
+        <section id="id-626544946693">
+          <title>Giá lắp động cơ.</title>
+          <para id="id6733606">Do yêu cầu phải xoay trở được động cơ ở các tư thế bất kỳ (lật nghiêng trái, nghiêng phải, lật ngửa...) tạo thuận tiện cho việc lắp, các giá lắp đều được thiết kế theo nguyên tắc động. Với các động cơ có khối lượng lớn (động cơ diesel lắp trên xe tải), giá lắp động cơ có kết cấu rất đơn giản song rất hiệu quả, hình 7.1. Giá lắp gồm hai khung ghép từ hai nửa vành tròn 2 và 4, được liên kết bằng các thanh giằng ngang 10 tạo thành một cặp bánh xe vững chắc. Khung này được lăn trên các con lăn 9 gắn trên đế khung 1 và được hãm lại tại một số vị trí bằng chốt hãm 7. Động cơ được đặt trên đòn ngang 10, kẹp chặt động cơ bằng cơ cấu kẹp 5. Do khung có thể lăn tròn, vì vậy tạo được các vị trí bất kỳ của động cơ thuận tiện cho quá trình lắp.</para>
+          <para id="id6733611">Đối với động cơ ô tô du lịch, giá lắp gồm 1 hộp số kiểu trục vít 2, gắn trên trụ đứng của bàn lắp, hình 7.2. Trục ra của bánh vít được ghép chặt mặt bích 4 có khoan các lỗ với hộp che bánh đà động cơ (mặt lắp ghép với hộp số ô tô). Khi quay trục vít bằng tay quay 3, sẽ xoay được động cơ tại mọi vị trí mà không cần phải có vít định vị do tính tự hãm của cặp bánh vít trục vít. Vì động cơ lắp trên giá theo kiểu công sôn nên phải lắp đầy đủ các ốc bắt với mặt bích của giá và cần thận trọng khi dùng lực lớn.</para>
+          <para id="id6733616">
+        ***SORRY, THIS MEDIA TYPE IS NOT SUPPORTED.***
+      Hình 7.1. Giá lắp động cơ có khối lượng nặng1-Đế khung; 2-nửa khung dưới; 3-bu lông kẹp; 4-nửa khung trên; 5-giá di động kẹp động cơ; 6-vít kẹp; 7-chốt hãm trục con lăn; 9-con lăn tì; 10-thanh ngang. </para>
+          <table id="id6917836" summary="">
+            <tgroup cols="2">
+              <colspec colnum="1" colname="c1"/>
+              <colspec colnum="2" colname="c2"/>
+              <tbody>
+                <row>
+                  <entry><media id="id1172475728677" alt=""><image src="../../media/graphics1.jpg" mime-type="image/jpeg"/></media>Hình 7.3. Vam ép xi lanh ướt1-Bích ép; 2-tay đòn ép; 3-đầu lắp bích ép; 4-vít bắt đồ gá ép lên thân</entry>
+                  <entry><media id="id7433192" alt=""><image src="../../media/graphics2-083f.jpg" mime-type="image/jpeg"/></media>Hình 7.2. Giá lắp động cơ nhẹ1-bánh xe; 2-hộp trục vít; 3-tay quay; 4-bích lắp động cơ; 5-tay hãm động cơ</entry>
+                </row>
+              </tbody>
+            </tgroup>
+          </table>
+          <para id="id5685055">Bích ép 1 của vam được chế tạo với nhiều kích thước khác nhau để thay đổi phù hợp với xi lanh các động cơ. Trước khi ép lót cần kiểm tra độ dôi của gioăng nước so với rãnh lắp gioăng (khoảng 0,5mm là vừa đủ) đồng thời bôi một lớp mỡ lên bề mặt gioăng cho an toàn và dễ ép.</para>
+        </section>
+        <section id="id-0945422054212">
+          <title>Dụng cụ kiểm tra độ dôi lót xi lanh</title>
+          <para id="id5685079">Sau khi ép xong các lót xi lanh, cần kiểm tra độ dôi và độ song song của mặt đầu lót xi lanh với mặt phẳng thân máy. Đồ gá kiểm tra được giới thiệu trên hình 7.4.</para>
+          <table id="id5685091" summary="">
+            <tgroup cols="2">
+              <colspec colnum="1" colname="c1"/>
+              <colspec colnum="2" colname="c2"/>
+              <tbody>
+                <row>
+                  <entry><media id="id1172477455763" alt=""><image src="../../media/graphics3-6e05.jpg" mime-type="image/jpeg"/></media>Hình 7.4 Đồ gá kiểm tra độ dôi của lót xi lanh ướt</entry>
+                  <entry><media id="id1172477461217" alt=""><image src="../../media/graphics4-de42.jpg" mime-type="image/jpeg"/></media>Hình 7.5 Căn lót xi lanh</entry>
+                </row>
+              </tbody>
+            </tgroup>
+          </table>
+          <para id="id7007587">Đồ gá gồm một mặt bích phẳng có bậc định vị vào lỗ xi lanh, dưới đáy mặt bích có tiện rãnh sâu 2mm để không chạm vào phần nhô lên của vai lót. Phía trên lỗ rãnh lắp hai đồng hồ so có chân tỳ vào vai lót để đo độ dôi, chênh lệch trị số của hai đồng hồ cho ta độ không song song của mặt đầu lót xi lanh so với thân.</para>
+          <para id="id7007606">Khi độ dôi không đảm bảo, cần phải điều chỉnh bằng cách thêm bớt căn dưới vai lót. Hình 7.5 giới thiệu đệm điều chỉnh độ dôi vai lót xi lanh.</para>
+        </section>
+        <section id="id-433216422608">
+          <title>Đồ gá lắp trục khuỷu - bánh đà</title>
+          <table id="id7007626" summary="">
+            <tgroup cols="2">
+              <colspec colnum="1" colname="c1"/>
+              <colspec colnum="2" colname="c2"/>
+              <tbody>
+                <row>
+                  <entry>Trục khuỷu, bánh đà trên động cơ ô tô là các chi tiết nặng, cần mô men siết lớn, thông thường 2 chi tiết này được lắp với nhau sau đó lắp cả khối lên thân máy. Đối với động cơ diesel của xe tải nặng, có trường hợp trục khuỷu lại được lắp trước lên thân rồi mới lắp bánh đà lên trục. Để bảo đảm an toàn và thuận tiện khi lắp nhóm trục khuỷu-bánh đà, nên sử dụng giá lắp như hình 7.6. Bộ phận gá trục của giá có thể xoay để trục có thể ở vị trí thẳng đứng hoặc ở vị trí nằm ngang, điều này rất cần khi tháo lắp các nút bịt trên đường dầu ở chốt khuỷu. Trục khuỷu được định vị và kẹp chặt trên giá bằng khối V 1 và 4 ở trên cổ chính hai đầu. Ngoài ra có cơ cấu tỳ 2 được điều chỉnh bằng tay quay 10 tì sát vào một chốt khuỷu để chống xoay cho trục. Giá lắp có hệ thống chân đế 9 cho phép lắp cố định trên sàn xưởng bằng bu lông chôn chìm.</entry>
+                  <entry><media id="id1172483589169" alt=""><image src="../../media/graphics5-62ee.jpg" mime-type="image/jpeg"/></media>Hình 7.6 Gá lắp trục khuỷu và bánh đà1,4-các khối V định vị và kẹp trục; 2-cơ cấu tỳ chống xoay; 3-ổ tỳ mặt đầu; 5-dầm xoay; 6-thanh đỡ dầm; 7-bu lông hãm dầm ở vị trí thẳng đứng; 8-ổ tỳ cao su; 9-chân đế; 10-tay quay điều chỉnh cơ cấu chống xoay; chốt hãm dầm ở vị trí nằm ngang.</entry>
+                </row>
+              </tbody>
+            </tgroup>
+          </table>
+          <para id="id7007754">Sau khi lắp hoàn chỉnh, trục khuỷu bánh đà được đưa lên lắp với thân máy. Để phát hiện độ nặng nhẹ của các cổ trục, lần lượt lắp từ cổ giữa ra và siết chặt từng cổ, sau đó quay thử trục vài vòng. Nếu cổ nào bị nặng phải tháo bạc rà lại. Trước khi lắp cần bôi dầu nhờn sạch lên bề mặt bạc. Về nguyên tắc các khe hở giữa trục và bạc đã được đảm bảo khi gia công cơ, tuy nhiên do ảnh hưởng của độ cong trục và độ không đồng tâm dãy lỗ khi doa, mài, nên có thể xuất hiện hiện tượng chạm sát bề mặt trục với thành ổ (đặc biệt ở cổ giữa hay cổ đầu) mặt dù khe hở riêng từng cổ vẫn có. Trong trường hợp này nên dùng phương pháp kẹp chì để kiểm tra khe hở các ổ trục khi lắp ráp. Để kiểm tra, trước khi lắp nắp sẽ đặt lên từng cổ trục một đoạn dây chì hoặc dây chất dẻo có đường kính lớn gắp 2 lần khe hở cho phép. Sau đó lắp tất cả các nắp và siết chặt đến mô men qui định. Tháo các nắp, gỡ sợi dây đã bị cán mỏng ra đo bề dày của từng sợi ứng với các ổ bằng pan-me, ghi lại kết quả như là một hồ sơ để theo dõi trong quá trình động cơ làm việc sau này.</para>
+          <para id="id7007758">Đồng thời với việc kiểm tra khe hở ổ trục chính, cần phải kiểm tra khe hở dọc trục bằng căn lá hay đồng hồ so. Dùng tay đòn bẩy trục dịch dọc để kiểm tra khe hở. Nếu khe hở không đạt phải xử lý căn rơ dọc (mài bớt căn nếu khe hở quá bé hoặc hàn đắp thêm nếu khe hở quá lớn).</para>
+        </section>
+        <section id="id-879863633632">
+          <title>Dụng cụ tháo lắp nút dầu</title>
+          <table id="id6654193" summary="">
+            <tgroup cols="2">
+              <colspec colnum="1" colname="c1"/>
+              <colspec colnum="2" colname="c2"/>
+              <tbody>
+                <row>
+                  <entry>Nút dầu trên trục khuỷu là một chi tiết khó tháo lắp do có mô men siết lớn và không dùng clê vặn được, ngoài ra vị trí các nút cũng không thuận lợi để thao tác. Đồ gá tháo lắp nút dầu trình bày trên hình 7.7 đã giải quyết được khó khăn trên.Đồ gá có ổ 7 kẹp chặt vào cổ trục nơi có nút dầu cần tháo lắp. Giá tháo 5 được hàn chặt với ổ 7, trên giá lắp vít tháo 1 cùng với ốc tháo 4 có tay quay 2, tấm chặn 3 giữ cho ốc tháo chỉ xoay chứ không tuột ra khỏi giá. Khi tháo đặt đầu vặn 1 vào rãnh xẻ trên nút dầu và quay tay quay 2 cho đầu 1 tiến vào ép chặt với nút dầu, dùng cờ lê vặn vít tháo 1 theo chiều ra hoặc vào, vít tháo sẽ xoay nút dầu ra theo.</entry>
+                  <entry><media id="id1172477255437" alt=""><image src="../../media/graphics6-32c9.jpg" mime-type="image/jpeg"/></media>Hình 7.7 Dụng cụ tháo lắp nút dầu trên trục khuỷu1-vít tháo; 2-tay văn ốc tháo; 3-tấm hãm ốc tháo; 4-ốc tháo; 5-giá tháo; 6,7-hai nữa ổ kẹp.</entry>
+                </row>
+              </tbody>
+            </tgroup>
+          </table>
+        </section>
+        <section id="id-195117834691">
+          <title>Dụng cụ ép chốt piston</title>
+          <table id="id6654314" summary="">
+            <tgroup cols="2">
+              <colspec colnum="1" colname="c1"/>
+              <colspec colnum="2" colname="c2"/>
+              <tbody>
+                <row>
+                  <entry>Khi lắp chốt piston vào thanh truyền và bệ chốt theo kiểu lắp bơi, một biện pháp phổ biến là luộc piston trong nước sôi để cho bệ chốt giãn nở, sau đó dùng tay đẩy chốt xuyên qua lỗ. Làm cách này khá mất thời gian đun nấu. Kiểu dụng cụ chuyên dùng giới thiệu trên hình 7.8 cho phép ép chốt nhanh hơn.Dụng cụ gồm một ống bao có đế cong để ôm lấy bệ chốt. Trong ống lồng trục rút 2 có đường kính đủ để xuyên qua lỗ chốt piston. Một đầu trục rút có ren lắp với vít 3 không cho chốt tuột ra. Phần đầu xuyên qua ống bao có ren lắp với đai ốc 1 có chiều dài ren lớn hơn chiều dài chốt piston khoảng 20mm. Khi đã lồng đầy đủ chốt piston vào trục rút</entry>
+                  <entry><media id="id6677817" alt=""><image src="../../media/graphics7-4ba2.jpg" mime-type="image/jpeg"/></media>Hình 7.8 Dụng cụ ép chốt piston1-đai ốc; 2-trục rút; 3-vít hãm</entry>
+                </row>
+              </tbody>
+            </tgroup>
+          </table>
+          <para id="id5685270">và lồng trục rút qua lỗ bệ chốt cũng như ống bao, dùng clê siết ốc 1 rút trục vào ống bao, nhờ vậy chốt piston cũng được kéo xuyên qua lỗ bệ. </para>
+        </section>
+        <section id="id-684120497654">
+          <title>Đồ gá kiểm tra độ thẳng của nhóm piston- thanh truyền</title>
+          <para id="id5685290">Sau khi lắp nhóm piston- thanh truyền, cần kiểm tra độ vuông góc của piston với đường tâm lỗ đầu to thanh truyền vì nó sẽ ảnh hưởng trực tiếp đến độ thẳng của piston trong xi lanh, nếu độ không vuông góc vượt quá giới hạn phải thực hiện việc nắn lại để tránh làm nghiêng piston trong lỗ xi lanh gây ma sát và mài mòn lớn. Đồ gá kiểm tra giới thiệu trên hình 7.9. Đầu to thanh truyền được lồng vào chốt kẹp định vị 4 của dụng cụ.</para>
+          <table id="id5685306" summary="">
+            <tgroup cols="2">
+              <colspec colnum="1" colname="c1"/>
+              <colspec colnum="2" colname="c2"/>
+              <tbody>
+                <row>
+                  <entry>Thân piston tỳ vào khối V cố định 3, khối V di động 2 có gắn đồng hồ so sẽ chỉ độ không vuông góc của thân piston với lỗ đầu to thanh truyền. Nhiều trường hợp không có đồ gá có thể kiểm tra trực tiếp bằng cách lắp piston thanh truyền (không có séc măng) vào xi lanh và trục khuỷu. Siết chặt nắp ổ thanh truyền với mô men qui định, sau đó dùng căn lá kiểm tra khe hở hai bên của piston với xi lanh theo phương dọc trục khuỷu. Yêu cầu khe hở hai phía của piston và xi lanh chênh lệch nhau không quá 20%.</entry>
+                  <entry><media id="id4811343" alt=""><image src="../../media/graphics8-33a6.jpg" mime-type="image/jpeg"/></media>Hình 7.9 Đồ gá kiểm tra độ thẳng nhóm piston-thanh truyền1-đồng hồ so; 2-khối V di động; 3-khối V cố định; 4-chốt đinh vị và kẹp chặt đầu to thanh truyền</entry>
+                </row>
+              </tbody>
+            </tgroup>
+          </table>
+        </section>
+        <section id="id-249666174249">
+          <title>Dụng cụ lắp séc măng lên piston</title>
+          <table id="id6570759" summary="">
+            <tgroup cols="2">
+              <colspec colnum="1" colname="c1"/>
+              <colspec colnum="2" colname="c2"/>
+              <tbody>
+                <row>
+                  <entry>Trong bộ đồ nghề tháo lắp ô tô, thường có trang bị một kìm lắp séc măng để nong từng séc măng đặt vào rãnh piston. Nhiều khi thợ chỉ cần 4-5 lá căn mỏng cài quanh chu vi séc măng hay dùng tay banh miệng séc măng cũng lắp được. Tuy nhiên các phương pháp này có năng suất thấp hoặc dễ dẫn đến sự cố gãy séc măng (khi lắp bằng tay). Dưới đây giới thiệu một kiểu chụp lắp đơn giản cho phép lắp nhanh và an toàn hơn, hình 7.10Chụm có dạng như một chiếc cốc, phần đầu chụp được làm côn để lồng séc măng một cách dễ dàng, phần dưới chụp được tiện vừa khít với đường kính đầu piston. Khi lắp, đặt chụp lên piston, lồng các séc măng theo thứ tự và rút chụp từ từ lên cao để đẩy các séc măng tụt vào rãnh của nó.</entry>
+                  <entry><media id="id1172476614005" alt=""><image src="../../media/graphics9-545f.jpg" mime-type="image/jpeg"/></media>Hình 7.10 Chụp lắp secmăng1-piston; 2-chụp lắp secmăng </entry>
+                </row>
+              </tbody>
+            </tgroup>
+          </table>
+          <table id="id6570865" summary="">
+            <tgroup cols="2">
+              <colspec colnum="1" colname="c1"/>
+              <colspec colnum="2" colname="c2"/>
+              <tbody>
+                <row>
+                  <entry>Trong các xí nghiệp sửa chữa với số lượng lớn, sử dụng đồ gá bằng thuỷ lực để kẹp các séc măng khi lắp vào piston theo hình 7.11. Có hai kiểu đồ gá với cùng một nguyên tắc hoạt động, ở hình 7.11 a là đồ gá dùng cơ cấu ép thuỷ lực, đồ gá ở hình 7.11 b sử dụng cơ cấu ép bằng tay. Thao tác đồ gá như sau: lồng các séc măng theo đúng vị trí lắp lên piston giả 3, có đường kính bằng đường kính piston thật. Xoay miệng của tất cả các séc măng xuống dưới để cài vào giữa rãnh các tấm kẹp 6. Dùng xi lanh thuỷ lực 8 hay quay tay đòn để ép các tấm 6 kẹp chặt miệng séc măng. Sau đó kéo piston 3 ra ngoài bằng tay hay bằng xi lanh thuỷ lực 1 và đẩy piston thật thế chỗ, cuối cùng nhả cơ cấu kẹp để giải phóng các séc măng vào rãnh piston. Với đồ gá này cho phép nâng cao năng suất lắp nhiều lần.</entry>
+                  <entry><media id="id1172479516464" alt=""><image src="../../media/graphics10-1866.jpg" mime-type="image/jpeg"/></media>Hình 7.11 Đồ gá séc mănga-đồ gá dùng cơ cấu ép thủy lựcb-đồ gá dùng cơ cấu ép bằng tay1,8-các xi lanh thuỷ lực; 2-sécmăng lắp; 3-piston giả; 4-piston lắp; 5-thanh cữ; 6-các tấm kẹp; 7- đòn kẹp; 9-lò xo</entry>
+                </row>
+              </tbody>
+            </tgroup>
+          </table>
+        </section>
+        <section id="id-214118841948">
+          <title>Vòng kẹp séc măng</title>
+          <table id="id6432697" summary="">
+            <tgroup cols="2">
+              <colspec colnum="1" colname="c1"/>
+              <colspec colnum="2" colname="c2"/>
+              <tbody>
+                <row>
+                  <entry>Để lắp nhóm piston-séc măng vào được xi lanh, cần một dụng cụ đơn giản song rất hiệu quả đó là vòng kẹp séc măng. Trước khi kẹp phải xoay miệng 2 séc măng kề nhau lệch một góc từ 120 ÷ 1800 và không được để miệng nằm trên phía bệ chốt nhằm tránh lọt khí. Lồng vòng kẹp quanh tròn toàn bộ các séc măng một cách cân đối. Dùng tay bóp chặt kẹp đồng thời dùng búa cao su gõ quanh chu vi, để cho séc măng khít miệng. Cuối cùng lấy chày gỗ gõ cho piston từ từ vào xi lanh. Trước đó nên dùng dầu nhờn sạch bôi lên bề mặt xi lanh cho dễ lắp và giảm nhẹ ma sát khi quay máy.</entry>
+                  <entry><media id="id2297638" alt=""><image src="../../media/graphics11.png" mime-type="image/png"/></media>Hình 7. 12 Vòng kẹp lắp piston-séc măng vào xi lanh1-xi lanh; 2-vòng kẹp séc măng; 3-piston</entry>
+                </row>
+              </tbody>
+            </tgroup>
+          </table>
+          <para id="id6997206">Hình 7.12 giới thiệu cách lắp piston vào xi lanh bằng vòng kẹp sécmăng (hình vẽ mô tả xi lanh rời, làm mát bằng gió nên nó được lắp từ trên xuống, piston-thanh truyền đã được lắp trước vào trục khuỷu)</para>
+        </section>
+      </section>
+      <section id="id-57095510523">
+        <title>Một số đồ gá, vam tháo, dụng cụ tháo lắp vạn năng</title>
+        <para id="id6997235">Các dụng cụ, đồ gá chuyên dùng có tác dụng rất lớn tới an toàn và năng suất lắp ráp. Nhiều trường hợp không có dụng cụ chuyên dùng sẽ không thể tháo lắp được những chi tiết lắp dôi hay ở những vị trí lắp khó. Dưới đây giới thiệu một số loại dụng cụ đồ gá tháo lắp phổ biến dùng trong sửa chữa động cơ:</para>
+        <section id="id-269479996945">
+          <title>Vam tháo chi tiết ghép dôi (Hình 7. 20)</title>
+          <table id="id6997262" summary="">
+            <tgroup cols="2">
+              <colspec colnum="1" colname="c1"/>
+              <colspec colnum="2" colname="c2"/>
+              <tbody>
+                <row>
+                  <entry><media id="id1172479055081" alt=""><image src="../../media/graphics12-502f.jpg" mime-type="image/jpeg"/></media>Hình 7.20 Các loại vama-vam tháo puli đầu trục khuỷu; b-vam tháo vành chắn dầu; c-vam tháo bánh răng.</entry>
+                  <entry><media id="id3325254" alt=""><image src="../../media/graphics13-36f0.jpg" mime-type="image/jpeg"/></media>Hình 7.21 Lắp vòng bia-lắp vòng bi vào trục;b-lắp vòng bi vào trục với đầu ép;c-Lắp vòng bi vào lỗ và trục với đầu ép</entry>
+                </row>
+              </tbody>
+            </tgroup>
+          </table>
+        </section>
+        <section id="id-96371082314">
+          <title>Dụng cụ lắp vòng bi</title>
+          <para id="id7030339">(Hình 7.21)</para>
+        </section>
+        <section id="id-035474023665">
+          <title>Dụng cụ vặn ốc bằng điện và khí nén</title>
+          <para id="id7030354">(Hình 7.22 và hình 7.23)</para>
+          <para id="id7030359"><figure id="id7030365"><media id="id1172471661652" alt=""><image src="../../media/graphics14-9110.jpg" mime-type="image/jpeg" height="236" width="520"/></media></figure>Hình 7.22 Clê điện1-vỏ đầu vặn; 2-đầu vặn thay đổi; 3-đầu điều chỉnh mômen văn; 4-lò xo; 5-trục; 6-7-khớp nối; 8-9-các bánh răng giảm tốc; 10-tay cầm; 11-công tắc điện; 12-13-khớp va đập</para>
+          <para id="id7030415"/>
+          <para id="id7030419">Các loại đầu vặn clê điện hay khí nén làm giảm nhiều sức lao động của công nhân, cho năng suất cao, song quan trọng hơn cả là đảm bảo mômen lắp chính xác. Mômen lắp ở đầu vặn điện được điều chỉnh bằng tăng giảm sức căng lò xo 4 của khớp va đập 12-13. Khi lắp nếu đạt đến mô men qui định, khớp va đập sẽ bị trượt, song mỗi lần ra khớp, lò xo lại đẩy nửa chủ động vào ăn khớp với nửa bị động và tiếp tục bị trượt, mỗi lần trượt khớp như vậy sẽ tạo nên sự va đập để người công nhân biết mà ngừng vặn. Ngoài việc khống chế mô men vặn, khớp va đập còn có tác dụng vặn chặt hơn hoặc tạo xung lực để dễ tháo ốc hơn.</para>
+          <para id="id7030452"><figure id="id7030459"><media id="id6625559" alt=""><image src="../../media/graphics15-2861.jpg" mime-type="image/jpeg" height="389" width="435"/></media></figure>Hình 7. 23 Clê khí1-đầu vặn thay đổi; 2-chốt hãm; 3-trục; 4-vỏ đầu vặn; 5-khớp va đập; 6-bánh truyền lực; 7-trục chủ động; 8-thân đầu vặn; 9-động cơ khí; 10-vít tra mỡ; 11-tấm chắn; 12-ống dẫn khí nén; 13-van bi; 14-vít điều chỉnh; 15-nút công tác.</para>
+        </section>
+      </section>
+    </section>
+    <section id="id-426247103619">
+      
+      <para id="id7030498">
+        <!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id-373441695331">
+      <title>MỘT SỐ NGUYÊN TẮC CHỌN LẮP CHI TIẾT</title>
+      <section id="id-38306584134">
+        <title>Nguyên nhân phải chọn lắp chi tiết theo nhóm kích thước</title>
+        <para id="id6153972">Để dễ gia công, mỗi loại chi tiết chế tạo đều cho phép có sai lệch kích thước trong một phạm vi nhất định so với kích thước danh nghĩa, còn gọi là dung sai kích thước. Khi kích thước chi tiết đã có sự dao động trong phạm vi dung sai của nó, thì khi ghép một cách ngẫu nhiên các chi tiết thành những cặp làm việc, khe hở lắp ghép các cặp chi tiết đó sẽ không bằng nhau: mối ghép có thể quá chặt hoặc quá lỏng. Nhằm tránh tình trạng này, nhà sản xuất phụ tùng đã phân các chi tiết sau khi chế tạo xong thành các nhóm, với điều kiện các chi tiết trong một nhóm có kích thước tuyệt đối dao động trong phạm vi khá nhỏ so với khoảng dung sai cho phép khi chế tạo. Ví dụ điển hình là việc phân nhóm kích thước của bộ đôi bơm cao áp, mỗi nhóm có sai lệch kích thước tuyệt đối chỉ từ 0,002÷ 0,003mm trong khi dung sai cho phép chế tạo chi tiết piston hay xi lanh bơm cao áp tới ± 0,1mm.</para>
+        <para id="id6153997">Đã biết được chi tiết nằm trong một nhóm, tức là biết kích thước thực của chúng, từ đó chọn được kích thước chi tiết sẽ lắp với nó theo nhóm nào, để cho ta mối ghép có khe hở phù hợp với điều kiện kỹ thuật qui định. Làm được điều đó, khi lắp cặp chi tiết một lần là xong ngay, công việc sửa chữa rất thuận lợi.</para>
+        <para id="id6154017">Những cặp chi tiết quan trọng trong nhóm chi tiết truyền động được phân nhóm kích thước gồm:</para>
+        <para id="id6154026">- Lót xi lanh và lỗ trên thân máy.</para>
+        <para id="id6154033">- Bạc lót và lỗ ổ trục chính cũng như với cổ trục.</para>
+        <para id="id6154041">- Bạc lót và lỗ đầu to thanh truyền cùng chốt khuỷu.</para>
+        <para id="id6154049">- Chốt piston và lỗ bệ chốt piston.</para>
+        <para id="id6154059">- Piston và xi lanh.</para>
+        <para id="id6154065">- Bạc cam và cổ trục cam...</para>
+        <para id="id6154072">Ngoài vấn đề phân nhóm kích thước, một số bề mặt làm việc chi tiết được ghép từ hai nửa như: lỗ đầu to thanh truyền, lỗ ổ chính trục khuỷu...cũng không thể lắp lẫn để bảo đảm độ chính xác về hình dáng hình học của chúng, vì vậy các nửa này đều có đánh dấu tương ứng với nhau cho dễ nhận biết khi lắp. Đôi khi các chi tiết cùng loại trong một động cơ còn được đánh số thứ tự theo xi lanh để phục vụ cho việc chọn lắp thuận lợi như đánh số thứ tự thanh truyền, hoặc đánh dấu chỉ chiều lắp như đánh dấu lắp phía trước trên piston và thanh truyền...</para>
+      </section>
+      <section id="id-286180329318">
+        <title>Phương pháp chọn lắp một số chi tiết điển hình</title>
+        <section id="id-563212588526">
+          <title>a. Chọn lắp xi lanh và lỗ trên thân</title>
+          <table id="id6154119" summary="">
+            <tgroup cols="2">
+              <colspec colnum="1" colname="c1"/>
+              <colspec colnum="2" colname="c2"/>
+              <tbody>
+                <row>
+                  <entry>Hình 7.24 thể hiện số trên lót xi lanh biểu thị nhóm kích thước đường kính ngoài, được đánh số 1, 2 hoặc 3 (vị trí 1), trên thân máy ở mỗi lỗ lắp lót cũng đánh một số chỉ nhóm kích thước của lỗ (vị trí 2). Để lắp đúng cần chọn số trên lót giống với số đã đánh trên lỗ thân, tất nhiên sẽ có tối đa 3 lót xi lanh có nhóm kích thước khác nhau lắp trên một thân máy. Mũi tên trên hình chỉ phía trước động cơ</entry>
+                  <entry><media id="id1172470341654" alt=""><image src="../../media/graphics16-e03b.jpg" mime-type="image/jpeg"/></media>Hình 7. 24 Chọn lắp xi lanh với thân máy</entry>
+                </row>
+              </tbody>
+            </tgroup>
+          </table>
+        </section>
+        <section id="id-743361331809">
+          <title>b. Chọn lắp bạc với trục khuỷu</title>
+          <para id="id6172527">Chọn bạc cổ chính phải chú ý điều kiện lắp với lỗ trên thân và lắp với cổ chính trên trục khuỷu, với bạc chốt khuỷu là lỗ trên đầu to thanh truyền và chốt khuỷu vì chúng sẽ quyết định chính xác khe hở giữa trục và bạc. Thực chất là lỗ cổ chính và cổ chính đã có kích thước cụ thể, được đánh dấu theo nhóm (thường có 3 nhóm, đánh số từ 1 đến3), phối hợp hai kích thước lỗ và ổ kết hợp với khe hở làm việc theo qui định sẽ cho ta chiều dày bạc cần thiết, như vậy tổ hợp hai bộ kích thước của lỗ và trục sẽ phải có số lượng nhóm kích thước bề dày tối đa là 5.</para>
+          <para id="id6172559">Cách đánh số trục, lỗ và chọn bạc cụ thể như sau: hình 7.25.</para>
+          <para id="id6172569">Trên thân máy có đánh dấu 5 chữ số:</para>
+          <para id="id6172576">Ví dụ: động cơ 4 xi lanh, có 5 cổ chính, 4 chốt khuỷu. Tính theo thứ tự từ phía trước ra sau, các số này chỉ thị nhóm kích thước (số cốt) của 5 lỗ ổ chính số 1 đến ổ số 5. Số cốt của từng lỗ có thể từ 1 đến 3 (do chỉ phân làm 3 nhóm kích thước)</para>
+          <para id="id6172591">Trên má đầu tiên của trục khuỷu động cơ đó, được đánh 2 hàng số chỉ thị nhóm kích thước của 5 cổ chính từ đầu cho đến cuối theo thứ tự từ trái sang phải (hàng trên) và 4 chốt khuỷu (hàng dưới), chúng cũng có số cốt là 1,2 hoặc 3.</para>
+          <para id="id6172607">Tương tự như trên mỗi thanh truyền của động cơ cũng có một số cốt (từ 1, 2 hoặc 3) đánh ở mặt phẳng bên của đầu to, chú ý rằng còn có số chỉ vị trí thanh truyền (từ 1 đến 4) đánh trên thân và nắp hoặc đánh chính giữa mặt lắp ghép hai nửa để không thể lắp lẫn, những số này thường có kích thước khá lớn.</para>
+        </section>
+        <section id="id-143285997163">
+          <title>c. Lắp nắp máy</title>
+          <table id="id6172632" summary="">
+            <tgroup cols="2">
+              <colspec colnum="1" colname="c1"/>
+              <colspec colnum="2" colname="c2"/>
+              <tbody>
+                <row>
+                  <entry>Để đảm bảo đúng dung tích buồng cháy, cần kiểm tra độ dôi của piston khi nằm ở điểm chết trên so với mặt đầu thân máy, từ đó có căn cứ chọn đệm nắp máy dày hay mỏng cho phù hợp. Dùng đồng hồ so đặt trực tiếp lên thân máy để kiểm tra độ dôi của piston.Sau khi đã có độ dôi cụ thể sẽ chọn được đệm theo qui định. Đệm nắp máy được đánh dấu bằng các lỗ khoan hay các khấc ở mép đệm như hình 7.13. Số lượng lỗ khoan hay khấc sẽ chị thị độ dày hay mỏng của đệm tương ứng theo lượng dôi nhiều hay ít của piston.</entry>
+                  <entry><media id="id1172467092052" alt=""><image src="../../media/graphics17-436e.png" mime-type="image/png"/></media>Hình 7. 13 Khắc chỉ thị độ dày đệm nắp</entry>
+                </row>
+              </tbody>
+            </tgroup>
+          </table>
+          <table id="id5714052" summary="">
+            <tgroup cols="2">
+              <colspec colnum="1" colname="c1"/>
+              <colspec colnum="2" colname="c2"/>
+              <tbody>
+                <row>
+                  <entry>Trước khi lắp nắp máy, cần quan sát kỹ xem có dị vật hay chất bẩn trên nắp, thân và trên lỗ xi lanh hay không, đặt đệm nắp đúng chiều sau đó đặt nắp máy và lần lược siết ốc nắp máy theo trình tự từ đầu nọ đến đầu kia hoặc từ giữa ra hai bên như hình 7.14. Trình tự này do các nhà chế tạo qui định cụ thể cho các động cơ khác nhau. Nên chia mô men siết ra làm một số khoảng rồi lần lượt siết theo thứ tự cho đến khi chặt hẳn. Đối với nắp máy dùng hai loại gu jông có đường kính khác nhau bao giờ cũng siết loại ốc lớn trước rồi mới đến siết loại ốc nhỏ.</entry>
+                  <entry><media id="id1172480055648" alt=""><image src="../../media/graphics18-bcc4.jpg" mime-type="image/jpeg"/></media>Hình 7.14 Thứ tự siết nắp máy</entry>
+                </row>
+              </tbody>
+            </tgroup>
+          </table>
+          <para id="id5714144">Chữ số trên hình chỉ thứ tự siết ốc, khi tháo phải làm theo thứ tự ngược lại với lắp.</para>
+          <table id="id5714153" summary="">
+            <tgroup cols="2">
+              <colspec colnum="1" colname="c1"/>
+              <colspec colnum="2" colname="c2"/>
+              <tbody>
+                <row>
+                  <entry>Các bánh răng, bánh đai dẫn động chi tiết có lên quan đến thời điểm làm việc như bánh răng dẫn động trục cam, bộ chia điện bơm cao áp... đều phải lắp chính xác theo đánh dấu của nhà chế tạo. Thường chọn vị trí của piston máy số 1 ở điểm chết trên thời kỳ cuối nén đầu cháy làm chuẩn để lắp các bánh răng ăn khớp hoặc bánh đai dẫn động. Một cặp bánh răng ăn khớp bao giờ cũng có dấu riêng đánh ở chân răng bánh nọ và đỉnh răng bánh răng kia, nên khi lắp ghép chỉ cần đặt các dấu này hướng đúng vào nhau là được. Đối với các bánh đai răng, các dấu lắp được đánh trên bánh đai và thân máy. Hình 7.15 trình bày một ví dụ cụ thể khi lắp dây đai cho hệ thống bánh đai dẫn động trong động cơ ô tô.</entry>
+                  <entry><media id="id3357136" alt=""><image src="../../media/graphics19-a7c2.jpg" mime-type="image/jpeg"/></media>Hình 7. 15 Lắp dây đai1-2, 5-6- dấu trên các bánh đai trục cam và nắp máy; 8-9-dấu trên bánh đai trục khuỷu và thân máy; 4-bánh đai bơm nước; 3-7-bánh đai trục cam;</entry>
+                </row>
+              </tbody>
+            </tgroup>
+          </table>
+          <para id="id6952218">Quay bánh đai trục khuỷu 10, bánh đai trục cam 3 và 7 sao cho dấu đánh trên mỗi bánh trùng với dấu khắc trên thân hay nắp máy; nới lỏng cơ cấu bánh căng đai, sau đó lắp dây đai choàng qua các bánh. Khi điều chỉnh cơ cấu căng dây đai, phải đảm bảo sao cho dây căng và các dấu không xê dịch là được.</para>
+        </section>
+        <section id="id-529521028895">
+          <title>d. Kiểm tra độ căng dây đai</title>
+          <para id="id6952243">Độ căng dây đai được kiểm tra bằng lực kế lò xo như hình 7.16. Đặt dụng cụ lên một nhánh dây đai và ấn trục của dụng cụ cho tỳ vào giữa dây đai, độ võng của dây dưới một lực nén nhất định phải phù hợp với yêu cầu của nhà chế tạo. Ví dụ độ võng dây đai của động cơ 4B lắp trên ô tô Landcruiser bằng 12mm dưới lực nén 100kN</para>
+        </section>
+        <section id="id-0802892204814">
+          <title>e. Xác định điểm chết trên của piston</title>
+          <para id="id6952272">Nhiều trường hợp dấu của điểm chết trên (ĐCT) không rõ ràng nên buộc phải xác định lại ĐCT máy 1 làm chuẩn cho việc kiểm tra điều chỉnh. Sơ đồ dụng cụ giới thiệu trên hình 7.17. Dụng cụ gồm một ống 8 trong lồng kim, được đẩy bằng lò xo 7. Kim dò xuyên qua lỗ lắp bu gi hay lỗ lắp vòi phun để luôn tỳ lên một điểm cố định của đỉnh piston. Khi kim dò di động sẽ làm quay kim chỉ thị vị trí 6 trên vành chia độ 5.</para>
+          <table id="id6952288" summary="">
+            <tgroup cols="2">
+              <colspec colnum="1" colname="c1"/>
+              <colspec colnum="2" colname="c2"/>
+              <tbody>
+                <row>
+                  <entry><media id="id1172468202061" alt=""><image src="../../media/graphics20-49bb.png" mime-type="image/png"/></media>Hình 7.16 Kiểm tra độ căng dây đai1-cơ cấu căng dây; 2-puli bơm nước; 3-puli trục khuỷu; 4-thanh tỳ; 5-chốt tỳ; 6-đuôi chốt tỳ</entry>
+                  <entry><media id="id1172474203543" alt=""><image src="../../media/graphics21-9ea9.png" mime-type="image/png"/></media>Hình 7.17. Xác định điểm chết trên1-vị trí bẩy bánh đà; 2,3-bánh đà và thân máy; 4-dấu đánh trên thân; 5-vành khắc độ; 6-kim chỉ thị; 7-lò xo; 8-ống; 9-đế; a-c-các điểm đánh dấu</entry>
+                </row>
+              </tbody>
+            </tgroup>
+          </table>
+          <para id="id6844353"/>
+          <para id="id6844358">Đánh dấu vị trí đầu tiên trên bánh đà (điểm a, hình 7.17a) ứng với một điểm trên thân (điểm 4), lúc này vị trí của kim 6 trên vành 5 sẽ chỉ tại một vạch chia nào đó. Quay trục khuỷu cho piston qua ĐCT, đẩy kim dò dao động lên xuống. Khi kim 6 lại trở về vị trí ban đầu, đánh dấu điểm thứ hai trên bánh đà (điểm c) trùng với điểm 4 trên thân. Chia đôi khoảng cách giữa hai điểm a và c ta sẽ có ĐCT cần tìm.</para>
+        </section>
+        <section id="id-112539061381">
+          <title>f. Lắp bơm cao áp</title>
+          <table id="id6844388" summary="">
+            <tgroup cols="2">
+              <colspec colnum="1" colname="c1"/>
+              <colspec colnum="2" colname="c2"/>
+              <tbody>
+                <row>
+                  <entry>Bơm cao áp được lắp với với khớp dẫn động bằng mặt bích hình 7.18. Lỗ lắp bu lông trên bích dẫn động lại có dạng cung dài để điều chỉnh chính xác góc phun sớm của động cơ. Khi lắp bơm, cần đặt vị trí máy 1 đang đúng điểm phun sớm (dấu phun sớm trên bánh đà trùng với dấu chỉ thị trên thân máy) các xu páp nạp thải đều đóng kín. Sau đó quay trục cam bơm cho piston nhánh bơm cao áp 1 ở điểm bắt đầu phun (dấu trên khớp trục bơm trùng với dấu chỉ thị trên vỏ bơm) rồi siết chặt các vít kẹp 2 mặt bích lại là được. Để đảm bảo chính xác, sau khi lắp xong nên dùng dụng cụ thời kế kiểm tra điểm phun sớm lần cuối.</entry>
+                  <entry><media id="id1172479240312" alt=""><image src="../../media/graphics22-22eb.jpg" mime-type="image/jpeg"/></media>Hình 7. 18 Dấu lắp bơm cao áp1-dấu lắp trên vỏ bơm; 2-dấu trên khớp nối bơm</entry>
+                </row>
+              </tbody>
+            </tgroup>
+          </table>
+        </section>
+        <section id="id-799934260537">
+          <title>g. Điều chỉnh khe hở nhiệt</title>
+          <table id="id5929588" summary="">
+            <tgroup cols="2">
+              <colspec colnum="1" colname="c1"/>
+              <colspec colnum="2" colname="c2"/>
+              <tbody>
+                <row>
+                  <entry>Khe hở giữa đòn bẩy và đuôi xu páp (khe hở nhiệt) được điều chỉnh khi toàn bộ động cơ đã được lắp hoàn chỉnh, các mối ghép đã được siết chặt.Thời điểm điều chỉnh khe hở nhiệt của từng máy là cuối nén đầu cháy, lúc cả hai xupáp đều đóng kín. Nhận biết thời kỳ nổ của máy nào có thể căn cứ vào vị trí con quay của bộ chia điện đang hướng về cọc điện của máy đó (đối với động cơ xăng) hoặc piston bơm cao áp vừa chớm dâng lên (đối với động cơ diesel), cũng có thể căn cứ vào dấu ĐCT trên puly đầu trục khuỷu hay trên bánh đà của máy 1 rồi từ đó suy ra các máy khác. </entry>
+                  <entry><media id="id2649868" alt=""><image src="../../media/graphics23.jpg" mime-type="image/jpeg"/></media>Hình 7.19 Chỉnh khe hở nhiệt xu páp</entry>
+                </row>
+              </tbody>
+            </tgroup>
+          </table>
+          <para id="id5929680">Một phương pháp khác cho phép xác định nhanh và chính xác là nhìn máy có hành trình piston tương ứng với nó (máy song hành). Ví dụ: động cơ 4 xi lanh thẳng hàng, có thứ tự nổ 1-3-4-2 thì máy 1-4, máy 2-3 song hành. Nếu máy 4 đầu kỳ nạp, xu páp nạp chớm mở thì máy 1 đang ở đầu kì cháy và ngược lại. Nếu máy 3 đầy kỳ nạp, xu páp nạp chớm mở thì máy 2 đang ở đầu kì cháy và ngược lại. Sử dụng clê và tuốt nơ vít vặn vào ốc điều chỉnh trên đuôi đòn bẩy để chỉnh lần lượt các xupáp, khi chỉnh đưa căn lá có chiều dày đúng bằng khe hở nhiệt cài vào đuôi xu páp để kiểm tra và siết chặt vít hãm, kết thúc điều chỉnh, kiểm tra bằng cách đưa căn lá vào khe hở này phải vừa sít song căn lá vẫn di trượt được một cách dễ dàng.</para>
+          <para id="id5929716">Với loại xu páp có cốc dẫn hướng lò xo và cam tác động trực tiếp, khe hở nhiệt được điều chỉnh bằng cách thay đổi tấm đệm đặt trên cốc có chiều dày phù hợp.</para>
+          <para id="id5929728">Sau khi chỉnh ở nhiệt độ bình thường, khe hở nhiệt còn được kiểm tra trong tình trạng động cơ có nhiệt độ làm việc qui định.</para>
+          <table id="id5929740" summary="">
+            <tgroup cols="2">
+              <colspec colnum="1" colname="c1"/>
+              <colspec colnum="2" colname="c2"/>
+              <tbody>
+                <row>
+                  <entry>Việc chọn bạc phù hợp với lỗ ổ chính, lỗ chốt khuỷu và cổ trục khuỷu theo nguyên tắc sau:Lấy số cốt của lỗ cộng với số cốt của cổ trục tương ứng sẽ là cốt của bạc cần lắp. Như vậy nếu cổ trục và lỗ có 3 nhóm kích thước, đánh số từ 1 đến 3, sẽ có 5 nhóm kích thước của bạc, được đánh dấu từ 2 đến 6.Từ ví dụ cho trên hình 7. 25 với cổ chính ta có:Dãy lỗ trên thân: 11123Dãy lỗ trên cổ: 21111Số cốt của bạc: 32234Nghĩa là bạc lắp cho cổ chính số 1 có nhóm kích thước 3, cho cổ 2 có nhóm kích thước 2, cho cổ cuối có nhóm kích thước 4...Đối với bạc biên ta cũng làm tương tự.</entry>
+                  <entry><media id="id1172483638061" alt=""><image src="../../media/graphics24-894f.jpg" mime-type="image/jpeg"/></media>Hình 7. 25 Dấu đánh trên thân, trên trục khuỷu và thanh truyền để chọn lắp bạc</entry>
+                </row>
+              </tbody>
+            </tgroup>
+          </table>
+        </section>
+      </section>
+    </section>
+    <section id="id-0841114602023">
+      <title>CHẠY RÀ, THỬ XE</title>
+      <section id="id-96194845915">
+        <title>CHẠY RÀ</title>
+        <section id="id-551697833507">
+          <title>Ý nghĩa của việc chạy rà</title>
+          <para id="id6133789">Sau khi gia công cơ, các chi tiết đều có một chất lượng bề mặt nhất định được đánh giá bởi một số tham số như: độ bóng bề mặt, độ cứng, trạng thái ứng suất, sai lệch hình dáng hình học... Chúng là hậu quả của các tác nhân hóa lý trong quá trình gia công (đặc biệt là ở các nguyên công cuối) để lại. Do đặc điểm này, tình trạng tiếp xúc ban đầu giữa hai bề mặt lắp ghép chưa thể hoàn hảo, diện tích tiếp xúc thực khá thấp, dẫn đến áp suất phân bố tại các điểm tiếp xúc đó cao hơn nhiều so với áp suất trung bình, độ kín khít giảm đồng thời khả năng truyền nhiệt cũng bị giảm rất mạnh. Trong mối ghép trục bạc, do khe hở lắp ghép khá nhỏ chưa đủ điều kiện để hình thành quá trình bôi trơn ma sát ướt, nên có khả năng xảy ra sự tiếp xúc trực tiếp giữa hai chi tiết gây mài mòn và sinh nhiệt lớn.</para>
+          <para id="id6133794">Vì vậy, để thuận lợi cho cặp chi tiết ma sát bước vào giai đoạn làm việc chính thức, cần có một thời kỳ chuyển tiếp gọi là chạy rà sau khi sửa chữa một cụm máy, nhằm cải thiện chất lượng bề mặt theo hướng san phẳng các nhấp nhô, làm tăng diện tích tiếp xúc thực. Từ đó nâng cao được khả năng chịu lực và truyền lực của chúng, cho phép các chi tiết làm việc với tải trọng cũng như vận tốc trượt theo đúng thiết kế mà không bị hư hỏng.</para>
+          <para id="id6133809">Việc chạy rà mang tính tất yếu vì dù muốn hay không sự thay đổi tính chất bề mặt cũng xảy ra, nếu tổ chức tốt, quá trình chuyển hóa diễn ra một cách hoàn hảo như phân tích ở trên, ngược lại nếu tổ chức không tốt rất có khả năng chi tiết sẽ bị hỏng ngay sau khi chạy rà.</para>
+        </section>
+        <section id="id-486761416817">
+          <title>Một số yếu tố ảnh hưởng đến chất lượng chạy rà</title>
+          <para id="id6664612">Để thực hiện việc chạy rà động cơ, cần phải lựa chọn một qui trình hợp lý, qui trình này bao gồm nhiều bước chạy rà hợp thành, trong mỗi bước được qui định cụ thể các chế độ tải trọng, vận tốc, thời gian chạy cũng như các điều kiện bôi trơn, nhiệt độ... sẽ được áp dụng.</para>
+          <para id="id6664633">Ảnh hưởng của tải trọng:</para>
+          <para id="id6664638">Bắt đầu từ chạy không tải, sau đó tăng dần theo từng bậc hoặc tăng tải vô cấp. Đối với động cơ ô tô máy kéo, bước chạy rà không tải đầu tiên là chế độ chạy rà nguội không có áp suất (các bugi hoặc vòi phun được tháo hết, động cơ đốt trong được một động cơ điện kéo). Sau đó là chạy rà nguội có áp, rồi đến chạy rà nóng không tải và chạy rà nóng với tải tăng dần, thông thường khoảng cách mỗi lần tăng tải từ 10 đến 15%, đến 75% tải trọng định mức thì dừng lại. Cuối cùng là chạy rà với 100% tải trọng trong thời gian ngắn, chủ yếu là để đánh giá khả năng phát huy công suất tối đa của động cơ, đặc biệt đối với động cơ diesel còn nhằm phát hiện và xử lý những sai lệch do điều chỉnh bơm cao áp không tốt gây nên hiện tượng non tải hoặc quá tải cho cụm máy.</para>
+          <para id="id6664674">Ảnh hưởng của vận tốc:</para>
+          <para id="id6664679">Vận tốt chạy rà trong mỗi bước được chọn từ thấp đến cao, khoảng điều chỉnh nhanh hơn so với tải trọng. Tốc độ chạy lần đầu thấp nhất khoảng 100v/ph là tối ưu vì ma sát không gây ra nhiệt lớn, mặt khác vẫn đảm bảo hệ thống bôi trơn hoạt động hiệu quả và tránh xảy ra hiện tượng dính kết bề mặt do tốc độ trượt quá chậm gây nên. Từ chế độ chạy chậm ban đầu, động cơ được nâng dần tốc độ theo từng bậc với khoảng cách mỗi bậc là 300 đến 500v/ph, kết thúc giai đoạn rà nguội, tốc độ động cơ có thể tăng lên 75% tốc độ định mức.</para>
+          <para id="id6664712">Chế độ bôi trơn: </para>
+          <para id="id6664717">Với các động cơ có hệ thống bôi trơn cưỡng bức, cần sử dụng dầu bôi trơn sạch và có độ nhớt thấp (M8~M10 tương đương với SAE10~SAE20), do độ nhớt dầu thấp nên dầu dễ điền đầy vào các khe hở hẹp tẩy rửa các hạt mài dễ dàng và truyền nhiệt tốt hơn. Có thể sử dụng các chất phụ gia hoạt tính hóa học và hoạt tính bề mặt pha vào dầu nhờn để tăng nhanh tốc độ rà khít đồng thời chống tróc cho các chi tiết ma sát. Sau khi chạy xong, dầu được xả hết để vệ sinh các-te, lọc dầu và thay vào loại dầu mà động cơ yêu cầu.</para>
+          <para id="id6664749">Với động cơ sử dụng xăng pha dầu nhờn, tăng tỷ lệ pha khi chạy ra cao hơn so với thông thường (có thể pha đến 5~6%).</para>
+          <para id="id5911501">Ảnh hưởng của thời gian chạy rà mỗi bước:</para>
+          <para id="id5911506">Thời gian chạy rà ban đầu ảnh hưởng đến tính chất bề mặt ma sát rất lớn, càng về sau ảnh hưởng càng ít. Ta chỉ sử dụng thời gian chạy rà hiệu quả, loại bỏ thời gian chạy rà không hiệu quả, tập hợp lại ta có được một qui trình chạy rà nhanh, cho phép rút ngăn thời gian chạy rà mà vẫn phát huy được chất lượng chạy rà và giảm được lượng mòn cho chi tiết.</para>
+          <para id="id5911522">Để biết được khi nào là giai đoạn chạy rà không hiệu quả, phải dựa vào các phép đo gián tiếp thông qua những thông số như: tổn thất ma sát, nhiệt độ của động cơ, cường độ của dòng điện động cơ điện kéo động cơ đốt trong... Những thông số này đều phản ảnh trạng thái bề mặt chi tiết, lúc mới chạy rà chúng sẽ có giá trị lớn, đến một lúc nào đó chúng sẽ bằng hằng số thì tính chất bề mặt chi tiết ma sát không thay đổi nữa, nếu tiếp tục chạy rà thì cũng không có hiệu quả.</para>
+        </section>
+        <section id="id-565850386799">
+          <title>Thời kỳ sau chạy rà</title>
+          <para id="id5911556">Sau khi chạy rà, động cơ được làm vệ sinh hệ thống bôi trơn gồm: tháo rửa các te dầu, rửa hoặc thay thế lõi lọc, thay mới dầu bôi trơn theo đúng loại dầu qui định của nhà chế tạo. Các mối ghép quan trọng được kiểm tra, siết chặt lại như: bu lông thanh truyền, bu lông nắp ổ trục chính, ốc nắp máy...các thông số làm việc của hệ thống nhiên liệu, đánh lửa cũng được kiểm tra điều chỉnh lần cuối.</para>
+          <para id="id5911572">Trong phạm vi khoảng 1500~2000km lăn bánh đầu tiên của ô tô sau khi xuất xưởng, chỉ được phép sử dụng tối đa 75% công suất máy để các bề mặt ma sát có điều kiện làm việc an toàn nhất. Đó là chế độ chạy rà trơn (chạy rốt-đa) của ô tô. Thực hiện điều này thông qua việc hạn chế tốc độ và tải trọng của xe. Một số nhà sửa chữa có biện pháp đề phòng an toàn như điều chỉnh vít khống chế hành trình cấp nhiên liệu lớn nhất của thanh răng bơm cao áp hoặc lắp tấm cữ thu hẹp họng nạp của động cơ xăng để máy không thể phát huy được công suất định mức cho dù người sử dụng có đạp hết cần ga, sau khi kết thúc thời kỳ rà trơn các biện pháp này sẽ được loại bỏ.</para>
+        </section>
+        <section id="id-952039353902">
+          <title>Các chỉ tiêu đặc trưng</title>
+          <para id="id5911616">a. Công suất có ích Ne</para>
+          <para id="id5911621"> Công suất có ích Ne của động cơ được phát ra từ đuôi trục khuỷu để từ đó truyền năng lượng tới cho máy công tác. </para>
+          <para id="id5911632">Ne = Ni - Nm (kW)</para>
+          <para id="id5911645">Ni-công suất chỉ thị (kW)</para>
+          <para id="id5911657">Nm-công suất tổn hao cơ giới (kW)</para>
+          <para id="id5911669">Ne = <media id="id1172479511376" alt=""><image src="graphics25.wmf" mime-type="image/wmf" height="44" width="104"/></media></para>
+          <para id="id6785794">pe-áp suất có ích trung bình (MPa)</para>
+          <para id="id6785815">Vh-thể tích công tác của một xi lanh (lít)</para>
+          <para id="id6785836">i-số xi lanh</para>
+          <para id="id6785847">n-số vòng quay trong một phút (vòng phút)</para>
+          <para id="id6785860">b. Mômen Me</para>
+          <para id="id6785865"><media id="id1172468712244" alt=""><image src="graphics26.wmf" mime-type="image/wmf" height="43" width="242"/></media>. Ne(W), n(vòng/phút) </para>
+          <para id="id6785905">c. Hiệu suất và tính kinh tế của động cơ</para>
+          <para id="id6785915">- Hiệu suất có ích e</para>
+          <para id="id6785936">
+            <media id="id1172474910999" alt=""><image src="graphics27.wmf" mime-type="image/wmf" height="49" width="85"/></media>
+          </para>
+          <para id="id6785971">Gnl-nhiên liệu cấp cho động cơ trong 1 giây (kg/g).</para>
+          <para id="id6785993">Qtk-nhiệt trị thấp của 1kg nhiên liệu (j/kg)</para>
+          <para id="id6416657">- Suất tiêu hao nhiên liệu ge(g/kW.h)</para>
+          <para id="id6416675">
+            <media id="id2561129" alt=""><image src="graphics28.wmf" mime-type="image/wmf" height="49" width="93"/></media>
+          </para>
+        </section>
+      </section>
+      <section id="id-616380063962">
+        <title>THỬ XE</title>
+        <para id="id6416721">Sau khi lắp ráp xe hoàn chỉnh người ta tiến hành thử xe. Mục đính thử xe là:</para>
+        <para id="id6416737">- Kiểm tra toàn bộ về chất lượng lắp ráp các cụm, các hệ thống.</para>
+        <para id="id6416745">- Kiểm tra sự làm việc bình thường của các cụm, các hệ thống.</para>
+        <para id="id6416754">- Kiểm tra kín khít, thao tác nhẹ nhàng.</para>
+        <section id="id-483401061135">
+          <title>Thử xe trong nhà</title>
+          <para id="id6416768"><figure id="id6416784"><media id="id2408888" alt=""><image src=".png" mime-type="image/png" height="229" width="538"/></media></figure>Trống phanhHình 7.1 Sơ đồ thử xe trong nhà</para>
+          <para id="id6566069">Trước xe có thể có quạt để tạo sức cản gió giống như đang chạy trên đường.</para>
+          <para id="id6566082">Sơ đồ mặt bằng thử xe </para>
+          <para id="id6566087"><figure id="id6566104"><media id="id7886956" alt=""><image src=".wmf" mime-type="image/wmf" height="245" width="499"/></media></figure>Hình 7.2. Sơ đồ mặt bằng kiểm tra xe</para>
+          <para id="id6566156">I-vị trí kiểm tra tổng thể. II-vị trí kiểm tra động cơ và hệ thống điện.</para>
+          <para id="id6566171">III-vị trí thử phanh. IV-cân bằng xe, trang bị lại các khâu.</para>
+          <para id="id6566186">1-bàn nguội. 2-bàn điều khiển thiết bị đo lực. 3-thiết bị tẩy rửa hệ thống bôi trơn và các te. 4-thiết bị tẩy rửa hệ thống làm mát. 5-thiết bị kiểm tra điện. 6-thiết bị kiểm tra đèn pha. 7-bàn điều khiển thiết bị kiểm tra phanh. 8-thiết bị kiểm tra cân bằng xe. 9-dụng cụ kiểm tra cân bằng xe. 10-cân lực kế. 11-bàn điều khiển thiết bị kiểm tra tổng hợp bánh xe (vừa kiểm tra vừa trang bị lại và cân bằng bánh xe).</para>
+        </section>
+        <section id="id-505953095197">
+          <title>Thử xe ngoài đường</title>
+          <para id="id6566213">- Chất tải ≤ 75%</para>
+          <para id="id6566219">- Vận tốc ≤ 30km/h (đường bằng)</para>
+          <para id="id6566226">Kiểm tra trước khi đi ra đường</para>
+          <para id="id6566232">- Tình trạng động cơ: dễ khởi động, tiếng nỗ tròn đều, số vòng quay nhỏ, vù ga dễ bốc máy, giảm ga đột ngột không chết máy, nghe tiếng gõ, va đập, để ý các mối ghép, kiểm tra các thông số, nhiệt độ dầu, nhiệt độ nước, số vòng quay của động cơ.</para>
+          <para id="id6496129">- Kiểm tra sự làm việc bình thường của các hệ thống: đèn, còi.</para>
+          <para id="id6496139">- Tình trạng các cụm truyền lực, khớp nối: cho xe đi chậm, thay đổi số để nghe ngóng và phát hiện các tiếng gõ, kẹt, hư hỏng...</para>
+          <para id="id6496150">- Tình trạng hệ thống lái: không rơ, nhẹ nhàng, đầu xe phải quay tới góc giới hạn.</para>
+          <para id="id6496159">- Tình trạng hệ thống phanh: có áp suất, không rò rỉ.</para>
+          <para id="id6496170">- Các thao tác khác: đóng mở cửa bình thường</para>
+          <para id="id6496177">Kiểm tra khi chạy trên đường</para>
+          <para id="id6496183">Cho xe chạy tốc độ khoảng 15~20km/h. Thay đổi số, kiểm tra sự tăng tốc độ, chạy chậm, thử phanh. Yêu cầu khi thử phanh:</para>
+          <para id="id6496197">- Hoa lốp: + Bánh trước in hoa lốp.</para>
+          <para id="id6496207"> + Bánh sau lết trên đường.</para>
+          <para id="id6496222"> + Hai bên giống nhau.</para>
+          <para id="id6496237">- Quãng đường phanh:</para>
+          <table id="id6496243" summary="">
+            <tgroup cols="3">
+              <colspec colnum="1" colname="c1"/>
+              <colspec colnum="2" colname="c2"/>
+              <colspec colnum="3" colname="c3"/>
+              <tbody>
+                <row>
+                  <entry>Loại xe</entry>
+                  <entry>Quãng đường phanh (m)</entry>
+                  <entry>Gia tốc phanh cho phép (m/s2)</entry>
+                </row>
+                <row>
+                  <entry>Xe du lịch không tải</entry>
+                  <entry>7,2</entry>
+                  <entry>5,8</entry>
+                </row>
+                <row>
+                  <entry>Xe tải dưới 9 tấn- Không tải- Đầy tải</entry>
+                  <entry>1012.5</entry>
+                  <entry>4,83,8</entry>
+                </row>
+                <row>
+                  <entry>Xe tải trên 9 tấn- Không tải- Đầy tải</entry>
+                  <entry>1113</entry>
+                  <entry>4,23,5</entry>
+                </row>
+                <row>
+                  <entry>Xe khách không tải</entry>
+                  <entry>11,5</entry>
+                  <entry>4,0</entry>
+                </row>
+              </tbody>
+            </tgroup>
+          </table>
+          <para id="id5747611"/>
+        </section>
+      </section>
+    </section>
+  </content>
+</document>

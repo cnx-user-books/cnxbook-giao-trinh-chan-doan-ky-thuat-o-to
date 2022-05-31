@@ -1,0 +1,145 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:md="http://cnx.rice.edu/mdml">
+  <title>Điều kiện đưa ô tô vào sửa chữa</title>
+  <metadata>
+  <md:content-id>m30593</md:content-id><md:title>Điều kiện đưa ô tô vào sửa chữa</md:title>
+  <md:abstract>Các điều kiện đưa ô tô vào sửa chữa.</md:abstract>
+  <md:uuid>e555f0e3-c3ed-4ff2-a9e8-8c1073173550</md:uuid>
+</metadata>
+
+<content>
+    <para id="id6709563">Nội dung:</para>
+    <section id="id-169886607096">
+      <title>ĐIỀU KIỆN BÁO HỎNG CHI TIẾT - CỤM MÁY </title>
+      <section id="id-657142849145">
+        <title>Qui định đối với cụm máy</title>
+        <para id="id6709583">Một cụm máy (tổng thành) phải đưa vào sửa chữa khi:</para>
+        <para id="id6709593">+ Do sự mài mòn các cụm chi tiết chính làm tính năng kinh tế - kỹ thuật của cụm máy bị hạ thấp dưới mức qui định.</para>
+        <para id="id6709603">+ Chi tiết cơ bản bị hư hỏng phải đưa vào sửa chữa lớn (thân máy, vỏ hộp số, vỏ cầu...).</para>
+      </section>
+      <section id="id-641886172129">
+        <title>Qui định đối với một ô tô đưa vào sửa chữa</title>
+        <para id="id6829486">Đối với ô tô, máy kéo phải đưa vào sửa chữa lớn khi:</para>
+        <para id="id6829496">- Cụm máy (tổng thành) chính của nó bị hư hỏng không đảm bảo hiệu quả kinh tế cũng như các tính năng động lực học mà ô tô phải đạt được.</para>
+        <para id="id6829507">- Việc xác định khả năng làm việc tiếp tục hay phải sửa chữa 1 ô tô phải dựa trên tình trạng kỹ thuật của các cụm máy chính, chi tiết chính, mức độ hư hỏng của các chi tiết, cụm máy đó.</para>
+      </section>
+      <section id="id-790032603634">
+        <title>Qui định đối với chi tiết chính- tổng thành chính</title>
+        <para id="id6829531">Trong cụm máy có nhiều chi tiết cần sửa chữa khi các tính năng kinh tế, kỹ thuật giảm xuống dưới mức cho phép. Tính năng kinh tế kỹ thuật phụ thuộc nhiều vào các cặp chi tiết chính, nghĩa là phụ thuộc nhiều vào sự hao mòn của chúng.</para>
+        <para id="id6829540">Bảng 3.1 Xác định cụm máy chính, chi tiết chính</para>
+        <table id="id5713214" summary="">
+          <tgroup cols="5">
+            <colspec colnum="1" colname="c1"/>
+            <colspec colnum="2" colname="c2"/>
+            <colspec colnum="3" colname="c3"/>
+            <colspec colnum="4" colname="c4"/>
+            <colspec colnum="5" colname="c5"/>
+            <tbody>
+              <row>
+                <entry>Loại ô tô</entry>
+                <entry>Cụm máy chính</entry>
+                <entry>Loại cụm</entry>
+                <entry>Chi tiết chính</entry>
+                <entry>Chi tiết cơ bản</entry>
+              </row>
+              <row>
+                <entry>Vận tải</entry>
+                <entry>Động cơ, hộp số, cầu chủ động, khung bệ, trục trước, buồng lái, bộ truyền công suất, cơ cấu nâng (nếu có)</entry>
+                <entry>Động cơ</entry>
+                <entry>Nắp máy, xy lanh, trục khuỷu, trục cam, bánh đà</entry>
+                <entry>Thân</entry>
+              </row>
+              <row>
+                <entry>Xe khách</entry>
+                <entry>(Như trên) trừ hộp truyền công suất, cơ cấu nâng.</entry>
+                <entry>Hộp số</entry>
+                <entry>Trục sơ cấp, thứ cấp, trục trung gian, nắp hộp số.</entry>
+                <entry>Vỏ hộp số</entry>
+              </row>
+              <row>
+                <entry>Du lịch</entry>
+                <entry>(Như trên) thêm thân xe</entry>
+                <entry>Cầu chủ động</entry>
+                <entry>Ống bọc bán trục, vỏ hộp giảm tốc, vỏ hộp vi sai.</entry>
+                <entry>Vỏ cầu</entry>
+              </row>
+            </tbody>
+          </tgroup>
+        </table>
+      </section>
+    </section>
+    <section id="id-560899370876">
+      <title>ĐỒ THỊ MÀI MÒN CHI TIẾT</title>
+      <section id="id-357667282101">
+        <title>Nội dung đồ thị - phân tích</title>
+        <para id="id6792520">Xác định sự thay đổi kích thước chi tiết là hàm số của thời gian. Trong thời gian sử dụng, ứng với dạng hao mòn ô xy hóa ổn định, các chi tiết đều có dạng đặc tính mòn theo thời gian như sau. Ví dụ đối với chi tiết dạng lỗ:</para>
+        <table id="id5733197" summary="">
+          <tgroup cols="2">
+            <colspec colnum="1" colname="c1"/>
+            <colspec colnum="2" colname="c2"/>
+            <tbody>
+              <row>
+                <entry>tcr -thời gian chạy rà.tgh -giới hạn thời gian làm việc.Hcr -kích thước sau chạy rà.Hgh-kích thước giới hạnH0-kích thước ban đầutg<media id="id7241020" alt=""><image src="graphics1.wmf" mime-type="image/wmf"/></media> = <media id="id7241030" alt=""><image src="graphics2.wmf" mime-type="image/wmf"/></media> Theo Kazasep Smin là khe hở lắp ráp= Sbđ = 0,467d<media id="id7682226" alt=""><image src="graphics3.wmf" mime-type="image/wmf"/></media></entry>
+                <entry>213H Lượng mònt (t gian)<media id="id9570229" alt=""><image src=".wmf" mime-type="image/wmf"/></media><media id="id9570236" alt=""><image src=".wmf" mime-type="image/wmf"/></media>HghHcrH0tcrtlvtghHình 3.1. Đồ thị mài mòn chi tiết</entry>
+              </row>
+            </tbody>
+          </tgroup>
+        </table>
+        <para id="id6742392">d- đường kính lỗ.</para>
+        <para id="id6742402">n-số vòng quay chạy rà.</para>
+        <para id="id6742411">-độ nhớt tuyệt đối</para>
+        <para id="id6742428">p-áp suất tiếp xúc</para>
+        <para id="id5926968">c-hệ số, c = <media id="id10064488" alt=""><image src="graphics4.wmf" mime-type="image/wmf" height="43" width="38"/></media>, l-chiều dài tiếp xúc.</para>
+        <para id="id5927009">Smax = <media id="id10235215" alt=""><image src="graphics5.wmf" mime-type="image/wmf" height="46" width="29"/></media>,-tổng độ cao nhấp nhô.</para>
+        <para id="id5901870">Giai đoạn 1: ứng với thời gian chạy rà chi tiết, chi tiết bị mòn mạnh, kích thước bị thay đổi nhanh từ H0 ÷ Hcr (do những nhấp nhô ban đầu bị san phẳng). Bề mặt chi tiết chưa chuẩn bị để chuyển sang giai đoạn làm việc. Hạt kim loại bị bong tách, tạo thành hạt mài, làm tăng quá trình hao mòn chi tiết. Cho nên sau chạy rà phải thay dầu bôi trơn.</para>
+        <para id="id5901906">Do quá trình gia công cơ khí để lại mà chi tiết có những tính chất đặc trưng cho bề mặt công nghệ (đặc tính cơ, lý, hoá, độ côn, độ ô van, độ bóng). Đặc tính này sẽ được chuyển hoá từ bề mặt gia công sang bề mặt làm việc. Quá trình xảy ra tương đối nhanh, đường cong dốc, hao mòn nhanh.</para>
+        <para id="id5749242">Giai đoạn 2: sau khi chạy rà bề mặt chi tiết tốt hơn và sẽ ổn định trong quá trình làm việc: bề mặt tiếp xúc lớn, chịu tải tăng, quá trình hao mòn xảy ra chậm và ổn định, đường đặc tính ít dốc. Lượng mòn tỷ lệ thuận với thời gian, cường độ mòn I= tg<figure id="id5749263"><media id="id9218946" alt=""><image src="graphics6.wmf" mime-type="image/wmf" height="15" width="15"/></media></figure> = <figure id="id5749288"><media id="id8982799" alt=""><image src="graphics7.wmf" mime-type="image/wmf" height="47" width="26"/></media></figure> nhỏ.</para>
+        <para id="id5915074">Giai đoạn 3: là giai đoạn nếu tiếp tục làm việc chi tiết sẽ bị phá hỏng, do khe hở của các cặp chi tiết tăng lên, gây ra va đập, hình thành màng dầu khó, nên hao mòn tăng, đường đặc tính là đường phi tuyến.</para>
+      </section>
+      <section id="id-227276346478">
+        <title>Ý nghĩa đồ thị mài mòn chi tiết</title>
+        <para id="id5915108">Giai đoạn chạy rà là tồn tại tất yếu. Song nếu như có các phương pháp chạy rà tốt thì rút ngắn được thời gian chạy rà (tcr) và có thể giảm lượng hao mòn chạy rà.</para>
+        <para id="id5915132">Ở giai đoạn tlv: (từ kích thước chạy rà đến kích thước giới hạn) hao mòn là tối thiểu và ổn định, đặc trưng cho tính chất sử dụng chi tiết (phải đảm bảo chế độ tải trọng và vận tốc...)</para>
+        <para id="id6773406">Khi chi tiết đạt đến Hgh nếu tiếp tục sử dụng thì bề mặt làm việc sẽ bị phá hoại mạnh. Đây là thời kỳ không cho phép sử dụng.</para>
+        <para id="id6773429">Người ta thường sử dụng Hgh , tgh làm thông số để quyết định đưa chi tiết vào sửa chữa hay để kiểm tra chi tiết trong quá trình sửa chữa. Thời gian làm việc của chi tiết chính bị hao mòn là cơ sở để sửa chữa lớn cụm máy. Cũng có thể dùng đồ thị hao mòn để so sánh các chi tiết cùng loại trong những điều kiện làm việc khác nhau.</para>
+      </section>
+    </section>
+    <section id="id-160562588398">
+      <title>CÁC TIÊU CHUẨN XÁC ĐỊNH ĐỘ MÒN GIỚI HẠN</title>
+      <para id="id6706725">Trong các cụm máy khác nhau nhiều khi chi tiết chính của nó chưa bị mài mòn đến Hgh, nhưng đặc tính làm việc của cụm máy đã thay đổi rõ rệt, không đảm bảo tính năng kinh tế, kỹ thuật. Vì vậy, để xác định tuổi thọ (thời gian làm việc đến khi sửa chữa) của cụm máy người ta căn cứ vào độ mòn các chi tiết chính mà ứng với nó cụm máy không cho phép sử dụng tiếp tục, vì không đảm bảo các chỉ tiêu công nghệ, kỹ thuật, kinh tế cần thiết. Độ mòn ấy gọi là độ mòn giới hạn Hgh ( Hgh).</para>
+      <para id="id6706775">Hgh = Hlv - H0 (Hlv  Hgh)</para>
+      <para id="id6491824">Hlv-kích thước chi tiết không cho phép vượt quá để đảm bảo tính năng cần thiết của cụm máy.</para>
+      <para id="id6914670">H0-kích thước ban đầu.</para>
+      <para id="id6914689">Ví dụ: Cặp piston-xilanh bơm cao áp phải tạo ra áp suất lớn để phun nhiên liệu. Nếu mòn quá giới hạn thì chúng không làm việc được. Do đó, tiêu chuẩn Hgh không đáp ứng được mà phải sử dụng tiêu chuẩn kỹ thuật, dựa vào khả năng làm việc (đảm bảo được áp suất làm việc).</para>
+      <para id="id6914723">Trong thực tế, những chi tiết truyền lực (truyền mô men xoắn), nếu khe hở lớn sẽ sinh ra va đập, ồn, nhưng không ảnh hưởng đến truyền lực và tỷ số truyền. Kích thước lúc đó cho phép đạt đến giới Hgh.</para>
+      <para id="id7032648">Người ta sử dụng 3 tiêu chuẩn sau để xác định độ mòn giới hạn:</para>
+      <section id="id-0993826652546">
+        <title>Tiêu chuẩn công nghệ</title>
+        <para id="id7032668">Theo tiêu chuẩn này các chi tiết được phép mòn tới kích thước giới hạn (Hgh). Các bộ phận truyền lực (hộp số, cầu, hộp truyền công suất...) được phép áp dụng tiêu chuẩn này. Vì khe hở không làm ảnh hưởng đến công suất mà nó chỉ gây ồn. </para>
+        <para id="id7032696">Hgh = Hgh - H0</para>
+      </section>
+      <section id="id-194877728511">
+        <title>Tiêu chuẩn kỹ thuật</title>
+        <para id="id6764577">Tiêu chuẩn này lấy yêu cầu kỹ thuật của cụm máy hay cặp ma sát làm cơ sở. Các chi tiết chỉ được mòn đến khi các đặc tính an toàn và độ tin cậy làm việc của các cụm máy giảm xuống dưới mức cho phép.</para>
+        <para id="id6764591">Áp dụng tiêu chuẩn này cho thiết bị an toàn (phanh), thiết bị điều khiển (lái, hệ thống thủy lực).</para>
+        <para id="id6764599">Hgh = Hlv - H0 (Hlv &lt; Hgh)</para>
+        <para id="id6463762">Chi tiết vẫn chưa mòn đến kích thước sửa chữa nhưng vẫn phải đưa vào sửa chữa.</para>
+        <para id="id6463771">Ví dụ: cặp piston-xilanh thủy lực, đường kính 50÷80 nếu khe hở quá 0,03mm phải đem đi sửa chữa vì không đủ áp suất. Cặp bạc trục khuỷu 50÷80 cho phép độ mòn 0,2mm, nếu quá giới hạn này phải đem đi sửa chữa.</para>
+      </section>
+      <section id="id-108730850402">
+        <title>Tiêu chuẩn kinh tế</title>
+        <table id="id6463806" summary="">
+          <tgroup cols="2">
+            <colspec colnum="1" colname="c1"/>
+            <colspec colnum="2" colname="c2"/>
+            <tbody>
+              <row>
+                <entry>Cụm máy phải đưa vào sửa chữa khi các chỉ tiêu kinh tế không đảm bảo: thường đánh giá cho hệ thống nhiên liệu, hệ thống bôi trơn, đánh lửa. Ví dụ: xét với một xe, càng sử dụng chi phí cho sửa chữa, quản lý, tiêu hao nguyên vật liệu càng tăng. Thu về do vận chuyển càng giảm do xe ít làm việc hơn, hư hỏng thời gian xe nằm sửa chữa tăng. Khi tiền thu và chi cân bằng xe phải đưa vào sửa chữaLlv- ứng với thời gian làm việc, khi mà thu bằng chiKích thước khi đó là kích thước giới hạn theo tiêu chuẩn kinh tế.</entry>
+                <entry>TiềnL(Km)Llv ứng với tlvChiThuHình 3.2. Đồ thị thu chi theo tiêu chuẩn kinh tế.</entry>
+              </row>
+            </tbody>
+          </tgroup>
+        </table>
+      </section>
+    </section>
+  </content>
+</document>

@@ -1,0 +1,953 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:m="http://www.w3.org/1998/Math/MathML" xmlns:md="http://cnx.rice.edu/mdml">
+  <title>Chẩn đoán trạng thái kỹ thuật động cơ</title>
+  <metadata>
+  <md:content-id>m30302</md:content-id><md:title>Chẩn đoán trạng thái kỹ thuật động cơ</md:title>
+  <md:abstract>Chuẩn đoán trạng thái kỹ thuật động cơ</md:abstract>
+  <md:uuid>0af44374-ee9a-4cab-a2d3-7ceab1f80454</md:uuid>
+</metadata>
+
+<content>
+    <para id="id6452620"/>
+    <para id="id6452624">Nội dung:</para>
+    <section id="id-161462937313">
+      <title>CHẨN ĐOÁN ĐỘNG CƠ THEO CÔNG SUẤT CÓ ÍCH Ne</title>
+      <para id="id6452637">Ne là một thông số dùng để chẩn đoán chung tình trạng kỹ thuật động cơ.</para>
+      <section id="id-887688114157">
+        <title>Các yếu tố ảnh hưởng đến công suất động cơ</title>
+        <para id="id6651532">- Chất lượng quá trình nạp (đều, đủ). Việc bảo đảm chất lượng nạp do hệ thống phối khí, hệ thống nạp quyết định. </para>
+        <para id="id6651542">- Điều kiện cháy: Tc, pc ... do tình trạng nhóm bao kín buồng cháy quyết định.</para>
+        <para id="id6651559">- Chất lượng nhiên liệu: thể hiện qua tính chất của nhiên liệu khả năng bay hơi, thành phần chưng cất, nhiệt độ bén lửa, trị số Cêtan, Ốc tan...</para>
+        <para id="id6651569">- Chất lượng làm việc của hệ thống đánh lửa (động cơ xăng): góc đánh lửa, chất lượng tia lửa, điện áp thứ cấp U2.</para>
+        <para id="id6651584">- Chất lượng làm việc của hệ thống nhiên liệu: lượng nhiên liệu, góc phun sớm, áp suất phun, mức độ tơi (động cơ Diesel), độ đậm hỗn hợp (động cơ xăng).</para>
+        <para id="id6651595">- Chất lượng làm việc của hệ thống bôi trơn, hệ thống làm mát.</para>
+        <para id="id6651602">Theo thống kê trên động cơ xăng, tỷ lệ hư hỏng dẫn đến giảm công suất động cơ như sau:</para>
+        <para id="id6651610">Do hệ thống đánh lửa43%</para>
+        <para id="id6651622">Do hệ thống nhiên liệu18%</para>
+        <para id="id6651633">Do nhóm Piston - xilanh -xecmăng13%</para>
+        <para id="id6651646">Do cơ cấu khuỷu trục- thanh truyền12%</para>
+        <para id="id6651656">Do cơ cấu phối khí7%</para>
+        <para id="id6651669">Do hệ thống làm mát4%</para>
+        <para id="id6651680">Do hệ thống bôi trơn1%</para>
+        <para id="id6651692">Như vậy, Ne giảm chủ yếu là do hệ thống đánh lửa, hệ thống nhiên liệu, khi điều chỉnh sai góc đánh lửa hay góc phun sớm có thể làm giảm công suất 20 - 30%. Nhất là khi có hiện tượng bỏ máy.</para>
+        <para id="id6651716">Các hiện tượng của động cơ khi có Ne giảm</para>
+        <list id="id6651722" list-type="bulleted">
+          <item>Áp suất cuối kỳ nén yếu (pc giảm), </item>
+          <item>Động cơ quá nóng.</item>
+          <item>Khả năng tăng tốc kém.</item>
+          <item>Khí thải màu xanh sẫm.</item>
+          <item>Máy rung động nhiều.</item>
+        </list>
+      </section>
+      <section id="id-322978561958">
+        <title>Các phương pháp đo công suất động cơ dùng trong chẩn đoán</title>
+        <para id="id6662910">Phương pháp đo không phanh: đây là phương pháp đơn giản vì không phải tháo động cơ ra khỏi xe. Người ta lợi dụng tổn thất cơ giới của các xi lanh không làm việc để làm tải cho xi lanh cần đo. Khi đo thanh răng ở vị trí cực đại (hoặc bướm ga mở hết), đánh chết các xi lanh dùng làm tải, chỉ để lại một xi lanh làm việc đo tốc độ của động cơ, thời gian đo chỉ khoảng 1 phút. Lần lượt thay đổi các xi lanh khác và ghi kết quả đo số vòng quay.</para>
+        <para id="id6662929">Công suất động cơ sẽ được xác định theo công thức:</para>
+        <para id="id6662937">Ne = Neđm(1- N) (ml), </para>
+        <para id="id6662984">trong đó:</para>
+        <para id="id6662993">Neđm là công suất định mức của động cơ theo thiết kế (ml)</para>
+        <para id="id6663014">N là độ chênh công suất so với định mức (%).</para>
+        <para id="id6663037">
+          <m:math>
+            <m:semantics>
+              <m:mrow>
+                <m:mstyle fontsize="12pt">
+                  <m:mrow>
+                    <m:mrow>
+                      <m:msub>
+                        <m:mi>δ</m:mi>
+                        <m:mstyle fontsize="8pt">
+                          <m:mrow>
+                            <m:mi>N</m:mi>
+                          </m:mrow>
+                        </m:mstyle>
+                      </m:msub>
+                      <m:mo stretchy="false">=</m:mo>
+                      <m:mfrac>
+                        <m:mrow>
+                          <m:mo stretchy="false">(</m:mo>
+                          <m:mrow>
+                            <m:msub>
+                              <m:mi>n</m:mi>
+                              <m:mstyle fontsize="8pt">
+                                <m:mrow>
+                                  <m:mrow>
+                                    <m:mn>1</m:mn>
+                                    <m:mstyle fontstyle="italic">
+                                      <m:mrow>
+                                        <m:mtext>Ne</m:mtext>
+                                      </m:mrow>
+                                    </m:mstyle>
+                                  </m:mrow>
+                                </m:mrow>
+                              </m:mstyle>
+                            </m:msub>
+                            <m:mo stretchy="false">−</m:mo>
+                            <m:msub>
+                              <m:mi>n</m:mi>
+                              <m:mstyle fontsize="8pt">
+                                <m:mrow>
+                                  <m:mstyle fontstyle="italic">
+                                    <m:mrow>
+                                      <m:mtext>tb</m:mtext>
+                                    </m:mrow>
+                                  </m:mstyle>
+                                </m:mrow>
+                              </m:mstyle>
+                            </m:msub>
+                          </m:mrow>
+                          <m:mo stretchy="false">)</m:mo>
+                          <m:mtext>.</m:mtext>
+                          <m:mi>k</m:mi>
+                        </m:mrow>
+                        <m:mtext>100</m:mtext>
+                      </m:mfrac>
+                    </m:mrow>
+                  </m:mrow>
+                </m:mstyle>
+                <m:mrow/>
+              </m:mrow>
+              <m:annotation encoding="StarMath 5.0"> size 12{δ rSub { size 8{N} } = {  { \( n rSub { size 8{1 ital "Ne"} }  - n rSub { size 8{ ital "tb"} }  \)  "." k}  over  {"100"} } } {}</m:annotation>
+            </m:semantics>
+          </m:math>
+        </para>
+        <para id="id6737055">n1Ne là số vòng quay của động cơ khi làm việc với một xi lanh khi ở tình trạng còn mới (theo tài liệu kỹ thuật).</para>
+        <para id="id6737070">ntb số vòng quay trung bình của các xi lanh khi làm việc riêng rẽ (đo khi chẩn đoán).</para>
+        <para id="id6737084">k: hệ số kinh nghiệm </para>
+        <para id="id6737096">Đối với động cơ máy kéo: k = 0,055</para>
+        <para id="id6737102">Đối với động cơ ô tô: k = 0,02 - 0,04</para>
+        <para id="id6737110">Ví dụ: với động cơ D50 có 4 xi lanh, công suất định mức 55 mã lực, số vòng quay định mức khi làm việc với một xi lanh là 1370 v/ph. Hệ số k = 0.055. n1 = 1090v/ph. n2 = 1210 v/ph. n3 = 1215 v/ph. n4 = 1105 v/ph.</para>
+        <para id="id6737159"><media id="id1169957548018" alt=""><image src="graphics1.wmf" mime-type="image/wmf" height="44" width="156"/></media> = 1150 v/ph</para>
+        <para id="id6132212"><m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:msub><m:mi>δ</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mi>N</m:mi></m:mrow></m:mstyle></m:msub><m:mo stretchy="false">=</m:mo><m:mfrac><m:mrow><m:mo stretchy="false">(</m:mo><m:mrow><m:mtext>1370</m:mtext><m:mo stretchy="false">−</m:mo><m:mtext>1150</m:mtext></m:mrow><m:mo stretchy="false">)</m:mo><m:mn>0</m:mn><m:mtext>.</m:mtext><m:mtext>055</m:mtext></m:mrow><m:mtext>100</m:mtext></m:mfrac></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{δ rSub { size 8{N} } = {  { \( "1370" - "1150" \) 0 "." "055"}  over  {"100"} } } {}</m:annotation></m:semantics></m:math>=12.1%</para>
+        <para id="id6132313">Ne = 55(1- 0.121) = 48 mã lực.</para>
+        <para id="id6132332">Đo công suất theo phương pháp gia tốc: dựa trên nguyên tắc sự thay đổi tốc độ góc của động cơ phụ thuộc vào công suất động cơ, khi công suất động cơ càng lớn thì gia tốc góc càng lớn. Thực chất của dụng cụ đo là đo thời gian tăng tốc từ tốc độ thấp đến tốc độ định mức khi tăng tốc đột ngột, chỉ thị sẽ là công suất động cơ.</para>
+        <para id="id6132354">Đo công suất bằng phanh thử công suất: đây là phương pháp đo chính xác nhất, nhưng yêu cầu phải tháo động cơ ra khỏi ô tô đặt lên phanh thử. Gây tải cho phanh có thể bằng ma sát (phanh cơ khí), lực cản của nước (phanh thuỷ lực) hoặc lực điện từ (phanh điện). Công suất động cơ được tính theo công thức:</para>
+        <para id="id6132377"><media id="id1169960656442" alt=""><image src="graphics2.wmf" mime-type="image/wmf" height="43" width="143"/></media>, </para>
+        <para id="id6132417">Me cân bằng với mô men cản Mc của phanh.</para>
+        <para id="id6996224">CHẨN ĐOÁN ĐỘNG CƠ THEO THÀNH PHẦN KHÍ THẢI</para>
+        <para id="id6996230">Đặc điểm phương pháp</para>
+        <para id="id6996234">Thành phần khí thải là một thông số ra phản ánh chất lượng quá trình cháy của động cơ. Thành phần khí thải là thông số chẩn đoán chung vì nó phụ thuộc nhiều yếu tố: độ đậm hỗn hợp cháy, chất lượng hoà trộn nhiên liệu và không khí, khả năng bay hơi của nhiên liệu xăng, độ phun sương và đồng đều của vòi phun, trạng thái nhiệt độ, áp suất trong xi lanh, thời điểm phun hoặc thời điểm đánh lửa...</para>
+        <para id="id6996252">Đối với động cơ Diesel, hỗn hợp cháy với hệ số dư lượng không khí luôn lớn hơn 1. Trong khi đó, ở động cơ xăng thì tuỳ thuộc chế độ làm việc mà hệ số này dao động quanh giá trị 1. Vì vậy, nồng độ các chất thành phần trong khí thải ở hai loại động cơ khác nhau, nhưng cơ bản các thành phần độc hại như nhau bao gồm: CO, CO2, H2O (hơi), SO2, NOx, HC, bồ hóng.</para>
+        <para id="id6996308">Phương pháp chẩn đoán</para>
+        <para id="id6996314">Sử dụng các thiết bị phân tích khí để phân tích các thành phần trong khí thải. Khi CO tăng thì do hỗn hợp đậm.</para>
+        <para id="id6996323">Xác lập vị trí tay ga ứng với các chế độ làm việc của động cơ. Khi máy chạy ổn định và nhiệt độ đúng qui định thì mới tiến hành đo.</para>
+        <para id="id6996333">Khi ở chế độ không tải: HC tăng và không tồn tại O2.</para>
+        <para id="id6996351">Tăng dần tải CO2 tăng, O2 giảm, HC, CO giảm dần.</para>
+        <para id="id6303377">Khi toàn tải chủ yếu tồn tại CO.</para>
+        <para id="id6303383">Ở chế độ tăng tốc và khởi động tồn tại HC.</para>
+        <para id="id6303388">Ở chế độ tải trung bình thì các thành phần trên ổn định. Nếu không bình thường thì các thành phần trên sẽ dao động rất lớn.</para>
+        <para id="id6303395">Xử lý kết quả</para>
+        <para id="id6303400">Ở chế độ kinh tế mà tồn tại HC và O2 thì chứng tỏ có hiện tượng bỏ máy.</para>
+        <para id="id6303418">Khi tăng tốc nếu HC không tăng thì chứng tỏ bộ phận tăng tốc trục trặc.</para>
+        <para id="id6303426">Khi chạy toàn tải mà tồn tại HC và O2 thì chứng tỏ có máy bị bỏ.</para>
+        <para id="id6303444">Thiết bị phân tích khí xả</para>
+        <para id="id6303451">Đối với động cơ xăng, sử dụng thiết bị AVL DiGas 4000</para>
+        <para id="id6303456">Đối với động cơ Diesel sử dụng thiết bị AVL DiSmoke 4000</para>
+        <para id="id6303463">CHẨN ĐOÁN ĐỘNG CƠ THEO HÀM LƯỢNG MẠT KIM LOẠI TRONG DẦU BÔI TRƠN </para>
+        <para id="id6303470">Đặc điểm phương pháp</para>
+        <para id="id6303474">Khi các chi tiết mài mòn, hàm lượng mạt kim loại trong dầu tăng lên, xác định hàm lượng này để đánh giá mức độ mòn của các chi tiết. Mỗi chi tiết có những thành phần kim loại đặc trưng. Do vậy, khi đo các thành phần này sẽ cho phép biết được chi tiết nào mòn nhiều. Trong chế tạo thử chi tiết mẫu có thể cấy thêm chất đồng vị phóng xạ vào để đo mức độ mòn khi thử nghiệm. </para>
+        <para id="id6303489">Theo thống kê xi lanh đặc trưng bởi: Fe, C, Ni.</para>
+        <para id="id6303498">Trục khuỷu: Fe, Cr.</para>
+        <para id="id6303503">Piston: Al, Si.</para>
+        <para id="id6303507">Bạc lót: Al, Sn (thiếc).</para>
+        <para id="id6303512">Phương pháp chẩn đoán</para>
+        <para id="id6303518">Mẫu dầu được lấy nhiều lần, thường trong các kỳ bảo dưỡng cấp hai. Lấy mẫu dầu khoảng 100cc khi động cơ đang làm việc hoặc mới ngưng làm việc, nếu tháo lọc trước thì kết quả chính xác hơn. Mẫu được lấy sau từng khoảng thời gian làm việc qui định. Đưa mẫu lên máy phân tích để xác định lượng kim loại thành phần. So sánh kết quả phân tích với mẫu dầu của động cơ chuẩn (thường là đồ thị). Nếu giữa hai lần lấy mẫu có thay dầu thì phải cộng thêm kết quả của lần trước.</para>
+      </section>
+      <section id="id-301990545131">
+        <title>Xử lý kết quả Theo đồ thị hình 9.1: </title>
+        <table id="id6303569" summary="">
+          <tgroup cols="2">
+            <colspec colnum="1" colname="c1"/>
+            <colspec colnum="2" colname="c2"/>
+            <tbody>
+              <row>
+                <entry>Đường 1: Dầu bình thường.Đường 2: Dầu kém phẩm chất.Đường 3: Có sự cố trục bạc.Đường 4: Lọc bị tắc.</entry>
+                <entry><media id="id1169957558386" alt=""><image src="../../media/graphics3-514f.png" mime-type="image/png"/></media>Hình 9.1. Đồ thị hàm lượng mạt kim loại trong dầu nhờn theo thời gian</entry>
+              </row>
+            </tbody>
+          </tgroup>
+        </table>
+      </section>
+    </section>
+    <section id="id-898316807341">
+      <title>CHẨN ĐOÁN ĐỘNG CƠ THEO TIẾNG ỒN, MÀU KHÓI, MÙI KHÓI</title>
+      <section id="id-86936465175">
+        <title>Chẩn đoán theo tiếng ồn</title>
+        <para id="id6756565">Tiếng ồn trong động cơ bao gồm hai loại chính: tiếng ồn cơ khí và tiếng ồn quá trình cháy.</para>
+        <list id="id6756578" list-type="enumerated">
+          <item>Tiếng ồn cơ khí</item>
+        </list>
+        <para id="id6756584">Do mài mòn, khe hở các chi tiết tăng lên gây ra va đập, đó chính là nguyên nhân gây ồn. Mỗi vùng chi tiết có tiếng ồn đặc trưng khác nhau và xuất hiện ở các chế độ khác nhau.</para>
+        <para id="id6756596">Qui trình:</para>
+        <para id="id6756601">Cho động cơ chạy không tải, phát hiện tiếng gõ bất thường theo các vùng.</para>
+        <para id="id6756610">Cho động cơ làm việc ở chế độ toàn tải và 2/3 mức độ tối đa của số vòng quay, phát hiện tiếng gõ bất thường cho các vùng.</para>
+        <para id="id6756620">Các vùng nghe tiếng gõ:</para>
+        <para id="id6756625"><figure id="id6756652"><media id="id1169957558547" alt=""><image src="../../media/graphics4-9554.jpg" mime-type="image/jpeg" height="191" width="269"/></media></figure>Hình 9.2. Các vùng nghe tiếng gõ động cơVùng 1: bao gồm tiếng gõ của xupáp, con đội, trục cam, âm thanh phát ra nhỏ, đặc biệt rõ khi động cơ ở chế độ không tải.</para>
+        <para id="id6756697">Nguyên nhân:</para>
+        <list id="id6756703" list-type="bulleted">
+          <item>Khe hở lớn giữa đuôi xupáp và cam hay con đội.</item>
+        </list>
+        <list id="id6066972" list-type="bulleted">
+          <item>Ổ đỡ và trục cam có khe hở lớn.</item>
+        </list>
+        <list id="id6066982" list-type="bulleted">
+          <item>Mòn biên dạng cam…</item>
+        </list>
+        <para id="id6066991">Vùng 2: bao gồm tiếng gõ của séc măng, piston với xi lanh, chốt đầu nhỏ, đầu nhỏ và bạc đầu nhỏ thanh truyền, đặc biệt rõ khi động cơ làm việc ở chế độ thay đổi tải trọng. Vị trí tiếng gõ tương ứng với vị trí bố trí trong xi lanh.</para>
+        <para id="id6067010">Nguyên nhân:</para>
+        <list id="id6067016" list-type="bulleted">
+          <item>Khe hở lớn giữa piston và séc măng, hay có thể đã bị gãy séc măng.</item>
+        </list>
+        <list id="id6067028" list-type="bulleted">
+          <item>Khe hở giữa piston và xi lanh lớn, có thể do mòn phần đáy dẫn hướng piston. Mòn nhiều xi lanh.</item>
+        </list>
+        <list id="id6067040" list-type="bulleted">
+          <item>Khe hở giữa chốt đầu nhỏ, đầu nhỏ và bạc đầu nhỏ thanh truyền…</item>
+        </list>
+        <para id="id6067052">Vùng 3: bao gồm tiếng gõ của trục khuỷu với bạc đầu to, âm thanh phát ra trầm, đặc biệt rõ khi động cơ làm việc với chế độ thay đổi tải trọng.</para>
+        <para id="id6067067">Nguyên nhân:</para>
+        <list id="id6067073" list-type="bulleted">
+          <item>Hư hỏng bạc đầu to với trục khuỷu: mòn bạc, cháy bạc do thiếu dầu bôi trơn.</item>
+        </list>
+        <list id="id6067085" list-type="bulleted">
+          <item>Bị xoay định vị bạc biên, mòn, méo cổ trục…</item>
+        </list>
+        <para id="id6067096">Vùng 4: bao gồm tiếng gõ của trục khuỷu với bạc cổ trục chính, âm thanh phát ra trầm nặng, nghe rõ ở mọi chỗ dọc theo chiều dài trục khủyu, đặc biệt rõ khi động cơ làm việc ở chế độ thay đổi tải trọng, và cả khi số vòng quay lớn.</para>
+        <para id="id6067115">Nguyên nhân:</para>
+        <list id="id6067120" list-type="bulleted">
+          <item>Hư hỏng trong phần bạc cổ trục khuỷu với trục khuỷu: mòn bạc, cháy bạc do thiếu dầu bôi trơn.</item>
+        </list>
+        <list id="id6067133" list-type="bulleted">
+          <item>Bị xoay định vị bạc biên, mòn, méo cổ trục.</item>
+        </list>
+        <list id="id6067143" list-type="bulleted">
+          <item>Mòn căn dọc trục khuỷu.</item>
+        </list>
+        <list id="id6067153" list-type="bulleted">
+          <item>Lỏng ốc bắt bánh đà…</item>
+        </list>
+        <para id="id6067163">Vùng 5: bao gồm tiếng gõ của các cặp bánh răng dẫn động trục cam, âm thanh phát ra đều, nghe rõ ở mọi chế độ tải trọng động cơ.</para>
+        <para id="id6067177">Nguyên nhân:</para>
+        <list id="id6067183" list-type="bulleted">
+          <item>Mòn các cặp bánh răng cam.</item>
+        </list>
+        <list id="id6067193" list-type="bulleted">
+          <item>Ổ đỡ trục bánh răng hỏng.</item>
+        </list>
+        <para id="id6067202">Các loại động cơ khác nhau sẽ có các vùng nghe tiếng gõ khác nhau, vì vậy muốn chẩn đoán đúng phải nắm vững kết cấu các loại động cơ ngày nay bố trí trên ô tô, tìm hiểu các quy luật của sự cố và rèn luyện khả năng phân biệt tiếng gõ tốt (kinh nghiệm).</para>
+        <para id="id6577536">Xác định tiếng ồn bằng que thăm hoặc ống nghe.</para>
+        <section id="id-437626195998">
+          <title>2. Tiếng ồn quá trình cháy</title>
+          <para id="id6577549">Nguyên nhân do dao động âm thanh của dòng khí tốc độ cao khi thoát ra ngoài khí quyển.</para>
+          <para id="id6577557">Đối với động cơ xăng khi góc đánh lửa sớm không đúng gây ra tiếng ồn khác nhau. Đánh lửa muộn máy nóng, tiếng nổ êm đồng thời có thể có tiếng nổ trong ống xả. Đánh lửa sớm quá nghe tiếng nổ ròn đanh, nếu kích nổ nghe có tiếng rít rất chói tai như tiếng kim loại miết trên nền cứng.</para>
+          <para id="id6577574">Cần chú ý phân biệt hai loại tiếng ồn để có thể phán đoán chính xác.</para>
+        </section>
+      </section>
+      <section id="id-280818538673">
+        <title>Chẩn đoán theo màu khói và mùi khói</title>
+        <para id="id6577591">Đối với động cơ có thể dùng cảm nhận màu sắc để chẩn đoán tình trạng kỹ thuật của động cơ. Thông qua cảm nhận màu sắc khí xả, bugi (động cơ xăng), màu sắc dầu nhờn bôi trơn động cơ.</para>
+        <section id="id-402507776776">
+          <title>Màu khí xả</title>
+          <para id="id6577608">a. Màu khí xả động cơ diesel:</para>
+          <list id="id6577615" list-type="bulleted">
+            <item>Màu nâu nhạt: máy làm việc tốt, quá trình cháy triệt để.</item>
+            <item>Màu nâu sẫm chuyển đen: máy quá thừa nhiên liệu.</item>
+            <item>Màu xanh nhạt (liên tục hay không liên tục) một vài xi lanh không làm việc.</item>
+            <item>Màu trắng: máy thiếu nhiên liệu hay nhiên liệu lẫn nước, rò rỉ nước vào buồng đốt do các nguyên nhân khác nhau.</item>
+            <item>Màu xanh đen: dầu nhờn lọt vào buồng đốt do hư hỏng séc măng, piston, xi lanh.</item>
+          </list>
+          <para id="id6577660">b. Màu khí xả động cơ xăng:</para>
+          <list id="id6577667" list-type="bulleted">
+            <item>Không màu hay xanh nhạt: động cơ làm việc tốt.</item>
+            <item>Màu trắng: động cơ thiếu nhiên liệu, hay thừa không khí do hở đường nạp, buồng đốt.</item>
+            <item>Màu xanh đen hay đen: hao mòn lớn trong khu vực séc măng, piston, xi lanh, dầu nhờn lọt vào buồng đốt.</item>
+          </list>
+          <para id="id6577696">c. Màu khí xả động cơ xăng hai kỳ:</para>
+          <para id="id6577703">Tương tự động cơ xăng, ngoài ra còn lưu ý đến nguyên nhân pha trộn dầu nhờn vào nhiên liệu.</para>
+          <list id="id6577712" list-type="bulleted">
+            <item>Màu xanh đen: tỷ lệ trộn dầu nhờn lớn quá quy định.</item>
+            <item>Màu trắng nhạt: tỷ lệ trộn dầu nhờn nhỏ dưới quy định.</item>
+          </list>
+          <para id="id6577731">Việc xác định chất lượng động cơ thông qua màu khí xả có thể đánh giá chất lượng động cơ nhất là hệ thống cung cấp nhiên liệu và đánh lửa. Khi đánh giá chung tình trạng kỹ thuật cần tham khảo các thông số khác.</para>
+        </section>
+        <section id="id-652222807179">
+          <title>Màu chấu bugi</title>
+          <list id="id6577753" list-type="bulleted">
+            <item>Chấu bugi có màu gạch non (hồng): động cơ làm việc tốt.</item>
+            <item>Chấu bugi có màu trắng: thiếu nhiên liệu.</item>
+            <item>Chấu bugi có màu đen: thừa nhiên liệu.</item>
+            <item>Chấu bugi có màu đen và ướt dầu: dầu nhờn không cháy hết do mòn séc măng-xi lanh, bó kẹt séc măng, gãy séc măng, hay hiện tượng lọt dầu qua ống dẫn hướng xu páp. Khi tải định mức nếu tốt thì khí thải không màu hoặc màu nhạt.</item>
+          </list>
+          <para id="id6556580">Kiểm tra máy bị bỏ có thể bằng cách đánh chết máy hoặc sờ cổ xả khi mới khởi động. Nối tắt bu gi để đánh chết máy trường hợp động cơ xăng, chú ý nối từ mát vào đầu cao áp, không được nối ngược lại. Đối với động cơ Diesel nới ống cao áp cắt dầu diesel.</para>
+        </section>
+        <section id="id-743610003753">
+          <title>Màu dầu nhờn bôi trơn động cơ</title>
+          <para id="id6556602">Màu nguyên thủy dầu nhờn bôi trơn động cơ khác nhau như: trắng trong, vàng nhạt, xanh nhạt, nâu nhạt. Sau quá trình sử dụng màu của dầu bôi trơn có xu hướng biến thành màu nâu đen. Việc xác định chất lượng động cơ thông qua màu dầu nhờn cần phải so sánh theo cùng lượng km xe chạy.</para>
+          <para id="id6556617">Màu dầu nhờn chuyển sang đậm nhanh hơn khi chất lượng động cơ giảm, do vậy cần có mẫu dầu nguyên thủy để kiểm chứng.</para>
+          <para id="id6556627">Hiệu quả nhất là phát hiện các mạt kim loại như: sắt, nhôm, đồng lẫn trong dầu nhờn tạo nên màu riêng biệt của kim loại có trong dầu nhờn.</para>
+        </section>
+        <section id="id-773292423901">
+          <title>Dùng cảm nhận mùi</title>
+          <para id="id6556647">Khi động cơ hoạt động các mùi có thể cảm nhận được là: mùi cháy từ sản phẩm dầu nhờn, nhiên liệu, vật liệu ma sát. Các mùi đặc trưng dễ nhận biết là:</para>
+          <list id="id6556659" list-type="bulleted">
+            <item>Mùi khét do dầu nhờn rò rỉ bị cháy xung quanh động cơ, do dầu bôi trơn bị cháy thoát ra theo đường khí xả, các trường hợp này nói lên chất lượng bao kín bị suy giảm, dầu nhờn bị lọt vào buồng cháy.</item>
+            <item>Mùi nhiên liệu cháy không hết thải ra theo đường khí xả hoặc mùi nhiên liệu thoát ra theo các thông áp của buồng trục khuỷu. Mùi của chúng mang theo mùi đặc trưng của nhiên liệu nguyên thủy. Khi lượng mùi tăng có thể nhận biết rõ ràng thì tình trạng kỹ thuật của động cơ bị xấu nghiêm trọng.</item>
+            <item>Mùi khét đặc trưng từ vật liệu cách điện. Khi xuất hiện mùi khét, tức là có hiện tượng bị đốt cháy quá mức tại các điểm nối của mạch điện, từ các tiếp điểm có vật liệu cách điện như: tăng điện, các cuộn dây điện trở, các đường dây…</item>
+            <item>Mùi khét đặc trưng từ vật liệu bằng cao su hay nhựa cách điện.</item>
+          </list>
+          <para id="id6556715">Nhờ tính đặc trưng của mùi khét có thể phán đoán tình trạng hư hỏng hiện tại của các bộ phận động cơ.</para>
+        </section>
+      </section>
+    </section>
+    <section id="id-919882095176">
+      <title>CHẨN ĐOÁN NHÓM BAO KÍN BUỒNG CHÁY </title>
+      <section id="id-540853228353">
+        <title>Chẩn đoán theo độ lọt khí xuống các te</title>
+        <section id="id-622811461297">
+          <title>Đặc điểm của phương pháp</title>
+          <para id="id6556752">Độ lọt khí các te phụ thuộc vào:</para>
+          <para id="id6556757">- Mức độ kín khít của nhóm piston - xilanh - secmăng.</para>
+          <para id="id6556764">- Mức độ tải của động cơ, khi thay đổi tải độ lọt khí thay đổi.</para>
+          <para id="id6556772">- Chế độ tốc độ của động cơ.</para>
+          <para id="id6556779">- Nhiệt độ động cơ.</para>
+          <para id="id6556786">Mức độ lọt khí các te khi máy mới đến khi mòn giới hạn thay đổi từ 10 - 12 lần.</para>
+        </section>
+        <section id="id-869435889752">
+          <title>Mô tả dụng cụ</title>
+          <para id="id6699295">Thực chất là dụng cụ đo lưu lượng, nhưng thang đo chỉ thị độ mở của cửa thông. Khi đo, điều chỉnh độ mở cửa 5 để luôn duy trì độ chênh áp giữa phần khoang đầu dụng cụ và họng thông động cơ là 15mm H2O. Xây dựng bảng chuẩn bằng lưu lượng kế chuẩn. Đồ thị chuẩn của dụng cụ thể hiện quan hệ độ mở cửa với lưu lượng khí. đặc điểm phương pháp này rất chính xác, các sai số chế tạo đều được khử khi chuẩn dụng cụ. Sai số của phép đo tuỳ thuộc vào sai số của lưu lượng kế chuẩn.</para>
+          <para id="id6699324">Hãng AVL (Cộng hoà Áo) chế tạo thiết bị đo lọt khí các te AVL442, sử dụng các ống đo lưu lượng khí lọt qua tấm tiết lưu với cảm biến áp điện, với nhiều kích cỡ khác nhau để phát hiện lượng khí lọt thấp nhất 0,2 lít/phút và lớn nhất tới 2400 lít/phút. Các kết quả đều được số hoá.</para>
+        </section>
+        <section id="id-915818287143">
+          <title>Hình 9.3 Dụng cụ đo lọt khí các te1,2,3-Lỗ đo chênh áp. 4-Nắp cố định. 5-Nắp di động. 6-Cửa tiết lưu. 7-Tấm xoay. 8-Đường khí vào. 9-Lỗ thoát khí phụ. 10-Vỏ dụng cụ. 11-Vành khắc độ lưu lượng. 12-Lò xo. 13-Đường khí ra. 14-Cửa thoát khíPhương pháp đo</title>
+          <para id="id6699419">Khởi động động cơ, cho vận hành đến nhiệt độ theo qui định, mang tải cho động cơ theo qui định (nếu không đặt tải chấp nhận sai số). Nếu động cơ dùng phương án thông hơi cacte hở thì phải nút lỗ thông hơi lại. Cắm đầu đo vào họng đổ dầu của động cơ. Muốn kiểm tra xi lanh nào đánh chết máy xi lanh đó, nếu máy tốt độ lọt khí các te giảm (trong khi không thay đổi độ mở cửa).</para>
+        </section>
+      </section>
+      <section id="id-00834328079489">
+        <title>Chẩn đoán động cơ theo áp suất pc </title>
+        <section id="id-0583515552835">
+          <title>Đặc điểm phương pháp</title>
+          <para id="id6699458">Nhóm bao kín buồng cháy gồm: Piston, xilanh, secmăng, gioăng đệm, nắp máy, xupáp. Khi nhóm bao kín buồng cháy không kín do mòn hoặc hỏng sẽ làm áp suất cuối kỳ nén giảm. Áp suất pc phụ thuộc:</para>
+          <para id="id6699477">- Độ kín khít của các chi tiết trong nhóm bao kín buồng cháy.</para>
+          <para id="id6699485">- Tỷ số nén.</para>
+          <para id="id6699491">- Nhiệt độ động cơ.</para>
+          <para id="id6699497">- Tốc độ động cơ.</para>
+          <para id="id6699504">Đặc điểm phương pháp này là không cần mang tải cho động cơ. Đo pc chủ yếu dùng để đánh giá chất lượng sửa chữa. Khi dùng pc để chẩn đoán thì có thể có sai số.</para>
+        </section>
+        <section id="id-615913642949">
+          <title>Phương pháp đo pc trên động cơ xăng</title>
+          <para id="id6241285">Dùng áp kế cầm tay để đo có thang đo 10 - 15 at.</para>
+          <para id="id6241292">Cho động cơ nổ đến nhiệt độ qui định, tắt máy, tháo toàn bộ bu gi, đổ qua lỗ bu gi khoảng 20cc dầu bôi trơn. Cắm đầu đo áp kế vào lỗ bu gi của xi lanh cần đo, cho máy khởi động làm việc khoảng 10 - 12 vòng, đọc kết quả áp suất trên đồng hồ đo. Ngừng khoảng 2 phút mới tiến hành đo xi lanh khác.</para>
+          <table id="id6241306" summary="">
+            <tgroup cols="2">
+              <colspec colnum="1" colname="c1"/>
+              <colspec colnum="2" colname="c2"/>
+              <tbody>
+                <row>
+                  <entry>Phương pháp đo pc trên động cơ Diesel Dùng áp kế cầm tay để đo có thang đo 40 - 50 at.Cho động cơ nổ đến nhiệt độ qui định, điều chỉnh số vòng quay nhỏ nhất và ổn định, tháo vòi phun của xi lanh cần đo và lắp áp kế vào, đo nhanh để khỏi nóng áp kế, đọc kết quả áp suất trên đồng hồ đo. Hiện nay có loại áp kế có băng giấy tự ghi cho phép ghi lại kết quả của từng xi lanh để so sánh.</entry>
+                  <entry><media id="id1169957559946" alt=""><image src="../../media/graphics6-a62e.png" mime-type="image/png"/></media>Hình 9.4 Áp kế cầm taya-dùng cho động cơ xăng. b-dùng cho động cơ Diesel1-van; 2-áp kế.</entry>
+                </row>
+              </tbody>
+            </tgroup>
+          </table>
+          <para id="id6241417">Trị số pc của một số động cơ trên bảng sau: </para>
+          <table id="id6241429" summary="">
+            <tgroup cols="5">
+              <colspec colnum="1" colname="c1"/>
+              <colspec colnum="2" colname="c2"/>
+              <colspec colnum="3" colname="c3"/>
+              <colspec colnum="4" colname="c4"/>
+              <colspec colnum="5" colname="c5"/>
+              <tbody>
+                <row>
+                  <entry>Động cơ</entry>
+                  <entry>n(v/ph)</entry>
+                  <entry>pctb</entry>
+                  <entry>pc min</entry>
+                  <entry>pc</entry>
+                </row>
+                <row>
+                  <entry>Zil 130</entry>
+                  <entry>50 - 180</entry>
+                  <entry>6 - 6,8</entry>
+                  <entry>5,6</entry>
+                  <entry>0,7 - 1</entry>
+                </row>
+                <row>
+                  <entry>Gaz 24</entry>
+                  <entry>180 - 200</entry>
+                  <entry>8 - 8,8</entry>
+                  <entry>8</entry>
+                  <entry>1</entry>
+                </row>
+                <row>
+                  <entry>AMZ 236</entry>
+                  <entry>500</entry>
+                  <entry>34</entry>
+                  <entry>26</entry>
+                  <entry>2</entry>
+                </row>
+                <row>
+                  <entry>Kamaz 740</entry>
+                  <entry>500</entry>
+                  <entry/>
+                  <entry>30</entry>
+                  <entry>2</entry>
+                </row>
+              </tbody>
+            </tgroup>
+          </table>
+        </section>
+      </section>
+      <section id="id-197556094429">
+        <title>Chẩn đoán theo mức lọt khí qua nhóm bao kín buồng cháy</title>
+        <section id="id-551218104236">
+          <title>Đặc điểm phương pháp</title>
+          <para id="id6154809">Ưu điểm kiểm tra khi động cơ tĩnh. Nguyên tắc đưa dòng khí nén có áp suất ổn định 1,6 át vào xi lanh nếu có lọt khí thì áp suất chỉ thị trên đồng hồ sẽ giảm. Áp kế được khắc vạch theo % độ lọt khí.</para>
+        </section>
+        <section id="id-9489601957">
+          <title>Mô tả dụng cụ</title>
+          <para id="id6527143"><figure id="id6527150"><media id="id1169957560334" alt=""><image src="../../media/graphics7-9baa.jpg" mime-type="image/jpeg" height="260" width="528"/></media></figure>Hình 9.5 Dụng cụ đo lọt khí qua nhóm bao kín buồng cháy1- Bầu giảm áp. 2- Đường dẫn không khí. 3,5- Vít điều chỉnh. 4- Đường cấp khí nén. 6- Van cấp khí xi lanh. 7-Đầu cắm. 8-Áp kế (% độ lọt khí). 9-Gíc lơ ổn áp. 10-Vít chuẩn áp kế. 11-Gíc lơ ổn áp cho áp kế</para>
+        </section>
+        <section id="id-99035716966">
+          <title>Phương pháp đo</title>
+          <para id="id6527206">Nổ máy đến nhiệt độ qui định. Tháo vòi phun, bu gi. Đổ vào xi lanh khoảng 20 cc dầu bôi trơn. Quay trục khuỷu vài vòng. Nối đầu 7 vào trong lỗ bu gi (vòi phun) của xi lanh cần đo. Đọc trị số độ lọt khí trên đồng hồ 8.</para>
+        </section>
+        <section id="id-273235411493">
+          <title>Xử lý kết quả</title>
+          <para id="id6527228">a. Phương pháp xác định điểm chết</para>
+          <para id="id6527234">Căn cứ theo thứ tự làm việc của động cơ nhìn con đội hoặc đòn gánh. Ví dụ: động cơ 4 xi lanh thứ tự làm việc 1-3-4-2. Xác định xi lanh 1 thì nhìn xupáp của xi lanh 4. Xi lanh 2 thì nhìn xupáp của xi lanh 3. </para>
+          <table id="id6527247" summary="">
+            <tgroup cols="5">
+              <colspec colnum="1" colname="c1"/>
+              <colspec colnum="2" colname="c2"/>
+              <colspec colnum="3" colname="c3"/>
+              <colspec colnum="4" colname="c4"/>
+              <colspec colnum="5" colname="c5"/>
+              <tbody>
+                <row>
+                  <entry>XL1</entry>
+                  <entry>Hút</entry>
+                  <entry>Nén</entry>
+                  <entry>Nổ </entry>
+                  <entry>Thải</entry>
+                </row>
+                <row>
+                  <entry>XL2</entry>
+                  <entry>Nén</entry>
+                  <entry>Nổ </entry>
+                  <entry>Thải</entry>
+                  <entry>Hút</entry>
+                </row>
+                <row>
+                  <entry>XL3</entry>
+                  <entry>Thải</entry>
+                  <entry>Hút</entry>
+                  <entry>Nén</entry>
+                  <entry>Nổ</entry>
+                </row>
+                <row>
+                  <entry>XL4</entry>
+                  <entry>Nổ</entry>
+                  <entry>Thải</entry>
+                  <entry>Hút</entry>
+                  <entry>Nén</entry>
+                </row>
+              </tbody>
+            </tgroup>
+          </table>
+          <para id="id6416247">b. Kiểm tra nhóm Piston, Xi lanh, Secmăng</para>
+          <para id="id6416256">Khi xupáp đóng kín piston ở trong xi lanh có hai vị trí: cuối nén đầu kỳ giãn nở (ĐCT) và cuối thời kỳ giãn nở (ĐCD).</para>
+          <para id="id6416265">Gọi Y1 trị số lọt khí khi Piston ở ĐCT</para>
+          <para id="id6416285">Y2 trị số lọt khí khi Piston ở ĐCD. (xi lanh phần dưới ít mòn)</para>
+          <para id="id6416304">Như vậy: Y1 đánh giá mức độ kín khít nhóm P, X,S.</para>
+          <para id="id6416324">Y2 đánh giá mức độ kín của Piston,Secmăng. </para>
+          <para id="id6416344">Hiệu số Y1 - Y2 đánh giá tình trạng của xilanh.</para>
+          <para id="id6416370">Y1, Y2 cho phép được qui định theo đường kính xi lanh và loại động cơ.</para>
+          <table id="id6416396" summary="">
+            <tgroup cols="6">
+              <colspec colnum="1" colname="c1"/>
+              <colspec colnum="2" colname="c2"/>
+              <colspec colnum="3" colname="c3"/>
+              <colspec colnum="4" colname="c4"/>
+              <colspec colnum="5" colname="c5"/>
+              <colspec colnum="6" colname="c6"/>
+              <tbody>
+                <row>
+                  <entry>Trị số</entry>
+                  <entry namest="c2" nameend="c4">Động cơ xăng</entry>
+                  <entry namest="c5" nameend="c6">Động cơ Diesel</entry>
+                </row>
+                <row>
+                  <entry/>
+                  <entry>51&lt;D75</entry>
+                  <entry>76&lt;D100</entry>
+                  <entry>101&lt;D130</entry>
+                  <entry>75&lt;D100</entry>
+                  <entry>101&lt;D130</entry>
+                </row>
+                <row>
+                  <entry>[Y1]</entry>
+                  <entry>&gt;16</entry>
+                  <entry>28</entry>
+                  <entry>50</entry>
+                  <entry>45</entry>
+                  <entry>52</entry>
+                </row>
+                <row>
+                  <entry>[Y2]</entry>
+                  <entry>&gt;8</entry>
+                  <entry>14</entry>
+                  <entry>23</entry>
+                  <entry>14</entry>
+                  <entry>29</entry>
+                </row>
+                <row>
+                  <entry>[Y1-Y2]</entry>
+                  <entry>12</entry>
+                  <entry>20</entry>
+                  <entry>30</entry>
+                  <entry>22</entry>
+                  <entry>30</entry>
+                </row>
+              </tbody>
+            </tgroup>
+          </table>
+          <para id="id6553958">c. Kiểm tra độ kín xupáp - đế: </para>
+          <para id="id6553965">Nối van cấp khí vào xi lanh và dùng ống sáo hoặc còi kiểm tra.</para>
+          <para id="id6553972">VD: Khi piston xilanh 1 ở ĐCT nếu xupáp nạp hở sẽ có lọt khí ở xi lanh 3. Nếu xupáp thải hở sẽ có lọt khí ở xi lanh 4.</para>
+          <para id="id6553981">d. Kiểm tra kín khít của đệm nắp máy:</para>
+          <para id="id6553988">Đệm có thể hở theo đường nước, kiểm tra có sủi bọt ở két nước không.</para>
+          <para id="id6553993">Đệm hở ra xung quanh dùng nước xà phòng kiểm tra.</para>
+          <para id="id6553999">Đệm hở từ xi lanh này sang xilanh khác dùng còi kiểm tra.</para>
+        </section>
+      </section>
+    </section>
+    <section id="id-599862584889">
+      <title>CHẨN ĐOÁN HỆ THỐNG BÔI TRƠN</title>
+      <section id="id-714368903936">
+        <title>Kiểm tra chất lượng dầu bôi trơn</title>
+        <section id="id-120060296761">
+          <title>Chất lượng dầu bôi trơn phụ thuộc</title>
+          <para id="id6554032">Thời gian làm việc của động cơ.</para>
+          <para id="id6554038">Dầu bôi trơn dùng có đúng loại không.</para>
+          <para id="id6554044">Khả năng lọc sạch của lọc.</para>
+          <para id="id6554049">Tốc độ hao mòn các bề mặt ma sát.</para>
+          <para id="id6554055">Chất lượng nhiên liệu (hàm lượng lưu huỳnh trong nhiên liệu).</para>
+        </section>
+        <section id="id-571168207172">
+          <title>Lý do dầu giảm chất lượng</title>
+          <para id="id6554071">Do lượng tạp chất cơ học trong dầu (mạt kim loại)</para>
+          <para id="id6554081">Do sản phẩm cháy sinh ra bị ngưng tụ (bồ hóng).</para>
+        </section>
+        <section id="id-355342356354">
+          <title>Cách kiểm tra chất lượng dầu</title>
+          <para id="id5932145">Dùng các thiết bị phân tích dầu để phân tích các tính chất của dầu có còn đảm bảo hay không.</para>
+          <table id="id5932160" summary="">
+            <tgroup cols="2">
+              <colspec colnum="1" colname="c1"/>
+              <colspec colnum="2" colname="c2"/>
+              <tbody>
+                <row>
+                  <entry>Phương pháp quan sát: hâm nóng dầu đến nhiệt độ 60oC, để tấm giấy lọc lên nắp máy còn nóng. Nhỏ bốn giọt dầu lên bốn tấm giấy lọc, để 10 phút đo các trị số D, d1, d2. Lấy giá trị trung bình. D là đường kính ngoài lớn nhất của vết, d1 đường kính trong của vết, d2 đường kính của hạt. Xem hình 9.6.K = D/d1 đặc trưng cho sự có mặt của chất phụ gia. K&lt;1,3 dầu còn dùng được.K1,3 dầu không còn chất phụ gia, giảm khả năng trung hoà axit, không dùng được nữa.</entry>
+                  <entry><media id="id1169957561398" alt=""><image src="../../media/graphics8.png" mime-type="image/png"/></media>Hình 9.6 Mẫu dầu trên giấy lọc</entry>
+                </row>
+              </tbody>
+            </tgroup>
+          </table>
+          <para id="id5932340">Nếu vết hạt dầu có màu đen hay xám thì xác định thêm hệ số K1 = d1/d2. (K1 đặc trưng cho lượng tạp chất cơ học).</para>
+          <para id="id5932387">K1  1,4 lượng tạp chất còn trong giới hạn cho phép.</para>
+          <para id="id6916289">K1 &lt; 1,4 lượng tạp chất ngoài giới hạn cho phép cần phải thay.</para>
+        </section>
+      </section>
+      <section id="id-730559370513">
+        <title>Kiểm tra bơm dầu, lọc dầu</title>
+        <para id="id6916319">Bơm dầu dùng đồng hồ đo lưu lượng kiểm tra trên băng.</para>
+        <para id="id6916329">Đối với lọc ly tâm, xác định thời gian rôto còn quay sau khi đã tắt máy không nhỏ hơn 20 - 30s, hoặc đo tốc độ của rôto.</para>
+        <para id="id6916340">Lọc thấm kiểm tra thời gian thấm nhiên liệu Diesel qua lọc. Nhiệt độ của dầu phải đúng qui định của qui trình thử. Ví dụ với động cơ CMD14, thời gian ngấm qua lọc không nhỏ hơn 45s, nhiệt độ dầu 20oC.</para>
+      </section>
+      <section id="id-996464453989">
+        <title>Kiểm tra áp suất đường dầu chính</title>
+        <para id="id6916375">Động cơ xăng áp suất dầu trên đường dầu chính không nhỏ hơn 2 - 4 kG/cm2</para>
+        <para id="id6916389">Động cơ Diesel áp suất dầu trên đường dầu chính không nhỏ hơn 4 - 8 kG/cm2. Áp suất này thường được theo dõi trên đồng hồ báo áp suất dầu lắp trước đường dầu chính. Cũng có thể một số động cơ lắp đèn báo nguy khi áp suất dầu bôi trơn giảm đèn sẽ sáng.</para>
+        <section id="id-370420137171">
+          <title>Áp suất dầu giảm do</title>
+          <para id="id6916423">Áp kế chỉ sai.</para>
+          <para id="id6916428">Dầu bị rò rỉ qua đệm.</para>
+          <para id="id6916433">Nhiệt độ động cơ quá cao.</para>
+          <para id="id6916438">Dầu trong cacte thiếu.</para>
+          <para id="id6916444">Độ nhớt dầu không đúng hoặc đã bị giảm.</para>
+          <para id="id6916449">Khe hở ổ trục quá lớn.</para>
+          <para id="id6916454">Bơm dầu không đảm bảo lưu lượng.</para>
+          <para id="id6916460">Lưới lọc bị tắc, ống hút, ống đẩy bị tắc.</para>
+          <para id="id6916466">Bơm bị mòn quá.</para>
+          <para id="id6916471">Van an toàn không kín, lò xo van yếu, chỉnh sai.</para>
+          <para id="id6916477">Bầu lọc dầu hỏng.</para>
+          <para id="id6916482">Van an toàn không kín, lò xo yếu.</para>
+          <para id="id6916488">Đường dầu bị tắc, lọc bị tắc.</para>
+          <para id="id6916493">Đối với lọc ly tâm khe hở trục, bạc quá lớn. Các mối ghép không kín.</para>
+          <para id="id6916499">Khi áp suất dầu giảm từ từ thường do hao mòn, hay lọc bị tắc. Khi áp suất giảm đột ngột thường do có sự cố trên trục, bạc. Hoặc sau khi sửa chữa điều chỉnh lò xo van an toàn sai, khe hở bạc cạo quá lớn, đệm lắp ghép bị hở không kín. Khi áp suất giảm không cho phép điều chỉnh van an toàn vì không giải quyết tận gốc nguyên nhân.</para>
+        </section>
+        <section id="id-0281017973736">
+          <title>Áp suất tăng</title>
+          <para id="id5713709">Do đường dầu bị tắc, hoặc do lâu ngày sử dụng dầu đóng cặn trên thành đường dầu chính.</para>
+        </section>
+      </section>
+    </section>
+    <section id="id-0951787914633">
+      <title>CHẨN ĐOÁN HỆ THỐNG NHIÊN LIỆU ĐỘNG CƠ XĂNG</title>
+      <section id="id-153988602425">
+        <title>Nhiệm vụ và cấu tạo chung</title>
+        <para id="id5713741">Nhiệm vụ: Chuẩn bị và cung cấp hỗn hợp hơi xăng và không khí cho động cơ, đảm bảo về số lượng và thành phần của khí hỗn hợp luôn phù hợp với chế động của động cơ.</para>
+        <para id="id5713763">Phân loại:</para>
+        <para id="id5713769">Hệ thống nhiên liệu dùng bộ chế hoà khí cung cấp nhiên liệu tự chảy.</para>
+        <para id="id5713776">Hệ thống nhiên liệu dùng bộ chế hoà khí cung cấp nhiên liệu cưỡng bức.</para>
+        <para id="id5713784">Hệ thống nhiên liệu phun xăng điều khiển điện tử.</para>
+        <para id="id5713790">Cấu tạo chung của hệ thống nhiên liệu dùng bộ chế hòa khí cưỡng bức gồm: thùng chứa, lọc thô, bơm xăng, lọc tinh, bộ chế hoà khí, lọc không khí, đường nạp.</para>
+        <para id="id5713811">Các triệu chứng của động cơ khi hư hỏng hệ thống nhiên liệu.</para>
+        <section id="id-783380243922">
+          <title>Động cơ khó hoặc không khởi động được</title>
+          <para id="id5713826">Nguyên nhân:</para>
+          <para id="id5713832">- Thao tác không đúng: lúc khởi động đóng bướm gió lâu quá, gây sặc xăng.</para>
+          <para id="id5713844">- Không có hòa khí vào xi lanh.</para>
+          <para id="id5713853">- Thùng chứa hết xăng.</para>
+          <para id="id5713862">- Van không khí ở nắp xăng bị kẹt.</para>
+          <para id="id5713872">- Tắc bình lọc xăng.</para>
+          <para id="id5713882">- Có nước hoặc chất bẩn trong cốc lọc lắng.</para>
+          <para id="id5713892">- Van kim trong buồng phao bị kẹt.</para>
+          <para id="id5713902">- Bầu lọc không khí bị tắc.</para>
+        </section>
+        <section id="id-350211799748">
+          <title>Tiêu thụ nhiều xăng:</title>
+          <para id="id5713920">Nguyên nhân:</para>
+          <para id="id5713925">- Mức xăng trong buồng phao quá cao do: van kim đóng không kín, mòn khuyết hay kẹt bẩn, phao bị thủng.</para>
+          <para id="id5713934">- Gíc lơ chính mòn lớn.</para>
+          <para id="id5713941">- Van làm đậm đóng không kín.</para>
+          <para id="id5713947">- Tốc độ không tải quá cao.</para>
+          <para id="id5713954">- Lọc không khí bị tắc.</para>
+        </section>
+        <section id="id-340825464324">
+          <title>Động cơ mất công suất ở tốc độ cao, xe không vọt (gia tốc kém)</title>
+          <para id="id5908098">Nguyên nhân:</para>
+          <para id="id5908103">- Bơm tăng tốc bị mòn, hỏng.</para>
+          <para id="id5908110">- Mạch xăng chính bị nghẽn.</para>
+          <para id="id5908116">- Van làm đậm không mở khi nhấn hết chân ga.</para>
+          <para id="id5908123">- Mức xăng trong buồng phao quá thấp.</para>
+          <para id="id5908130">- Lõi lọc bầu lọc không khí bị tắc.</para>
+          <para id="id5908137">- Đường ống nạp phần sau BCHK hở.</para>
+        </section>
+        <section id="id-189943893049">
+          <title>Chạy không tải không ổn định</title>
+          <para id="id5908153">Nguyên nhân:</para>
+          <para id="id5908158">Hiệu chỉnh các vít xăng, vít gió của mạch không đạt yêu cầu hoặc do mạch xăng không tải bị tắc nghẽn.</para>
+        </section>
+      </section>
+      <section id="id-873609760268">
+        <title>Các hư hỏng</title>
+        <section id="id-944606312661">
+          <title>Bơm xăng</title>
+          <para id="id5908183"><figure id="id5908191"><media id="id1169957562280" alt=""><image src="../../media/graphics9-174e.jpg" mime-type="image/jpeg" height="329" width="431"/></media></figure>Hình 9.7 Bơm xăng1-Cần bơm, 2-Tay bơm, 3-Trục bơm, 4-Đệm làm kín, 5-Lò xo, 6-Thân dưới, 7-Thân trên, 8-Van xả, 9-lưới lọc, 10-Nắp, 11-Van hút, 12-Màng bơm, 14-lò xo hồi vị, 15-Tâm xoay, 17-Cam.</para>
+          <para id="id5908235">- Màng bơm chùng, rách làm giảm áp suất đẩy, giảm lưu lượng Qbx. </para>
+          <para id="id5908248">- Lò xo bơm xăng yếu làm giảm áp suất đẩy.</para>
+          <para id="id5908255">- Van hút, van đẩy không kín làm giảm Qbx và pđ.</para>
+          <para id="id5908273">- Trục cần đẩy bơm xăng bị mòn làm cho trục bị tỳ vào ổ trên thân bơm dẫn đến giảm hành trình của bơm.</para>
+          <para id="id5908283">- Mặt lắp ghép nắp và thân bơm bị hở.</para>
+          <para id="id5908290">- Lọt khí trên đường xăng cấp.</para>
+        </section>
+        <section id="id-430009549503">
+          <title>Bộ chế hoà khí</title>
+          <para id="id5908305">- Hư hỏng gíc lơ.</para>
+          <para id="id5908312">- Các mặt lắp ghép không kín.</para>
+          <para id="id5908318">- Mòn trục bướm ga và lỗ trên thân bộ chế hoà khí.</para>
+          <para id="id5908326">- Hư hỏng bơm tăng tốc.</para>
+          <para id="id5908332">- Van làm đậm bị điều chỉnh sai hoặc kim van bị mòn. Làm cho cung cấp hỗm hợp đậm không đúng thời điểm cần thiết (&gt;80% độ mở bướm ga).</para>
+          <para id="id5908342">- Mức xăng trong buồng phao không đúng.</para>
+          <para id="id5908349"><figure id="id6622321"><media id="id1169957562479" alt=""><image src="../../media/graphics10-8c31.jpg" mime-type="image/jpeg" height="367" width="597"/></media></figure>Hình 9.8 Bộ chế hòa khí K-1261-bướm gió. 2-van an toàn. 3-đầu phun sương của bơm tăng tốc. 4-van nén. 5-gíc-lơ không khí của hệ thống chạy không tải. 6-họng khuếch tán nhỏ của buồng thứ nhất. 7,23-gíc-lơ không khí của hệ thống định lượng chính. 8,16-ống nhũ tương. 9-cửa kiểm tra buồng phao. 10,17-gíc-lơ chính. 11-bướm ga của buồng thứ nhất. 12-vít điều chỉnh chất lượng hỗn hợp. 13-gíc-lơ nhiên liệu của hệ thống chạy không tải. 14-bướm ga của buồng thứ hai. 15-họng khuếch tán lớn của buồng thứ hai. 18-van trở về của bơm tăng tốc. 19-van của cơ cấu làm đậm. 20-thanh kéo dẫn động bơm tăng tốc và cơ cấu làm đậm. 21-thanh dẫn động cơ cấu làm đậm. 22-piston của bơm tăng tốc. 24-họng khuếch tán nhỏ của buồng thứ hai. 25-đầu phun sương của cơ cấu làm đậm.</para>
+          <para id="id6622396">Thiết bị chẩn đoán:</para>
+          <para id="id6622404">Hệ thống dùng dầu cho phép kiểm tra bơm xăng, mức xăng trong buồng phao, lưu lượng bơm tăng tốc.</para>
+        </section>
+        <section id="id-760609476499">
+          <title>Kiểm tra bơm xăng</title>
+          <para id="id6622428">Lắp bơm xăng cần kiểm tra như sơ đồ, đóng khoá K1 mở khoá K2, kiểm tra áp suất hút. Đóng khoá K2, mở khoá K1 kiểm tra áp suất đẩy của bơm. Nếu các van đóng kín thì các giá trị áp suất không thay đổi. Lắp vào bệ B1 gíc lơ kiểm tra lưu lượng của bơm, mở khoá K1 và K2, cho bơm làm việc nếu lưu lượng đúng thì trên áp kế 10 sẽ chỉ giá trị theo qui định của qui trình thử, nếu lưu lượng thấp áp suất sẽ chỉ thấp hơn.</para>
+        </section>
+        <section id="id-337019889195">
+          <title>Kiểm tra mức xăng trong buồng phao</title>
+          <para id="id6622452">Mở khoá K1 và K2, mở van K3 thông với K4, mở van K4 thông với ống 12 và 14. Đóng kín khoá K5. Cho bơm làm việc, mức dầu trong ống 12 và 14 dâng lên cho đến khi không nén được cột không khí trên mặt thoáng nữa thì dừng lại. Xoay van K4 nối thông với van V1 để nối nhiên liệu vào BCHK, mở khoá K5, quan sát mức nhiên liệu trên ống quan sát của BCHK hoặc mắt quan sát. </para>
+        </section>
+        <section id="id-847881920937">
+          <title>Kiểm tra lưu lượng của bơm tăng tốc</title>
+          <para id="id6622564">Để kiểm tra bơm tăng tốc, tắt bơm dập tay ga 10 lần quan sát mức nhiên liệu giảm trên ống 14 để biết lưu lượng cung cấp sau 10 lần bơm.</para>
+          <para id="id6622571">Hệ thống dùng nước cho phép kiểm tra gíclơ, độ kín van kim, hệ thống làm đậm và điều chỉnh đánh lửa sớm dùng chân không.</para>
+          <para id="id6286365"><figure id="id6286372"><media id="id1169957562666" alt=""><image src="graphics11.wmf" mime-type="image/wmf" height="417" width="621"/></media></figure>Hình 9.9. Hệ thống dùng dầu thử bơm xăng và CHK trên thiết bị MBKV-21-Thùng nhiên liệu. 2-Cốc lọc. 3-Ống hút. 4-Bơm xăng cần kiểm tra. 5- Động cơ điện. 6- Trục cam. 7-Cơ cấu điều chỉnh hành trình cam. 8-Ống đẩy. 9-Bình ổn áp. 10 -Áp kế 11.- Chân không kế. 12-Ống không khí. 13-Ống thông. 14-Ống khắc vạch. K1,K2 - khoá hai ngả. K3 -khoá ba ngả. B1- bệ lắp gíc lơ thử lưu lượng bơm.</para>
+          <para id="id6286434"/>
+          <para id="id6286440">Kiểm tra gíc lơ: Bộ phận cung cấp nước gồm thùng chứa nước dưới, bơm nước, hệ thống dẫn động dùng động cơ điện, thùng chứa nước trên có máng tràn 11 đảm bảo cột áp tại gíc lơ là 0,1 át. Ống quan sát 10 để kiểm tra nước tràn. Gíc lơ kiểm tra được lắp trên đầu gá 15 theo chiều đúng như khi nhiên liệu chảy qua. Cốc 17 dung tích đủ để hứng hết lượng nước thông qua gíc lơ trong 1 phút. Cơ cấu điều khiển gồm cần 13, tấm chắn 16 và đồng hồ bấm giây 14. Khi kéo cần 13 tấm chắn sẽ mở ra cho nước chảy qua lỗ xuống cốc 17 đồng thời vấu tỳ sẽ khởi động đồng hồ bấm giây để tính thời gian, như vậy việc phối hợp đo lưu lượng và tính thời gian được thực hiện đồng bộ.</para>
+          <para id="id6286479">Kiểm tra độ kín van kim: Van kim được lắp trên bệ B2, đuôi van quay lên trên để dùng trọng lượng van bịt kín lỗ thông. Cho bơm nước làm việc, khoá K7 mở, đóng dần khoá K6, xuất hiện độ chân không trong bình 3, do bình 3 thông với K7 và ống 9 nên nước sẽ được hút ngược lên ống 9 , cho nước dâng lên đến 1 vị trí dễ quan sát thì đóng nhanh khoá K7 lại để duy trì cột nước. Nếu van kim hở thì cột nước trong ống 9 sẽ tụt xuống.</para>
+          <para id="id6286533">Kiểm tra các hệ thống dùng chân không: Nối các bộ phận cần kiểm tra (như bộ làm đậm chân không) với van V2. Cho bơm nước làm việc, K7 đóng chặt và điều chỉnh K6 đóng dần để tạo độ chân không trong bình 3. Nếu tại độ chân không qui định piston bơm phải được rút lên.</para>
+          <para id="id6286554"><figure id="id6286584"><media id="id1169957562776" alt=""><image src="graphics12.wmf" mime-type="image/wmf" height="411" width="613"/></media></figure>Hình 9.10 Hệ thống kiểm tra bộ chế hoà khí dùng nước trên thiết bị MBKV21-Thùng nhiên liệu. 2-Cốc lọc. 3-Bình tạo chân không. 4-Bơm nước. 5- Động cơ điện. 6- Trục cam. 7-Bình ổn áp. 8- Chân không kế. 9-Ống thuỷ tinh chia độ. 10-Ống quan sát nước tràn.11-Máng tràn. 12-Thùng nước trên. 13- Tay điều khiển. 14- Đồng hồ bấm giây. 15-Đầu gá gíc lơ kiểm tra. 16-Tấm chắn. 17-Cốc đo lưu lượng. V- van lấy chân không. K6,K7, K8 -khoá . B2- bệ lắp van kim kiểm tra</para>
+        </section>
+      </section>
+    </section>
+    <section id="id-417298081751">
+      <title>CHẨN ĐOÁN HỆ THỐNG NHIÊN LIỆU ĐỘNG CƠ DIESEL</title>
+      <section id="id-583554286723">
+        <title>Nhiệm vụ và cấu tạo chung </title>
+        <para id="id6949510">Nhiệm vụ:</para>
+        <para id="id6949516">- Chứa nhiên liệu dự trữ, đảm bảo cho động cơ hoạt động liên tục trong một khoảng thời gian qui định.</para>
+        <para id="id6949524">- Lọc sạch nước và tạp chất cơ học lẫn trong nhiên liệu.</para>
+        <para id="id6949531">- Cung cấp lượng nhiên liệu cần thiết cho mỗi chu trình ứng với chế độ làm việc qui định của động cơ.</para>
+        <para id="id6949540">- Cung cấp nhiên liệu đồng đều vào các xi lanh động cơ theo trình tự làm việc qui định của động cơ.</para>
+        <para id="id6949549">- Cung cấp nhiên liệu vào xi lanh động cơ đúng theo một qui luật đã định.</para>
+        <para id="id6949556">- Phun tơi và phân bố đều hơi nhiên liệu trong thể tích môi chất buồng cháy.</para>
+        <para id="id6949564">Cấu tạo chung:</para>
+        <para id="id6949570">Hệ thống nhiên liệu động cơ Diesel bao gồm thùng chứa, lọc thô nhiên liệu, bơm chuyển nhiên liệu, lọc tinh nhiên liệu, bơm cao áp, đường ống cao áp, vòi phun, đường dầu hồi.</para>
+      </section>
+      <section id="id-896557223749">
+        <title>Các triệu chứng của động cơ Diesel khi hư hỏng hệ thống nhiên liệu </title>
+        <section id="id-00844501315516">
+          <title>Động cơ không khởi động được</title>
+          <para id="id6949599">a. Không có nhiên liệu vào xi lanh</para>
+          <para id="id6949608">Không có nhiên liệu trong thùng chứa.</para>
+          <para id="id6949614">Khoá nhiên liệu không mở, đường ống tắc.</para>
+          <para id="id6949620">Tay ga chưa để ở vị trí cung cấp nhiên liệu, hoặc bị kẹt.</para>
+          <para id="id6949626">Lọc dầu bị tắc.</para>
+          <para id="id6949632">Trong đường ống có không khí.</para>
+          <para id="id6949637">Van của bơm chuyển đóng không kín.</para>
+          <para id="id6949643">Van cao áp đóng không kín, bị kẹt.</para>
+          <para id="id6949649">Piston bị kẹt.</para>
+          <para id="id6949654">Lò xo piston bị gãy.</para>
+          <para id="id6949659">Cặp piston xi lanh bơm bị mòn nghiêm trọng.</para>
+          <para id="id6949665">Vành răng bị lỏng không kẹp được ống xoay.</para>
+          <para id="id6949671">Kim phun bị kẹt hoặc lỗ phun tắc.</para>
+          <para id="id6949676">b. Có nhiên liệu vào nhiều trong buồng cháy</para>
+          <para id="id6949686">Vòi phun bị kẹt, mòn mặt côn đóng không kín.</para>
+          <para id="id6949692">Lò xo vòi phun yếu, gãy.</para>
+          <para id="id6949697">c. Có không khí trong đường ống cao áp</para>
+          <para id="id6949706">d. Rò rỉ nhiên liệu ở đường cao áp</para>
+          <para id="id6592426">e. Trong nhiên liệu có nước, hoặc bị biến chất</para>
+          <para id="id6592436">f. Điều chỉnh thời điểm phun không đúng</para>
+        </section>
+        <section id="id-168393249595">
+          <title>Động cơ khi nổ có khói đen hoặc xám</title>
+          <para id="id6592453">Do nhiên liệu cháy không hết.</para>
+          <para id="id6592459">Thừa nhiên liệu: Lượng nhiên liệu không đồng đều trong các nhánh bơm, nhiên liệu phun muộn quá, động cơ bị quá tải.</para>
+          <para id="id6592468">Thiếu không khí: Sức cản đường thải lớn, bị tắc ống thải, gây ra khí sót nhiều. Sức cản đường ống hút lớn do lọc không khí tắc, khe hở xupáp lớn làm xupáp mở không hết.</para>
+          <para id="id6592483">Chất lượng phun tồi: do vòi phun, do nhiêu liệu sai loại hoặc không đúng phẩm chất.</para>
+        </section>
+        <section id="id-256223823231">
+          <title>Động cơ khi nổ có khói xanh</title>
+          <para id="id6592498">Do lọt dầu bôi trơn vào buồng cháy. </para>
+        </section>
+        <section id="id-994214981897">
+          <title>Động cơ khi nổ có khói trắng</title>
+          <para id="id6592512">Có thể có xi lanh không nổ.</para>
+          <para id="id6592518">Có nước trong nhiên liệu. </para>
+        </section>
+        <section id="id-26980213878">
+          <title>Động cơ không phát huy được công suất</title>
+          <para id="id6592532">Cung cấp nhiên liệu vào động cơ không đủ: Lọc, đường ống thấp áp tắc, có không khí lọt vào đường thấp áp, bơm chuyển bị yếu, van khống chế áp suất trong bơm cao áp chỉnh thấp quá, piston xi lanh bơm cao áp mòn, không đồng đều lượng nhiên liệu giữa các nhánh bơm, góc lệch cung cấp giữa các nhánh bơm không đúng, điều chỉnh số vòng quay làm việc của điều tốc thấp hơn qui định, có rò rỉ nhiên liệu trên đường cao áp, đường ống cao áp bị bẹp, thân kim phun mòn nghiêm trọng.</para>
+          <para id="id6592557">Chất lượng phun nhiên liệu không đúng yêu cầu: Không đảm bảo độ phun tơi, phân bố hạt nhiên liệu không đúng trong không gian buồng cháy.</para>
+          <para id="id6592568">Thời điểm phun không đúng: Cặp piston xilanh mòn, đặt bơm không đúng dấu, lắp không đúng dấu cặp bánh răng truyền động. Chỉnh góc lệch giữa các nhánh không đúng.</para>
+          <para id="id6592579">Qui luật phun nhiên liệu sai: Cặp piston xi lanh mòn nhiều, chiều cao con đội chỉnh sai, cam mòn, lỗ phun bị tắc, độ nâng kim phun không đúng, dùng sai loại vòi phun.</para>
+        </section>
+        <section id="id-0658283011633">
+          <title>Động cơ làm việc không ổn định</title>
+          <para id="id6592599">Có hiện tượng bỏ máy hoặc nổ không đều: Có xi lanh không được cấp nhiên liệu. Có không khí trong đường ống nhiên liệu. Điều kiện cháy không đảm bảo.</para>
+          <para id="id6592610">Hiện tượng máy rú liên hồi: Piston bơm cao áp bị kẹt, vít kẹp vành răng bị lỏng, lò xo quả văng điều tốc không đều.</para>
+          <para id="id6592619">Tốc độ máy tăng cao quá: Ốc hạn chế tốc độ chỉnh sai, thanh răng bị kẹt, mức dầu trong điều tốc cao.</para>
+          <para id="id6592628">Có tiếng gõ: Do chỉnh sớm góc phun sớm.</para>
+        </section>
+      </section>
+      <section id="id-223440129583">
+        <title>Phân tích các dạng hư hỏng của bơm cao áp</title>
+        <section id="id-466575306185">
+          <title>Bơm chuyển nhiên liệu:</title>
+          <para id="id6592655">Mòn xi lanh, piston: Áp suất đẩy và lưu lượng bơm không đủ, động cơ làm việc không ổn định.</para>
+          <para id="id6592664">Mòn cam và con lăn: Gây giảm hành trình của bơm, động cơ làm việc không ổn định.</para>
+          <para id="id6592671">Goăng không kín: do hỏng, vênh rò rỉ, lọt khí, tốc độ động cơ không ổn định, không tăng số vòng quay được.</para>
+          <para id="id6592680">Lò xo đẩy piston yếu: giảm hành trình làm lưu lượng giảm.</para>
+          <para id="id6538974">Lò xo van hút, đẩy yếu, van không kín: Khó khởi động, tốc độ động cơ không ổn định, lưu lượng và cột áp giảm.</para>
+          <para id="id6538984">Lọt khí đường hút của bơm làm cho giảm lưu lượng bơm và có thể gây ra bọt khí ở đường đẩy.</para>
+          <para id="id6538993"><figure id="id6538999"><media id="id1169957563623" alt=""><image src="../../media/graphics13-1c6a.jpg" mime-type="image/jpeg" height="354" width="649"/></media></figure>Hình 9.11. Bơm chuyển nhiên liệu1-Cam, 2-Con lăn của con đội, 3-Piston của con đội, 4, 7, 9, 11-Lò xo, 5-Thanh, 6-van hút, 8-Rãnh thoát, 10-Piston của bơm, 12-Van nén, 13-Bơm tay.</para>
+        </section>
+        <section id="id-515628459589">
+          <title>Bơm cao áp</title>
+          <para id="id6539051">Mòn xi lanh, piston bơm: Làm giảm lưu lượng Qct, máy yếu, không tăng tốc được, không phát huy được công suất, tiêu hao nhiên liệu tăng.</para>
+          <para id="id6539067"><figure id="id6539074"><media id="id1169957563696" alt=""><image src="../../media/graphics14-5343.jpg" mime-type="image/jpeg" height="332" width="558"/></media></figure>Hình 9.12 Bơm cao áp thẳng hàng1-bơm cung cấp nhiên liệu. 2-trục cam của bơm cao áp. 3-con đội kiểu trục lăn. 4-khớp tự động phun sớm của nhiên liệu. 5-quả văng của khớp. 6-lò xo của piston bơm cao áp. 7-thanh răng. 8-bánh răng rẻ quạt. 9-piston bơm cao áp. 10-xi lanh. 11-van đẩy. 12-ống nối. 13-nút xả không khí. 14-bơm tay. 15-bộ điều tốc.</para>
+          <para id="id6539122">Van cao áp không kín: Lò xo yếu, mòn, kẹt gây khói đen do phun rớt, máy nóng, đóng muội trong buồng cháy.</para>
+          <para id="id6539130">Con đội, cam mòn: Do mòn, hiệu chỉnh sai làm muộn thời điểm phun, sai qui luật cung cấp, khói đen, máy nóng.</para>
+          <para id="id6539139">Ổ bi trục cam mòn làm sai lệch góc phun sớm, sai hành trình.</para>
+          <para id="id6539145">Cơ cấu vành răng bị lỏng: Do vít kẹp bị lỏng, động cơ làm việc rung, đôi khi không nổ được do không thay đổi được lượng nhiên liệu cung cấp chu trình.</para>
+          <para id="id6539156"><figure id="id6539163"><media id="id1169957563791" alt=""><image src="../../media/graphics15.png" mime-type="image/png" height="295" width="618"/></media></figure>Hình 9.13 Mòn xi lanh và piston bơm cao ápA-mòn xi lanh và piston ở phía cửa nạp. B-mòn xi lanh và piston ở phía cửa xả</para>
+          <para id="id6539204">Thanh răng bị kẹt: xảy ra với bơm cao áp vòi phun làm cho không thay đổi lượng nhiên liệu cung cấp, khi giảm tải gây vượt tốc.</para>
+          <para id="id6539214">Lò xo hồi vị piston yếu, gãy, kẹt có thể làm thay đổi hành trình cấp hoặc không cấp nhiên liệu được.</para>
+          <para id="id6539222">Đối với bộ điều tốc: lò xo gãy, yếu, khớp truyền động bị gãy, lỏng, kẹt có thể do thiếu dầu làm bộ điều tốc mất tác dụng.</para>
+          <para id="id6539229">Đối với bộ điều chỉnh góc phun sớm tự động: lò xo gãy, yếu, chốt quay bị mòn làm sai lệch thời điểm điều chỉnh góc phun sớm. Lắp bơm sai dấu có thể làm cho động cơ không nổ được.</para>
+          <para id="id6646941">Van ổn áp đường dầu về nếu chỉnh không đúng có thể làm cho động cơ làm việc không ổn định.</para>
+        </section>
+      </section>
+      <section id="id-215171432639">
+        <title>Phân tích các dạng hư hỏng của vòi phun</title>
+        <table id="id6646958" summary="">
+          <tgroup cols="2">
+            <colspec colnum="1" colname="c1"/>
+            <colspec colnum="2" colname="c2"/>
+            <tbody>
+              <row>
+                <entry>Mòn kim phun và đế kim: mòn ở thân lượng phun giảm, động cơ làm việc yếu. Mòn ở đầu côn gây phun rớt, động cơ có khói đen, có thể gây tắc lỗ phun, công suất động cơ giảm, dầu diesel lọt xuống các te.Tắc lỗ phun: do đóng muội, làm cho qui luật phân bố tia nhiên liệu không đúng, gây tiêu hao nhiên liệu tăng, máy nóng, công suất giảm, động cơ làm việc không ổn định.Lò xo kim phun yếu, gãy do mỏi: gây khói đen, máy yếu, máy nóng, đóng muội.Kim bị kẹt: do lâu không sử dụng, lọc kém, động cơ không nổ được.Hở giữa vòi phun và nắp máy: do đệm đồng không đủ đàn hồi, động cơ yếu. <media id="id1169957563962" alt=""><image src="../../media/graphics16-732c.png" mime-type="image/png"/></media>Hình 9.14 Mòn van cao áp</entry>
+                <entry><media id="id1169957563978" alt=""><image src="../../media/graphics17-80db.png" mime-type="image/png"/></media>Hình 9.15 Cấu tạo vòi phun1-đầu phun; 2-đai ốc của đầu phun; 3,5-chốt định vị; 4-tấm đệm; 6-cần nén kim phun; 7-thân; 8-vành khít; 9-ống nối; 10-lưới lọc;11-bạc lót; 12-vòng điều chỉnh; 13-lò xo; 14-ống dẫn nhiên liệu;15-kim;16-buồng hình vành khăn.</entry>
+              </row>
+            </tbody>
+          </tgroup>
+        </table>
+        <table id="id6647128" summary="">
+          <tgroup cols="2">
+            <colspec colnum="1" colname="c1"/>
+            <colspec colnum="2" colname="c2"/>
+            <tbody>
+              <row>
+                <entry>
+                  <media id="id1169957564052" alt=""><image src="../../media/graphics18-cd04.jpg" mime-type="image/jpeg"/></media>
+                </entry>
+                <entry>Hình 9.17 Thiết bị thử vòi phun K<media id="id1169957564069" alt=""><image src="graphics19.wmf" mime-type="image/wmf"/></media>-5621-thân thiết bị; 2-cần bơm; 3-ống dẫn hướng; 4-cặp piston xilanh thủy lực; 5-van tăng áp; 6-đai ốc thân bơm; 7,13-tay vặn; 8-thân của đầu phân nhánh; 9-áp lực kế; 10-bình chứa nhiên liệu; 11-bầu lọc; 12-khóa; 14-đầu nối; 15-vòi phun; 16-ống hứng; 17-khay đế; 18-van xả khí.</entry>
+              </row>
+            </tbody>
+          </tgroup>
+        </table>
+        <table id="id6060066" summary="">
+          <tgroup cols="2">
+            <colspec colnum="1" colname="c1"/>
+            <colspec colnum="2" colname="c2"/>
+            <tbody>
+              <row>
+                <entry/>
+                <entry><media id="id1169957564147" alt=""><image src="../../media/graphics20-6a76.png" mime-type="image/png"/></media>Hình 9.16 Mòn thân kim phun và đế I. Mòn phần côn kim A và chốt BII. Mòn phần côn đế kim A và lỗ chốt B</entry>
+              </row>
+            </tbody>
+          </tgroup>
+        </table>
+      </section>
+      <section id="id-483169152532">
+        <title>Thiết bị kiểm tra vòi phun</title>
+        <table id="id6060153" summary="">
+          <tgroup cols="2">
+            <colspec colnum="1" colname="c1"/>
+            <colspec colnum="2" colname="c2"/>
+            <tbody>
+              <row>
+                <entry>Kiểm tra áp suất phun, kiểm tra độ kín của mặt côn của kim với đế, kiểm tra góc chóp của chùm tia và sự phân bố hạt nhiên liệu.Dùng Macximet để kiểm tra áp suất phun, lắp macximet nối tiếp trên đường cao áp trước vòi phun cần kiểm tra.<media id="id1169957564240" alt=""><image src="../../media/graphics21-adad.png" mime-type="image/png"/></media>Hình 9.18 Kiểm tra chất lượng chùm tia phun</entry>
+                <entry><media id="id1169957564257" alt=""><image src="../../media/graphics22.png" mime-type="image/png"/></media>Hình 9.19 Kiểm tra góc chùm tia phun</entry>
+              </row>
+            </tbody>
+          </tgroup>
+        </table>
+      </section>
+      <section id="id-98892486987">
+        <title>Thiết bị kiểm tra bơm cao áp:</title>
+        <para id="id6156569">Thiết bị kiểm tra bơm cao áp nhằm kiểm tra:</para>
+        <para id="id6156575">- Độ kín của bộ đôi thông qua thời gian giảm áp.</para>
+        <para id="id6156582">- Độ đồng đều của các nhánh bơm.</para>
+        <para id="id6156589">- Lưu lượng phun. </para>
+        <para id="id6156596">- Thời điểm phun.</para>
+        <para id="id6156602">- Kiểm tra hoạt động của điều tốc.</para>
+        <section id="id-191180336008">
+          <title>Kiểm tra đồng đều lượng phun</title>
+          <para id="id6156617">Kiểm tra ở số vòng quay định mức lưu lượng cung cấp ứng với 100 lần phun. Nối các đường ống cao áp từ bơm vào vòi phun chuẩn, vòi phun chuẩn được điều chỉnh đúng với áp suất phun qui định. Bật động cơ điện cho bơm làm việc, điều chỉnh tốc độ của bơm ứng với định mức, tốc độ này bằng một nửa tốc độ động cơ. Kiểm tra xem các nhánh bơm có trục trặc gì không, có cấp nhiên liệu không. Lúc này tấm chắn 6 che kín miệng cốc đo không cho nhiên liệu vào cốc. Đặt bộ đếm tương ứng với 100 lần phun, gạt tay gạt 9 cho tấm chắn 6 mở để nhiên liệu vào cốc đo.</para>
+          <table id="id6156646" summary="">
+            <tgroup cols="1">
+              <colspec colnum="1" colname="c1"/>
+              <tbody>
+                <row>
+                  <entry>
+                    <media id="id1169957564443" alt=""><image src="../../media/graphics23.png" mime-type="image/png"/></media>
+                  </entry>
+                </row>
+                <row>
+                  <entry>Hình 9.20. Sơ đồ hệ thống nhiên liệu của băng thử.1- Bơm cao áp, 2- Vòi phun chuẩn, 3- Ống đo, 4- Phao báo mức nhiên liệu, 5- Nhiệt kế, 6,10- Thùng chứa nhiên liệu, 7- Bơm cấp nhiên liệu của băng thử, 8- Bầu lọc nhiên liệu, 9- Áp kế, 11- Van khoá, 12- Khay hứng nhiên liệu, 13-Bơm chuyển nhiên liệu cần kiểm tra.</entry>
+                </row>
+              </tbody>
+            </tgroup>
+          </table>
+          <para id="id6156727">Xác định lượng nhiên liệu cung cấp chu trình ứng với chế độ tải định mức, thanh răng ở vị trí cung cấp nhiên liệu lớn nhất. Sau đó tính độ không đều lượng cung cấp chu trình theo công thức:</para>
+          <para id="id6156740">
+            <media id="id1169957564502" alt=""><image src="graphics24.wmf" mime-type="image/wmf" height="49" width="178"/></media>
+          </para>
+          <para id="id6156775">Giá trị này phải nhỏ hơn 3%, đối với chế độ tốc độ không tải lớn nhất thì giá trị này nhỏ hơn 30%.</para>
+        </section>
+        <section id="id-829784621969">
+          <title>Kiểm tra thời điểm phun</title>
+          <para id="id6156793"><figure id="id6156800"><media id="id1169957564574" alt=""><image src="../../media/graphics25.png" mime-type="image/png" height="436" width="523"/></media></figure>Hình 9.21 Sơ đồ dẫn động băng thử bơm cao áp1 - Bơm cao áp cần kiểm tra, 2- Đường ống cao áp, 3 - Vòi phun chuẩn, 4 - Vỏ cảm biến báo thời điểm phun, 5 - Tiếp điểm đèn báo thời điểm phun, 6 - Tấm chắn, 7 - Cốc đo, 8 - Bộ đếm số lần phun, 9 - Tay gạt nối với bộ đếm, 10- Trục dẫn động, 11- Đèn xung, 12- Điểm dấu, 13-Đĩa chia độ, 14-Khớp nối, 15-Giá đỡ, 16-Bơm chuyển nhiên liệu</para>
+          <para id="id6988212">Động cơ AMZ 236 thứ tự làm việc là 1-4-2-5-3-6, góc lệch tương ứng của các nhánh bơm so với nhánh thứ nhất là: 1=0o. 4=45o. 2=120o. 5=165o. 3=240o. 6=285o. Bơm của AMZ 236 là bơm thẳng hàng.</para>
+          <para id="id6988252">Động cơ KaMaZ 740 thứ tự làm việc là: 1-5-4-2-6-3-7-8, góc lệch tương ứng của các nhánh bơm so với nhánh thứ nhất là: 1=0o. 5=45o. 4=90o. 2=135o. 6=180o. 3=225o. 7=270o. 8=315o. (Chú ý bơm của KaMaZ là bơm chữ V).</para>
+          <para id="id6988304">Sử dụng đèn hoạt nghiệm 11 để kiểm tra thời điểm phun nhiên liệu. Đèn được mắc song song với các cảm biến 5, số cảm biến bằng số nhánh bơm. Khi vòi phun phun nhiên liệu tiếp điểm 5 đóng thông qua bộ khuyếch đại làm cho đèn 11 sáng. Lần lượt như vậy đèn 11 sẽ sáng với số lần sáng trong một vòng quay của trục bơm bằng số nhánh bơm cần thử. Quan sát sẽ thấy tia sáng chiếu qua khe của đĩa động. Khi các góc phun đều nhau sẽ thấy tia sáng gần như cố định, nếu như góc phun lệch nhau sẽ thấy số tia sáng lớn hơn 1, đối chiếu với vạch dấu trên đĩa cố định 12 sẽ biết được góc phun sớm là bao nhiêu. Muốn kiểm tra xem nhánh bơm nào bị lệch thì tắt công tắc của nhánh bơm đó, khi đó tia sáng lệch sẽ mất.</para>
+          <para id="id6988339">Để xác định thời điểm phun cũng có thể dùng ống thuỷ tinh lắp trên đầu ra đường cao áp, quan sát khi nhiên liệu bắt đầu dâng lên ứng với góc quay của trục cam bao nhiêu độ.</para>
+        </section>
+        <section id="id-750676944818">
+          <title>Kiểm tra số vòng quay điều tốc hạn chế tốc độ làm việc</title>
+          <para id="id6988357">Đẩy thanh răng cung cấp nhiên liệu cực đại, tăng dần số vòng quay cho đến khi ngừng cung cấp nhiên liệu, hoặc vị trí tốc độ mà thanh răng bị kéo ngược trở lại, đó chính là số vòng quay giới hạn, nếu không đúng chỉnh lại sức căng lò xo.</para>
+        </section>
+      </section>
+    </section>
+    <section id="id-832494966151">
+      <title>CHẨN ĐOÁN HỆ THỐNG LÀM MÁT</title>
+      <section id="id-914564464337">
+        <title>Nhiệm vụ, phân loại và cấu tạo chung của hệ thống làm mát</title>
+        <para id="id6988392">Nhiệm vụ:</para>
+        <para id="id6988398">Thực hiện quá trình truyền nhiệt từ khí cháy qua thành buồng cháy đến môi chất làm mát để đảm bảo cho nhiệt độ các chi tiết không quá nóng nhưng cũng không quá nguội.</para>
+        <para id="id6988410">Phân loại:</para>
+        <para id="id6988416">Hệ thống làm mát bằng gió.</para>
+        <para id="id6988421">Hệ thống làm mát bằng nước:</para>
+        <para id="id6988427">Hệ thống làm mát bằng nước kiểu bốc hơi.</para>
+        <para id="id6988433">Hệ thống làm mát bằng nước kiểu đối lưu tự nhiên.</para>
+        <para id="id6988440">Hệ thống làm mát bằng nước kiểu tuần hoàn cưỡng bức.</para>
+        <para id="id6988447">Hệ thống làm mát bằng nước kiểu nhiệt độ cao.</para>
+        <para id="id6784846">Cấu tạo chung: </para>
+        <para id="id6784852">Đối với hệ thống làm mát bằng nước gồm có một số bộ phận chính sau: két làm mát, van hằng nhiệt, bơm nước, quạt gió, ống dẫn, khóa...</para>
+        <para id="id6784861"><figure id="id6784868"><media id="id1169957564881" alt=""><image src="../../media/graphics26-ee9a.png" mime-type="image/png" height="344" width="449"/></media></figure>Hình 9.22. Sơ đồ hệ thống làm mát tuần hoàn cưỡng bức1-két làm; 2- van hằng nhiệt; 3-nhiệt kế; 4-ống dẫn hơi nước; 5-ống dẫn nước nóng vào két; 6-ống dẫn nước khí động cơ nguội; 7-bơm nước; 8-ống phân phối nước; 9-van xả nước; 10-bình làm mát dầu bôi trơn; 11-ống dẫn nước về bơm; 12-quạt gió.</para>
+      </section>
+      <section id="id-0304328234349">
+        <title>Các dạng hư hỏng của hệ thống làm mát</title>
+        <section id="id-826524855034">
+          <title>Đóng cặn</title>
+          <para id="id6784934">Khi sử dụng dung dịch làm mát không đúng hoặc động cơ làm việc lâu ngày sẽ tạo cặn trong thân, nắp máy và két nước làm mát.</para>
+        </section>
+        <section id="id-212425935329">
+          <title>Hư hỏng bơm nước</title>
+          <para id="id6784953">Mòn bi trục bơm, làm cánh bơm có khả năng chạm vào vỏ gây mòn vẹt, giảm lưu lượng và áp suất nước cung cấp, hở bộ phận bao kín khiến nước rò rỉ ra ngoài.</para>
+        </section>
+        <section id="id-847634196472">
+          <title>Hư hỏng quạt gió</title>
+          <para id="id6784974">Đối với loại quạt được truyền động trực tiếp, hư hỏng là sự cong vênh cánh quạt do va chạm trong quá trình làm việc hay tháo lắp không cẩn thận gây ra hoặc dây đai bị chùng.</para>
+          <para id="id6784982">Đối với loại quạt truyền động gián tiếp qua khớp điện từ hoặc khớp nối thủy lực, sự hư hỏng ở các khớp này như rò rỉ dầu làm giảm mô men truyền lực, hoạt động không tốt của bộ phận cảm biến nhiệt độ, khiến quạt làm việc kém chính xác.</para>
+        </section>
+        <section id="id-216702786685">
+          <title>Hư hỏng két nước</title>
+          <para id="id6785007">Các ống dẫn, ống tản nhiệt có thể bị tắc, nứt, thủng. </para>
+          <para id="id6785014">Tắc van áp suất, chân không dẫn đến sai lệch áp suất điều chỉnh.</para>
+          <para id="id6785022">Van hằng nhiệt làm việc không chính xác do độ đàn hồi thân van và cơ cấu cánh van làm việc kém, do các chất dãn nở chứa trong hộp van bị rò rỉ, dẫn đến hiện tượng van không mở hay mở không đủ gây nóng máy khi động cơ hoạt động ở công suất cao. Có trường hợp van không đóng kín khi nhiệt độ còn thấp gây tổn thất nhiệt.</para>
+        </section>
+      </section>
+      <section id="id-558319327098">
+        <title>Chẩn đoán hệ thống làm mát</title>
+        <section id="id-0264486664313">
+          <title>Động cơ quá nhiệt</title>
+          <para id="id6785055">Chất làm mát thiếu hoặc bẩn.</para>
+          <para id="id6785062">Đai chùng.</para>
+          <para id="id6785068">Nắp áp suất bị hỏng.</para>
+          <para id="id6785075">Bộ tản nhiệt hoặc bình ngưng bộ điều hòa không khí bị nghẹt.</para>
+          <para id="id6785084">Van hằng nhiệt bị kẹt, đóng.</para>
+          <para id="id6785091">Quạt bị kẹt.</para>
+          <para id="id6785098">Công tắc hoặc động cơ quạt điện bị hư.</para>
+          <para id="id6785106">Sự lưu thông chất làm nguội bị cản trở.</para>
+        </section>
+        <section id="id-356872322209">
+          <title>Động cơ không đạt đến nhiệt độ làm việc, khởi động chậm</title>
+          <para id="id6062123">Van hằng nhiệt mở hoặc không hoạt động.</para>
+        </section>
+        <section id="id-629186549957">
+          <title>Rò rỉ, thất thoát chất làm mát</title>
+          <para id="id6062140">Nắp áp suất và đệm kín bị hư.</para>
+          <para id="id6062148">Rò rỉ bên ngoài.</para>
+          <para id="id6062154">Rò rỉ bên trong.</para>
+        </section>
+      </section>
+    </section>
+  </content>
+</document>

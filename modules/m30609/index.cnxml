@@ -1,0 +1,403 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:md="http://cnx.rice.edu/mdml">
+  <title>Quy trình công nghệ sửa chữa ô tô</title>
+  <metadata>
+  <md:content-id>m30609</md:content-id><md:title>Quy trình công nghệ sửa chữa ô tô</md:title>
+  <md:abstract>Các quy trình công nghệ sửa chữa ô tô</md:abstract>
+  <md:uuid>8592afbe-7bdc-412f-a76e-3bc4bef6d46d</md:uuid>
+</metadata>
+
+<content>
+    <para id="id6132992">Nội dung:</para>
+    <section id="id-151770075486">
+      <title>KÍCH THƯỚC SỬA CHỮA VÀ SỐ LẦN SỬA CHỮA</title>
+      <section id="id-490059864044">
+        <title>Định nghĩa cốt sửa chữa: </title>
+        <para id="id6133012">Cốt sửa chữa là bậc tăng (giảm) kích thước của chi tiết lỗ (trục) được qui định giữa nhà chế tạo phụ tùng và người sửa chữa sau mỗi lần sửa chữa.</para>
+        <para id="id6133023">Khi sửa chữa theo cốt, cho phép tiêu chuẩn hoá trong công tác sửa chữa và chế tạo phụ tùng thay thế. </para>
+      </section>
+      <section id="id-235869755442">
+        <title>Cách tính cốt sửa chữa: </title>
+        <figure id="id5719771">
+          <media id="id5984376" alt=""><image src="../../media/graphics1-c74f.png" mime-type="image/png" height="427" width="578"/></media>
+        </figure>
+        <para id="id5719795">Giả sử chi tiết trục và lỗ có kích thước ban đầu là dH và DH như trên hình vẽ:</para>
+        <para id="id5719815">a. Tính kích thước sửa chữa của trục ds:</para>
+        <para id="id5719824">Kích thước sửa chữa lần thứ nhất</para>
+        <para id="id5719834">ds1 = dH - 2(1 + )(5.1)</para>
+        <para id="id5719881">Tính theo kinh nghiệm:</para>
+        <para id="id5719889">1 = (dH - d1) =(5.2)</para>
+        <para id="id5719934">_hao mòn tổng cộng</para>
+        <para id="id5719946">d1_kích thước trước sửa chữa</para>
+        <para id="id5719960">_hệ số phân bố lượng mòn  = 0,5 1. Mỗi loại chi tiết có  riêng, được xác định bằng phương pháp thống kê.</para>
+        <para id="id5906839">Từ (5.1)  ds1 = dH - 2( + )(5.3)</para>
+        <para id="id5906879">Đặt 2( + ) =  </para>
+        <para id="id5906902"> ds1 = dH - </para>
+        <para id="id6491270">_ Lượng kích thước thay đổi sau mỗi lần sửa chữa</para>
+        <para id="id6491283">Ta suy ra:</para>
+        <para id="id6491289">- Kích thước sửa chữa lần thứ nhất:</para>
+        <para id="id6491296">ds1 = dH - </para>
+        <para id="id6491318">- Kích thước sửa chữa lần thứ hai:</para>
+        <para id="id6491328">ds2 = ds1 -  = dH - 2</para>
+        <para id="id6557254">- Kích thước sửa chữa lần thứ ba:</para>
+        <para id="id6557262">ds3 = ds2 -  = dH - 3</para>
+        <para id="id6557294">- Kích thước sửa chữa lần thứ n</para>
+        <para id="id6557301">dsn = dH - n</para>
+        <para id="id6557323">b.Tính kích thước sửa chữa của trục lỗ Ds1:</para>
+        <para id="id6557341">Kích thước sửa chữa lần thứ nhất</para>
+        <para id="id6557351">Ds1 = DH + 2(1 + )(5.4)</para>
+        <para id="id5906284">Tính 1 theo kinh nghiệm:</para>
+        <para id="id5906296">1 = ( D1 - DH) =(5.5)</para>
+        <para id="id5906340">_hao mòn tổng cộng</para>
+        <para id="id5947831">_hệ số phân bố lượng mòn 0,5 1. Mỗi loại chi tiết có  riêng, được xác định bằng phương pháp thống kê.</para>
+        <para id="id5947861">Từ (5.4)  Ds1 =DH + 2(1 + )(5.6)</para>
+        <para id="id5947906">Đặt 2(1 + ) =  </para>
+        <para id="id6749566">Ds1 = DH + </para>
+        <para id="id6749593">_ Lượng kích thước thay đổi sau mỗi lần sửa chữa</para>
+        <para id="id6749606">Ta suy ra:</para>
+        <para id="id6749612">- Kích thước sửa chữa lần thứ nhất:</para>
+        <para id="id6749619">Ds1 = DH + </para>
+        <para id="id6749641">- Kích thước sửa chữa lần thứ hai:</para>
+        <para id="id6749651">Ds2 = Ds1 +  = DH - 2</para>
+        <para id="id6595228">- Kích thước sửa chữa lần thứ ba:</para>
+        <para id="id6595235">Ds3 = Ds2 +  = DH - 3</para>
+        <para id="id6595268">- Kích thước sửa chữa lần thứ n</para>
+        <para id="id6595275">Dsn = DH + n</para>
+        <para id="id6595296">Kích thước sửa chữa phụ thuộc vào:</para>
+        <para id="id6935395">- Chiều sâu lớp thấm tôi</para>
+        <para id="id6935401">- Độ bền của chi tiết</para>
+        <para id="id6935408">- Kết cấu và bố trí chung của chi tiết và cụm máy</para>
+        <para id="id6935416">Ví dụ:</para>
+        <para id="id6935421">+ Đối với xi lanh, séc măng, piston: n = 4,  = 0,5mm.</para>
+        <para id="id6935437">+ Đối với trục khuỷu, bạc lót: n = 67,  = 0,25mm.</para>
+      </section>
+    </section>
+    <section id="id-555185032563">
+      <title>QUI ĐỊNH CÔNG NGHỆ SỬA CHỮA Ô TÔ</title>
+      <section id="id-800298199008">
+        <title>Mục đích công tác sửa chữa</title>
+        <para id="id6935474">Mục đích của sửa chữa là nhằm khôi phục khả năng làm việc của các chi tiết, tổng thành của ô tô đã bị hư hỏng.</para>
+      </section>
+      <section id="id-730173331775">
+        <title>Qui định chung đối với công tác sửa chữa nhỏ</title>
+        <para id="id6935495">Nhiệm vụ:</para>
+        <para id="id5938711">Khắc phục những hư hỏng đột xuất hay tất yếu của các chi tiết, cụm máy. Có tháo máy và thay thế tổng thành, nếu nó có yêu cầu phải sửa chữa lớn.</para>
+        <para id="id5938723">Đặc điểm:</para>
+        <para id="id5938728">- Là loại sửa chữa đột xuất nên nó không xác định rõ công việc sẽ tiến hành.</para>
+        <para id="id5938737">- Thường gồm các công việc sửa chữa, thay thế những chi tiết phụ được kết hợp với những kỳ bảo dưỡng định kỳ để giảm bớt thời gian vào xưởng của xe;</para>
+        <para id="id5938749">- Công việc sửa chữa nhỏ được tiến hành trong các trạm sửa chữa.</para>
+        <para id="id5938758">Ví dụ: thay thế lõi lọc nhiên liệu, dầu nhờn...</para>
+        <para id="id5938766">- Cũng có trường hợp sửa chữa nhỏ thay thế cả tổng thành để giảm thời gian nằm chờ của xe.</para>
+        <para id="id5938775">- Thông qua kiểm tra tình trạng kỹ thuật xe để quyết định có sửa chữa nhỏ hay không.</para>
+      </section>
+      <section id="id-857272457382">
+        <title>Qui định chung đối với công tác sửa chữa lớn</title>
+        <section id="id-140274233176">
+          <title>Nhiệm vụ</title>
+          <para id="id5938802">Tháo toàn bộ các cụm trong xe, sửa chữa thay thế phục hồi toàn bộ các chi tiết hư hỏng để đảm bảo cho các cụm máy và xe đạt được chỉ tiêu kinh tế kỹ thuật gần giống ban đầu.</para>
+        </section>
+        <section id="id-0221145020289">
+          <title>Đặc điểm</title>
+          <para id="id6563592">Tiến hành theo định kỳ qui định đối với từng loại xe hoặc khi có ít nhất 3 tổng thành chính trong đó có động cơ phải đưa vào sửa chữa lớn.</para>
+          <para id="id6563603">Bảng 5.1 Định ngạch sửa chữa một số loại xe (1000km)</para>
+          <table id="id6563615" summary="">
+            <tgroup cols="6">
+              <colspec colnum="1" colname="c1"/>
+              <colspec colnum="2" colname="c2"/>
+              <colspec colnum="3" colname="c3"/>
+              <colspec colnum="4" colname="c4"/>
+              <colspec colnum="5" colname="c5"/>
+              <colspec colnum="6" colname="c6"/>
+              <tbody>
+                <row>
+                  <entry>Mác xe</entry>
+                  <entry>Toàn bộ xe</entry>
+                  <entry>Động cơ</entry>
+                  <entry>Cầu trước</entry>
+                  <entry>Cầu sau</entry>
+                  <entry>Cơ cấu lái</entry>
+                </row>
+                <row>
+                  <entry>AZ 24</entry>
+                  <entry>300</entry>
+                  <entry>200</entry>
+                  <entry>300</entry>
+                  <entry>300</entry>
+                  <entry>300</entry>
+                </row>
+                <row>
+                  <entry>PAZ- 672</entry>
+                  <entry>320</entry>
+                  <entry>180</entry>
+                  <entry>180</entry>
+                  <entry>180</entry>
+                  <entry>180</entry>
+                </row>
+                <row>
+                  <entry>AZ 53A</entry>
+                  <entry>250</entry>
+                  <entry>250</entry>
+                  <entry>250</entry>
+                  <entry>250</entry>
+                  <entry>250</entry>
+                </row>
+                <row>
+                  <entry>ZIL 130</entry>
+                  <entry>300</entry>
+                  <entry>250</entry>
+                  <entry>300</entry>
+                  <entry>300</entry>
+                  <entry>300</entry>
+                </row>
+                <row>
+                  <entry>Maz 500A</entry>
+                  <entry>250</entry>
+                  <entry>250</entry>
+                  <entry>250</entry>
+                  <entry>250</entry>
+                  <entry>250</entry>
+                </row>
+                <row>
+                  <entry>KaMaz5320</entry>
+                  <entry>300</entry>
+                  <entry>300</entry>
+                  <entry>300</entry>
+                  <entry>300</entry>
+                  <entry>300</entry>
+                </row>
+              </tbody>
+            </tgroup>
+          </table>
+          <para id="id5913210">Công việc sửa chữa lớn thực hiện trong các nhà máy đại tu. Tùy theo phương pháp sửa chữa mà công việc sửa chữa theo một qui định nhất định.</para>
+        </section>
+        <section id="id-56278962531">
+          <title>Khái niệm về công tác sửa chữa lớn</title>
+          <para id="id5913231">- Qui trình công nghệ sửa chữa: là một loạt các công việc khác nhau được tổ chức theo một thứ tự nhất định kể từ khi xe vào xưởng đến khi xuất xưởng.</para>
+          <para id="id6816038">Đối với từng loại cụm máy riêng có qui trình công nghệ riêng, phụ thuộc phương pháp sửa chữa chúng và đặc điểm kết cấu. Cũng có trường hợp cùng một cụm trên một xe có các qui trình sửa chữa khác nhau. Công việc sửa chữa được cụ thể hóa thành các qui trình (qui trình tháo lắp, tẩy rửa...)</para>
+          <para id="id6816056">- Các phương thức tổ chức sửa chữa:</para>
+          <para id="id6816063">+ Sửa chữa theo vị trí cố định.</para>
+          <para id="id6816070">+ Sửa chữa theo dây chuyền.</para>
+          <para id="id6816077">- Cách tổ chức lao động trong sửa chữa: tùy theo qui mô của cơ sở sửa chữa:</para>
+          <para id="id6816086">+ Sửa chữa tổng hợp.</para>
+          <para id="id6816092">+ Sửa chữa chuyên môn hóa.</para>
+          <figure id="id6816102">
+            <media id="id2207235" alt=""><image src="../../media/graphics2-2100.png" mime-type="image/png" height="446" width="608"/></media>
+          </figure>
+        </section>
+        <section id="id-674507457168">
+          <title>Các phương pháp sửa chữa </title>
+          <section id="id-590447703688">
+            <title>a. Sửa chữa riêng xe</title>
+            <para id="id6466476">Định nghĩa: là phương pháp sửa chữa mà chi tiết của xe nào sau khi sửa chữa thì hoàn toàn lắp vào xe đó.</para>
+            <para id="id6466490">Đặc điểm: có tính chất tự phát trong điều kiện chủng loại xe nhiều, nhưng số lượng mỗi loại ít. Các đơn vị quản lý xe có thể tự đứng ra sửa chữa riêng xe cho mình.</para>
+            <para id="id6466506">Là phương pháp lạc hậu vì không cho phép thay chi tiết nên thời gian sửa chữa xe hoàn toàn phụ thuộc vào thời gian sửa chữa các chi tiết trong cụm và các cụm trong xe, thời gian xe nằm chờ lâu.</para>
+            <para id="id6466520">Số chi tiết phục hồi sửa chữa sẽ rất nhiều gây phức tạp cho quản lý, kế hoạch hóa sửa chữa. Không thể áp dụng chuyên môn hóa sửa chữa và hiện đại hóa thiết bị. Năng suất lao động thấp, chất lượng sửa chữa không cao.</para>
+            <para id="id6466535">Thích hợp với phương thức tổ chức sửa chữa theo vị trí cố định với tổ chức lao động theo kiểu sửa chữa tổng hợp (một nhóm công nhân phụ trách sửa chữa)</para>
+            <para id="id6466547">Điều kiện áp dụng:</para>
+            <para id="id6466552">- Chủng loại xe nhiều, số lượng từng loại ít.</para>
+            <para id="id6466559">- Quản lý xe phân tán không hợp lý.</para>
+            <para id="id6466566">- Khi chưa có hệ thống sửa chữa trên qui mô lớn để sửa chữa toàn bộ xe hỏng hàng năm.</para>
+            <para id="id6700385">- Chế độ quản lý, đăng ký xe còn khắt khe.</para>
+            <figure id="id6700395">
+              <media id="id1172713434818" alt=""><image src="../../media/graphics3-6a91.png" mime-type="image/png" height="294" width="545"/></media>
+            </figure>
+            <section id="id-068740163742">
+              <title>b). Phương pháp sửa chữa đổi lẫn</title>
+              <para id="id6700427">Là phương pháp mà các cụm, các chi tiết của xe cùng loại có thể đổi lẫn cho nhau.</para>
+              <para id="id6700436">Điều kiện đổi lẫn:</para>
+              <para id="id6700440">- Đổi lẫn các chi tiết hay cụm cùng cốt sửa chữa.</para>
+              <para id="id6700448">- Không đổi lẫn các chi tiết trong cặp chế tạo đồng bộ như:</para>
+              <para id="id6700457">+ Trục khuỷu - bánh đà.</para>
+              <para id="id6700463">+ Thân máy - nắp máy.</para>
+              <para id="id6700470">+ Nắp hộp số - vỏ hộp số.</para>
+              <para id="id6700477">+ Vỏ cầu - vỏ hộp vi sai.</para>
+              <para id="id6700483">+ Nắp đầu to - thân thanh truyền.</para>
+              <para id="id6510616">Không cho phép đổi lẫn các chi tiết cơ bản như thân máy, vỏ hộp số, vỏ cầu, khung xe.</para>
+              <para id="id6510625">Hai hình thức đổi lẫn:</para>
+              <para id="id6510631">- Đổi lẫn cụm: các cụm cùng loại (cùng cốt sửa chữa) có thể đổi lẫn nhau.</para>
+              <para id="id6510640">- Đổi lẫn chi tiết, các chi tiết trong cụm (cùng cốt sửa chữa) có thể đổi lẫn nhau.</para>
+              <para id="id6510649">Thực tế thường phối hợp đổi lẫn chi tiết với cụm.</para>
+              <para id="id6510657">Đặc điểm: là phương pháp tiên tiến.</para>
+              <para id="id6510668">- Rút ngắn thời gian sửa chữa cụm máy hay xe. Thời gian sửa chữa xe phụ thuộc chủ yếu vào thời gian sửa chữa chi tiết cơ bản, khung xe...</para>
+              <para id="id6510679">- Có thể dễ dàng tổ chức sửa chữa theo dây chuyền và chuyên môn hóa thiết bị lao động. Do đó giảm bớt chi phí sản xuất, hạ giá thành.</para>
+              <figure id="id6510694">
+                <media id="id1172722753953" alt=""><image src="../../media/graphics4.png" mime-type="image/png" height="293" width="584"/></media>
+              </figure>
+              <para id="id6510718">Điều kiện thực hiện phương pháp sửa chữa đổi lẫn:</para>
+              <para id="id6735299">- Số lượng xe, cụm máy cùng loại nhiều;</para>
+              <para id="id6735306">- Phải dự trữ một lượng nhất định cụm máy, chi tiết tùy theo:</para>
+              <para id="id6735315">+ Sản lượng sửa chữa hàng năm;</para>
+              <para id="id6735323">+ Thời gian sửa chữa phục hồi;</para>
+              <para id="id6735331">+ Tốc độ sửa chữa cụm, xe.</para>
+              <para id="id6735338">- Hệ thống các nhà máy sửa chữa đủ khả năng đáp ứng nhu cầu sửa chữa, đặc biệt thích hợp với quan hệ nhà máy sửa chữa bán xe đã sửa chữa và mua xe hỏng cùng loại với chủ phương tiện.</para>
+            </section>
+          </section>
+        </section>
+      </section>
+    </section>
+    <section id="id-756919498941">
+      <title>CÁC HÌNH THỨC TỔ CHỨC SỬA CHỮA</title>
+      <section id="id-723701293693">
+        <title>Tổ chức sửa chữa theo vị trí cố định</title>
+        <figure id="id6735378">
+          <media id="id5542061" alt=""><image src="../../media/graphics5.png" mime-type="image/png" height="255" width="588"/></media>
+        </figure>
+      </section>
+      <section id="id-518540985244">
+        <title>Toàn bộ công việc sửa chữa được thực hiện ở một vị trí cố định.Đặc điểm:Sự liên quan giữa các khâu rất ít, thời gian sửa chữa một xe hầu như không phụ thuộc vào nhau.- Thích hợp với phương pháp sửa chữa riêng xe, trong qui mô xưởng sửa chữa nhỏ;- Sử dụng công nhân vạn năng, tay nghề cao;- Tiêu hao nhiên vật liệu phụ tăng, do phải trang bị, cung cấp nguyên - nhiên vật liệu như nhau cho nhiều vị trí sửa chữa;- Thiết bị, đồ nghề vạn năng, khó áp dụng thiết bị chuyên dùng hiện đại.- Năng suất lao động thấp, giá thành cao, chất lượng khó ổn địnhTổ chức sửa chữa theo dây chuyền</title>
+        <para id="id6749164">Công việc sửa chữa được tiến hành liên tục ở một số vị trí sản xuất hay một số dây chuyền sản xuất.</para>
+        <para id="id6749174">Đặc điểm: có liên quan chặt chẽ giữa các khâu.</para>
+        <para id="id5713283">- Thích hợp với phương pháp sửa chữa đổi lẫn trong qui mô xưởng lớn;</para>
+        <para id="id5713292">- Sử dụng lao động chuyên môn hóa nên giảm được bậc thợ và nâng cao chất lượng từng công việc;</para>
+        <para id="id5713302">- Giảm tiêu hao nguyên vật liệu phụ;</para>
+        <para id="id5713309">- Thiết bị tập trung và có điều kiện sử dụng thiết bị chuyên dùng hiện đại. Năng suất cao, giá thành hạ.</para>
+        <figure id="id5713323">
+          <media id="id1172722814094" alt=""><image src="../../media/graphics6-eb44.png" mime-type="image/png" height="473" width="629"/></media>
+        </figure>
+      </section>
+    </section>
+    <section id="id-602572263015">
+      <title>CÁC TRANG THIẾT BỊ CHÍNH DÙNG TRONG CÔNG TÁC SỬA CHỮA</title>
+      <section id="id-291956788159">
+        <title>Dụng cụ đồ nghề</title>
+        <para id="id5713365">- Tua vít: gồm tua vit dẹp và tua vít 4 chấu. </para>
+        <table id="id5713372" summary="">
+          <tgroup cols="2">
+            <colspec colnum="1" colname="c1"/>
+            <colspec colnum="2" colname="c2"/>
+            <tbody>
+              <row>
+                <entry><media id="id1261640" alt=""><image src=".jpg" mime-type="image/jpeg"/></media>Hình 5.7 Mũi tua vít dẹp</entry>
+                <entry>Tua vít dùng để mở hoặc siết các con vít sẻ rãnh, sử dụng tua vít nên chú ý: chọn tua vít đúng cỡ, không được sử dụng tua vít làm cây xeo, cây đục.Khi cần mài lại phải mài đúng kỹ thuật, hai bên lưỡi tua vít gần song song, chứ không nhọn bén như mũi đục, hình 5.7.</entry>
+              </row>
+            </tbody>
+          </tgroup>
+        </table>
+        <para id="id5865210">- Các loại búa</para>
+        <para id="id5865215">Hình 5.8 Các loại búa<figure id="id5932070"><media id="id4770871" alt=""><image src=".jpg" mime-type="image/jpeg" height="217" width="299"/></media></figure><figure id="id5932094"><media id="id2639315" alt=""><image src=".jpg" mime-type="image/jpeg" height="164" width="336"/></media></figure>Búa có mặt làm việc mềmBúa nhựaSaiĐúng<figure id="id6464457"><media id="id1172719141479" alt=""><image src=".jpg" mime-type="image/jpeg" height="204" width="331"/></media></figure>Trong sửa chữa động cơ, búa thường dùng để tháo lắp các chi tiết. Chú ý phải chọn đúng loại búa để không làm hỏng các chi tiết, các chi tiết có bề mặt làm việc được gia công chính xác thì không được dùng búa đầu kim loại mà phải dùng búa nhựa.</para>
+        <para id="id6646853">- Các loại kìm:</para>
+        <para id="id6646859">Kìm thông dụng, kìm mỏ nhọn, kìm răng...để bảo vệ răng trong của kìm không nên dùng kìm để kìm để cặp các vật thép cứng. Không được dùng kìm thay cờ lê để vặn bu lông, đai ốc vì sẽ làm tròn đầu lục giác của đai ốc.<figure id="id6646890"><media id="id2360470" alt=""><image src=".jpg" mime-type="image/jpeg" height="186" width="336"/></media></figure><figure id="id6646914"><media id="id7150824" alt=""><image src=".jpg" mime-type="image/jpeg" height="335" width="275"/></media></figure>Hình 5.9 Các loại kìm</para>
+        <para id="id7030906">- Các loại cờ lê</para>
+        <para id="id7030911">Cờ lê miệng dùng nới lỏng hoặc vặn những bu lông với lực nhỏ, khi mở hoặc siết chặt với lực lớn phải dùng cờ lê vòng. Khi lực rất lớn thì phải dùng típ. Chú ý phải sử dụng đúng loại và cỡ.</para>
+        <para id="id7030926"><figure id="id7030942"><media id="id5970199" alt=""><image src=".png" mime-type="image/png" height="98" width="206"/></media></figure><figure id="id7030966"><media id="id5337424" alt=""><image src=".png" mime-type="image/png" height="110" width="174"/></media></figure><figure id="id5906545"><media id="id1172712584969" alt=""><image src=".jpg" mime-type="image/jpeg" height="141" width="321"/></media></figure><figure id="id5906569"><media id="id4200992" alt=""><image src=".jpg" mime-type="image/jpeg" height="108" width="185"/></media></figure>abHình 5.10 Các loại cờ lê mở đai ốca_cờ lê miệng, b_cờ lê vòng,</para>
+        <list id="id6495293" list-type="bulleted">
+          <item>Các loại túyp</item>
+        </list>
+        <para id="id6495303">Khi làm việc với các bu lông đai ốc chịu lực lớn hoặc nằm sâu bên trong ta phải sử dụng túyp với các cần nối. Đối với các bu lông nắp máy, bu lông cổ trục chính, bu lông nắp đầu to thanh truyền... phải sử dụng túyp với cần siết đo lực.</para>
+        <para id="id6495317"><figure id="id6495341"><media id="id1172720429337" alt=""><image src=".jpg" mime-type="image/jpeg" height="84" width="298"/></media></figure><figure id="id6495365"><media id="id8550978" alt=""><image src=".jpg" mime-type="image/jpeg" height="91" width="309"/></media></figure><figure id="id6981307"><media id="id1172710972004" alt=""><image src=".jpg" mime-type="image/jpeg" height="195" width="309"/></media></figure><figure id="id6981331"><media id="id1172722718782" alt=""><image src=".jpg" mime-type="image/jpeg" height="285" width="251"/></media></figure>Hình 5.11 Các loại túyp và cần siết <figure id="id6981384"><media id="id6441928" alt=""><image src=".jpg" mime-type="image/jpeg" height="159" width="323"/></media></figure></para>
+        <para id="id5746516"/>
+        <para id="id5746520">- Mỏ lếch</para>
+        <para id="id5746525"><figure id="id5746542"><media id="id1172712795690" alt=""><image src=".png" mime-type="image/png" height="173" width="289"/></media></figure><figure id="id5746565"><media id="id5828306" alt=""><image src=".jpg" mime-type="image/jpeg" height="199" width="178"/></media></figure>Hình 5.12. Các loại mỏ lếchĐúng Sai</para>
+        <para id="id6723363">- Các loại đục</para>
+        <para id="id6723368"><figure id="id6723394"><media id="id1172720571838" alt=""><image src=".jpg" mime-type="image/jpeg" height="294" width="264"/></media></figure><figure id="id5937663"><media id="id3354693" alt=""><image src=".jpg" mime-type="image/jpeg" height="126" width="304"/></media></figure>Hình 5.13 Các loại đục</para>
+        <para id="id6542335">- Mũi khoan phá bu lông gãy</para>
+        <para id="id6542341"><figure id="id6542357"><media id="id1172715190802" alt=""><image src=".jpg" mime-type="image/jpeg" height="252" width="328"/></media></figure>Hình 5.14 Khoan phá bu lông gãy</para>
+        <para id="id6569734">- Các loại dùi</para>
+        <para id="id6569740"><figure id="id6569759"><media id="id1172715924854" alt=""><image src=".jpg" mime-type="image/jpeg" height="236" width="272"/></media></figure><figure id="id6569786"><media id="id5196201" alt=""><image src=".jpg" mime-type="image/jpeg" height="301" width="254"/></media></figure>Hình 5.15 Các loại dùi</para>
+        <para id="id6721019">- Các loại cưa </para>
+        <para id="id6721024"><figure id="id6721047"><media id="id1172718050062" alt=""><image src=".jpg" mime-type="image/jpeg" height="283" width="309"/></media></figure>Hình 5.16 Các loại cưa <figure id="id5684872"><media id="id7752992" alt=""><image src=".jpg" mime-type="image/jpeg" height="233" width="221"/></media></figure>Cưa tạo lỗ</para>
+        <para id="id6683091">- Dụng cụ khoan ta rô ren</para>
+        <para id="id6683096"><figure id="id6683113"><media id="id1172717716990" alt=""><image src=".jpg" mime-type="image/jpeg" height="133" width="309"/></media></figure><figure id="id6683137"><media id="id6866172" alt=""><image src=".jpg" mime-type="image/jpeg" height="142" width="287"/></media></figure><figure id="id6683161"><media id="id6608657" alt=""><image src=".jpg" mime-type="image/jpeg" height="287" width="311"/></media></figure>Hình 5.17. Dụng cụ khoan và ta rô lỗ</para>
+        <para id="id6915315">- Các loại dụng cụ kẹp</para>
+        <para id="id6915321"><figure id="id6915341"><media id="id1172715381010" alt=""><image src=".jpg" mime-type="image/jpeg" height="176" width="214"/></media></figure>Hình 5.18 Các loại dụng cụ kẹp <figure id="id6915392"><media id="id1172719396780" alt=""><image src=".jpg" mime-type="image/jpeg" height="221" width="290"/></media></figure></para>
+        <para id="id5948043">- Dụng cụ cắt và loe ống</para>
+        <para id="id5948049"><figure id="id5948065"><media id="id1172719411609" alt=""><image src=".jpg" mime-type="image/jpeg" height="155" width="276"/></media></figure><figure id="id5948089"><media id="id1172713779019" alt=""><image src=".jpg" mime-type="image/jpeg" height="162" width="262"/></media></figure>Hình 5. 19. Dụng cụ cắt và loe ống</para>
+        <para id="id6586372">- Các loại cảo</para>
+        <table id="id6586377" summary="">
+          <tgroup cols="2">
+            <colspec colnum="1" colname="c1"/>
+            <colspec colnum="2" colname="c2"/>
+            <tbody>
+              <row>
+                <entry><media id="id3652799" alt=""><image src=".jpg" mime-type="image/jpeg"/></media>Hình 5.20. Các loại cảo bánh răng, bánh đai, vòng bi.<media id="id1172720221638" alt=""><image src=".png" mime-type="image/png"/></media></entry>
+                <entry><media id="id1172711809513" alt=""><image src=".png" mime-type="image/png"/></media>Hình 5.21 Dụng cụ ép lò xo</entry>
+              </row>
+            </tbody>
+          </tgroup>
+        </table>
+      </section>
+      <section id="id-0259180408888">
+        <title>Dụng cụ đo kiểm</title>
+        <para id="id5900888">- Thước lá cỡ: </para>
+        <para id="id5900894"><figure id="id5900910"><media id="id1172721589539" alt=""><image src=".jpg" mime-type="image/jpeg" height="177" width="291"/></media></figure>Hình 5.22 Thước lá cỡ</para>
+        <para id="id6432985">- Dụng cụ đo đường kính trục</para>
+        <para id="id6432991"><figure id="id6433008"><media id="id1172717634002" alt=""><image src=".jpg" mime-type="image/jpeg" height="206" width="304"/></media></figure>Hình 5.23 Dụng cụ đo đường kính trục<figure id="id5906685"><media id="id2443951" alt=""><image src=".jpg" mime-type="image/jpeg" height="199" width="256"/></media></figure></para>
+        <para id="id5906708">- Dụng cụ đo đường kính lỗ kiểu compa;</para>
+        <para id="id5906715"><figure id="id5906731"><media id="id1172722824452" alt=""><image src=".jpg" mime-type="image/jpeg" height="195" width="275"/></media></figure><figure id="id5906755"><media id="id8809743" alt=""><image src=".jpg" mime-type="image/jpeg" height="168" width="304"/></media></figure>Hình 5.24 Dụng cụ đo đường kính lỗ</para>
+        <para id="id6466974">Pamme</para>
+        <para id="id6466979"><figure id="id6466999"><media id="id7281265" alt=""><image src=".jpg" mime-type="image/jpeg" height="365" width="256"/></media></figure><figure id="id6467022"><media id="id1172717619777" alt=""><image src=".jpg" mime-type="image/jpeg" height="241" width="315"/></media></figure>Hình 5. 25 Các loại panme</para>
+        <para id="id6828722">- Cách đọc kích thước trên Panme</para>
+        <table id="id6683516" summary="">
+          <tgroup cols="2">
+            <colspec colnum="1" colname="c1"/>
+            <colspec colnum="2" colname="c2"/>
+            <tbody>
+              <row>
+                <entry><media id="id1172715423241" alt=""><image src="../../media/graphics7-5760.jpg" mime-type="image/jpeg"/></media>a).</entry>
+                <entrytbl cols="1">
+                  <colspec colnum="1" colname="c1"/>
+                  <tbody>
+                    <row>
+                      <entry>
+                        <media id="id1172715381796" alt=""><image src="graphics8.png" mime-type="image/png"/></media>
+                      </entry>
+                    </row>
+                    <row>
+                      <entry>b).</entry>
+                    </row>
+                    <row>
+                      <entry>Hình 5. 26 Cách đọc kích thước trên Panmea. D = 9,98mmb. D = 10,66mm</entry>
+                    </row>
+                  </tbody>
+                </entrytbl>
+              </row>
+            </tbody>
+          </tgroup>
+        </table>
+        <para id="id6067678">- Thuớc cặp và cách đọc giá trị</para>
+        <para id="id6067684"><figure id="id6067702"><media id="id1172710967016" alt=""><image src=".jpg" mime-type="image/jpeg" height="179" width="352"/></media></figure><figure id="id6067726"><media id="id7785029" alt=""><image src=".jpg" mime-type="image/jpeg" height="206" width="300"/></media></figure>Giá trị đọc được là 13,45Hình 5.27 Thước cặp và cách đọc giá trị</para>
+        <para id="id6241622">- Dụng cụ kiểm tra độ đảo</para>
+        <table id="id6241628" summary="">
+          <tgroup cols="2">
+            <colspec colnum="1" colname="c1"/>
+            <colspec colnum="2" colname="c2"/>
+            <tbody>
+              <row>
+                <entry><media id="id1172719152432" alt=""><image src="../../media/graphics9-d757.jpg" mime-type="image/jpeg"/></media>Hình 5.28 Kiểm tra độ đảo bánh đà</entry>
+                <entry><media id="id1172713300935" alt=""><image src="../../media/graphics10-f771.jpg" mime-type="image/jpeg"/></media>Hình 5.29 Dụng cụ đo đường kính lỗ</entry>
+              </row>
+            </tbody>
+          </tgroup>
+        </table>
+        <para id="id5889542">- Dụng cụ kiểm tra đường kính lỗ. Hình 5.29</para>
+        <para id="id5889548">- Dụng cụ đo chiều sâu lỗ.</para>
+        <para id="id5889554">- Dụng cụ đo đường kính của những lỗ nhỏ.</para>
+        <table id="id5889560" summary="">
+          <tgroup cols="2">
+            <colspec colnum="1" colname="c1"/>
+            <colspec colnum="2" colname="c2"/>
+            <tbody>
+              <row>
+                <entry><media id="id1172710996482" alt=""><image src="../../media/graphics11-27e7.jpg" mime-type="image/jpeg"/></media>Hình 5.30 Dụng cụ đo chiều sâu lỗ</entry>
+                <entry><media id="id5785905" alt=""><image src="../../media/graphics12-e7e9.jpg" mime-type="image/jpeg"/></media>Hình 5.31 Dụng cụ đo đường kínhnhững lỗ nhỏ</entry>
+              </row>
+            </tbody>
+          </tgroup>
+        </table>
+        <para id="id6777356">- Dụng cụ kiểm tra độ vuông góc</para>
+        <para id="id6777362">- Kiểm tra mặt phẳng</para>
+        <table id="id6777367" summary="">
+          <tgroup cols="2">
+            <colspec colnum="1" colname="c1"/>
+            <colspec colnum="2" colname="c2"/>
+            <tbody>
+              <row>
+                <entry>Hình 5.32 Dụng cụ kiểm tra độ vuông góc<media id="id7533380" alt=""><image src=".jpg" mime-type="image/jpeg"/></media></entry>
+                <entry><media id="id1172715483800" alt=""><image src="graphics13.jpg" mime-type="image/jpeg"/></media>Hình 5.33. Thước kiểm tra mặt phẳng</entry>
+              </row>
+            </tbody>
+          </tgroup>
+        </table>
+      </section>
+    </section>
+  </content>
+</document>

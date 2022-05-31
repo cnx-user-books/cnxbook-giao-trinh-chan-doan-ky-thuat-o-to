@@ -1,0 +1,1047 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:m="http://www.w3.org/1998/Math/MathML" xmlns:md="http://cnx.rice.edu/mdml">
+  <title>Lý thuyết chung về chẩn đoán</title>
+  <metadata>
+  <md:content-id>m30651</md:content-id><md:title>Lý thuyết chung về chẩn đoán</md:title>
+  <md:abstract>Lý thuyết chung về chuẩn đoán.</md:abstract>
+  <md:uuid>f0c63bef-7805-44bb-b3ae-a871aa3fc8e7</md:uuid>
+</metadata>
+
+<content>
+    <para id="id6062159"/>
+    <para id="id6062164">Nội dung</para>
+    <section id="id-235389996036">
+      <title>KHÁI NIỆM CHẨN ĐOÁN TRẠNG THÁI KỸ THUẬT</title>
+      <section id="id-584013292406">
+        <title>Định nghĩa:</title>
+        <para id="id6062191">Là công tác kỹ thuật nhằm xác định trạng thái kỹ thuật của cụm máy để dự báo tuổi thọ làm việc tiếp tục mà không phải tháo máy.</para>
+      </section>
+      <section id="id-635572290962">
+        <title>Các loại thông số dùng trong chẩn đoán:</title>
+        <para id="id6062226">Một tổng thành bao gồm nhiều cụm chi tiết và một cụm bao gồm nhiều chi tiết tạo thành. Chất lượng làm việc của tổng thành sẽ do chất lượng của các cụm, các chi tiết quyết định.</para>
+        <para id="id6062238">Các thông số kết cấu là tập hợp các thông số kỹ thuật thể hiện đặc điểm kết cấu của cụm chi tiết hay chi tiết. Chất lượng các cụm, các chi tiết do các thông số kết cấu quyết định: </para>
+        <para id="id6062264">Hình dáng, kích thước.</para>
+        <para id="id6062271">Vị trí tương quan.</para>
+        <para id="id6062277">Độ bóng bề mặt.</para>
+        <para id="id6062282">Chất lượng lắp ghép. </para>
+        <para id="id6062289">Trạng thái tốt hay xấu của cụm chi tiết thể hiện bằng các đặc trưng cho tình trạng hoạt động của nó, các đặc trưng này được gọi là thông số ra và được xác định bằng việc kiểm tra đo đạc. Ví dụ: công suất, thành phần khí thải, nhiệt độ nước, dầu, áp suất dầu bôi trơn, lượng mạt kim loại trong dầu bôi trơn, tiếng ồn, tiếng gõ, rung động, tình trạng lốp, quãng đường phanh...</para>
+        <para id="id6062321">Mỗi một cụm máy đều có những thông số ra giới hạn là những giá trị mà khi nếu tiếp tục vận hành sẽ không đảm bảo tính kinh tế kỹ thuật hoặc không cho phép. Khi đối chiếu kết quả kiểm tra với các giá trị giới hạn, cho phép xác định, dự báo được tình trạng của cụm máy. Các thông số ra giới hạn do nhà chế tạo qui định hoặc xác định bằng thống kê kinh nghiệm trên loại cụm máy đó.</para>
+        <para id="id6062350">Chỉ cần một thông số ra đạt giá trị giới hạn bắt buộc phải ngừng máy để xác định nguyên nhân và tìm cách khắc phục.</para>
+        <para id="id6062360">Các điều kiện để một thông số ra được dùng làm thông số chẩn đoán</para>
+        <para id="id6062367">Có ba điều kiện:</para>
+        <para id="id6062372">Điều kiện đồng tính:</para>
+        <para id="id6424577">Thông số ra được dùng làm thông số chẩn đoán khi nó tương ứng (tỷ lệ thuận) với một thông số kết cấu nào đó. Ví dụ: hàm lượng mạt kim loại trong dầu bôi trơn tỷ lệ thuận với hao mòn các chi tiết của cụm máy nên thoả mãn điều kiện đồng tính.</para>
+        <para id="id6424592">Điều kiện mở rộng vùng biến đổi: </para>
+        <para id="id6424597">Thông số ra được dùng làm thông số chẩn đoán khi sự thay đổi của nó lớn hơn nhiều so với sự thay đổi của thông số kết cấu mà nó đại diện.</para>
+        <para id="id6424611">Ví dụ: - Hàm lượng mạt kim loại sẽ thay đổi nhiều, trong khi hao mòn thay đổi ít nên nó được dùng làm thông số chẩn đoán hao mòn.</para>
+        <para id="id6424620">- Công suất động cơ Ne thay đổi ít khi có hao mòn nên không được dùng làm thông số chẩn đoán hao mòn.</para>
+        <para id="id6424629">Điều kiện dễ đo và thuận tiện đo đạc.</para>
+        <para id="id6424634">Một thông số được dùng làm thông số chẩn đoán khi nó phải đồng thời thoả mãn ba điều kiện trên. </para>
+        <para id="id6424655">LÝ THUYẾT CƠ BẢN VỀ CHẨN ĐOÁN</para>
+        <para id="id6424661">Khái niệm độ tin cậy</para>
+        <para id="id6424666">Khái niệm về độ tin cậy rất phức tạp, vì nó phụ thuộc rất nhiều vào tham số ngẫu nhiên, chỉ có thể áp dụng lý thuyết xác suất mới có thể phân tích mối tương quan của chúng ảnh hưởng của chúng đến độ tin cậy trong sử dụng. </para>
+        <table id="id6424680" summary="">
+          <tgroup cols="2">
+            <colspec colnum="1" colname="c1"/>
+            <colspec colnum="2" colname="c2"/>
+            <tbody>
+              <row>
+                <entry>Khái niệm cơ bản của lý thuyết độ tin cậy là khái niệm sự cố, thời điểm phát sinh sự cố là biến cố ngẫu nhiên. Các sự cố này phát sinh ứng với những xe đưa vào sử dụng với cùng điều kiện sau những quãng đường hoạt động khác nhau và được xác định bằng độ phân tán. Sự cố được chia thành sự cố tức thời (đột xuất) hoặc sự cố tiệm tiến (diễn biến từ từ theo thời gian sử dụng). Đối với ô tô, trong các cụm máy, tổng thành thì hư hỏng và sự cố diễn ra một cách từ từ do quá trình thay đổi của các thông số kết cấu.</entry>
+                <entry><media id="id34750378" alt=""><image src="graphics1.wmf" mime-type="image/wmf"/></media>Hình 8.1 Đồ thị trình bày khái niệm sự cố</entry>
+              </row>
+            </tbody>
+          </tgroup>
+        </table>
+        <para id="id6424773">Ví dụ xét một thông số kết cấu S nào đó, (hình 8.1) tùy theo điều kiện sử dụng thông số này sẽ thay đổi theo các đường cong khác nhau (đường gạch gạch), giá trị trung bình của sự thay đổi biểu diễn bằng đường nét liền. Nếu tìm thông số kết cấu S sau một quãng đường l thì trị số đó sẽ nằm trong vùng S’ - S’’ và sự phân bố đó tuân theo qui luật Gauss (đường 1). Ta gọi giá trị giới hạn của thông số kết cấu là Sn thì hành trình phát sinh sự cố sẽ là l’ - l’’, sự phân bố cũng theo qui luật Gauss (đường 2). Hành trình không phát sinh sự cố sẽ là l với độ khuếch tán là (-l1,+l2). </para>
+        <para id="id6424822">Đặc điểm cơ bản của độ bền xe ô tô từ khi sử dụng đến khi bắt đầu xuất hiện sự cố đầu tiên là xác suất của sự làm việc tốt trong quãng hành trình công tác hoặc trong điều kiện vận hành cụ thể nào đó, có nghĩa là độ bền được xác định như xác suất trong hành trình đó không hề phát sinh ra một hư hỏng, một sự cố nào có trị số lớn hơn trị số cho trước nào đó.</para>
+        <para id="id6424843">Xác suất của hành trình hoạt động tốt của phương tiện cho tới khi phát sinh sự cố đầu tiên được biểu thị bằng biểu thức:</para>
+        <para id="id5931657">
+          <m:math>
+            <m:semantics>
+              <m:mrow>
+                <m:mstyle fontsize="12pt">
+                  <m:mrow>
+                    <m:mrow>
+                      <m:mi>p</m:mi>
+                      <m:mo stretchy="false">(</m:mo>
+                      <m:mi>l</m:mi>
+                      <m:mrow>
+                        <m:mo stretchy="false">)</m:mo>
+                        <m:mo stretchy="false">=</m:mo>
+                        <m:mi>p</m:mi>
+                      </m:mrow>
+                      <m:mo stretchy="false">(</m:mo>
+                      <m:mrow>
+                        <m:mi>L</m:mi>
+                        <m:mo stretchy="false">&gt;</m:mo>
+                        <m:mi>l</m:mi>
+                      </m:mrow>
+                      <m:mo stretchy="false">)</m:mo>
+                    </m:mrow>
+                  </m:mrow>
+                </m:mstyle>
+                <m:mrow/>
+              </m:mrow>
+              <m:annotation encoding="StarMath 5.0"> size 12{p \( l \) =p \( L&gt;l \) } {}</m:annotation>
+            </m:semantics>
+          </m:math>
+        </para>
+        <para id="id5931751">l- là hành trình hoạt động của phương tiện. </para>
+        <para id="id5931757">Hành trình không phát sinh sự cố ngẫu nhiên L là hành trình hoạt động cho tới khi có biểu hiện hư hỏng. Ví dụ với một tổng thành nào đó với một hành trình xác định khi p(l)=0,8 có nghĩa là chỉ có 80% tổng thành giữ được không hư hỏng trong khoảng hành trình đó.</para>
+        <para id="id5931772">Xác suất p(l) được gọi là hàm độ tin cậy và có các tính chất sau:</para>
+        <para id="id5931779">0p(l) 1 sau một thời gian sử dụng do thông số kết cấu thay đổi, độ bền giảm đi.</para>
+        <para id="id5931798">p(l=0) = 1, khi bắt đầu sử dụng phương tiện còn tốt.</para>
+        <para id="id5931805">p(l) = 0, khi sử dụng quá lâu (l tiến tới ), tổng thành hư hỏng hoàn toàn, hết độ tin cậy.</para>
+        <para id="id5931819">p(l) là hàm giảm đều theo thời gian sử dụng hay quãng đường (trừ trường hợp xảy ra tai nạn hoặc khi không chấp hành đúng các qui định bảo dưỡng kỹ thuật). hàm độ tin cậy có thể có thể biểu diễn bằng công thức toán học như sau:</para>
+        <para id="id5931834"><m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mi>p</m:mi><m:mo stretchy="false">(</m:mo><m:mi>l</m:mi><m:mrow><m:mo stretchy="false">)</m:mo><m:mo stretchy="false">=</m:mo><m:mrow><m:mn>1</m:mn><m:mo stretchy="false">−</m:mo><m:mfrac><m:mrow><m:munderover><m:mo stretchy="false">∑</m:mo><m:mstyle fontsize="8pt"><m:mrow><m:mrow><m:mi>i</m:mi><m:mo stretchy="false">=</m:mo><m:mn>1</m:mn></m:mrow></m:mrow></m:mstyle><m:mstyle fontsize="8pt"><m:mrow><m:mrow><m:mi>i</m:mi><m:mo stretchy="false">=</m:mo><m:msub><m:mi fontstyle="italic">Δl</m:mi><m:mstyle fontsize="6pt"><m:mrow><m:mi>i</m:mi></m:mrow></m:mstyle></m:msub></m:mrow></m:mrow></m:mstyle></m:munderover><m:msub><m:mi fontstyle="italic">Δn</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mi>i</m:mi></m:mrow></m:mstyle></m:msub></m:mrow><m:msub><m:mi>N</m:mi><m:mi>o</m:mi></m:msub></m:mfrac></m:mrow></m:mrow></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{p \( l \) =1 -  {  { Sum cSub { size 8{i=1} }  cSup { size 8{i=Δl rSub { size 6{i} } } }  {Δn rSub { size 8{i} } } }  over  {N rSub {o} } } } {}</m:annotation></m:semantics></m:math>(8.1)</para>
+        <para id="id5899739">N0 - là số lượng ô tô, tổng thành hoạt động không xảy ra sự cố trong giới hạn hành trình qui định.</para>
+        <para id="id5899753">ni - số tổng thành bị hư hỏng trong khoảng hành trình li.</para>
+        <para id="id5899780">l - hành trình làm việc không có xảy ra sự cố.</para>
+        <para id="id5899787">i - số thứ tự quãng khảo sát.</para>
+        <para id="id5899793">Đối với các cụm tổng thành của ô tô còn tiếp tục được sử dụng sau khi đã được sửa chữa hết các hư hỏng thì độ tin cậy của nó được đánh giá bằng khoảng hành trình hoạt động giữa hai lần phát sinh sự cố, khi xác định người ta thường lấy trị số hành trình trung bình giữa hai lần sự cố Lcp theo số liệu thống kê của từng loại xe. Cần khẳng định rằng từng cụm, tổng thành riêng biệt thì có độ tin cậy khác nhau.</para>
+        <para id="id5899821">Hành trình trung bình giữa hai lần sự cố có thể tính toán theo công thức sau:</para>
+        <para id="id5899829"><m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mrow><m:msub><m:mi>L</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mstyle fontstyle="italic"><m:mrow><m:mtext>cp</m:mtext></m:mrow></m:mstyle></m:mrow></m:mstyle></m:msub><m:mo stretchy="false">=</m:mo><m:mfrac><m:mi>L</m:mi><m:mi>N</m:mi></m:mfrac></m:mrow><m:mrow><m:munderover><m:mo stretchy="false">∑</m:mo><m:mstyle fontsize="8pt"><m:mrow><m:mrow><m:mi>i</m:mi><m:mo stretchy="false">=</m:mo><m:mn>1</m:mn></m:mrow></m:mrow></m:mstyle><m:mstyle fontsize="8pt"><m:mrow><m:mrow><m:mi>i</m:mi><m:mo stretchy="false">=</m:mo><m:mi>N</m:mi></m:mrow></m:mrow></m:mstyle></m:munderover><m:mfrac><m:mn>1</m:mn><m:msub><m:mi fontstyle="italic">Δn</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mi>i</m:mi></m:mrow></m:mstyle></m:msub></m:mfrac></m:mrow></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{L rSub { size 8{ ital "cp"} } = {  {L}  over  {N} }  Sum cSub { size 8{i=1} }  cSup { size 8{i=N} }  { {  {1}  over  {Δn rSub { size 8{i} } } } } } {}</m:annotation></m:semantics></m:math>(8.2)</para>
+        <para id="id6580038">N- Tổng số đối tượng được khảo sát.</para>
+        <para id="id6580044">ni - Số lượng các hư hỏng của đối tượng thứ i phát sinh ra trong hành trình L.</para>
+      </section>
+      <section id="id-120782908639">
+        <title>Lý thuyết cơ bản về chẩn đoán</title>
+        <para id="id6580071">Chẩn đoán là một quá trình lôgíc nhận và phân tích các tin truyền đến người tiến hành chẩn đoán từ các thiết bị sử dụng chẩn đoán để tìm ra các hư hỏng của đối tượng (xe, tổng thành máy, hộp số, gầm v.v…).</para>
+        <para id="id6580085">Trạng thái kỹ thuật của ôtô, của tổng thành cũng như triệu chứng hư hỏng của chúng khá phức tạp, trong khi đó lượng thông tin lại không đầy đủ lắm. Vì vậy việc chọn các tham số chẩn đoán (triệu chứng chẩn đoán) đặc trưng cho trạng thái kỹ thuật của đối tượng phải được tiến hành trên cơ sở số lượng tin tức nhận được đối với từng triệu chứng cụ thể. Trong chẩn đoán thường sử dụng lý thuyết thông tin để xử lý kết quả.</para>
+        <para id="id6580099">Trong quá trình sử dụng, trạng thái kỹ thuật của xe ôtô thay đổi dần khó biết trước được. Tiến hành chẩn đoán xác định trạng thái kỹ thuật của ôtô dựa trên cơ sở số liệu thống kê xác suất của các trạng thái kỹ thuật đó. Thí dụ, trạng thái kỹ thuật của bóng đèn pha ôtô có thể ở hai trạng thái: tốt (sáng), không tốt (không sáng). Ta giả thiết rằng, xác suất của trạng thái kỹ thuật tốt là rất lớn - 0,9, còn xác suất của hư hỏng - 0,1. Bóng đèn như một hệ thống vật lý có rất ít độ bất định - hầu như lúc nào cũng đều thấy bóng đèn ở trạng thái kỹ thuật tốt.</para>
+        <para id="id6580129">Một thí dụ khác, bộ chế hòa khí do có thể có nhiều hư hỏng như mức độ tắc ở các giclơ, mòn các cơ cấu truyền động, các hư hỏng khác v.v… nên có thể rơi vào nhiều trạng thái kỹ thuật khác nhau.</para>
+        <para id="id6580143">Độ bất định của một hệ vật lý (ở dưới dạng đối tượng chẩn đoán là ôtô, tổng thành, cụm v.v…) trong lý thuyết thông tin được thể hiện bằng entrôpi.</para>
+        <para id="id6580151"><m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mrow><m:mtext>Entr«pi</m:mtext><m:mo stretchy="false">∋</m:mo><m:mo stretchy="false">(</m:mo></m:mrow><m:mi>X</m:mi><m:mrow><m:mo stretchy="false">)</m:mo><m:mo stretchy="false">=</m:mo><m:mrow><m:mo stretchy="false">−</m:mo><m:mrow><m:munderover><m:mo stretchy="false">∑</m:mo><m:mstyle fontsize="8pt"><m:mrow><m:mrow><m:mi>i</m:mi><m:mo stretchy="false">=</m:mo><m:mn>1</m:mn></m:mrow></m:mrow></m:mstyle><m:mstyle fontsize="8pt"><m:mrow><m:mrow><m:mi>i</m:mi><m:mo stretchy="false">=</m:mo><m:mi>m</m:mi></m:mrow></m:mrow></m:mstyle></m:munderover><m:mrow><m:msub><m:mi>p</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mi>i</m:mi></m:mrow></m:mstyle></m:msub><m:msub><m:mtext>log</m:mtext><m:mstyle fontsize="8pt"><m:mrow><m:mn>2</m:mn></m:mrow></m:mstyle></m:msub><m:msub><m:mi>p</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mi>i</m:mi></m:mrow></m:mstyle></m:msub><m:mi>,</m:mi></m:mrow></m:mrow></m:mrow></m:mrow></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{"Entr«pi" owns  \( X \) = -  Sum cSub { size 8{i=1} }  cSup { size 8{i=m} }  {p rSub { size 8{i} } "log" rSub { size 8{2} } p rSub { size 8{i} } ,} } {}</m:annotation></m:semantics></m:math>(8.3)</para>
+        <para id="id6841768">trong đó: m - số trạng thái kỹ thuật của đối tượng X;</para>
+        <para id="id6841775">p­i ­- xác suất của đối tượng X ứng với trạng thái i.</para>
+        <para id="id6841787">Trong lý thuyết thông tin entrôpi đo bằng đơn vị nhị nguyên và sử dụng lôgarít cơ số 2. Đơn vị đo entrôpi là bít. Bít là entrôpi một liệt số nhị nguyên nếu như nó có đồng xác suất có thể bằng 0 hoặc bằng 1, nghĩa là:</para>
+        <para id="id6841801">
+          <m:math>
+            <m:semantics>
+              <m:mrow>
+                <m:mstyle fontsize="12pt">
+                  <m:mrow>
+                    <m:mrow>
+                      <m:mrow>
+                        <m:mtext>1bÝt </m:mtext>
+                        <m:mo stretchy="false">=</m:mo>
+                        <m:msub>
+                          <m:mtext> log</m:mtext>
+                          <m:mstyle fontsize="8pt">
+                            <m:mrow>
+                              <m:mn>2</m:mn>
+                            </m:mrow>
+                          </m:mstyle>
+                        </m:msub>
+                      </m:mrow>
+                      <m:mrow>
+                        <m:mfrac>
+                          <m:mn>1</m:mn>
+                          <m:msub>
+                            <m:mi>p</m:mi>
+                            <m:mstyle fontsize="8pt">
+                              <m:mrow>
+                                <m:mi>i</m:mi>
+                              </m:mrow>
+                            </m:mstyle>
+                          </m:msub>
+                        </m:mfrac>
+                        <m:mo stretchy="false">=</m:mo>
+                        <m:msub>
+                          <m:mtext>log</m:mtext>
+                          <m:mstyle fontsize="8pt">
+                            <m:mrow>
+                              <m:mn>2</m:mn>
+                            </m:mrow>
+                          </m:mstyle>
+                        </m:msub>
+                      </m:mrow>
+                      <m:mrow>
+                        <m:mfrac>
+                          <m:mn>1</m:mn>
+                          <m:mn>0,5</m:mn>
+                        </m:mfrac>
+                        <m:mo stretchy="false">=</m:mo>
+                        <m:mn>1</m:mn>
+                      </m:mrow>
+                    </m:mrow>
+                  </m:mrow>
+                </m:mstyle>
+                <m:mrow/>
+              </m:mrow>
+              <m:annotation encoding="StarMath 5.0"> size 12{"1bÝt "=" log" rSub { size 8{2} }  {  {1}  over  {p rSub { size 8{i} } } } ="log" rSub { size 8{2} }  {  {1}  over  {0,5} } =1} {}</m:annotation>
+            </m:semantics>
+          </m:math>
+          <figure id="id6841908">
+            <media id="id34982050" alt=""><image src="graphics2.wmf" mime-type="image/wmf" height="25" width="14"/></media>
+          </figure>
+        </para>
+        <para id="id6841934">Ngày nay ta chưa thể cung cấp một cách đầy đủ trị số xác suất của các trạng thái kỹ thuật khác nhau của tất cả các tổng thành máy. Vì vậy để đơn giản bài toán trước tiên là cho đồng xác suất tất cả các trạng thái kỹ thuật của đối tượng chẩn đoán. Khi đó công thức (8.3) có dạng như sau:</para>
+        <para id="id6841948">
+          <m:math>
+            <m:semantics>
+              <m:mrow>
+                <m:mstyle fontsize="12pt">
+                  <m:mrow>
+                    <m:mrow>
+                      <m:mrow/>
+                      <m:mo stretchy="false">(</m:mo>
+                      <m:mi>X</m:mi>
+                      <m:mrow>
+                        <m:mo stretchy="false">)</m:mo>
+                        <m:mo stretchy="false">=</m:mo>
+                        <m:msub>
+                          <m:mtext>log</m:mtext>
+                          <m:mstyle fontsize="8pt">
+                            <m:mrow>
+                              <m:mn>2</m:mn>
+                            </m:mrow>
+                          </m:mstyle>
+                        </m:msub>
+                      </m:mrow>
+                      <m:mi>m</m:mi>
+                    </m:mrow>
+                  </m:mrow>
+                </m:mstyle>
+                <m:mrow/>
+              </m:mrow>
+              <m:annotation encoding="StarMath 5.0"> size 12{ owns  \( X \) ="log" rSub { size 8{2} } m} {}</m:annotation>
+            </m:semantics>
+          </m:math>
+        </para>
+        <para id="id6842027">Trong trường hợp này entrôpi là lớn nhất. Thí dụ đối với một đối tượng nào đó có 4 trạng thái kỹ thuật (m = 4) thì entrôpi bằng 2 bít. Nếu như xác suất của 4 trạng thái kỹ thuật đó có trị số khác nhau, thí dụ 0,5; 0,3; 0,1; 0,1 thì entrôpi của nó luôn luôn bằng 1,68 bít. Ở bảng 8.1 là trị số entrôpi của đối tượng có các trạng thái kỹ thuật khác nhau.</para>
+        <para id="id6580296"/>
+        <para id="id6554940">Bảng 8.1</para>
+        <table id="id6554945" summary="">
+          <tgroup cols="9">
+            <colspec colnum="1" colname="c1"/>
+            <colspec colnum="2" colname="c2"/>
+            <colspec colnum="3" colname="c3"/>
+            <colspec colnum="4" colname="c4"/>
+            <colspec colnum="5" colname="c5"/>
+            <colspec colnum="6" colname="c6"/>
+            <colspec colnum="7" colname="c7"/>
+            <colspec colnum="8" colname="c8"/>
+            <colspec colnum="9" colname="c9"/>
+            <tbody>
+              <row>
+                <entry>Số trạng thái kỹ thuật m</entry>
+                <entry>2</entry>
+                <entry>3</entry>
+                <entry>4</entry>
+                <entry>5</entry>
+                <entry>6</entry>
+                <entry>7</entry>
+                <entry>8</entry>
+                <entry>9</entry>
+              </row>
+              <row>
+                <entry>Entrôpi (X), bít</entry>
+                <entry>1</entry>
+                <entry>1,585</entry>
+                <entry>2,0</entry>
+                <entry>2,322</entry>
+                <entry>2,585</entry>
+                <entry>2,807</entry>
+                <entry>3,0</entry>
+                <entry>3,17</entry>
+              </row>
+            </tbody>
+          </tgroup>
+        </table>
+        <para id="id6555166">Như vậy là nhờ chẩn đoán ta biết được một phần nào trạng thái kỹ thuật, do đó độ bất định (về trạng thái kỹ thuật của ôtô) sẽ giảm đi. Như vậy càng hiểu biết nhiều, nắm chắc trạng thái kỹ thuật của phương tiện đang sử dụng thì entrôpi càng giảm đi. Khi trạng thái kỹ thuật của đối tượng hoàn toàn xác định thì entrôpi của nó sẽ có trị số bằng 0. Do đó trong trường hợp này số lượng tin tức về đối tượng X bằng entrôpi của nó.</para>
+        <para id="id6555181">
+          <m:math>
+            <m:semantics>
+              <m:mrow/>
+              <m:annotation encoding="StarMath 5.0">{}</m:annotation>
+            </m:semantics>
+          </m:math>
+          <m:math>
+            <m:semantics>
+              <m:mrow>
+                <m:mstyle fontsize="12pt">
+                  <m:mrow>
+                    <m:mrow>
+                      <m:mrow>
+                        <m:msub>
+                          <m:mi>U</m:mi>
+                          <m:mstyle fontsize="8pt">
+                            <m:mrow>
+                              <m:mi>x</m:mi>
+                            </m:mrow>
+                          </m:mstyle>
+                        </m:msub>
+                        <m:mo stretchy="false">=</m:mo>
+                        <m:mrow/>
+                      </m:mrow>
+                      <m:mo stretchy="false">(</m:mo>
+                      <m:mi>X</m:mi>
+                      <m:mrow>
+                        <m:mo stretchy="false">)</m:mo>
+                        <m:mo stretchy="false">=</m:mo>
+                        <m:msub>
+                          <m:mtext>log</m:mtext>
+                          <m:mstyle fontsize="8pt">
+                            <m:mrow>
+                              <m:mn>2</m:mn>
+                            </m:mrow>
+                          </m:mstyle>
+                        </m:msub>
+                      </m:mrow>
+                      <m:mi>m</m:mi>
+                      <m:mtext>.</m:mtext>
+                    </m:mrow>
+                  </m:mrow>
+                </m:mstyle>
+                <m:mrow/>
+              </m:mrow>
+              <m:annotation encoding="StarMath 5.0"> size 12{U rSub { size 8{x} } = owns  \( X \) ="log" rSub { size 8{2} } m "." } {}</m:annotation>
+            </m:semantics>
+          </m:math>
+        </para>
+        <para id="id6539348">Nếu một đối tượng nào đó (máy, hộp số v.v…) có trạng thái kỹ thuật có thể cùng xảy ra một lúc và xác suất của trạng thái này bằng xác suất của trạng thái khác (các trạng thái kỹ thuật có đồng xác suất) thì phần tin tức Uxi xuất phát từ một nguồn nào đó cũng bằng:</para>
+        <para id="id6539370">
+          <m:math>
+            <m:semantics>
+              <m:mrow>
+                <m:mstyle fontsize="12pt">
+                  <m:mrow>
+                    <m:mrow>
+                      <m:mrow>
+                        <m:msub>
+                          <m:mi>U</m:mi>
+                          <m:mstyle fontsize="8pt">
+                            <m:mrow>
+                              <m:mstyle fontstyle="italic">
+                                <m:mrow>
+                                  <m:mtext>xi</m:mtext>
+                                </m:mrow>
+                              </m:mstyle>
+                            </m:mrow>
+                          </m:mstyle>
+                        </m:msub>
+                        <m:mo stretchy="false">=</m:mo>
+                        <m:msub>
+                          <m:mtext>log</m:mtext>
+                          <m:mstyle fontsize="8pt">
+                            <m:mrow>
+                              <m:mn>2</m:mn>
+                            </m:mrow>
+                          </m:mstyle>
+                        </m:msub>
+                      </m:mrow>
+                      <m:mrow>
+                        <m:msub>
+                          <m:mi>p</m:mi>
+                          <m:mstyle fontsize="8pt">
+                            <m:mrow>
+                              <m:mi>i</m:mi>
+                            </m:mrow>
+                          </m:mstyle>
+                        </m:msub>
+                        <m:mo stretchy="false">=</m:mo>
+                        <m:msub>
+                          <m:mtext>log</m:mtext>
+                          <m:mstyle fontsize="8pt">
+                            <m:mrow>
+                              <m:mn>2</m:mn>
+                            </m:mrow>
+                          </m:mstyle>
+                        </m:msub>
+                      </m:mrow>
+                      <m:mi>m</m:mi>
+                      <m:mi>,</m:mi>
+                    </m:mrow>
+                  </m:mrow>
+                </m:mstyle>
+                <m:mrow/>
+              </m:mrow>
+              <m:annotation encoding="StarMath 5.0"> size 12{U rSub { size 8{ ital "xi"} } ="log" rSub { size 8{2} } p rSub { size 8{i} } ="log" rSub { size 8{2} } m,} {}</m:annotation>
+            </m:semantics>
+          </m:math>
+        </para>
+        <para id="id6539477">trong đó: pi - xác suất tình trạng thứ i của đối tượng X trong trường hợp này pi = 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:mstyle fontsize="8pt"><m:mrow><m:mn>1</m:mn></m:mrow></m:mstyle><m:mstyle fontsize="8pt"><m:mrow><m:mi>m</m:mi></m:mrow></m:mstyle></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  { size 8{1} }  over  { size 8{m} } } } {}</m:annotation></m:semantics></m:math>(vì các trạng thái kỹ thuật có cùng một trị số xác suất).</para>
+        <para id="id6636544">Phần tin tức sẽ tăng lên tùy theo độ giảm của trị số xác suất của trạng thái kỹ thuật của đối tượng.</para>
+        <para id="id6636553">Giữa entrôpi của đối tượng và hàm độ tin cậy của đối tượng đó có một quan hệ xác định. Thí dụ, ta khảo sát một cụm đơn giản sau:</para>
+        <para id="id6636564">Trong bất kỳ thời điểm nào đó phù hợp với hành trình của ôtô L hàm độ tin cậy p(l) được biểu thị bằng xác suất của trạng thái tốt của cụm máy. Giả thiết rằng p(l) = 0,85 thì xác suất về trạng thái không tốt của cụm máy đó sẽ bằng 1 - p(l) = 0,15.</para>
+        <para id="id6636582">Như vậy đối với hai trạng thái kỹ thuật của cụm máy có thể xảy ra ta có thể xác định được entrôpi của cụm theo công thức (8.3).</para>
+        <para id="id6636592">Ta lấy p1 = p(l): ứng với trạng thái kỹ thuật tốt;</para>
+        <para id="id6636604">p2 = 1 - p(l): ứng với trạng thái kỹ thuật xấu. Vì trong trường hợp này m = 2 nên entrôpi của cụm bằng</para>
+        <para id="id6636619"><m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mrow/><m:mo stretchy="false">(</m:mo><m:mi>X</m:mi><m:mrow><m:mo stretchy="false">)</m:mo><m:mo stretchy="false">=</m:mo><m:mrow><m:mo stretchy="false">−</m:mo><m:mi>p</m:mi></m:mrow></m:mrow><m:mo stretchy="false">(</m:mo><m:mi>l</m:mi><m:mo stretchy="false">)</m:mo><m:msub><m:mtext>log</m:mtext><m:mstyle fontsize="8pt"><m:mrow><m:mn>2</m:mn></m:mrow></m:mstyle></m:msub><m:mi>p</m:mi><m:mo stretchy="false">(</m:mo><m:mi>l</m:mi><m:mrow><m:mo stretchy="false">)</m:mo><m:mo stretchy="false">−</m:mo><m:mfenced open="[" close="]"><m:mrow><m:mrow><m:mn>1</m:mn><m:mo stretchy="false">−</m:mo><m:mi>p</m:mi></m:mrow><m:mo stretchy="false">(</m:mo><m:mi>l</m:mi><m:mo stretchy="false">)</m:mo></m:mrow></m:mfenced></m:mrow><m:msub><m:mtext>log</m:mtext><m:mstyle fontsize="8pt"><m:mrow><m:mn>2</m:mn></m:mrow></m:mstyle></m:msub><m:mfenced open="[" close="]"><m:mrow><m:mrow><m:mn>1</m:mn><m:mo stretchy="false">−</m:mo><m:mi>p</m:mi></m:mrow><m:mo stretchy="false">(</m:mo><m:mi>l</m:mi><m:mo stretchy="false">)</m:mo></m:mrow></m:mfenced></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ owns  \( X \) = - p \( l \) "log" rSub { size 8{2} } p \( l \)  -  left [1 - p \( l \)  right ]"log" rSub { size 8{2} }  left [1 - p \( l \)  right ]} {}</m:annotation></m:semantics></m:math> (8.4)</para>
+        <para id="id6620879">Ở công thức (8.5) là mối quan hệ giữa hàm độ tin cậy của cụm máy khi có m =2 với entrôpi của cụm này. Quan hệ giữa entrôpi với độ tin cậy giới thiệu ở hình 8.2.</para>
+        <para id="id6620887"/>
+        <para id="id6620893">
+          <figure id="id6620899">
+            <media id="id40624991" alt=""><image src="graphics3.wmf" mime-type="image/wmf" height="260" width="542"/></media>
+          </figure>
+        </para>
+        <para id="id6620923">Hình 8.2. Quan hệ giữa entrôpi của cụm (X) với hàm độ tin cậy</para>
+        <para id="id6620934">Nếu trong một tổng thành có n cụm, mỗi cụm có m = 2 thì entrôpi của tổng thành này là:</para>
+        <para id="id6620943"><m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mrow/><m:mrow><m:mfenced open="" close=""><m:mi>X</m:mi></m:mfenced><m:mo stretchy="false">=</m:mo><m:mrow><m:mo stretchy="false">−</m:mo><m:mrow><m:munderover><m:mo stretchy="false">∑</m:mo><m:mstyle fontsize="8pt"><m:mrow><m:mrow><m:mi>i</m:mi><m:mo stretchy="false">=</m:mo><m:mn>1</m:mn></m:mrow></m:mrow></m:mstyle><m:mstyle fontsize="8pt"><m:mrow><m:mrow><m:mi>i</m:mi><m:mo stretchy="false">=</m:mo><m:mi>n</m:mi></m:mrow></m:mrow></m:mstyle></m:munderover><m:msub><m:mtext>log</m:mtext><m:mstyle fontsize="8pt"><m:mrow><m:mn>2</m:mn></m:mrow></m:mstyle></m:msub></m:mrow></m:mrow></m:mrow><m:msup><m:mfenced open="[" close="]"><m:mrow><m:msub><m:mi>p</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mi>i</m:mi></m:mrow></m:mstyle></m:msub><m:mfenced open="" close=""><m:mi>l</m:mi></m:mfenced></m:mrow></m:mfenced><m:mstyle fontsize="8pt"><m:mrow><m:mrow><m:msub><m:mi>p</m:mi><m:mstyle fontsize="6pt"><m:mrow><m:mi>i</m:mi></m:mrow></m:mstyle></m:msub><m:mfenced open="" close=""><m:mi>l</m:mi></m:mfenced></m:mrow></m:mrow></m:mstyle></m:msup><m:msup><m:mfenced open="[" close="]"><m:mrow><m:mrow><m:mn>1</m:mn><m:mo stretchy="false">−</m:mo><m:msub><m:mi>p</m:mi><m:mi>i</m:mi></m:msub></m:mrow><m:mfenced open="" close=""><m:mstyle fontsize="12pt"><m:mrow><m:mi>l</m:mi></m:mrow></m:mstyle></m:mfenced></m:mrow></m:mfenced><m:mrow><m:mrow><m:mn>1</m:mn><m:mo stretchy="false">−</m:mo><m:msub><m:mi>p</m:mi><m:mstyle fontsize="6pt"><m:mrow><m:mi>i</m:mi></m:mrow></m:mstyle></m:msub></m:mrow><m:mfenced open="" close=""><m:mi>l</m:mi></m:mfenced></m:mrow></m:msup></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ owns  left (X right )= -  Sum cSub { size 8{i=1} }  cSup { size 8{i=n} }  {"log" rSub { size 8{2} } }  left [p rSub { size 8{i} }  left (l right ) right ] rSup { size 8{p rSub { size 6{i} }  left (l right )} }  left [1 - p rSub {i}  left ( size 12{l}  right ) right ] rSup {1 - p rSub { size 6{i} }  left (l right )} } {}</m:annotation></m:semantics></m:math>(8.5)</para>
+        <para id="id5948264">Như vậy ta có hai hệ thống liên quan: hệ thống trạng thái kỹ thuật (H) - không tốt và hệ thống triệu chứng của trạng thái kỹ thuật đó (C).</para>
+        <para id="id5948275">Trong quá trình tiến hành chẩn đoán ta căn cứ vào các triệu chứng C, nghĩa là dựa trên hệ thống trạng thái C. Những tin tức mà ta nhận được lúc đó sẽ làm giảm entrôpi của hệ thống H.</para>
+        <para id="id5948287">Ta ký hiệu những tin tức nhận được do kết quả quan sát trên hệ thống C, bằng chữ U với chỉ số C  H. Như vậy độ lớn của tin tức đó là:</para>
+        <para id="id5948303">
+          <m:math>
+            <m:semantics>
+              <m:mrow>
+                <m:mstyle fontsize="12pt">
+                  <m:mrow>
+                    <m:mrow>
+                      <m:mrow>
+                        <m:msub>
+                          <m:mi>U</m:mi>
+                          <m:mstyle fontsize="8pt">
+                            <m:mrow>
+                              <m:mrow>
+                                <m:mi>C</m:mi>
+                                <m:mo stretchy="false">→</m:mo>
+                                <m:mi>H</m:mi>
+                              </m:mrow>
+                            </m:mrow>
+                          </m:mstyle>
+                        </m:msub>
+                        <m:mo stretchy="false">=</m:mo>
+                        <m:mrow/>
+                      </m:mrow>
+                      <m:mrow>
+                        <m:mfenced open="" close="">
+                          <m:mi>H</m:mi>
+                        </m:mfenced>
+                        <m:mo stretchy="false">−</m:mo>
+                        <m:mrow/>
+                      </m:mrow>
+                      <m:mfenced open="" close="">
+                        <m:mrow>
+                          <m:mi>H</m:mi>
+                          <m:mo stretchy="false">/</m:mo>
+                          <m:mi>C</m:mi>
+                        </m:mrow>
+                      </m:mfenced>
+                      <m:mi>,</m:mi>
+                    </m:mrow>
+                  </m:mrow>
+                </m:mstyle>
+                <m:mrow/>
+              </m:mrow>
+              <m:annotation encoding="StarMath 5.0"> size 12{U rSub { size 8{C rightarrow H} } = owns  left (H right ) -  owns  left (H/C right ),} {}</m:annotation>
+            </m:semantics>
+          </m:math>
+        </para>
+        <para id="id5948409">trong đó: (H/C) - tổng entrôpi của hệ thống H tương ứng với hệ thống C. Độ lớn nào đặc trưng độ lớn bất định của hệ thống H trong khi hệ thống C hoàn toàn xác định.</para>
+        <para id="id5948427">Sau khi có kết quả chẩn đoán thì trị số entrôpi còn lại bằng (H/C).</para>
+        <para id="id5948440">Nhưng giá trị thực chất của công việc chẩn đoán nằm ở phần tin tức (triệu chứng Ci) chứng tỏ hệ thống H nằm trong một trạng thái kỹ thuật cụ thể - nghĩa là có những hư hỏng Hj . Phần tin tức được ký hiệu bằng UCi­­H và được tính bằng công thức sau đây:</para>
+        <para id="id5948470"><m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mrow><m:msub><m:mi>U</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mrow><m:msub><m:mi>C</m:mi><m:mstyle fontsize="6pt"><m:mrow><m:mi>i</m:mi></m:mrow></m:mstyle></m:msub><m:mo stretchy="false">→</m:mo><m:mi>H</m:mi></m:mrow></m:mrow></m:mstyle></m:msub><m:mo stretchy="false">=</m:mo><m:mrow><m:munderover><m:mo stretchy="false">∑</m:mo><m:mrow><m:mi>j</m:mi><m:mo stretchy="false">=</m:mo><m:mn>1</m:mn></m:mrow><m:mi>m</m:mi></m:munderover><m:mrow><m:mi>P</m:mi><m:mfenced open="" close=""><m:mrow><m:msub><m:mi>H</m:mi><m:mi>j</m:mi></m:msub><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mrow/><m:msub><m:mi>C</m:mi><m:mi>i</m:mi></m:msub></m:mrow></m:mrow></m:mstyle></m:mrow></m:mfenced></m:mrow></m:mrow></m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:msub><m:mtext>log</m:mtext><m:mn>2</m:mn></m:msub><m:mfrac><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mi>P</m:mi><m:mfenced open="" close=""><m:mrow><m:msub><m:mi>H</m:mi><m:mi>j</m:mi></m:msub><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mrow/><m:msub><m:mi>C</m:mi><m:mi>i</m:mi></m:msub></m:mrow></m:mrow></m:mstyle></m:mrow></m:mfenced></m:mrow></m:mrow></m:mstyle><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mi>P</m:mi><m:mfenced open="" close=""><m:msub><m:mi>H</m:mi><m:mi>j</m:mi></m:msub></m:mfenced></m:mrow></m:mrow></m:mstyle></m:mfrac></m:mrow></m:mrow></m:mstyle><m:mstyle fontsize="12pt"><m:mrow><m:mi>,</m:mi></m:mrow></m:mstyle></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{U rSub { size 8{C rSub { size 6{i} }  rightarrow H} } = Sum cSub {j=1}  cSup {m}  {P left (H rSub {j}  size 12{/C rSub {i} } right )}  size 12{"log" rSub {2}  {  { size 12{P left (H rSub {j}  size 12{/C rSub {i} } right )} }  over  { size 12{P left (H rSub {j}  right )} } } } size 12{,}} {}</m:annotation></m:semantics></m:math>(8.6)</para>
+        <para id="id6879788">Để tính toán trực tiếp phần tin tức nhận được từ hệ thống Ci dễ dàng, ta thay trị số xác suất có điều kiện P(Hj/Ci) bằng trị số xác suất không có điều kiện P[HHj)(CCi)] và ký hiệu bằng Pij thì công thức (8.6) có dạng:</para>
+        <para id="id6879809"><m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mrow><m:msub><m:mi>U</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mrow><m:msub><m:mi>C</m:mi><m:mstyle fontsize="6pt"><m:mrow><m:mi>i</m:mi></m:mrow></m:mstyle></m:msub><m:mo stretchy="false">→</m:mo><m:mi>H</m:mi></m:mrow></m:mrow></m:mstyle></m:msub><m:mo stretchy="false">=</m:mo><m:mrow><m:munderover><m:mo stretchy="false">∑</m:mo><m:mrow><m:mi>j</m:mi><m:mo stretchy="false">=</m:mo><m:mn>1</m:mn></m:mrow><m:mi>m</m:mi></m:munderover><m:mrow><m:mfrac><m:msub><m:mi>P</m:mi><m:mstyle fontstyle="italic"><m:mrow><m:mtext>ij</m:mtext></m:mrow></m:mstyle></m:msub><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mi>P</m:mi><m:mfenced open="" close=""><m:msub><m:mi>C</m:mi><m:mi>i</m:mi></m:msub></m:mfenced></m:mrow></m:mrow></m:mstyle></m:mfrac><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:msub><m:mtext>log</m:mtext><m:mn>2</m:mn></m:msub><m:mfrac><m:mstyle fontsize="12pt"><m:mrow><m:msub><m:mi>P</m:mi><m:mstyle fontstyle="italic"><m:mrow><m:mtext>ij</m:mtext></m:mrow></m:mstyle></m:msub></m:mrow></m:mstyle><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mi>P</m:mi><m:mfenced open="" close=""><m:msub><m:mi>C</m:mi><m:mi>i</m:mi></m:msub></m:mfenced><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mi>P</m:mi><m:mfenced open="" close=""><m:msub><m:mi>H</m:mi><m:mi>j</m:mi></m:msub></m:mfenced></m:mrow></m:mrow></m:mstyle></m:mrow></m:mrow></m:mstyle></m:mfrac></m:mrow></m:mrow></m:mstyle></m:mrow></m:mrow></m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mi>;</m:mi></m:mrow></m:mstyle></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{U rSub { size 8{C rSub { size 6{i} }  rightarrow H} } = Sum cSub {j=1}  cSup {m}  { {  {P rSub { ital "ij"} }  over  { size 12{P left (C rSub {i}  right )} } }  size 12{"log" rSub {2}  {  { size 12{P rSub { ital "ij"} } }  over  { size 12{P left (C rSub {i}  right ) size 12{P left (H rSub {j}  right )}} } } }}  size 12{;}} {}</m:annotation></m:semantics></m:math>(8.7)</para>
+        <para id="id6525687">
+          <m:math>
+            <m:semantics>
+              <m:mrow>
+                <m:mstyle fontsize="12pt">
+                  <m:mrow>
+                    <m:mrow>
+                      <m:mi>P</m:mi>
+                      <m:mrow>
+                        <m:mfenced open="" close="">
+                          <m:mrow>
+                            <m:msub>
+                              <m:mi>H</m:mi>
+                              <m:mstyle fontsize="8pt">
+                                <m:mrow>
+                                  <m:mi>j</m:mi>
+                                </m:mrow>
+                              </m:mstyle>
+                            </m:msub>
+                            <m:mo stretchy="false">/</m:mo>
+                            <m:msub>
+                              <m:mi>C</m:mi>
+                              <m:mstyle fontsize="8pt">
+                                <m:mrow>
+                                  <m:mi>i</m:mi>
+                                </m:mrow>
+                              </m:mstyle>
+                            </m:msub>
+                          </m:mrow>
+                        </m:mfenced>
+                        <m:mo stretchy="false">=</m:mo>
+                        <m:mfrac>
+                          <m:msub>
+                            <m:mi>P</m:mi>
+                            <m:mstyle fontsize="8pt">
+                              <m:mrow>
+                                <m:mstyle fontstyle="italic">
+                                  <m:mrow>
+                                    <m:mtext>ij</m:mtext>
+                                  </m:mrow>
+                                </m:mstyle>
+                              </m:mrow>
+                            </m:mstyle>
+                          </m:msub>
+                          <m:mrow>
+                            <m:mi>P</m:mi>
+                            <m:mfenced open="" close="">
+                              <m:msub>
+                                <m:mi>C</m:mi>
+                                <m:mstyle fontsize="8pt">
+                                  <m:mrow>
+                                    <m:mi>i</m:mi>
+                                  </m:mrow>
+                                </m:mstyle>
+                              </m:msub>
+                            </m:mfenced>
+                          </m:mrow>
+                        </m:mfrac>
+                      </m:mrow>
+                      <m:mi>,</m:mi>
+                    </m:mrow>
+                  </m:mrow>
+                </m:mstyle>
+                <m:mrow/>
+              </m:mrow>
+              <m:annotation encoding="StarMath 5.0"> size 12{P left (H rSub { size 8{j} } /C rSub { size 8{i} }  right )= {  {P rSub { size 8{ ital "ij"} } }  over  {P left (C rSub { size 8{i} }  right )} } ,} {}</m:annotation>
+            </m:semantics>
+          </m:math>
+        </para>
+        <para id="id6525813">trong đó: Pij - xác suất không có điều kiện. Như vậy hệ thống H sẽ nằm trong trạng thái Hj, nghĩa là H  Hj, còn hệ thống C nằm trong trạng thái Ci, nghĩa là C  Ci;</para>
+        <para id="id5731149">P(Hj) - xác suất của hư hỏng đã xuất hiện Hj hoặc xác suất hệ thống H trong trạng thái kỹ thuật Hj;</para>
+        <para id="id5731174">P(Ci) - xác suất của triệu chứng đã rõ ràng Ci, nghĩa là xác suất của hệ thống C trong trạng thái Ci.</para>
+        <para id="id5731198">Giả thiết rằng tất cả các hư hỏng có cùng xác suất còn các triệu chứng đặc trưng cho các hư hỏng đó có cùng xác suất thì nếu một cụm có ba hư hỏng (m = 3) xác suất của một trong ba hư hỏng đó P(Hj) = 1/3. Nếu cho một hư hỏng cụ thể nào đó đặc trưng bởi ba triệu chứng (nj = 3) thì xác suất không điều kiện của một trong các triệu chứng đó bằng:</para>
+        <para id="id5731228"><m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:msub><m:mi>P</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mstyle fontstyle="italic"><m:mrow><m:mtext>ij</m:mtext></m:mrow></m:mstyle></m:mrow></m:mstyle></m:msub><m:mo stretchy="false">=</m:mo><m:mfrac><m:mn>1</m:mn><m:mn>9</m:mn></m:mfrac></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{P rSub { size 8{ ital "ij"} } = {  {1}  over  {9} } } {}</m:annotation></m:semantics></m:math>vì 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:msub><m:mi>P</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mstyle fontstyle="italic"><m:mrow><m:mtext>ij</m:mtext></m:mrow></m:mstyle></m:mrow></m:mstyle></m:msub><m:mrow><m:mrow><m:mfrac><m:mn>1</m:mn><m:mtext>33</m:mtext></m:mfrac><m:mo stretchy="false">=</m:mo><m:mfrac><m:mn>1</m:mn><m:mn>9</m:mn></m:mfrac></m:mrow><m:mo stretchy="false">=</m:mo><m:mfrac><m:mrow><m:mi>P</m:mi><m:mfenced open="" close=""><m:msub><m:mi>H</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mi>j</m:mi></m:mrow></m:mstyle></m:msub></m:mfenced></m:mrow><m:msub><m:mi>n</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mi>j</m:mi></m:mrow></m:mstyle></m:msub></m:mfrac></m:mrow></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{P rSub { size 8{ ital "ij"} }  {  {1}  over  {"33"} } = {  {1}  over  {9} } = {  {P left (H rSub { size 8{j} }  right )}  over  {n rSub { size 8{j} } } } } {}</m:annotation></m:semantics></m:math></para>
+        <para id="id5731411">Như vậy là trong trường hợp các hư hỏng có cùng xác suất ta có thể viết:</para>
+        <para id="id5731418">
+          <m:math>
+            <m:semantics>
+              <m:mrow>
+                <m:mstyle fontsize="12pt">
+                  <m:mrow>
+                    <m:mrow>
+                      <m:mi>P</m:mi>
+                      <m:mrow>
+                        <m:mfenced open="" close="">
+                          <m:msub>
+                            <m:mi>H</m:mi>
+                            <m:mstyle fontsize="8pt">
+                              <m:mrow>
+                                <m:mi>j</m:mi>
+                              </m:mrow>
+                            </m:mstyle>
+                          </m:msub>
+                        </m:mfenced>
+                        <m:mo stretchy="false">=</m:mo>
+                        <m:mfrac>
+                          <m:mn>1</m:mn>
+                          <m:mi>m</m:mi>
+                        </m:mfrac>
+                      </m:mrow>
+                      <m:mi>;</m:mi>
+                    </m:mrow>
+                  </m:mrow>
+                </m:mstyle>
+                <m:mrow/>
+              </m:mrow>
+              <m:annotation encoding="StarMath 5.0"> size 12{P left (H rSub { size 8{j} }  right )= {  {1}  over  {m} } ;} {}</m:annotation>
+            </m:semantics>
+          </m:math>
+          <m:math>
+            <m:semantics>
+              <m:mrow>
+                <m:mstyle fontsize="12pt">
+                  <m:mrow>
+                    <m:mrow>
+                      <m:mrow>
+                        <m:msub>
+                          <m:mi>P</m:mi>
+                          <m:mstyle fontsize="8pt">
+                            <m:mrow>
+                              <m:mstyle fontstyle="italic">
+                                <m:mrow>
+                                  <m:mtext>ij</m:mtext>
+                                </m:mrow>
+                              </m:mstyle>
+                            </m:mrow>
+                          </m:mstyle>
+                        </m:msub>
+                        <m:mo stretchy="false">=</m:mo>
+                        <m:mfrac>
+                          <m:mn>1</m:mn>
+                          <m:mstyle fontstyle="italic">
+                            <m:mrow>
+                              <m:msub>
+                                <m:mtext>mn</m:mtext>
+                                <m:mstyle fontsize="8pt">
+                                  <m:mrow>
+                                    <m:mi>j</m:mi>
+                                  </m:mrow>
+                                </m:mstyle>
+                              </m:msub>
+                            </m:mrow>
+                          </m:mstyle>
+                        </m:mfrac>
+                      </m:mrow>
+                      <m:mi>;</m:mi>
+                    </m:mrow>
+                  </m:mrow>
+                </m:mstyle>
+                <m:mrow/>
+              </m:mrow>
+              <m:annotation encoding="StarMath 5.0"> size 12{P rSub { size 8{ ital "ij"} } = {  {1}  over  { ital "mn" rSub { size 8{j} } } } ;} {}</m:annotation>
+            </m:semantics>
+          </m:math>
+          <m:math>
+            <m:semantics>
+              <m:mrow>
+                <m:mstyle fontsize="12pt">
+                  <m:mrow>
+                    <m:mrow>
+                      <m:mi>P</m:mi>
+                      <m:mrow>
+                        <m:mrow>
+                          <m:mfenced open="" close="">
+                            <m:msub>
+                              <m:mi>C</m:mi>
+                              <m:mstyle fontsize="8pt">
+                                <m:mrow>
+                                  <m:mi>i</m:mi>
+                                </m:mrow>
+                              </m:mstyle>
+                            </m:msub>
+                          </m:mfenced>
+                          <m:mo stretchy="false">=</m:mo>
+                          <m:mrow>
+                            <m:munderover>
+                              <m:mo stretchy="false">∑</m:mo>
+                              <m:mstyle fontsize="8pt">
+                                <m:mrow>
+                                  <m:mrow>
+                                    <m:mi>j</m:mi>
+                                    <m:mo stretchy="false">=</m:mo>
+                                    <m:mn>1</m:mn>
+                                  </m:mrow>
+                                </m:mrow>
+                              </m:mstyle>
+                              <m:mstyle fontsize="8pt">
+                                <m:mrow>
+                                  <m:mi>m</m:mi>
+                                </m:mrow>
+                              </m:mstyle>
+                            </m:munderover>
+                            <m:msub>
+                              <m:mi>P</m:mi>
+                              <m:mstyle fontsize="8pt">
+                                <m:mrow>
+                                  <m:mstyle fontstyle="italic">
+                                    <m:mrow>
+                                      <m:mtext>ij</m:mtext>
+                                    </m:mrow>
+                                  </m:mstyle>
+                                </m:mrow>
+                              </m:mstyle>
+                            </m:msub>
+                          </m:mrow>
+                        </m:mrow>
+                        <m:mo stretchy="false">=</m:mo>
+                        <m:mfrac>
+                          <m:mn>1</m:mn>
+                          <m:mi>m</m:mi>
+                        </m:mfrac>
+                      </m:mrow>
+                      <m:mrow>
+                        <m:munderover>
+                          <m:mo stretchy="false">∑</m:mo>
+                          <m:mstyle fontsize="8pt">
+                            <m:mrow>
+                              <m:mrow>
+                                <m:mi>j</m:mi>
+                                <m:mo stretchy="false">=</m:mo>
+                                <m:mn>1</m:mn>
+                              </m:mrow>
+                            </m:mrow>
+                          </m:mstyle>
+                          <m:mstyle fontsize="8pt">
+                            <m:mrow>
+                              <m:mi>m</m:mi>
+                            </m:mrow>
+                          </m:mstyle>
+                        </m:munderover>
+                        <m:mfrac>
+                          <m:mn>1</m:mn>
+                          <m:msub>
+                            <m:mi>n</m:mi>
+                            <m:mstyle fontsize="8pt">
+                              <m:mrow>
+                                <m:mi>j</m:mi>
+                              </m:mrow>
+                            </m:mstyle>
+                          </m:msub>
+                        </m:mfrac>
+                      </m:mrow>
+                      <m:mtext>.</m:mtext>
+                    </m:mrow>
+                  </m:mrow>
+                </m:mstyle>
+                <m:mrow/>
+              </m:mrow>
+              <m:annotation encoding="StarMath 5.0"> size 12{P left (C rSub { size 8{i} }  right )= Sum cSub { size 8{j=1} }  cSup { size 8{m} }  {P rSub { size 8{ ital "ij"} } } = {  {1}  over  {m} }  Sum cSub { size 8{j=1} }  cSup { size 8{m} }  { {  {1}  over  {n rSub { size 8{j} } } } }  "." } {}</m:annotation>
+            </m:semantics>
+          </m:math>
+        </para>
+        <para id="id6436861">Do đó công thức (8.7) viết dưới dạng sau:</para>
+        <para id="id6436868"><m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mrow><m:msub><m:mi>U</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mrow><m:msub><m:mi>C</m:mi><m:mstyle fontsize="6pt"><m:mrow><m:mi>i</m:mi></m:mrow></m:mstyle></m:msub><m:mo stretchy="false">→</m:mo><m:mi>H</m:mi></m:mrow></m:mrow></m:mstyle></m:msub><m:mo stretchy="false">=</m:mo><m:mrow><m:munderover><m:mo stretchy="false">∑</m:mo><m:mi>j</m:mi><m:mi>m</m:mi></m:munderover><m:mfrac><m:mn>1</m:mn><m:mrow><m:msub><m:mi>n</m:mi><m:mi>j</m:mi></m:msub><m:mrow><m:munderover><m:mo stretchy="false">∑</m:mo><m:mrow><m:mi>j</m:mi><m:mo stretchy="false">=</m:mo><m:mn>1</m:mn></m:mrow><m:mi>m</m:mi></m:munderover><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:mn>1</m:mn><m:msub><m:mi>n</m:mi><m:mstyle fontsize="6pt"><m:mrow><m:mi>j</m:mi></m:mrow></m:mstyle></m:msub></m:mfrac></m:mrow></m:mstyle></m:mrow></m:mrow></m:mfrac></m:mrow></m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:msub><m:mtext>log</m:mtext><m:mn>2</m:mn></m:msub><m:mfrac><m:mstyle fontsize="12pt"><m:mrow><m:mi>m</m:mi></m:mrow></m:mstyle><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:msub><m:mi>n</m:mi><m:mi>j</m:mi></m:msub><m:mrow><m:munderover><m:mo stretchy="false">∑</m:mo><m:mrow><m:mi>j</m:mi><m:mo stretchy="false">=</m:mo><m:mn>1</m:mn></m:mrow><m:mi>m</m:mi></m:munderover><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:mn>1</m:mn><m:msub><m:mi>n</m:mi><m:mstyle fontsize="6pt"><m:mrow><m:mi>j</m:mi></m:mrow></m:mstyle></m:msub></m:mfrac></m:mrow></m:mstyle></m:mrow></m:mrow></m:mrow></m:mstyle></m:mfrac></m:mrow></m:mrow></m:mstyle></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{U rSub { size 8{C rSub { size 6{i} }  rightarrow H} } = Sum cSub {j}  cSup {m}  { {  {1}  over  {n rSub {j}  Sum cSub {j=1}  cSup {m}  { size 12{ {  {1}  over  {n rSub { size 6{j} } } } } } } } }  size 12{"log" rSub {2}  {  { size 12{m} }  over  { size 12{n rSub {j}  Sum cSub {j=1}  cSup {m}  { size 12{ {  {1}  over  {n rSub { size 6{j} } } } } } } } } }} {}</m:annotation></m:semantics></m:math>(8.8)</para>
+        <para id="id6437077">Giả thiết rằng hệ thống H có ba trạng thái kỹ thuật H1, H2, H3 và các hư hỏng được đặc trưng bằng bốn tổ hợp triệu chứng khác nhau C1, C2, C3, C4. Ta thành lập ma trận chẩn đoán C như ở bảng 8.2.</para>
+        <para id="id6437126">Bảng 8.2</para>
+        <table id="id3374455" summary="">
+          <tgroup cols="4">
+            <colspec colnum="1" colname="c1"/>
+            <colspec colnum="2" colname="c2"/>
+            <colspec colnum="3" colname="c3"/>
+            <colspec colnum="4" colname="c4"/>
+            <tbody>
+              <row>
+                <entry>Ci(triệu chứng)</entry>
+                <entrytbl namest="c2" nameend="c4" cols="3">
+                  <colspec colnum="1" colname="c1"/>
+                  <colspec colnum="2" colname="c2"/>
+                  <colspec colnum="3" colname="c3"/>
+                  <tbody>
+                    <row>
+                      <entry namest="c1" nameend="c3">Hj (trạng thái kỹ thuật)</entry>
+                    </row>
+                    <row>
+                      <entry>H1</entry>
+                      <entry>H2</entry>
+                      <entry>H3</entry>
+                    </row>
+                  </tbody>
+                </entrytbl>
+              </row>
+              <row>
+                <entry>C1</entry>
+                <entry>1</entry>
+                <entry>1</entry>
+                <entry>0</entry>
+              </row>
+              <row>
+                <entry>C2</entry>
+                <entry>1</entry>
+                <entry>0</entry>
+                <entry>1</entry>
+              </row>
+              <row>
+                <entry>C3</entry>
+                <entry>1</entry>
+                <entry>1</entry>
+                <entry>1</entry>
+              </row>
+              <row>
+                <entry>C4</entry>
+                <entry>0</entry>
+                <entry>0</entry>
+                <entry>1</entry>
+              </row>
+            </tbody>
+          </tgroup>
+        </table>
+        <para id="id6569864">Từ bảng trên ta thấy: trạng thái kỹ thuật H1 có triệu chứng n1 = 3; trạng thái kỹ thuật H2 có triệu chứng n2 = 2; trạng thái kỹ thuật H3 có triệu chứng n3 = 3. Dựa trên cơ sở ma trận chẩn đoán ta lập được ma trận xác suất và tin tức (bảng 8.3).</para>
+        <para id="id6569912">UCiH là trị số phần tin tức tính theo công thức (8.8) ứng với từng triệu chứng.</para>
+        <para id="id6569930">Bảng 8.3</para>
+        <table id="id6569935" summary="">
+          <tgroup cols="6">
+            <colspec colnum="1" colname="c1"/>
+            <colspec colnum="2" colname="c2"/>
+            <colspec colnum="3" colname="c3"/>
+            <colspec colnum="4" colname="c4"/>
+            <colspec colnum="5" colname="c5"/>
+            <colspec colnum="6" colname="c6"/>
+            <tbody>
+              <row>
+                <entry>Ci</entry>
+                <entrytbl namest="c2" nameend="c4" cols="3">
+                  <colspec colnum="1" colname="c1"/>
+                  <colspec colnum="2" colname="c2"/>
+                  <colspec colnum="3" colname="c3"/>
+                  <tbody>
+                    <row>
+                      <entry namest="c1" nameend="c3">Pij</entry>
+                    </row>
+                    <row>
+                      <entry>H1</entry>
+                      <entry>H2</entry>
+                      <entry>H3</entry>
+                    </row>
+                  </tbody>
+                </entrytbl>
+                <entry>P(Ci)</entry>
+                <entry>UCiH</entry>
+              </row>
+              <row>
+                <entry>C1</entry>
+                <entry>1/9</entry>
+                <entry>1/6</entry>
+                <entry>0</entry>
+                <entry>5/18</entry>
+                <entry>0,614</entry>
+              </row>
+              <row>
+                <entry>C2</entry>
+                <entry>1/9</entry>
+                <entry>0</entry>
+                <entry>1/9</entry>
+                <entry>4/18</entry>
+                <entry>0,585</entry>
+              </row>
+              <row>
+                <entry>C3</entry>
+                <entry>1/9</entry>
+                <entry>1/6</entry>
+                <entry>1/9</entry>
+                <entry>7/18</entry>
+                <entry>0,028</entry>
+              </row>
+              <row>
+                <entry>C4</entry>
+                <entry>0</entry>
+                <entry>0</entry>
+                <entry>1/9</entry>
+                <entry>2/18</entry>
+                <entry>1,585</entry>
+              </row>
+              <row>
+                <entry>P(Hj)</entry>
+                <entry>1/3</entry>
+                <entry>1/3</entry>
+                <entry>1/3</entry>
+                <entry>1,0</entry>
+                <entry/>
+              </row>
+            </tbody>
+          </tgroup>
+        </table>
+        <para id="id6242655">Kết quả thu được hoàn toàn phù hợp với lý thuyết thông tin là: tin tức nhỏ nhất nhận được từ trị số xác suất lớn nhất.</para>
+        <para id="id5695671">Như ta thấy (bảng 8.3) giá trị thông tin lớn nhất có triệu chứng C4, trị số này hoàn toàn phù hợp với entrôpi của đối tượng và bằng:</para>
+        <para id="id5695687">
+          <m:math>
+            <m:semantics>
+              <m:mrow>
+                <m:mstyle fontsize="12pt">
+                  <m:mrow>
+                    <m:mrow>
+                      <m:mrow/>
+                      <m:mrow>
+                        <m:mfenced open="" close="">
+                          <m:mi>H</m:mi>
+                        </m:mfenced>
+                        <m:mo stretchy="false">=</m:mo>
+                        <m:msub>
+                          <m:mtext>log</m:mtext>
+                          <m:mstyle fontsize="8pt">
+                            <m:mrow>
+                              <m:mn>2</m:mn>
+                            </m:mrow>
+                          </m:mstyle>
+                        </m:msub>
+                      </m:mrow>
+                      <m:mrow>
+                        <m:mi>m</m:mi>
+                        <m:mo stretchy="false">=</m:mo>
+                        <m:msub>
+                          <m:mtext>log</m:mtext>
+                          <m:mstyle fontsize="8pt">
+                            <m:mrow>
+                              <m:mn>2</m:mn>
+                            </m:mrow>
+                          </m:mstyle>
+                        </m:msub>
+                      </m:mrow>
+                      <m:mrow>
+                        <m:mn>3</m:mn>
+                        <m:mo stretchy="false">=</m:mo>
+                        <m:mn>1,</m:mn>
+                      </m:mrow>
+                      <m:mtext>585</m:mtext>
+                      <m:mtext>bÝt</m:mtext>
+                    </m:mrow>
+                  </m:mrow>
+                </m:mstyle>
+                <m:mrow/>
+              </m:mrow>
+              <m:annotation encoding="StarMath 5.0"> size 12{ owns  left (H right )="log" rSub { size 8{2} } m="log" rSub { size 8{2} } 3=1,"585""bÝt"} {}</m:annotation>
+            </m:semantics>
+          </m:math>
+        </para>
+        <para id="id5695791">Trị số thông tin nhỏ nhất ứng với triệu chứng C3. Thực tế chứng tỏ rằng với triệu chứng có độ thông tin nhỏ như vậy sẽ không cho ta đủ tin tức để xác định một hư hỏng cụ thể của đối tượng. Khối lượng thông tin của triệu chứng C3 chỉ bằng 1,77% so với toàn bộ độ thông tin UH bằng 1,583 bít. Triệu chứng C1 và C2 có trị số thông tin gần bằng nhau.</para>
+        <para id="id5695833">Triệu chứng C3 là một triệu chứng tượng trưng tổng hợp. Nó chứng tỏ rằng trong bộ phận máy này có cả ba hư hỏng H1, H2, H3 cùng xảy ra một lúc. Nhưng khi đã xuất hiện triệu chứng C3 thì bộ phận máy này đã đến lúc phải thay mới. </para>
+      </section>
+    </section>
+    <section id="id-178910693253">
+      <title>CÁC PHƯƠNG PHÁP CHẨN ĐOÁN CHỦ YẾU</title>
+      <section id="id-240631269828">
+        <title>Các phương pháp chẩn đoán đơn giản</title>
+        <para id="id5695895">Các phương pháp chẩn đoán đơn giản được thực hiện bởi các chuyên gia có nhiều kinh nghiệm, thông qua các giác quan cảm nhận của con người hay thông qua các dụng cụ đo đơn giản.</para>
+        <section id="id-175808955151">
+          <title>Thông qua cảm nhận của các giác quan con người</title>
+          <para id="id5695916">Các thông tin thu được qua cảm nhận của con người thường ở dưới dạng ngôn ngữ (ở dạng mờ): tốt, xấu, nhiều, ít, vừa, ít có khả năng cho bằng trị số cụ thể. Các kết luận cho ra không cụ thể như: hỏng, không hỏng; được, không được…</para>
+          <para id="id5695931">a. Nghe âm thanh trong vùng con người cảm nhận được</para>
+          <para id="id5695937">Tiến hành nghe âm thanh cần phải đạt được các nội dung sau:</para>
+          <para id="id5695944">Vị trí nơi phát ra âm thanh.</para>
+          <para id="id5695950">Cường độ và đặc điểm riêng biệt âm thanh.</para>
+          <para id="id6536704">Tần số âm thanh.</para>
+          <para id="id5695954">Để phân biệt các trạng thái kỹ thuật, yêu cầu phải nắm chắc âm thanh chuẩn khi đối tượng chẩn đoán còn ở trạng thái tốt. Các yếu tố về: cường độ, tần số âm thanh được cảm nhận bởi hệ thính giác trực tiếp hay qua ống nghe chuyên dụng. Các sai lệnh so với âm thanh chuẩn thông qua kinh nghiệm chủ quan của chuyên gia là cơ sở đánh giá chất lượng.</para>
+          <para id="id6536728">Với các bộ phận đơn giản, có hình thù nhỏ gọn của đối tượng chẩn đoán có thể nhanh chóng kết luận: chỗ hư hỏng, mức độ hư hỏng.</para>
+          <para id="id6536738">Với các cụm phức tạp, hình thù đa dạng (chẳng hạn như cụm động cơ) để có thể chẩn đoán đúng, phải tiến hành nhiều lần ở các vị trí khác nhau.</para>
+          <para id="id6536749">b. Dùng cảm nhận màu sắc</para>
+          <para id="id6536754">Đối với ô tô có thể dùng cảm nhận màu sắc để chẩn đoán tình trạng kỹ thuật của động cơ. Thông qua cảm nhận màu sắc khí xả, bugi (động cơ xăng), màu sắc dầu nhờn bôi trơn động cơ.</para>
+          <para id="id6536763">c. Dùng cảm nhận mùi</para>
+          <para id="id6536768">Khi ô tô hoạt động các mùi có thể cảm nhận được là: mùi cháy từ sản phẩm dầu nhờn, nhiên liệu, vật liệu ma sát. Các mùi đặc trưng dễ nhận biết là:</para>
+          <para id="id6536780">Mùi khét do dầu nhờn rò rỉ bị cháy xung quanh động cơ, do dầu bôi trơn bị cháy thoát ra theo đường khí xả, các trường hợp này nói lên chất lượng bao kín bị suy giảm, dầu nhờn bị lọt vào buồng cháy.</para>
+          <para id="id6536793">Mùi nhiên liệu cháy không hết thải ra theo đường khí xả hoặc mùi nhiên liệu thoát ra theo các thông áp của buồng trục khuỷu. Mùi của chúng mang theo mùi đặc trưng của nhiên liệu nguyên thủy. Khi lượng mùi tăng có thể nhận biết rõ ràng thì tình trạng kỹ thuật của động cơ bị xấu nghiêm trọng.</para>
+          <para id="id6536807">Mùi khét đặt trưng từ vật liệu ma sát như tấm ma sát ly hợp, má phanh. Khi xuất hiện mùi khét này chứng tỏ ly hợp đã bị trượt quá mức, má phanh đã bị đốt nóng tới trạng thái nguy hiểm.</para>
+          <para id="id6536820">Mùi khét đặc trưng từ vật liệu cách điện. Khi xuất hiện mùi khét, tức là có hiện tượng bị đốt cháy quá mức tại các điểm nối của mạch điện, từ các tiếp điểm có vật liệu cách điện như: tăng điện, các cuộn dây điện trở, các đường dây…</para>
+          <para id="id6536834">Mùi khét đặc trưng từ vật liệu bằng cao su hay nhựa cách điện.</para>
+          <para id="id6536842">Nhờ tính đặc trưng của mùi khét có thể phán đoán tình trạng hư hỏng hiện tại của các bộ phận ô tô.</para>
+          <para id="id6536851">d. Dùng cảm nhận nhiệt</para>
+          <para id="id6536856">Sự thay đổi nhiệt độ các vùng khác nhau trên động cơ là khác nhau. Khả năng trực tiếp sờ, nắm các vật có nhiệt độ cao là không có thể, hơn nữa sự cảm nhận thay đổi nhiệt độ trong một giới hạn nhỏ cũng không đảm bảo chính xác, do vậy trên ô tô ít sử dụng phương pháp này để chẩn đoán. Trong một số hạn hữu các trường hợp có thể dùng cảm nhận về nhiệt độ nước làm mát hay dầu bôi trơn động cơ.</para>
+          <para id="id6536871">Đa số cảm nhận nhiệt thực hiện trên các cụm của hệ thống truyền lực: các hộp số chính, hộp phân phối, cầu xe, cơ cấu lái…Các bộ phận này cho phép làm việc tối đa tới (75 – 800C). Nhiệt độ cao hơn giá trị này tạo cảm giác quá nóng là do ma sát bên trong quá lớn (do thiếu dầu hay hư hỏng khác).</para>
+          <para id="id6536890">e. Kiểm tra bằng cảm giác lực hay mômen</para>
+          <para id="id6536895">Trong phần này chỉ đề cập đến việc xác định trạng thái của đối tượng chẩn đoán thông qua cảm nhận của con người. Điều này thực hiện bằng việc phân biệt nặng nhẹ của dịch chuyển các cơ cấu điều khiển, các bộ phận chuyển động tự do như:</para>
+          <para id="id6536910">Phát hiện độ rơ dọc của hai bánh xe nằm trên trục của nó, khả năng quay trơn bánh xe trong khoảng độ rơ bánh xe trên hệ thống truyền lực.</para>
+          <para id="id6536921">Khả năng di chuyển tự do trong hành trình tự do của các cơ cấu điều khiển như: bàn đạp phanh, bàn đạp ly hợp, cần số, vành lái.</para>
+          <para id="id6536931">Phát hiện độ rơ theo các phương của bánh xe dẫn hướng khi đã nâng bánh xe lên khỏi mặt đường.</para>
+          <para id="id6536940">Độ chùng của các đai cao su bên ngoài như: dây đai bơm nước, bơm hơi, bơm ga máy lạnh, máy phát điện…</para>
+          <para id="id6536946">Phát hiện độ rơ của các mối liên kết, đặc biệt các khớp cầu, khớp trụ trong hệ thống treo, hệ thống lái. Trên hình 8.3.a mô tả vị trí kiểm tra độ rơ khớp cầu bằng cách nắm tay, lắc nhẹ và cảm nhận độ rơ trong khớp. Trên hình 8.3.b mô tả vị trí kiểm tra độ rơ vành lái bằng cách nắm tay, xoay nhẹ và cảm nhận góc xoay tự do vành lái.</para>
+          <para id="id6536961"><figure id="id6536968"><media id="id34614921" alt=""><image src="../../media/graphics4-de84.jpg" mime-type="image/jpeg" height="249" width="561"/></media></figure>Hình 8.3. Dùng cảm giác lực kiểm tra độ rơ</para>
+        </section>
+        <section id="id-997887427043">
+          <title>Xác định thông số chẩn đoán qua dụng cụ đo đơn giản</title>
+          <para id="id6906386">Trong các điều kiện sử dụng thông thường, để xác định giá trị của thông số chẩn đoán có thể dùng các loại dụng cụ đo đơn giản.</para>
+          <para id="id6906396">a. Đối với động cơ</para>
+          <para id="id6906401">a.1. Nghe tiếng gõ bằng ống nghe và đầu dò âm thanh</para>
+          <para id="id6906408">Khắc phục một phần các ảnh hưởng tiếng ổn chung do động cơ phát ra, có thể dùng ống nghe và đầu dò âm thanh. Các dụng cụ đơn giản, mức độ chính xác phụ thuộc vào người kiểm tra. Một số dạng của chúng trình bày trên hình 8.4.</para>
+          <para id="id6906422"><figure id="id6906429"><media id="id35063800" alt=""><image src="../../media/graphics5-0db3.jpg" mime-type="image/jpeg" height="172" width="500"/></media></figure>Hình 8.4. Một số dụng cụ nghe âm thanh</para>
+          <para id="id6906463">a.2. Sử dụng đồng hồ đo áp suất</para>
+          <para id="id6906469">Đồng hồ đo áp suất khí nén:</para>
+          <para id="id6906473">Ở trạng thái mài mòn giới hạn của piston – xi lanh – séc măng áp suất cuối kỳ nén pc giảm khoảng (15 ÷ 20%). Sự giảm áp suất pc cho phép kết luận về tình trạng mài mòn của nhóm chi tiết rất quan trọng trong động cơ: piston – xi lanh – séc măng, chất lượng bao kín của khu vực buồng cháy.</para>
+          <para id="id6906499">Đồng hồ đo áp suất chân không trên đường nạp</para>
+          <para id="id6906504">Đồng hồ đo áp suất chân không trên đường nạp dùng để đo độ chân không trên đường nạp sau bộ chế hòa khí hay tại buồng chứa chân không trên động cơ hiện đại. Các loại ô tô ngày nay có một lỗ chuyên dụng ở cổ hút của động cơ, do vậy với động cơ nhiều xi lanh thực chất là xác định độ chân không trên đường nạp của động cơ. Nhờ giá trị áp suất chân không đo được có thể đánh giá chất lượng bao kín của buồng cháy. Các đồng hồ dạng này thường cho bằng chỉ số milimet thủy ngân hay inch thủy ngân.</para>
+          <para id="id6906529">Mặc dù thông số áp suất này không có khả năng chuyển đổi trong tính toán thành công suất động cơ như việc đo pc, nhưng thuận lợi hơn nhiều khi cần chẩn đoán tình trạng kỹ thuật của buồng đốt, nó là phương pháp dễ dàng khi chăm sóc và sửa chữa động cơ ô tô tại các gara.</para>
+          <para id="id6906551">Loại đồng hồ đo áp suất chân không thường được sử dụng có trị số lớn nhất là: 30 inch Hg (750mm Hg)</para>
+          <para id="id6906560">Đồng hồ đo áp suất dầu bôi trơn</para>
+          <para id="id6906565">Việc xác định áp suất dầu bôi trơn trên đường dầu chính của thân máy cho phép xác định được tình trạng kỹ thuật của bạc thanh truyền, bạc cổ trục khuỷu. Khi áp suất dầu giảm có khả năng khe hở của bạc, cổ trục bị mòn quá lớn, bơm dầu mòn hay tắc một phần đường dầu.</para>
+          <para id="id6906579">Áp suất dầu bôi trơn trên đường dầu chính thay đổi phụ thuộc vào số vòng quay động cơ, chất lượng hệ thống bôi trơn: bơm dầu, lưới lọc trong đáy dầu, bầu lọc thô, tinh.</para>
+          <para id="id6906588">Khi kiểm tra có thể dùng ngay đồng hồ của bảng điều khiển. Nếu đồng hồ của bảng điều khiển không đảm bảo chính xác cần thiết, thì lắp thêm đồng hồ đo áp suất trên thân máy, nơi có đường dầu chính. Đồng hồ kiểm tra cần có giá trị lớn nhất đến 800KPa, độ chính xác của đồng ho đo ở mức ±10kPa.</para>
+          <para id="id6906602">Đồng hồ đo áp suất nhiên liệu diesel</para>
+          <para id="id6906608">Đồng hồ đo áp suất nhiên liệu diesel dùng để đo áp suất nhiên liệu thấp áp (từ bơm chuyển nhiên liệu đến bơm cao áp). Loại đồng hồ đo áp suất thấp có giá trị đo áp suất lớn nhất đến 400kPa và được lắp sau bơm chuyển. Loại đồng hồ đo áp suất cao của hệ thống nhiên liệu thuộc loại chuyên dùng.</para>
+          <para id="id6906625">a.3. Đo số vòng quay động cơ</para>
+          <para id="id6906631">Đa số các trường hợp việc xác định số vòng quay động cơ cần thiết bổ sung thông tin chẩn đoán cho trạng thái đo các giá trị mômen, công suất (mômen ở số vòng quay xác định, công suất ở số vòng quay xác định).</para>
+          <para id="id6906640">Các đồng hồ đo có thể ở dạng thông dụng với chỉ số và độ chính xác phù hợp:</para>
+          <para id="id6906648">Với động cơ diesel chỉ số tới (5000 – 6000) vòng/phút</para>
+          <para id="id6906655">Với động cơ xăng chỉ số tới (10000 – 12000) vòng/phút</para>
+          <para id="id6906662">Một loại đồng hồ đo chuyên dụng là đồng hồ đo số vòng quay từ tín hiệu áp suất cao của nhiên liệu động cơ diesel, hay bằng cảm ứng điện từ cặp trên đường dây cao áp ra bugi.</para>
+          <para id="id6874068">b. Đối với hệ thống truyền lực</para>
+          <para id="id6906668">b.1. Sử dụng các loại thước đo</para>
+          <para id="id6874074">Đo khoảng cách:</para>
+          <para id="id6874079">Đo hành trình tự do, hành trình làm việc của bàn đạp phanh.</para>
+          <para id="id6874085">Đo quãng đường tăng tốc, quãng đường phanh.</para>
+          <para id="id6874090">Đo góc:</para>
+          <para id="id6874094">Dùng để kiểm tra độ rơ của các cơ cấu quay: độ rơ của trục các đăng, độ rơ của bánh xe. Các góc này gọi là các góc quay tự do. Góc quay tự do biểu thị tổng hợp độ mòn của cơ cấu trong quá trình làm việc như: bánh răng, trục, ổ… đồng thời nêu lên chất lượng của cụm như các đăng, hộp số, cầu, hệ thống lái…</para>
+          <para id="id6874109">Các thông số này đem so với thông số chuẩn (trạng thái ban đầu, hay trạng thái cho phép) và suy diễn để tìm ra hư hỏng, đánh giá chất lượng của cơ cấu hoặc cụm.</para>
+          <para id="id6874121">b.2. Đo bằng lực kế</para>
+          <para id="id6874126">Nhiều trường hợp khi xác định hành trình tự do, cần thiết phải cần lực kế, chẳng hạn trên ô tô có tải trọng lớn các giá trị góc quay tự do trên bánh xe phải dùng lực kế để xác định chính xác, trên hệ thống có cường hóa, cảm giác nặng nhẹ khi bộ cường hóa làm việc không những chỉ thông qua thông số hành trình mà còn cần đo lực tác dụng ở trên cơ cấu điều khiển.</para>
+          <para id="id6874141">c. Đối với hệ thống điện</para>
+          <para id="id6874146">Các thiết bị thường dùng là:</para>
+          <para id="id6874152">Đồng hồ đo điện (vạn năng kế) dùng để đo cường độ dòng điện, điện áp trên mạch (một chiều, xoay chiều), điện trở thuần…</para>
+          <para id="id6874160">Đồng hồ đo cách điện (mogommet).</para>
+          <para id="id6874164">Đồng hồ đo điện áp ác qui (ampe kế kìm).</para>
+          <para id="id6874170">Các loại dụng này này thuộc dụng cụ dùng phổ biến tại các trạm, ga ra và có thể sử dụng đo để biết khả năng thông mạch, điện áp và cường độ trên các bo mạch chính trong hệ thống, cuộn dây, linh kiện điện. Vài dạng điển hình trình bày trên hình 8.5.</para>
+          <para id="id6874184"><figure id="id6874191"><media id="id34832702" alt=""><image src="../../media/graphics6-74b3.jpg" mime-type="image/jpeg" height="199" width="566"/></media></figure>Hình 8.5. Một số dụng cụ đo điện thông dụng</para>
+          <para id="id6874225">Trong những điều kiện khó khăn về trang thiết bị đo đạc, công tác chẩn đoán có thể tiến hành theo phương pháp đối chứng. Trong phương pháp này cần có mẫu chuẩn, khi cần xác định chất lượng của đối tượng chẩn đoán, chúng ta đem các giá trị xác định được so với mẫu chuẩn và đánh giá.</para>
+          <para id="id6874240">Mẫu chuẩn cần xác định là mẫu cùng chuẩn loại, có trạng thái kỹ thuật ở ngưỡng ban đầu, hay ở ngưỡng giới hạn sử dụng của đối tượng chẩn đoán. Công việc này được tiến hành như khi đánh giá chất lượng dầu nhờn bôi trơn, đánh giá công suất động cơ theo thử nghiệm leo dốc…</para>
+        </section>
+      </section>
+      <section id="id-170107964113">
+        <title>Tự chẩn đoán</title>
+        <section id="id-133710485464">
+          <title>Khái niệm về tự chẩn đoán</title>
+          <para id="id6874272">Tự chẩn đoán là một công nghệ tiên tiến trong lĩnh vực chế tạo và sản xuất ô tô. Khi các hệ thống và cơ cấu của ô tô hoạt động có sự tham gia của các máy tính chuyên dụng (ECU) thì khả năng tự chẩn đoán được mở ra một cách thuận lợi. Người và ô tô có thể giao tiếp với các thông tin chẩn đoán (số lượng thông tin này tùy thuộc vào khả năng của máy tính chuyên dùng) qua các hệ thống thông báo, do vậy các sự cố hay triệu chứng hư hỏng được thông báo kịp thời, không cần chờ đến định kỳ chẩn đoán.</para>
+          <para id="id6874299">Như vậy, mục đích chính của tự chẩn đoán là đảm bảo ngăn ngừa tích cực các sự cố xảy ra. Trên ô tô hiện nay có thể gặp các các hệ thống tự chẩn đoán: hệ thống đánh lửa, hệ thống nhiên liệu, động cơ, hộp số tự động, hệ thống phanh, hệ thống treo, hệ thống điều hòa nhiệt độ,…</para>
+        </section>
+        <section id="id-812860676976">
+          <title>Nguyên lý hình thành hệ thống tự chẩn đoán</title>
+          <para id="id6874323">Nguyên lý hình thành hệ thống tự chẩn đoán dựa trên cơ sở các hệ thống tự động điều chỉnh. Trên các hệ thống tự động điều chỉnh đã có các thành phần cơ bản: cảm biến đo tín hiệu, bộ điều khiển trung tâm (ECU), cơ cấu chấp hành. Các bộ phận này làm việc theo nguyên tắc điều khiển mạch kín (liên tục).</para>
+          <para id="id6874338">Yêu cầu cơ bản của thiết bị tự chẩn đoán bao gồm: cảm biến đo các giá trị thông số chẩn đoán tức thời, bộ xử lý và lưu trữ thông tin, tín hiệu thông báo.</para>
+          <para id="id6874349">Như vậy, ghép nối hai sơ đồ tổng quát là: cảm biến đo được dùng chung, bộ xử lý và lưu trữ thông tin ghép liền với ECU. Tín hiệu thông báo được đặt riêng. Hai sơ đồ của hệ thống tự động điều chỉnh có tự chẩn đoán được mô tả trên hình</para>
+          <para id="id6874354">Do những hạn chế về giá thành, không gian trên ô tô do vậy các bộ phận tự chẩn đoán không phải là hệ thống hoàn thiện so với thiết bị chẩn đoán chuyên dụng, song sự có mặt của nó là một yếu tố tích cực trong sử dụng.</para>
+          <para id="id6874358">Ưu việt cơ bản của hệ thống tự chẩn đoán trên ô tô là:</para>
+          <para id="id5934873">Nhờ việc sử dụng các tín hiệu từ các cảm biến của hệ thống tự động điều chỉnh trên xe, các thông tin thường xuyên được cập nhật và xử lý, bởi vậy chúng dễ dàng phát hiện ngay các sự cố và thông báo kịp thời, ngay cả khi xe đang hoạt động.</para>
+          <para id="id5934887">- Việc sử dụng kết hợp các bộ phận như trên tạo khả năng hoạt động của hệ thống chẩn đoán rộng hơn thiết bị chẩn đoán độc lập, nó có khả năng báo hư hỏng, hủy bỏ chức năng hoạt động của hệ thống trong xe, thậm chí hủy bỏ khả năng làm việc của ô tô, nhằm hạn chế tối đa hư hỏng tiếp sau, đảm bảo an toàn chuyển động. Nhưng mặt khác thiết bị cũng không cồng kềnh, đảm bảo tính kinh tế cao trong khai thác</para>
+          <table id="id5934902" summary="">
+            <tgroup cols="2">
+              <colspec colnum="1" colname="c1"/>
+              <colspec colnum="2" colname="c2"/>
+              <tbody>
+                <row>
+                  <entry>
+                    <media id="id34989729" alt=""><image src="../../media/graphics7-7388.jpg" mime-type="image/jpeg"/></media>
+                  </entry>
+                  <entry>
+                    <media id="id34396397" alt=""><image src="../../media/graphics8-da58.jpg" mime-type="image/jpeg"/></media>
+                  </entry>
+                </row>
+                <row>
+                  <entry>a. Hệ thống điều chỉnh tự động</entry>
+                  <entry>b. Hệ thống điều chỉnh tự động có tự chẩn đoán</entry>
+                </row>
+                <row>
+                  <entry namest="c1" nameend="c2">Hình 8.6. Sơ đồ nguyên lý hình thành hệ thống tự chẩn đoán</entry>
+                </row>
+              </tbody>
+            </tgroup>
+          </table>
+          <para id="id5935033">Tự chẩn đoán là một biện pháp phòng ngừa tích cực mà không cần chờ tới định kỳ chẩn đoán. Ngăn chặn kịp thời các hư hỏng, sự cố hoặc khả năng có thể mất an toàn chuyển động đến tối đa. Hạn chế cơ bản hiện nay là giá thành còn cao, cho nên số lượng các ô tô như trên chưa nhiều, mặt khác hệ thống tự chẩn đoán không sử dụng với mục đích đánh giá kỹ thuật tổng thể.</para>
+        </section>
+        <section id="id-172328739211">
+          <title>Một số sơ đồ nguyên lý hệ thống tự động điều khiển có tự chẩn đoán </title>
+          <para id="id5935058">Việc sử dụng nhiều hệ thống tự động điều khiển trên ô tô tạo nên nhiều khó khăn trong chẩn đoán và có thể làm giảm độ tin cậy của hệ thống. Những thói quen và kinh nghiệm không thể phù hợp việc sử dụng thiết bị chẩn đoán chuyên dụng hay tổng hợp cũng không đảm bảo độ chính xác và tính thích ứng không cao, vì vậy hệ thống có tự chẩn đoán ngày càng mở rộng.</para>
+          <para id="id5935073">Tùy thuộc vào mức độ sử dụng các bộ phận tự điều chỉnh mà có các thông tin tự chẩn đoán khác nhau. Các hệ thống tự động điều khiển thường tổ hợp kết cấu và cũng dùng chung nhiều cảm biến (CB), khối ECU có nhiều mảnh ghép tạo nên những hộp điều khiển điện tử phức tạp.</para>
+          <para id="id5935088">Phân tích các cụm tổ hợp này có thể thấy được các sơ đồ nguyên lý của hệ thống tự động điều khiển có tự chẩn đoán như ở phần dưới đây:</para>
+          <para id="id5935099">a. Sơ đồ điển hình của hệ thống điều khiển tự động chuyển số (EAT)</para>
+          <para id="id5935106">EAT được hình thành trên cơ sở của bộ biến mô men thủy lực (BMM), hộp số hành tinh, hệ thống điều khiển thủy lực điện tử. Trong trường hợp này hệ thống tự chẩn đoán có hiệu quả rõ nét về độ chính xác của thông tin.</para>
+          <para id="id5935120">Ngoài các thông tin báo sự cố trên màn hình còn có các thông số chuyển đổi đã cài sẵn tại chế độ đang hoạt động, nhờ các phần mềm chuyển đổi.</para>
+          <para id="id5935131">Sơ đồ điển hình của hệ thống điều khiển tự động chuyển số (EAT) mô tả trên hình 8.7.</para>
+          <para id="id5935140"><figure id="id5935147"><media id="id34925888" alt=""><image src="../../media/graphics9-f03c.jpg" mime-type="image/jpeg" height="390" width="491"/></media></figure>Hình 8.7. Sơ đồ khối hệ thống điện của EAT</para>
+          <para id="id6593238">b. Sơ đồ điển hình của hệ thống điện điều khiển ABS</para>
+          <para id="id6593245">Sơ đồ điển hình của hệ thống điện điều khiển ABS mô tả trên hình 8.8. Các bộ điều khiển ABS thường có độ tin cậy cao, do vậy cảm biến bánh xe có thể còn có thêm cuộn dây dự phòng. Khi cảm biến bị hư hỏng, đèn báo trên táp lô sáng, sau đó tự tắt, hay giảm độ sáng nhằm thông báo cho người sử dụng biết sự cố đã xảy ra và hệ thống đã chuyển sang chế độ làm việc dự phòng, muốn tìm hiểu kỹ hơn cần thiết phải xác định qua mã ánh sáng báo lỗi.</para>
+          <para id="id6593260"><figure id="id6593267"><media id="id35072556" alt=""><image src="../../media/graphics10-2f84.jpg" mime-type="image/jpeg" height="204" width="422"/></media></figure>Hình 8.8. Sơ đồ khối của hệ thống điện</para>
+        </section>
+        <section id="id-937915280097">
+          <title>Các hình thức giao tiếp người - xe</title>
+          <para id="id6593310">a. Bằng tín hiệu đèn, âm thanh (chuông hay còi)</para>
+          <para id="id6593316">Dạng đơn giản nhất trong giao tiếp là sử dụng đèn, tín hiệu âm thanh, hoặc cả hai. Thông thường các bộ phận báo hiệu để tại vị trí dễ thấy, dễ nghe như trên bảng táp lô, màu đèn có màu đỏ là báo nguy hiểm, còn màu xanh, vàng là báo an toàn. Khi các giá trị đo từ cảm biến còn nằm trong ngưỡng sử dụng thì đèn báo an toàn (không sáng). Khi tín hiệu vượt ngưỡng đèn báo sáng (nguy hiểm).</para>
+          <para id="id6593331">Dạng báo hiệu bằng âm thanh xuất hiện chỉ khi có sự cố, âm thanh ở vùng nghe thấy có tần số cao liên tục hay đứt quãng.</para>
+          <para id="id6593340">Cách giao tiếp như trên chỉ thông báo ở dạng tốt, xấu, mà không cho biết dạng sự cố, cụm có sự cố.</para>
+          <para id="id6593349">b. Báo mã bằng băng giấy đục lỗ</para>
+          <para id="id6593355">Tương tự như việc báo mã bằng đèn nháy, trên một số xe dùng băng giấy đục lỗ. Khi có sự cố, máy tự động đẩy ra một băng giấy đục lỗ báo sự cố. Đọc mã sự cố theo tài liệu sử dụng kèm theo ô tô.</para>
+          <para id="id6593368">c. Báo bằng mã ánh sáng</para>
+          <para id="id6593374">Từ thập kỷ 90 lại đây, các thông số báo dạng mã ánh sáng được dùng phổ biến hơn. Các dạng báo này được gọi là “mã chẩn đoán” và được tạo nên trên cơ sở ngôn ngữ ASSEMBLY. Nhịp đèn sáng tương ứng như hoạt động của mạch có hai ngưỡng “ON”, “OFF” và làm việc kéo dài 0,15 giây một nhịp, liên tục hay đứt quãng tùy theo mã lỗi cần thông báo. Đèn thông báo thường dùng loại đèn LED màu xanh chói hay màu đỏ dễ thấy, đặt ngay trên ECU, hay ở bảng táp lô.</para>
+          <para id="id6593388">Một vài ví dụ về mã chẩn đoán trình bày trên hình 8.9</para>
+          <para id="id6593395"><figure id="id6593402"><media id="id41099400" alt=""><image src="../../media/graphics11-3309.jpg" mime-type="image/jpeg" height="144" width="597"/></media></figure>Hình 8.9. Các ví dụ về mã chẩn đoán</para>
+          <para id="id6593436">Thông thường các thông tin giao tiếp dạng này chỉ xuất hiện khi thực hiện đóng mạch báo chẩn đoán. Trong trạng thái khởi động xe (chìa khóa điện ở vị trí ON), các hệ thống cần thiết được kiểm tra (đèn báo trên táp lô sáng), sau đó đèn báo tắt, toàn bộ hệ thống sẵn sàng làm việc, nếu còn đèn nào sáng, chứng tỏ phần hệ thống đó có sự cố cần tiến hành kiểm tra sâu hơn.</para>
+          <para id="id6593451">Trên xe NISSAN việc tiến hành báo mã chẩn đoán sâu hơn chỉ thực hiện được khi đóng mạch kiểm tra (đèn CHECK báo sáng).</para>
+          <para id="id6593460">Sau khi đã sửa chữa sự cố cần tiến hành xóa mã trong bộ nhớ của ECU.</para>
+          <para id="id6593468">Bằng cách báo mã như trên số lượng thông tin tăng lên đáng kể (có thể tới vài chục mã khác nhau). Việc đọc mã cần phải theo các tài liệu chuyên môn của các hãng sản xuất xe.</para>
+          <para id="id6593480">d. Giao tiếp nhờ màn hình</para>
+          <para id="id6593485">Giao diện nhờ màn hình là một ứng dụng tiên tiến trong công nghệ chẩn đoán trên xe. Màn hình thường ở dạng tinh thể lỏng mỏng, nhỏ gọn. Khi cần thiết kiểm tra, màn hình được nối với hệ thống nhờ bộ đầu nối chờ, còn lại được bảo quản chu đáo trong vỏ bảo vệ.</para>
+          <para id="id6593500">Có hai loại màn hình với các phương pháp điều khiển khác nhau:</para>
+          <para id="id6552185">Loại thực hiện điều khiển bằng phím ấn như bàn phím máy tính thông thường.</para>
+          <para id="id6552191">Loại thực hiện điều khiển bằng phím ấn, có các phần tự chọn bằng cảm ứng nhiệt trực tiếp trên màn hình tinh thể lỏng.</para>
+          <para id="id6552201">Cả hai loại này đều cho các MENU tùy chọn. Mọi trình tự, thủ tục ra vào đều được các nhà sản xuất cài đặt sẵn, rất rất tiện lợi cho người sử dụng khi cần biết về trạng kỹ thuật của chúng.</para>
+          <para id="id6552214">Nhờ màn hình giao tiếp, các sự cố nhanh chóng được chỉ rõ và công tác chẩn đoán không còn khó khăn và tốn kém nhiều công sức.</para>
+          <para id="id6552224"><figure id="id6552232"><media id="id34446179" alt=""><image src="../../media/graphics12-871f.jpg" mime-type="image/jpeg" height="335" width="575"/></media></figure>Hình 8.10. Màn hình giao diện và đầu nối của NISSAN, VOLVO</para>
+          <para id="id6552266">Trên hình 8.10 là một dạng màn hình giao diện sử dụng các tấm phiếu điện tử có thể cho phép xác định các thông số chẩn đoán cho một hệ thống trên xe. Như vậy, trong một thiết bị ngoại vi giao diện này cần có số lượng phiếu tùy thuộc vào số lượng hệ thống có tự chẩn đoán trên xe.</para>
+        </section>
+      </section>
+    </section>
+  </content>
+</document>

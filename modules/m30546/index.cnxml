@@ -1,0 +1,346 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:md="http://cnx.rice.edu/mdml">
+  <title>Khái niệm về hao mòn, hư hỏng</title>
+  <metadata>
+  <md:content-id>m30546</md:content-id><md:title>Khái niệm về hao mòn, hư hỏng</md:title>
+  <md:abstract>Các khái niệm về hao mòn và hư hỏng</md:abstract>
+  <md:uuid>8018486a-9059-4655-87af-8c15458ab1cb</md:uuid>
+</metadata>
+
+<content>
+    <para id="id6433462">Nội dung:</para>
+    <section id="id-693388702641">
+      <title>Khái niệm chung</title>
+      <table id="id6433474" summary="">
+        <tgroup cols="2">
+          <colspec colnum="1" colname="c1"/>
+          <colspec colnum="2" colname="c2"/>
+          <tbody>
+            <row>
+              <entry>Hao mòn: Là sự phá hoại dần dần bề mặt ma sát, thể hiện ở sự thay đổi kích thước dần dần theo thời gian. Trong quá trình hao mòn không xảy ra sự phá hoại kim loại gốc mà chỉ xảy ra sự phá hoại trên lớp bề mặt chi tiết (gọi là lớp cấu trúc thứ cấp).Chỉ tiêu đánh giá hao mòn: Để đánh giá hao mòn người ta dùng tỉ số giữa lượng hao mòn tuyệt đối với chiều dài của quãng đường xe chạy gọi là cường độ mòn.</entry>
+              <entry><media id="id10746990" alt=""><image src="graphics1.wmf" mime-type="image/wmf"/></media>Hình 1.5. Hao mòn lớp cấu trúc thứ cấp</entry>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+      <para id="id6819236"/>
+      <para id="id6819240">- Cường độ mòn I:</para>
+      <para id="id6819246">I = <figure id="id6819252"><media id="id6303372" alt=""><image src="graphics2.wmf" mime-type="image/wmf" height="47" width="51"/></media></figure> (<figure id="id6935941"><media id="id11545683" alt=""><image src="graphics3.wmf" mime-type="image/wmf" height="18" width="17"/></media></figure>m/1000km) hoặc I=<figure id="id7009479"><media id="id10050515" alt=""><image src="graphics4.wmf" mime-type="image/wmf" height="44" width="54"/></media></figure> (m3/1000km) hoặc I=<figure id="id6267390"><media id="id9036073" alt=""><image src="graphics5.wmf" mime-type="image/wmf" height="44" width="64"/></media></figure> (g/1000km).</para>
+      <para id="id6663563">l1, l2-kích thước chi tiết đo theo phương pháp tuyến với bề mặt ma sát trước ma sát và khi đo, (<media id="id10340941" alt=""><image src="graphics6.wmf" mime-type="image/wmf" height="18" width="17"/></media>m).</para>
+      <para id="id6663412">V1, V2-thể tích chi tiết trước và sau khi đo.</para>
+      <para id="id6552004">G1, G2-khối lượng chi tiết trước và sau khi đo.</para>
+      <para id="id6552021">L-chiều dài quãng đường xe chạy, (1000km).</para>
+      <para id="id6968053">- Tốc độ mòn V:</para>
+      <para id="id6968059">V = <figure id="id6968066"><media id="id11611471" alt=""><image src="graphics7.wmf" mime-type="image/wmf" height="47" width="51"/></media></figure>(<figure id="id6815867"><media id="id10007947" alt=""><image src="graphics8.wmf" mime-type="image/wmf" height="18" width="17"/></media></figure>m/giờ) hoặc V=<figure id="id6663940"><media id="id11562423" alt=""><image src="graphics9.wmf" mime-type="image/wmf" height="44" width="54"/></media></figure> (m3/giờ) hoặc I=<figure id="id6669282"><media id="id8750016" alt=""><image src="graphics10.wmf" mime-type="image/wmf" height="44" width="64"/></media></figure> (g/giờ)</para>
+      <para id="id6749463">t-thời gian ma sát (giờ)</para>
+      <para id="id6663088"/>
+      <para id="id6663094">Hư hỏng: là sự phá hoại bề mặt chi tiết xảy ra không có qui luật và ở mức độ vĩ mô. Có thể quan sát được bằng mắt thường và có sự phá hoại kim loại gốc như: tróc, rỗ, biến dạng bề mặt, cong, vênh, cào, xước, nứt bề mặt (phương pháp tuyến), dập, lún, xâm thực. </para>
+    </section>
+    <section id="id-763168175326">
+      <title>Phân loại hao mòn, hư hỏng</title>
+      <section id="id-830989795676">
+        <title>Phân loại hao mòn</title>
+        <para id="id6587177">Hao mòn ôxy hoá loại 1: là hao mòn mà lớp cấu trúc thứ cấp là lớp màng dung dịch rắn (có xô lệch mạng).</para>
+        <para id="id6587191">Hao mòn ôxy hoá loại 2: là hao mòn mà lớp cấu trúc thứ cấp là lớp ôxít. Ví dụ: FeO, Fe2O3</para>
+      </section>
+      <section id="id-671692579805">
+        <title>Phân loại hư hỏng</title>
+        <para id="id6915854">Tróc loại 1: là dạng phá hoại bề mặt, thể hiện sự dính cục bộ giữa hai bề mặt do biến dạng dẻo gây ra vì lực lớn quá giới hạn đàn hồi.</para>
+        <para id="id6666166">Tróc loại 2: là dạng phá hoại bề mặt, thể hiện sự dính cục bộ giữa hai bề mặt do nhiệt gây ra.</para>
+        <para id="id6666180">Mài mòn: do tồn tại hạt mài giữa hai bề mặt ma sát, do cát bụi hoặc do tróc</para>
+        <para id="id7009693">Tróc ôxi hoá động: là sự cường hoá quá trình hao mòn.</para>
+        <para id="id7009705">Ăn mòn điện hoá, xâm thực...</para>
+        <para id="id6666218">Mỏi: xảy ra khi tải trọng thay đổi tuần hoàn, xuất hiện và phát triển các vết nứt tế vi, dẫn đến gãy đột ngột.</para>
+      </section>
+      <section id="id-154542379125">
+        <title>Các yếu tố ảnh hưởng đến hao mòn, hư hỏng</title>
+        <para id="id7009730">Bất kỳ cặp chi tiết nào làm việc với nhau đều sinh ra ma sát trong điều kiện có trượt tương đối, chịu lực, điều kiện môi trường làm việc, chất bôi trơn, chất lượng chi tiết (thành phần vật liệu, tính chất cơ lý hoá bề mặt ...) là dẫn đến hao mòn.</para>
+        <section id="id-324446195501">
+          <title>Ảnh hưởng của tải trọng p</title>
+          <table id="id6241775" summary="">
+            <tgroup cols="2">
+              <colspec colnum="1" colname="c1"/>
+              <colspec colnum="2" colname="c2"/>
+              <tbody>
+                <row>
+                  <entry>Thí nghiệm: Cho cặp ma sát thép Y10A có nhiệt luyện làm việc với nhau khi tăng dần P, đo I, hình 1.6:Đường 1: ứng với v = 3,11 m/sĐường 2: ứng với v = 2,59 m/sĐường 3: ứng với v= 1,78 m/sKết luận: Ở vận tốc trong giới hạn nào đó, cường độ hao mòn là ổn định và nhỏ nhất khi p[p]. Nếu p&gt;[p] thì hao mòn xảy ra mãnh liệt.</entry>
+                  <entry>
+                    <media id="id11669690" alt=""><image src="graphics11.wmf" mime-type="image/wmf"/></media>
+                  </entry>
+                </row>
+              </tbody>
+            </tgroup>
+          </table>
+        </section>
+        <section id="id-94865470991">
+          <title>Ảnh hưởng của vận tốc trượt v</title>
+          <table id="id6663861" summary="">
+            <tgroup cols="2">
+              <colspec colnum="1" colname="c1"/>
+              <colspec colnum="2" colname="c2"/>
+              <tbody>
+                <row>
+                  <entry>Vận tốc trượt cho phép mở rộng khả năng chịu tải nhưng chưa rõ mà phải nghiên cứu ảnh hưởng riêng của từng chi tiết như thế nào:Thí nghiệm: cho cặp ma sát thép C10 làm việc với nhau, thay đổi v, đo cường độ hao mòn I, hình 1.7.:Vùng 1 và 3: có hao mòn nhỏ và ổn định (ứng với hao mòn ô xy hoá)Vùng 2: hao mòn lớn nhất (tróc loại 1)Vùng 4: tróc loại 2</entry>
+                  <entry>
+                    <media id="id11606291" alt=""><image src="graphics12.wmf" mime-type="image/wmf"/></media>
+                  </entry>
+                </row>
+              </tbody>
+            </tgroup>
+          </table>
+        </section>
+        <section id="id-0300112486161">
+          <title>Ảnh hưởng của điều kiện ma sát</title>
+          <para id="id6765543">Ảnh hưởng của tính chất vật liệu</para>
+          <para id="id6765550">Từ hai thí nghiệm đối với thép Y10A và thép C10 ta thấy:</para>
+          <para id="id6765558">- Thép Y10A không có dạng phá hoại do tróc, còn thép C10 có phá hoại do tróc. Để chống tróc loại 1 phải dùng vật liệu khác nhau cho hai chi tiết ma sát với nhau. Vì nếu giống nhau thì chúng có mạng tinh thể giống nhau nên dễ khuếch tán với nhau.</para>
+          <para id="id6605768">- Độ cứng càng cao thì độ mòn càng thấp.</para>
+          <para id="id6605775">Ảnh hưởng của chất bôi trơn</para>
+          <para id="id6605781">- Tác dụng của chất bôi trơn: giảm ma sát làm giảm hao mòn, làm mát chi tiết, bao kín bề mặt, bảo vệ bề mặt khỏi bị ôxy hoá, làm sạch bề mặt.</para>
+          <para id="id7006941">- Yêu cầu đối với chất bôi trơn:</para>
+          <para id="id7006948">+ Phải bảo đảm khả năng làm việc trong phạm vi P,v,</para>
+          <para id="id6586836">+ Phải điền đầy các hõm và lỗ tế vi, bám toàn bộ vào bề mặt chi tiết tạo thành màng dầu bôi trơn.</para>
+          <para id="id6586846">+ Tạo khả năng cản trượt lớn theo phương vuông góc với bề mặt ma sát và nhỏ theo phương tiếp tuyến với bề mặt ma sát.</para>
+          <para id="id6586856">+ Không gây hại đến chi tiết (ăn mòn).</para>
+          <para id="id6698549">+ Không tạo cặn, sinh bọt nhũ... </para>
+          <para id="id6698556">- Cơ chế bôi trơn:</para>
+          <para id="id6698562">+ Ma sát ướt (bôi trơn thuỷ động). Khi trục bắt đầu quay, do dầu có độ nhớt, nên trong khe hở giữa trục và bạc tạo thành nêm dầu có áp suất, áp suất càng tăng khi tốc độ quay của trục tăng lên. Đến khi ứng với tốc độ nào đó, tổng áp lực của dầu đủ sức nâng trục lên, không có sự tiếp xúc trực tiếp giữa trục và bạc, dẫn đến không hao mòn. Thực tế khi khởi động, tắt máy hoặc thay đổi tốc độ thì trục và bạc có tiếp xúc nên có hao mòn.</para>
+          <para id="id6698568">Trong bôi trơn thuỷ động hệ số ma sát  phụ thuộc vào <media id="id7827805" alt=""><image src="graphics13.wmf" mime-type="image/wmf" height="46" width="29"/></media> như ở đồ thị. Trong đó:</para>
+          <para id="id5906158">n-số vòng quay/phút</para>
+          <para id="id5906165">-độ nhớt</para>
+          <para id="id5906176">p­-áp suất</para>
+          <para id="id7015914">1-vùng ma sát khô</para>
+          <para id="id7015920">2-vùng ma sát tới hạn</para>
+          <para id="id7015926">3-vùng ma sát ướt, vùng này vẫn có  là do nội ma sát trong dầu.</para>
+          <table id="id6672718" summary="">
+            <tgroup cols="2">
+              <colspec colnum="1" colname="c1"/>
+              <colspec colnum="2" colname="c2"/>
+              <tbody>
+                <row>
+                  <entry>+ Ma sát tới hạn: xảy ra khi lớp màng dầu có chiều dày rất nhỏ  &lt; 0,1m. Ở bề dày này, các phân tử dầu sắp xếp đúng hướng. Do đó, cácchi tiết như trượt trên một đệm đàn hồi,  giảm. Tuy nhiên, đây là một quá trình kém bền vững dễ chuyển thành ma sát khô hoặc ướt.- Cải thiện tính chất dầu bôi trơn: người ta pha vào dầu bôi trơn các chất phụ gia hoạt tính hoá học hoặc hoạt tính bề mặt.+ Chất phụ gia hoạt tính hoá học, có gốc là axit vô cơ, làm tăng khả năng chịu tải của màng dầu bôi trơn, cải thiện độ bền lớp cấu trúc thứ cấp, mở rộng phạm vi làm việc, giảm hao mòn.</entry>
+                  <entry><media id="id11452422" alt=""><image src=".wmf" mime-type="image/wmf"/></media>123Thực tếLý thuyếtHình 1.8. Anh hưởng của n,,p đến hệ số ma sát.</entry>
+                </row>
+              </tbody>
+            </tgroup>
+          </table>
+          <para id="id6244975">+ Chất phụ gia hoạt tính bề mặt, có gốc là các axit hữu cơ, gốc rượu, xà phòng, có tác dụng làm mềm lớp rất mỏng trên bề mặt chi tiết, làm tăng khả năng rà khít nhanh, giảm áp suất riêng, giảm lực ma sát, công ma sát.</para>
+          <para id="id6244981">Ảnh hưởng của chất lượng bề mặt ma sát</para>
+          <para id="id6578091">Chất lượng bề mặt ma sát được thể hiện qua các yếu tố:</para>
+          <para id="id6578099">- Hình học bề mặt: vĩ mô, vi mô và siêu vi mô:</para>
+          <para id="id6666037">+ Vĩ mô: phản ánh trên toàn bộ, phạm vi lớn: độ côn, độ ô van, dung sai chế tạo, những sai số này do dao động của hệ máy-dao-chi tiết trong quá trình gia công gây nên.</para>
+          <para id="id6666049">+ Vi mô: phản ánh tình trạng bề mặt ở phạm vi kích thước tương đối bé</para>
+          <para id="id6666058">+ Siêu vi mô: là sai khác hình học trong phạm vi rất nhỏ do cấu trúc kim loại gây ra.</para>
+          <para id="id6287269">- Trạng thái ứng suất bề mặt: do tác dụng lực biến dạng dẻo nên trên bề mặt chi tiết luôn luôn có ứng suất dư (trong quá trình công nghệ và trong quá trình sử dụng). Trạng thái ứng suất thay đổi dễ gây ra nứt tế vi, hỏng do mỏi.</para>
+          <para id="id6287284">- Tính chất cơ lý hoá bề mặt:</para>
+          <para id="id6289882">+ Sau khi gia công chế tạo ở bước cuối cùng, người ta tiến hành tôi, thấm C,N, phun bi...Do thao tác như vậy, nên bề mặt chi tiết có khả năng hấp thụ lớn, tính chất bề mặt khác với tính chất kim loại gốc. Mặt khác, do thay đổi trạng thái kim loại bề mặt nên nó có năng lượng tự do lớn, dễ hấp phụ các nguyên tử môi trường tạo thành lớp ô xít hoặc lớp dung dịch rắn.</para>
+          <para id="id6289898">+ Trong quá trình làm việc: do biến dạng dẻo, lực, vận tốc trượt lớp kim loại bề mặt bị biến dạng dẻo nhiều lần, đồng thời bản thân chúng có hoạt tính lớn nên dễ hình thành lớp màng dung dịch rắn hoặc ô xýt. Như vậy, bề mặt chi tiết khác xa kim loại gốc, có tác dụng bảo vệ chi tiết, quá trình hao mòn chỉ xảy ra trên bề mặt này.</para>
+          <para id="id6289904">Trong thực tế luôn luôn tồn tại quá trình chuyển hoá từ bề mặt chi tiết sau gia công đến bề mặt chi tiết làm việc ổn định. Đó là quá trình chạy rà tất yếu, vì vậy để nhanh chóng rà khít, giảm hao mòn trong quá trình này người ta phải:</para>
+          <para id="id5859837">+ Gia công bề mặt chi tiết có độ bóng gần bằng độ bóng chi tiết khi làm việc ổn định.</para>
+          <para id="id6287615">+ Giới hạn chế độ tải vận tốc trong quá trình chạy rà và lúc mới sử dụng.</para>
+        </section>
+      </section>
+      <section id="id-952545786847">
+        <title>Một số dạng hao mòn, hư hỏng chủ yếu</title>
+        <section id="id-019733184561">
+          <title>Hao mòn ô xy hoá</title>
+          <para id="id6286783">Khái niệm: là dạng phá hoại dần dần bề mặt chi tiết ma sát, thể hiện ở sự hình thành và bong tách các lớp màng cấu trúc thứ cấp, do tương tác giữa bề mặt kim loại bị biến dạng dẻo với ô xy và các phân tử môi trường.</para>
+          <para id="id6286802">+ Hao mòn ô xy hoá loại 1: lớp màng cấu trúc thứ cấp là dung dịch rắn giữa kim loại gốc và các nguyên tố khác.</para>
+          <para id="id5720692">+ Hao mòn ô xy hoá loại 2: lớp màng cấu trúc thứ cấp là ô xýt kim loại.</para>
+          <para id="id5720701">Điều kiện hình thành:</para>
+          <para id="id5720706">- Tốc độ hao mòn ô xy hoá phải lớn nhất so với các quá trình khác.</para>
+          <para id="id6915518">- Để quá trình hao mòn là ổn định thì:</para>
+          <para id="id5720712">VÔ xy hoá Vhao mòn</para>
+          <para id="id6606059">Quá trình cân bằng động. sự hình thành lớp màng cấu trúc thứ cấp phải nhanh hơn sự phá hoại xảy ra trên nó. Nghĩa là, chi tiết luôn luôn có lớp bảo vệ.</para>
+          <para id="id6606071">- Xảy ra trong môi trường có ô xy, trong phạm vi cho phép của tải trọng và vận tốc.</para>
+          <para id="id6463698">- Xảy ra ở ma sát khô, ma sát tới hạn. Vì ma sát ướt đã có màng dầu.</para>
+          <para id="id6606077"/>
+          <para id="id6463711"/>
+          <para id="id6463717"/>
+          <para id="id6663286"/>
+          <para id="id6663293"/>
+          <para id="id6663300">Bảng 1.2. Đặc tính bề mặt khi hao mòn ô xy hóa</para>
+          <table id="id7032921" summary="">
+            <tgroup cols="2">
+              <colspec colnum="1" colname="c1"/>
+              <colspec colnum="2" colname="c2"/>
+              <tbody>
+                <row>
+                  <entry>Hao mòn ô xy hoá loại 1Dung dịch rắnKim loại gốc+ Độ bóng:  10  14+ Nhiệt độ bề mặt: &lt; 1000C+ Chiều sâu phá hoại:  = 100 300A0+ Tốc độ phá hoại: 0,01m/h</entry>
+                  <entry>Hao mòn ô xy hoá loại 2ô xýtKim loại gốc 9  13&lt; 2000C = 1000A00,05m/h</entry>
+                </row>
+              </tbody>
+            </tgroup>
+          </table>
+        </section>
+        <section id="id-244671379077">
+          <title>Tróc loại 1</title>
+          <para id="id6284296">Khái niệm: là một dạng hư hỏng bề mặt, thể hiện ở sự hình thành và bong tách các mối liên kết cục bộ giữa hai bề mặt ma sát do biến dạng dẻo vì lực (không nhiệt).</para>
+          <para id="id5937645">Nguyên nhân: do ảnh hưởng của tải trọng lớn (áp suất tiếp xúc cục bộ cao) mà hai bề mặt bị biến dạng dẻo mạnh, bề mặt dính sát nhau ở khoảng cách ô tinh thể, nguyên tử bề mặt này khuyếch tán sang bề mặt khác và hình thành liên kết.</para>
+          <para id="id5937656">* F1 &lt; Flk &lt; F2  tróc và đắp vào</para>
+          <para id="id6804311">* Flk &gt; F1,F2  tróc rời tạo thành hạt mài</para>
+          <para id="id6672903">* Flk &lt; F1,F2  không tróc </para>
+          <para id="id6663823">Điều kiện hình thành:</para>
+          <table id="id6663828" summary="">
+            <tgroup cols="2">
+              <colspec colnum="1" colname="c1"/>
+              <colspec colnum="2" colname="c2"/>
+              <tbody>
+                <row>
+                  <entry>- Tốc độ tróc là lớn nhất.- Ma sát khô và giữa hai bề mặt không có lớp trung gian ngăn cách.- Vận tốc trượt nhỏ (v &lt; 0,1m/s) kịp cho các nguyên tử khuyếch tán.</entry>
+                  <entry><media id="id5095029" alt=""><image src="graphics14.wmf" mime-type="image/wmf"/></media>Hình1.9. Đặc tính bề mặt tróc loại 1</entry>
+                </row>
+              </tbody>
+            </tgroup>
+          </table>
+          <para id="id6819765">- Áp suất tiếp xúc p &gt; [p], ứng với giới hạn chảy của vật liệu.</para>
+          <para id="id6819774">Tróc loại 1 rất nhạy cảm với hai bề mặt có cùng loại vật liệu. Tróc loại 1 chịu ảnh hưởng lớn của độ cứng bề mặt, độ cứng bề mặt tăng sẽ giảm tróc loại 1.</para>
+          <para id="id6917644">Đặc tính bề mặt: hình 1.9</para>
+          <para id="id6819780">+ Chiều sâu phá hoại:  = 0,5mm.</para>
+          <para id="id6917664">+ Nhiệt độ bề mặt: &lt;500C</para>
+          <para id="id6289637">+ Độ bóng bề mặt: 3  4</para>
+          <para id="id6672585">+ Tốc độ phá hoại: 10 15m/h.</para>
+        </section>
+        <section id="id-397102520375">
+          <title>Tróc loại 2</title>
+          <para id="id6672612">Khái niệm: là dạng phá hoại do biến dạng vì nhiệt, làm mềm nhũn bề mặt khi nhiệt độ tăng do vận tốc trượt tăng.</para>
+          <para id="id6751798">Nguyên nhân: do ảnh hưởng vận tốc trượt làm cho nhiệt độ các bề mặt tăng cao, xảy ra sự dính kết giữa hai chi tiết ma sát và sự phá huỷ bề mặt hoặc bề mặt bị biến dạng như lún, nứt...</para>
+          <para id="id6751816">Điều kiện hình thành: </para>
+          <para id="id7043497">- Vận tốc trượt lớn. 25 ÷30m/s.</para>
+          <para id="id7043504">- Nếu vận tốc trượt lớn, tải lớn thì tróc loại 2 càng mãnh liệt.</para>
+          <para id="id7043512">- Nhạy cảm với chi tiết có nhiệt độ nóng chảy thấp.</para>
+          <table id="id7043520" summary="">
+            <tgroup cols="2">
+              <colspec colnum="1" colname="c1"/>
+              <colspec colnum="2" colname="c2"/>
+              <tbody>
+                <row>
+                  <entry>Biện pháp chống tróc loại 2: - Phủ lên bề mặt ma sát 1 lớp kim loại Bo, vanađi, có khả năng chịu nhiệt độ.- Dùng vật liệu chịu nhiệt.Đặc tính bề mặt:- Chiều sâu phá hoại: &lt; 0,1mm.- Nhiệt độ tiếp xúc: 15000C.- Tốc độ phá hoại: 1 5m/h.</entry>
+                  <entry><media id="id10797380" alt=""><image src=".png" mime-type="image/png"/></media>Kim loại gốcVùng chịu ảnh hưởng nhiệt độHình1.10. Đặc tính bề mặt tróc loại 2</entry>
+                </row>
+              </tbody>
+            </tgroup>
+          </table>
+        </section>
+        <section id="id-422186796412">
+          <title>Mài mòn</title>
+          <para id="id6435281">Khái niệm: là dạng phá hoại bề mặt chi tiết do tồn tại các hạt cứng giữa hai bề mặt ma sát từ ngoài vào hoặc từ chi tiết tróc ra. Dạng phá hoại: cào xước, cắt phoi tế vi.</para>
+          <para id="id5869434">Có hai dạng mài mòn: mài mòn cơ học hoặc mài mòn cơ hoá.</para>
+          <para id="id5869442">Điều kiện hình thành:</para>
+          <para id="id5869447">Vận tốc mài là lớn nhất so với các quá trình khác. Tuy nhiên, điều kiện này không chặt chẽ trong trường hợp có cả tróc.</para>
+          <para id="id6749500"><media id="id9938138" alt=""><image src="graphics15.wmf" mime-type="image/wmf" height="47" width="172"/></media> &lt; 0,6: mài mòn cơ hoá (biến dạng dẻo tăng, không cắt phoi)</para>
+          <para id="id6595581"> 0,6: mài mòn cơ học (cắt phoi tế vi)</para>
+          <para id="id6595597">Nếu bề mặt chi tiết tiếp xúc với khối lượng lớn hạt mài thì xảy ra mài mòn cơ hoá, vì khi đó các hạt mài trượt lên nhau và trượt đi mà không có lực cắt.</para>
+          <para id="id6432794"/>
+          <para id="id6432800">Bảng 1.3. Đặc tính bề mặt khi mài mòn.</para>
+          <table id="id6432811" summary="">
+            <tgroup cols="2">
+              <colspec colnum="1" colname="c1"/>
+              <colspec colnum="2" colname="c2"/>
+              <tbody>
+                <row>
+                  <entry>Mài mòn cơ học<media id="id11543668" alt=""><image src="graphics16.wmf" mime-type="image/wmf"/></media>+ Độ bóng:  510+ Nhiệt độ bề mặt: 50 0C+ Chiều sâu phá hoại:  = 0,2mm+ Tốc độ phá hoại: 0,5÷50m/h</entry>
+                  <entry>Mài mòn cơ hoá<media id="id5025986" alt=""><image src="graphics17.wmf" mime-type="image/wmf"/></media> 71250 0C2000A0 0,5 m/h</entry>
+                </row>
+              </tbody>
+            </tgroup>
+          </table>
+        </section>
+        <section id="id-824524064938">
+          <title>Mỏi</title>
+          <para id="id6242314">Do thay đổi tải trọng tuần hoàn trên các chi tiết, sinh ra các vết nứt tế vi. Các vết nứt này được phát triển từ bề mặt chi tiết vào kim loại gốc dẫn đến gãy do mỏi. Chi tiết điển hình là trục khuỷu.</para>
+          <para id="id5869533">Ví dụ: trục khuỷu động cơ D6-3D12 gãy 40 ÷ 50%. Kết cấu trùng điệp bằng không.</para>
+          <para id="id5869542">Nguyên nhân: trong quá trình sửa chữa không chú ý đến kết cấu tránh ứng suất tập trung: góc lượn, hoặc trong lắp ghép do sai lệch tâm các ổ trục, tạo tải trọng làm hỏng trục bạc.</para>
+          <para id="id6283727">Biện pháp chống mỏi: tăng chất lượng bề mặt, mài hết các vết nứt, tránh tập trung ứng suất, bảo đảm đồng tâm lắp ráp, chống tải phụ, hạn chế tải trọng lớn đột ngột.</para>
+        </section>
+        <section id="id-739657896174">
+          <title>Xâm thực</title>
+          <para id="id6283742">Hiện tượng rỗ, hà, sâu, sắc cạnh ở phương pháp tuyến, thường phát triển ở vùng bề mặt sạch do tác dụng của dòng chảy tại khu vực áp suất nhỏ hơn áp suất bay hơi bão hòa. Các vị trí thường gặp: trên bề mặt cánh bơm và vỏ bơm tại cửa ra, bề mặt ngoài của lót xi lanh...</para>
+          <para id="id6283749">Biện pháp chống xâm thực: mạ lớp kim loại cứng trên bề mặt. </para>
+        </section>
+      </section>
+      <section id="id-116434839886">
+        <title>Luận đề cơ bản của lý thuyết hao mòn</title>
+        <section id="id-154818569748">
+          <title>Luận đề 1</title>
+          <para id="id6688202">Cơ sở: hao mòn do nhiều quá trình khác nhau gây ra, ký hiệu là P1,2..., tương ứng tốc độ quá trình v1,2..., </para>
+          <para id="id6688227">Trong bất kỳ điều kiện ma sát nào cũng diễn ra quá trình với tốc độ lớn nhất vP.</para>
+          <para id="id5686673">Phát biểu luận đề: “Dạng hao mòn được quyết định bởi quá trình P, diễn ra trên bề mặt ma sát với tốc độ lớn nhất vP”.</para>
+          <para id="id6287367">Hệ quả: khi sự hao mòn là ổn định, tốc độ phá hoại các bề mặt làm việc (tốc độ hao mòn) không thể lớn hơn tốc độ của quá trình quyết định dạng hao mòn. Tức là: </para>
+          <para id="id6287385">vph &lt; vp</para>
+          <para id="id6663527">Ý nghĩa:</para>
+          <para id="id6663536">- Cơ sở xác định dạng hao mòn.</para>
+          <para id="id6663552">- Cơ sở để điều khiển quá trình hao mòn.</para>
+          <para id="id6587143">- Tránh hư hỏng, điều khiển chỉ tồn tại hao mòn ô xi hoá (dạng hao mòn có tốc độ nhỏ nhất)</para>
+          <para id="id6663558">Điều kiện: vox &gt;vph (vox = vp)</para>
+        </section>
+        <section id="id-274399286577">
+          <title>Luận đề 2</title>
+          <para id="id7007058">Cơ sở: những điều kiện của luận đề 1 mới chỉ giải quyết các vấn đề điều khiển quá trình hao mòn, nhưng không cho phép khắc phục hao mòn hư hỏng, vì vẫn còn tồn tại hao mòn ô xi hoá. Vấn đề là làm sao giảm hao mòn ô xi hoá.</para>
+          <para id="id5686832">Nội dung luận đề: "Tính chống mòn khi hao mòn ô xi hoá được quyết định bởi cường độ hình thành và tính chất các cấu trúc thứ cấp xuất hiện trong quá trình ma sát." Ở đây có thể hiểu: cấu trúc thứ cấp không chỉ là các lớp màng hình thành do kết quả tương tác giữa kim loại với ô xi mà còn là các lớp màng bảo vệ có thành phần, cấu trúc và tính chất khác ngăn bề mặt kim loại tiếp xúc với ô xi.</para>
+          <para id="id5686850">Ý nghĩa: làm cơ sở để phân tích đánh giá, nghiên cứu tính chất lớp cấu trúc thứ cấp  quyết định mức độ hao mòn ô xi hoá. </para>
+          <para id="id6917335">Điều kiện: vox  min</para>
+        </section>
+      </section>
+      <section id="id-83493298301">
+        <title>Biện pháp khắc phục hao mòn hư hỏng</title>
+        <section id="id-780467302864">
+          <title>Biện pháp thiết kế:</title>
+          <para id="id6712982">Chọn loại ma sát lăn hoặc trượt:</para>
+          <para id="id6712989">+ Ma sát lăn: chịu tải có giới hạn, khó đảm bảo đồng tâm, dễ rơ, nhưng vận tốc trượt nhỏ, hệ số<media id="id11642758" alt=""><image src="graphics18.wmf" mime-type="image/wmf" height="18" width="17"/></media> nhỏ, trục ngắn.</para>
+          <para id="id6739270">+ Ma sát trượt: <media id="id4573444" alt=""><image src="graphics19.wmf" mime-type="image/wmf" height="18" width="17"/></media> lớn, trục dài, nhưng đồng tâm tốt, khó rơ, vận tốc trượt lớn.</para>
+          <para id="id6435382">Chọn hình dạng và kích thước của chi tiết:</para>
+          <para id="id6606315">Hình dạng và kích thước của chi tiết có ảnh hưởng đến áp lực riêng, độ bền vững, độ chịu mòn, chịu mỏi... Bởi vậy, khi thiết kế phải tăng cường hoàn thiện kết cấu, kích thước, hình dáng hình học của chi tiết, khe hở ban đầu, (piston hình ô van, séc măng không đẳng áp...).</para>
+          <para id="id6606331">Để đảm bảo chống hao mòn thì phải dựa vào điều kiện: áp suất bề mặt tiếp xúc nhỏ hơn giới hạn cho phép.</para>
+          <para id="id6606339">p = <figure id="id5875581"><media id="id11496407" alt=""><image src="graphics20.wmf" mime-type="image/wmf" height="47" width="29"/></media></figure> &lt; [p]</para>
+          <para id="id5875607">p- áp suất bề mặt tiếp xúc.</para>
+          <para id="id5950586">P­-tải trong pháp tuyến trên bề mặt tiếp xúc</para>
+          <para id="id5950594">Stx-diện tích bề mặt tiếp xúc</para>
+          <para id="id5950608">Đối với trục khuỷu động cơ, xu hướng là tăng đường kính trục d để trục ngắn lại, tránh uốn, võng, động cơ gọn.</para>
+          <para id="id5950616">Giảm tỷ số S/D để tăng số vòng quay trục khuỷu mà không tăng vận tốc trượt của piston,</para>
+          <para id="id7032991">Giảm chiều cao tăng chiều dày để tăng lực bung cho séc măng.</para>
+          <para id="id7032999">Thiết kế kết cấu, phương án làm mát tốt:</para>
+          <para id="id7033006">+ Phân bố trường nhiệt độ hợp lý (piston).</para>
+          <para id="id7033014">+ Phân bố đường nước làm mát hợp lý đến từng xi lanh.</para>
+          <para id="id6663248">Đối lưu tự nhiên có két: dùng cánh ngăn gió tạo chênh lệch nhiệt độ (có quạt, không có bơm).</para>
+          <para id="id6663256">Cưỡng bức hở 500C: tổn hao nhiệt tăng, chất ăn mòn, tạp chất dễ ngưng tụ, dẫn đến hao mòn nhiều.</para>
+          <para id="id6663271">Cưỡng bức kín: ổn định nhiệt.</para>
+          <para id="id6669228">Làm mát bằng gió: </para>
+          <para id="id6669234">+ Làm sạch bề mặt tản nhiệt. (xe máy)</para>
+          <para id="id6669241">+ Làm kín quạt gió để tăng lượng gió.</para>
+          <para id="id6669248">Chọn kết cấu lọc:</para>
+          <para id="id6669255">+ Không khí: lọc khô, ướt.</para>
+          <para id="id6463457">+ Bôi trơn: thô, tinh, ly tâm.</para>
+          <para id="id6463464">+ Nhiên liệu: </para>
+          <para id="id6463470">Động cơ Diesel yêu cầu lọc rất khắt khe để đảm bảo làm việc cho bộ đôi.</para>
+          <para id="id6463478">Đối với động cơ xăng: hao mòn ziclơ do bảo dưỡng không đúng kỹ thuật. Lọc nhiên liệu không cho phép có van an toàn.</para>
+          <para id="id6463486">Chọn phương án bôi trơn hợp lý.</para>
+          <para id="id6586992">Sử dụng lựa chọn vật liệu hợp lý.</para>
+        </section>
+        <section id="id-755175138476">
+          <title>Biện pháp công nghệ:</title>
+          <para id="id6587007">Chất lượng gia công chi tiết ảnh hưởng rất lớn đến hao mòn hư hỏng của chi tiết, mạ hoặc tôi cứng bề mặt làm việc của chi tiết kết hợp với ổ đỡ phù hợp để chống mòn:</para>
+          <para id="id6587021">Tăng bền bề mặt:</para>
+          <para id="id6663316">+ Biến cứng nguội: phun bi, lăn, ép...</para>
+          <para id="id6663323">+ Nhiệt luyện: tôi, ram, nhiệt hoá, thấm C, N, kim loại</para>
+          <para id="id6663331">+ Mạ phủ (không dùng với chi tiết chịu tải trọng động)</para>
+          <para id="id6663339">Bảo vệ bề mặt: </para>
+          <para id="id6987959">Mạ phủ bề mặt để trách ô xy hoá, tráng thiếc, chất dẻo.</para>
+          <para id="id6987968">Nâng cao chất lượng gia công:</para>
+          <para id="id6987978">+ Độ bóng gia công gần bằng độ bóng làm việc.</para>
+          <para id="id6987985">+ Độ chính xác côn, ô van.</para>
+          <para id="id6829269">+ Làm cùn các cạnh sắc (trừ một số trường hợp như bộ đôi bơm cao áp).</para>
+        </section>
+        <section id="id-647758903008">
+          <title>Chế độ sử dụng:</title>
+          <para id="id6829286">- Chế độ làm việc: phải căn cứ vào điều kiện đảm bảo ma sát bình thường: p&lt;pth, v&lt;vth. (tránh quá tải và vượt tốc).</para>
+          <para id="id6134470">- Trình độ và thói quen của người điều khiển xe.</para>
+          <para id="id6134478">- Chăm sóc bảo dưỡng kỹ thuật kịp thời: hằng ngày định kỳ đúng lúc. Nếu dùng quá thời hạn qui định sẽ gây phá hoại, hư hỏng mãnh liệt. Không cho phép chạy cố khi chi tiết đã đạt đến kích thước giới hạn.</para>
+          <para id="id6134492">- Sử dụng nguyên vật liệu.</para>
+          <para id="id6450277">+ Động cơ xăng yêu cầu dùng xăng đúng chủng loại.</para>
+          <para id="id6450285">+ Dầu bôi trơn phải đảm bảo chất lượng.</para>
+          <para id="id6450292">+ Sử dụng dung dịch làm mát thích hợp. (xe TOYOTA dùng dung dịch làm mát màu đỏ, chống đóng cặn, chống đông).</para>
+        </section>
+      </section>
+    </section>
+  </content>
+</document>

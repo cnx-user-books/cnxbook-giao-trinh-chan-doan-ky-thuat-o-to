@@ -1,0 +1,1922 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:m="http://www.w3.org/1998/Math/MathML" xmlns:md="http://cnx.rice.edu/mdml">
+  <title>Chẩn đoán các hệ thống ô tô</title>
+  <metadata>
+  <md:content-id>m30299</md:content-id><md:title>Chẩn đoán các hệ thống ô tô</md:title>
+  <md:abstract>Chuẩn đoán các hệ thống ô tô</md:abstract>
+  <md:uuid>becf8b49-dcb6-4ccb-abf8-becf261a4437</md:uuid>
+</metadata>
+
+<content>
+    <para id="id3374356">Nội dung:</para>
+    <section id="id-161364006515">
+      <title>CHẨN ĐOÁN HỆ THỐNG TRUYỀN LỰC</title>
+      <section id="id-746161492687">
+        <title>Chẩn đoán ly hợp</title>
+        <section id="id-739053528693">
+          <title>Nhiệm vụ và điều kiện làm việc của li hợp</title>
+          <para id="id3374386">Ly hợp có nhiệm vụ như là một khớp nối, đóng nhả thường xuyên khi thay đổi số truyền. Do cần phải đóng từ từ, êm dịu, vì vậy dẫn đến hiện tượng mòn gây trượt li hợp. Không được phép bôi trơn bề mặt ma sát. Ly hợp gồm các phần chính sau:</para>
+          <para id="id3374403">Cơ cấu dẫn động ly hợp, bộ phận trợ lực.</para>
+          <para id="id3374409">Đĩa ép.</para>
+          <para id="id5930408">Đĩa ma sát</para>
+          <para id="id5930412">Các lò xo</para>
+          <para id="id5930417">Sơ đồ dẫn động ly hợp:</para>
+          <para id="id5930422"><figure id="id5930430"><media id="id22886486" alt=""><image src="../../media/graphics1-c1bd.png" mime-type="image/png" height="317" width="643"/></media></figure>Hình 10.1 Sơ đồ ly hợp loại một đĩa và hai đĩa1-trục khuỷu; 2-bánh đà; 3-đĩa bị động; 4-đĩa ép; 5-cácte ly hợp; 6-chụp bánh trớn; 7-bulông ép; 8-gối đỡ cần ép; 9-cần ép; 10-vòng nhả li hợp; 11-trục ly hợp; 12-bàn đạp; 13-thanh kéo; 14-đòn bẩy; 15-lò xo hồi vị; 16-lò xo ép; 17,23-chốt dẫn hướng; 18-gối đỡ; 19-lò xo ép tách đĩa trung gian; 20-bu lông điều chỉnh đĩa ép trung gian; 21-đĩa chủ động; 22-đĩa bị động sau; 24-đĩa trung gian; ,25-đĩa bị động trước.</para>
+        </section>
+        <section id="id-97098729008">
+          <title>Các hỏng hóc thường gặp và phương pháp xác định của li hợp</title>
+          <para id="id5930489">a. Ly hợp bị trượt: biểu hiện khi tăng ga, tốc độ xe không tăng theo tương ứng.</para>
+          <table id="id5930502" summary="">
+            <tgroup cols="2">
+              <colspec colnum="1" colname="c1"/>
+              <colspec colnum="2" colname="c2"/>
+              <tbody>
+                <row>
+                  <entry>Đĩa ma sát và đĩa ép bị mòn nhiều, lò xo ép bị gãy hoặc yếu.Đĩa ma sát bị dính dầu hoặc bị chai cứng.Bàn đạp ly hợp không có hành trình tự do, thể hiện xe kéo tải kém, ly hợp bị nóng.Hình10.2. Ly hợp một đĩa GAZ-53A1-vỏ bao bánh đà, 2-vỏ bộ ly hợp, 3-lò xo bên ngoài, 4-bánh đà, 5-trục dẫn động hợp số, 6-lò xo chống rung, 7-đĩa bị dẫn, 8-cần ngắt ly hợp, 9-đĩa ép, 10-đĩa chống rung có bộ phận hắt dầu, 11-khớp ngắt ly hợp</entry>
+                  <entry>
+                    <media id="id12806889" alt=""><image src="../../media/graphics2-5341.jpg" mime-type="image/jpeg"/></media>
+                  </entry>
+                </row>
+              </tbody>
+            </tgroup>
+          </table>
+          <table id="id5930600" summary="">
+            <tgroup cols="2">
+              <colspec colnum="1" colname="c1"/>
+              <colspec colnum="2" colname="c2"/>
+              <tbody>
+                <row>
+                  <entry>
+                    <media id="id8769056" alt=""><image src="graphics3.wmf" mime-type="image/wmf"/></media>
+                  </entry>
+                  <entry>
+                    <media id="id7139725" alt=""><image src="graphics4.wmf" mime-type="image/wmf"/></media>
+                  </entry>
+                </row>
+                <row>
+                  <entry>Hình 10.3 Sơ đồ li hợp dẫn động cơ khí </entry>
+                  <entry>Hình 10.4. Sơ đồ li hợp dẫn động thuỷ lực </entry>
+                </row>
+              </tbody>
+            </tgroup>
+          </table>
+          <para id="id5930716">Các phương pháp xác định trạng thái trượt:</para>
+          <para id="id5930722">a.1. Gài số cao, đóng ly hợp</para>
+          <para id="id5930728">Chọn một đoạn đường bằng, cho xe đứng yên tại chỗ, nổ máy, gài số tiến ở số cao nhất (số 4 hay số 5), đạp và giữ phanh chân, cho động cơ hoạt động ở chế độ tải lớn bằng tay ga, từ từ nhả bàn đạp ly hợp. Nếu động cơ bị chết máy chứng tỏ ly hợp làm việc tốt, nếu động cơ không tắt máy chứng tỏ ly hợp đã trượt lớn.</para>
+          <para id="id5930744">a.2. Giữ trên dốc</para>
+          <para id="id5930750">Chọn đoạn đường phẳng và tốt có độ dốc (8-10) độ. Xe đứng bằng phanh trên mặt dốc, đầu xe theo chiều xuống dốc, tắt động cơ, tay số để ở số thấp nhất, từ từ nhả bàn đạp phanh, bánh xe không bị lăn xuống dốc chứng tỏ ly hợp tốt, còn nếu bánh xe lăn chứng tỏ ly hợp trượt.</para>
+          <para id="id5930765">a.3. Đẩy xe</para>
+          <para id="id5930770">Chọn một đoạn đường bằng, cho xe đứng yên tại chỗ, không nổ máy, gài số tiến ở số thấp nhất (số 1), đẩy xe. Xe không chuyển động chứng tỏ ly hợp tốt, nếu xe chuyển động chứng tỏ ly hợp bị trượt. Phương pháp này chỉ dùng cho ô tô con, với lực đẩy của 3 đến 4 người.</para>
+          <para id="id5930786">a.4. Xác định ly hợp bị trượt qua mùi khét</para>
+          <para id="id5930793">Xác định ly hợp bị trượt qua mùi khét đặc trưng khi ô tô thường xuyên làm việc ở chế độ đầy tải. Cảm nhận mùi khét chỉ khi ly hợp bị trượt nhiều, tức là ly hợp đã cần tiến hành thay đĩa bị động hay các thông số điều chỉnh đã bị thay đổi.</para>
+          <para id="id5930798">b. Ly hợp ngắt không hoàn toàn: biểu hiện sang số khó, gây va đập ở hộp số.</para>
+          <para id="id3374858">Hành trình tự do bàn đạp ly hợp quá lớn.</para>
+          <para id="id3374864">Các đầu đòn mở không nằm trong cùng mặt phẳng do đĩa ma sát và đĩa ép bị vênh. Do khe hở đầu đòn mở lớn quá không mở được đĩa ép làm cho đĩa ép bị vênh.</para>
+          <para id="id3374876">Ổ bi T bị kẹt.</para>
+          <para id="id3374880">Ổ bi kim đòn mở rơ.</para>
+          <para id="id3374885">Đối với ly hợp hai đĩa ma sát, các cơ cấu hay lò xo vít định vị đĩa chủ động trung gian bị sai lệch.</para>
+          <para id="id3374891">Các phương pháp xác định trạng thái ngắt không hoàn toàn:</para>
+          <para id="id3374898">b.1. Gài số thấp, mở ly hợp</para>
+          <para id="id3374904">Ô tô đứng trên mặt đường phẳng, tốt, nổ máy, đạp bàn đạp ly hợp hết hành trình và giữ nguyên vị trí, gài số thấp nhất, tăng ga. Nếu ô tô chuyển động chứng tỏ ly hợp ngắt không hoàn toàn, nếu ô tô vẫn đứng yên chứng tỏ ly hợp ngắt hoàn toàn.</para>
+          <para id="id3374921">b.2. Nghe tiếng va chạm đầu răng trong hộp số khi chuyển số</para>
+          <para id="id3374928">Ô tô chuyển động thực hiện chuyển số hay gài số. Nếu ly hợp ngắt không hoàn toàn, có thể không cài được số, hay có va chạm mạnh trong hộp số. Hiện tượng xuất hiện ở mọi trạng thái khi chuyển các số khác nhau.</para>
+          <para id="id3374938">c. Ly hợp đóng đột ngột:</para>
+          <para id="id3374944">Đĩa ma sát mất tính đàn hồi, lò xo giảm chấn bị liệt.</para>
+          <para id="id3374949">Do lái xe thả nhanh bàn đạp.</para>
+          <para id="id3374955">Then hoa may ơ đĩa ly hợp bị mòn.</para>
+          <para id="id3374960">Mối ghép đĩa ma sát với may ơ bị lỏng.</para>
+          <para id="id3374966">d. Ly hợp phát ra tiếng kêu:</para>
+          <para id="id3374972">Nếu có tiếng gõ lớn: rơ lỏng bánh đà, bàn ép, hỏng bi đầu trục.</para>
+          <para id="id3374980">Khi thay đổi đột ngột vòng quay động cơ có tiếng va kim loại chứng tỏ khe hở bên then hoa quá lớn (then hoa bị rơ)</para>
+          <para id="id3374989">Nếu có tiếng trượt mạnh theo chu kỳ: đĩa bị động bị cong vênh.</para>
+          <para id="id3374996">Ở trạng thái làm việc ổn định (ly hợp đóng hoàn toàn) có tiếng va nhẹ chứng tỏ bị va nhẹ của đầu đòn mở với bạc, bi T .</para>
+          <para id="id3375003">e. Li hợp mở nặng:</para>
+          <para id="id3375008">Trợ lực không làm việc, do không có khí nén hoặc khí nén bị rò rỉ ở xi lanh trợ lực hay van điều khiển.</para>
+        </section>
+        <section id="id-124340794245">
+          <title>Cách điều chỉnh</title>
+          <para id="id3375028">Kiểm tra và điều chỉnh hành trình tự do của bàn đạp li hợp</para>
+          <para id="id3375035">Hành trình tự do của bàn đạp ly hợp gián tiếp ảnh hưởng đến khe hở giữa đầu đòn mở với ổ bi tê (bạc mở ly hợp), trực tiếp ảnh hưởng đến sự trượt và mở không dứt khoát của ly hợp. Kiểm tra hành trình tự do của bàn đạp ly hợp bằng thước đo đặt vuông góc với sàn xe và song song với trục bàn đạp ly hợp. Dùng tay ấn bàn đạp xuống đến khi cảm thấy nặng thì dừng lại, đọc trị số dịch chuyển của bàn đạp trên thước. So sánh giá trị đo được với giá trị hành trình tự do tiêu chuẩn nếu không đúng ta phải tiến hành điều chỉnh.</para>
+          <para id="id3375064">Nguyên tắc của điều chỉnh là: làm thay đổi chiều dài đòn dẫn động để thay đổi khe hở giữa bi tê (bạc mở) với đầu đòn mở (đảm bảo khoảng 3÷ 4mm)</para>
+          <para id="id3375077">Hành trình tự do của loại dẫn động cơ khí lớn hơn loại dẫn động bằng thuỷ lực, hành trình tự do của bàn đạp ly hợp một số loại xe thông dụng được cho trong bảng dưới đây:</para>
+          <table id="id3375090" summary="">
+            <tgroup cols="2">
+              <colspec colnum="1" colname="c1"/>
+              <colspec colnum="2" colname="c2"/>
+              <tbody>
+                <row>
+                  <entry>Loại ô tô</entry>
+                  <entry>Hành trình tự do của bàn đạp ly hợp (mm)</entry>
+                </row>
+                <row>
+                  <entry>UAZZIL 130, 131GAZ 66IFA-W50LKAZAZTOYOTA CARINA, CORONA, COROLLA (các xe dẫn động thuỷ lực của Nhật)</entry>
+                  <entry>28 ÷ 3835÷5030÷3730÷356÷125÷15</entry>
+                </row>
+              </tbody>
+            </tgroup>
+          </table>
+          <para id="id3375201"><figure id="id3375208"><media id="id7969639" alt=""><image src="../../media/graphics5-0995.jpg" mime-type="image/jpeg" height="543" width="520"/></media></figure>Hình 10. 5. Kiểm tra và điều chỉnh hành trình tự do của bàn đạp li hợpa) Kiểm tra hành trình tự do.b) Điều chỉnh hành trình tự do đối với loại dẫn động cơ khí.c) Điều chỉnh hành trình tự do đối với loại dẫn động thuỷ lực.1-bàn đạp ly hợp. 2-đòn dẫn động. 3-lò xo hồi vị. 4-dẫn động đến càng cua mở ly hợp. 5- đai ốc (ống ren) điều chỉnh để thay đổi chiều dài đòn dẫn động. 6-càng cua mở ly hợp. 7-bi tê (bạc mở ly hợp). 8-đai ốc hãm. 9-khung xe. 10-đòn mở li hợp.</para>
+          <para id="id6894550">Hình 10.5 b và hình 10.5 c trình bày cách điều chỉnh hành trình tự do bằng cách vặn đai ốc điều chỉnh hoặc ống ren 5. Ở các cấp bảo dưỡng cao người ta còn điều chỉnh độ đồng phẳng của các đầu đòn mở (độ không đồng phẳng bằng 0,1 mm) hoặc điều chỉnh bu lông hạn chế sự dịch chuyển của đĩa ép trung gian về phía đĩa ép chính (loại hai đĩa ma sát)...</para>
+          <para id="id6894567">Chẩn đoán hộp số</para>
+        </section>
+        <section id="id-229474433898">
+          <title>Nhiệm vụ và cấu tạo chung hộp số</title>
+          <para id="id6894581">Thay đổi tỷ số truyền và mô men xoắn từ động cơ xuống bánh xe của ô tô phù hợp với sức cản chuyển động của ô tô. Cần phải thay đổi số khi tải thay đổi. Thay đổi chiều chuyển động của ô tô. Dẫn động các bộ phận công tác khác đối với xe chuyên dùng.</para>
+          <para id="id6894600">Hộp số bao gồm những cụm chi tiết chính:</para>
+          <para id="id6894606">Các bánh răng</para>
+          <para id="id6894611">Cơ cấu gài số</para>
+          <para id="id6894616">Bộ đồng tốc</para>
+          <para id="id6894621">Trục hộp số</para>
+          <para id="id6894626">Vỏ và nắp hộp số, các ổ bi.</para>
+          <para id="id6894631"><figure id="id6894638"><media id="id21743772" alt=""><image src="../../media/graphics6-4cc0.jpg" mime-type="image/jpeg" height="414" width="440"/></media></figure>Hình 10.6. Hộp số Zil 1301-khớp nhả ly hợp. 2-trục dẫn động. 3-nắp vòng bi trục dẫn động. 4-hộp ly hợp. 5-bộ đồng tốc của số truyền IV và V. 6-nắp trên của hộp số. 7-lò xo với bi định vị. 8-bánh răng của số truyền V trục bị dẫn. 10-bộ đồng tốc của số truyền II và III. 11-bánh răng của số truyền II trục bị dẫn. 12-bánh răng của số truyền I và số lùi trục bị dẫn. 13-vỏ hộp số. 14-nắp vòng bi trục bị dẫn. 15-mặt bích để bắt chặt trục các đăng. 16-trục bị dẫn. 17-nắp vòng bi của trục trung gian. 18-trục trung gian.19-bánh răng của số truyền II trục trung gian, 20-bộ gom của bơm dầu nhờn. 21-bánh răng của số truyền III trục trung gian. 22-bánh răng của số truyền V trục trung gian. 23-bánh răng dẫn động trích công suất. 24-bánh răng chống rung. 25-bơm dầu nhờn. 26-trục của khối bánh răng số lùi. 27-khối bánh răng số lùi.</para>
+        </section>
+        <section id="id-246706787638">
+          <title>Các hư hỏng của hộp số</title>
+          <para id="id6894715">a. Sang số khó, vào số nặng: thanh trượt cong, mòn, khớp cầu mòn, bộ đồng tốc mòn nhiều (rãnh côn ma sát bị mòn khuyết, hốc hãm bị mòn nhiều). Răng đồng tốc mòn, càng cua mòn, ổ bi trục sơ cấp mòn gây sà trục. Các khớp dẫn động trung gian cần số bị rơ, cong.</para>
+          <para id="id6894735">b. Tự động nhảy số: bi, hốc hãm mất tác dụng (do mòn nhiều), lò xo bị yếu hoặc gãy. Rơ dọc trục thứ cấp.</para>
+          <para id="id6894748">c. Có tiếng va đập mạnh: bánh răng bị mòn, ổ bị mòn, dầu bôi trơn thiếu, không đúng loại. Khi vào số có tiếng va đập do hốc hãm đồng tốc mòn quá giới hạn làm mất tác dụng của đồng tốc. Bạc bánh răng lồng không bị mòn gây tiếng rít.</para>
+          <para id="id6894768">d. Dầu bị rò rỉ: gioăng đệm các te hộp số bị liệt hỏng, các phớt chắn dầu bị mòn, hở.</para>
+        </section>
+        <section id="id-138319778913">
+          <title>Kiểm tra và bảo dưỡng</title>
+          <para id="id6894789">- Ta có thể dùng ống nghe (nghe tiếng gõ) để kiểm tra mòn bánh răng, ổ bi, dùng tay lắc để kiểm tra mòn then hoa hay lỏng các bu lông mối ghép lắp mặt bích các đăng.</para>
+          <para id="id6894802">- Kiểm tra mức dầu và thay dầu: mức dầu phải đảm bảo ngang lỗ đổ dầu, nếu ít sẽ không đảm bảo bôi trơn, làm tăng hao mòn chi tiết, nóng các chi tiết, nóng dầu, nếu nhiều quá dễ chảy dầu và sức cản thuỷ lực tăng.</para>
+          <para id="id6894817">Khi chạy xe đến số km qui định hoặc kiểm tra đột xuất thấy chất lượng dầu không đảm bảo ta phải tiến thay dầu bôi trơn:</para>
+          <para id="id6894828">Thay dầu bôi trơn theo các bước:</para>
+          <para id="id6894834">- Khi xe vừa hoạt động về (dầu hộp số đang nóng), nếu xe không hoạt động ta phải kích cầu chủ động, nổ máy, vào số để một lát cho dầu nóng sau đó tắt máy, xả hết dầu cũ trong hộp số ra khay đựng.</para>
+          <para id="id6894848">- Đổ dầu rửa hoặc dầu hoả vào hộp số.</para>
+          <para id="id6894856">- Nổ máy, cài số 1 cho hộp số làm việc vài phút để làm sạch cặn bẩn, dầu bẩn, keo cặn sau đó xả hết dầu rửa ra.</para>
+          <para id="id6894866">Có thể cho dầu loãng vào để rửa sạch dầu rửa, nổ máy cài số 1 vài phút, sau đó xả dầu loãng ra.</para>
+          <para id="id6894876">- Đổ dầu bôi trơn hộp số đúng mã hiệu, chủng loại đầy ngang lỗ dầu, hoặc đúng vạch qui định.</para>
+          <para id="id6894886">+ Đối với truyền động các đăng: ta bơm mở vào các ổ bi kim, ổ bi trung gian (nếu có), vào rãnh then hoa, siết chặt các mặt bích...</para>
+          <para id="id5952221">+ Ở bảo dưỡng các cấp cao người ta tháo rời hộp số để kiểm tra mòn, cong, gãy, rạn nứt...các chi tiết.</para>
+          <para id="id5952232">+ Với các hộp số, hộp phân phối thuỷ lực phải thay dầu truyền động đúng mã hiệu, chủng loại. </para>
+        </section>
+      </section>
+      <section id="id-0934901063883">
+        <title>Chẩn đoán trục các đăng</title>
+        <para id="id5952251">Sử dụng khi muốn truyền chuyển động giữa hai trục không nằm trên cùng đường thẳng.</para>
+        <para id="id5952261">Rung ở vùng tốc độ nào đó do mòn then hoa.</para>
+        <para id="id5952267">Kêu ở khớp các đăng do ổ bi kim bị mòn hoặc khô mỡ.</para>
+        <para id="id5952273">Kêu ở mối ghép bích ổ chạc chữ thập.</para>
+      </section>
+      <section id="id-46220546324">
+        <title>Chẩn đoán cầu chủ động </title>
+        <para id="id5952288">(Trọng tâm truyền lực chính)</para>
+        <section id="id-803099902928">
+          <title>Nhiệm vụ và cấu tạo truyền lực chính</title>
+          <para id="id5952303">Tăng mô men và biến chuyển động quay dọc của động cơ thành chuyển động quay ngang của hai bán trục.</para>
+          <para id="id5952311">Ồn do mòn bộ truyền, mòn ổ bi. Điều chỉnh khe hở bằng cách thay đổi các tấm đệm và siết căng các ổ bi côn.</para>
+          <para id="id5952319"> Moay ơ bánh xe đảo, do mòn rơ ổ của moay ơ.</para>
+          <table id="id5952327" summary="">
+            <tgroup cols="2">
+              <colspec colnum="1" colname="c1"/>
+              <colspec colnum="2" colname="c2"/>
+              <tbody>
+                <row>
+                  <entry>
+                    <media id="id16500204" alt=""><image src="graphics7.wmf" mime-type="image/wmf"/></media>
+                  </entry>
+                  <entry>
+                    <media id="id17540749" alt=""><image src="graphics8.wmf" mime-type="image/wmf"/></media>
+                  </entry>
+                </row>
+                <row>
+                  <entry>Hình 10.7 Truyền lực chính bánh răng nón</entry>
+                  <entry>Hình 10.8 Truyền lực chính bánh răng Hypôit</entry>
+                </row>
+              </tbody>
+            </tgroup>
+          </table>
+          <table id="id5952445" summary="">
+            <tgroup cols="2">
+              <colspec colnum="1" colname="c1"/>
+              <colspec colnum="2" colname="c2"/>
+              <tbody>
+                <row>
+                  <entry>
+                    <media id="id18833097" alt=""><image src="graphics9.wmf" mime-type="image/wmf"/></media>
+                  </entry>
+                  <entry>
+                    <media id="id20119132" alt=""><image src="graphics10.wmf" mime-type="image/wmf"/></media>
+                  </entry>
+                </row>
+                <row>
+                  <entry>Hình 10.9 Truyền lực chính kép kiểu tập trung</entry>
+                  <entry>Hình 10.10 Truyền lực chính kép kiểu phân tán</entry>
+                </row>
+              </tbody>
+            </tgroup>
+          </table>
+        </section>
+        <section id="id-382388685011">
+          <title>Chẩn đoán kỹ thuật truyền lực chính</title>
+          <para id="id5952573">Truyền lực chính làm việc ồn: khe hở ổ trục bánh răng côn chủ động (quả dứa) tăng. Độ rơ tổng cộng của truyền lực chính tăng, kiểm tra bằng cách kích bánh xe lên, kéo phanh tay lắc nếu dịch chuyển quá 45mm theo chu vi thì phải điều chỉnh khe hở ổ bi. </para>
+          <para id="id5952589">Thiếu dầu bôi trơn trong vỏ truyền lực chính. Sự ăn khớp của cặp bánh răng côn không đúng, điều chỉnh bằng cách dịch trục của các bánh răng theo sơ đồ.</para>
+          <para id="id5952601">Điều chỉnh ổ bi đỡ bộ vi sai sau đó điều chỉnh vết ăn khớp của bánh răng quả dứa và bánh răng vành chậu. Vết tiếp xúc liên quan đến áp suất tiếp xúc mặt răng, ảnh hưởng đến tải trọng tác dụng lên răng.</para>
+          <para id="id6708045"><figure id="id6708049"><media id="id7870621" alt=""><image src="../../media/graphics11-4203.jpg" mime-type="image/jpeg" height="857" width="688"/></media></figure>Điều chỉnh khe hở ổ bi bánh răng quả dứa (bánh răng chủ động). Điều chỉnh khe hở ổ bi moay ơ. Các khe hở này liên quan đến độ rơ tổng cộng của bánh xe.</para>
+          <para id="id6708080">Vãút tiãúp xuïc trãn baïnh ràng vaì hæåïng âiãöu chènh</para>
+          <para id="id6708115"><figure id="id6708145"><media id="id9412797" alt=""><image src="../../media/graphics12-6285.jpg" mime-type="image/jpeg" height="430" width="340"/></media></figure>Hình 10.11 Truyền lực chính kép ZIL-1301-Mặt bích bánh răng dẫn động. 2-Vòng chắn dầu. 3-Nắp. 4-Vòng đệm bánh răng dẫn động. 5-Đệm. 6-Vòng bi trước của trục bánh răng côn. 7-Ống lót của các te bộ truyền động chính. 8-Vòng điều chỉnh của vòng bi trục bánh răng côn dẫn động. 9-Vòng bi sau của bánh răng côn dẫn động. 10-Đệm điều chỉnh sự ăn khớp của các bánh răng côn. 11-Bánh răng côn dẫn động. 12-Bánh răng côn bị động. 13-Đệm điều chỉnh. 14, 29-Vòng bi trục bánh răng dẫn động hình trụ. 15,28-Nắp vòng bi. 16-Bánh răng dẫn động hình trụ. 17-các đăng bộ truyền động chính. 18-Nắp vòng bi bộ vi sai. 19-Đĩa tựa của bánh răng nửa trục. 20-Nắp bên phải hộp vi sai. 24-Vòng bi hộp vi sai. 25-đai ốc điều chỉnh vòng bi hộp vi sai. 26-Nửa trục. 27-Dầm cầu sau. 30-Túi dầu nhờn.</para>
+          <para id="id6708214"><figure id="id6708221"><media id="id4803150" alt=""><image src="../../media/graphics13-86a2.png" mime-type="image/png" height="368" width="691"/></media></figure>Hình 10.12. Cầu xe Kamaz</para>
+        </section>
+      </section>
+    </section>
+    <section id="id-992714055849">
+      <title>CHẨN ĐOÁN HỆ THỐNG LÁI </title>
+      <section id="id-581918995613">
+        <title>Nhiệm vụ và cấu tạo hệ thống lái</title>
+        <section id="id-0919892220558">
+          <title>Nhiệm vụ</title>
+          <para id="id6708281">Giữ xe chuyển động ổn định theo yêu cầu của người lái.</para>
+          <para id="id6708289">Nhờ hệ thống lái ô tô có thể:</para>
+          <para id="id6708296">- Quay vòng mà bánh xe ít bị trượt.</para>
+          <para id="id6708303">- Lực trên vành lái hợp lý và tạo cảm giác đánh lái phù hợp.</para>
+          <para id="id6708311">- Đảm bảo ô tô có khả năng tự trở về trạng thái chuyển động thẳng.</para>
+          <para id="id6708320">- Giảm các va đập từ mặt đường lên vành lái tạo điều kiện thuận lợi cho việc điều khiển chính xác hướng chuyển động.</para>
+        </section>
+        <section id="id-052725494873">
+          <title>Cấu tạo</title>
+          <para id="id6708339">Kết cấu của hệ thống lái rất đa dạng, các hư hỏng trong hệ thống lái tùy thuộc vào cấu trúc của nó và cách bố trí bánh xe dẫn hướng.</para>
+          <para id="id6708351">Cấu tạo chung hệ thống lái bao gồm: vô lăng, cơ cấu lái, bộ trợ lực lái, trụ quay đứng, hình thang lái.</para>
+          <para id="id6708361">Góc nghiêng ngang của trụ quay đứng  = 00 ÷ 160</para>
+          <para id="id6708383">Góc nghiêng dọc của trụ quay đứng  = -30 ÷ 100’</para>
+          <para id="id6708407">Góc doãng  = -50 ÷ 50</para>
+          <para id="id6656662">Độ chụm A-B  0 ÷ 6mm</para>
+          <para id="id6656680"><figure id="id6656687"><media id="id8259648" alt=""><image src="../../media/graphics14-aafd.jpg" mime-type="image/jpeg" height="247" width="648"/></media></figure>Hình 10.13. Góc đặt bánh xe</para>
+          <para id="id6656721">a. Phân loại hệ thống lái</para>
+          <para id="id6656726">Hệ thống lái cơ khí bao gồm: vành lái, các trục dẫn động cơ cấu lái, cơ cấu lái, đòn liên kết các bánh xe dẫn hướng, các khớp trụ hay cầu. Toàn bộ hệ thống là các cụm cơ khí.</para>
+          <para id="id6656738">Hệ thống lái cơ khí có trợ lực bằng thủy lực bao gồm: các cụm cơ khí của hệ thống lái cơ khí, hệ thống trợ lực bằng thủy lực. Hệ thống trợ lực bằng thủy lực được lắp ghép từ các bộ phận: bơm thủy lực, van phân phối điều khiển đóng mở đường dầu, xi lanh thủy lực, các khớp, các đòn liên kết với hệ thống lái cơ khí. Loại trợ lực này dùng phổ biến trên cả ô tô con và ô tô tải.</para>
+          <para id="id6656752">Hệ thống lái cơ khí có trợ lực khí nén bao gồm: các cụm cơ khí của hệ thống lái cơ khí, hệ thống trợ lực khí nén. Hệ thống trợ lực khí nén được lắp ghép từ các bộ phận: bơm khí nén, van phân phối điều khiển đóng mở đường khí nén, các khớp, các đòn liên kết với hệ thống lái cơ khí.</para>
+          <para id="id6656767">Ngoài ra trên hệ thống lái trợ lực còn có thêm các bộ phận điện, điện tử khác nhằm hoàn thiện khả năng điều khiển hướng chuyển động ô tô, một số ô tô còn có thêm giảm chấn cho hệ thống lái.</para>
+          <para id="id6656781"><figure id="id6656788"><media id="id18804784" alt=""><image src="../../media/graphics15-9429.jpg" mime-type="image/jpeg" height="223" width="573"/></media></figure>Hình 10.14. Cơ cấu kiểu trục vít-con lăn1- Cácte của cơ cấu; 2- trục của đòn quay đứng; 3- con lăn ba răng; 4- miếng lót; 5- trục vít; 6- nút; 7-vòng đệm chặn; 8- đai ốc mũ; 9- trục con lăn; 10-trục lái; 11-vít điều chỉnh; 12- chốt hãm; 13- vòng phớt; 14- đòn quay đứng; 15- đai ốc; 16- ống lót bằng đồng thanh.</para>
+          <para id="id6656837">b. Phân loại cơ cấu lái</para>
+          <para id="id6656842">Trục vít lõm (globoit) con lăn: trục vít là phần chủ động của cơ cấu lái, con lăn có thể có hai hoặc ba tầng răng ăn khớp với răng của trục vít và lăn tự do trên trục con lăn, trục con lăn đặt trên trục quay được gọi là trục bị động của cơ cấu lái.</para>
+          <para id="id6656862"><figure id="id6656890"><media id="id11915915" alt=""><image src="../../media/graphics16-4b0d.jpg" mime-type="image/jpeg" height="299" width="390"/></media></figure>Hình 10.15. Cơ cấu lái của xe MazTrục vít êcu bi thanh răng bánh răng: trục vít là phần chủ động của cơ cấu lái, liên kết với thanh răng nhờ các viên bi, các viên bi điền đầy trong các rãnh tạo nên bởi ren trục vít và rãnh thanh răng, thanh răng ăn khớp với một phần bánh răng, trục của bánh răng là trục bị động của cơ cấu lái. Khi trục vít quay thanh răng chuyển động tịnh tiến làm cho bánh răng và trục bị động quay.</para>
+          <para id="id6656937">Bánh răng thanh răng: bánh răng là phần chủ động, ăn khớp với thanh răng. Răng của bánh răng có thể là thẳng hay nghiêng. Thanh răng có thể là đòn ngang dẫn động lái. Như vậy thanh răng là phần bị động của cơ cấu lái. Loại cơ cấu lái này hay dùng trên ô tô con với hệ thống treo cầu trước là dạng độc lập. Khi hoạt động bánh răng quay, còn thanh răng chuyển động tịnh tiến.</para>
+          <para id="id6656957">c. Dẫn động lái</para>
+          <para id="id6656962">Dẫn động lái là phần liên kết từ cơ cấu tới các bánh xe dẫn hướng.</para>
+          <para id="id6656971">Trên hệ thống treo phụ thuộc thường dùng cơ cấu bốn khâu: dầm cầu, hai đòn bên và đòn ngang. Thường thấy kết cấu này trên ô tô tải, ô tô buýt và các loại ô tô con có khả năng cơ động cao.</para>
+          <para id="id6656984">Trên hệ thống treo độc lập là dẫn động nhiều khâu, kết cấu của nó rất đa dạng và phụ thuộc vào không gian bố trí. Dẫn động nhiều khâu thường gặp trên ô tô con.</para>
+          <para id="id6656995">Nhìn chung dẫn động lái bao gồm các đòn, khớp liên kết. Sự mài mòn các khâu khớp hay cong, biến dạng các thanh liên kết làm sai lệch quan hệ của dẫn động lái, tức là làm xấu khả năng điều khiển chính xác hướng chuyển động ô tô.</para>
+        </section>
+        <section id="id-54215842775">
+          <title>Một số tiêu chuẩn cơ bản trong kiểm tra hệ thống lái</title>
+          <para id="id6657021">a. Tiêu chuẩn châu Âu</para>
+          <para id="id6657026">Lực trên vành lái khi có hay không có trợ lực tối đa không vượt quá 600N. Ô tô có tải trọng đặt trên cầu dẫn hướng lớn hơn 3,5 tấn phải có trợ lực.</para>
+          <para id="id6657038">Độ rơ vành lái cho phép như sau:</para>
+          <para id="id6657044">Bảng. Độ rơ vành lái cho phép theo ECE 79-1988</para>
+          <table id="id6657050" summary="">
+            <tgroup cols="4">
+              <colspec colnum="1" colname="c1"/>
+              <colspec colnum="2" colname="c2"/>
+              <colspec colnum="3" colname="c3"/>
+              <colspec colnum="4" colname="c4"/>
+              <tbody>
+                <row>
+                  <entry>Vmax trên bảng tablo (km/h)</entry>
+                  <entry>&gt; 100</entry>
+                  <entry>25 ÷ 100</entry>
+                  <entry>&lt; 25</entry>
+                </row>
+                <row>
+                  <entry>Độ rơ vành lái cho phép (độ)</entry>
+                  <entry>18</entry>
+                  <entry>27</entry>
+                  <entry>36</entry>
+                </row>
+              </tbody>
+            </tgroup>
+          </table>
+          <para id="id6512386">b. Tiêu chuẩn Việt Nam</para>
+          <para id="id6512392">Bảng . Độ rơ vành lái cho phép theo 22-TCN 224</para>
+          <table id="id6512398" summary="">
+            <tgroup cols="4">
+              <colspec colnum="1" colname="c1"/>
+              <colspec colnum="2" colname="c2"/>
+              <colspec colnum="3" colname="c3"/>
+              <colspec colnum="4" colname="c4"/>
+              <tbody>
+                <row>
+                  <entry>Loại ô tô</entry>
+                  <entry>Ô tô conÔ tô khách &lt;=12 chỗÔ tô tải &lt;=1500 kG</entry>
+                  <entry>Ô tô khách&gt;12 chỗ</entry>
+                  <entry>Ô tô tải&gt;1500 kG</entry>
+                </row>
+                <row>
+                  <entry>Độ rơ vành lái cho phép (đô)</entry>
+                  <entry>10</entry>
+                  <entry/>
+                  <entry/>
+                </row>
+              </tbody>
+            </tgroup>
+          </table>
+        </section>
+      </section>
+      <section id="id-801924418771">
+        <title>Các hư hỏng thường gặp</title>
+        <section id="id-0855058799998">
+          <title>Cơ cấu lái</title>
+          <para id="id6512532">a. Mài mòn cơ cấu lái</para>
+          <para id="id6512538">Cơ cấu lái là một cụm đảm bảo tỷ số truyền lớn trong hệ thống lái. Thông thường tỷ số truyền ô tô con nằm trong khoảng 14÷23, ở ô tô tải và ô tô buýt khoảng 18÷32. Do vậy các vị trí làm việc của cơ cấu lái bị mài mòn rất nhanh, mặc dù trong chế tạo đã cố gắng sử dụng vật liệu có độ bền cao và có khả năng chịu mài mòn tốt. Cơ cấu lái thường có kết cấu cơ khí nên luôn luôn tồn tại khe hở ban đầu. Khi ô tô còn mới, khe hở ban đầu trong cơ cấu lái đã tạo nên góc rơ vành lái. Góc rơ này đã được tiêu chuẩn kỹ thuật hạn chế tới mức tối thiểu để đảm bảo khả năng nhanh chóng điều khiển xe chuyển hướng khi cần thiết, chúng ta thường dùng khái niệm “độ rơ vành lái”.</para>
+          <para id="id6512573">Sự mài mòn trong cơ cấu lái tham gia phần lớn vào việc tăng độ rơ vành lái. Việc tăng độ rơ vành lái làm cho độ nhạy của cơ cấu lái giảm, tạo nên sự va đập trong khi làm việc và làm mất khả năng điều khiển chính xác hướng chuyển động.</para>
+          <para id="id6512589">Sự mài mòn trong cơ cấu lái có thể chia thành các dạng chính sau:</para>
+          <para id="id6512597">Mài mòn theo quy luật thông thường, có nghĩa là khi chuyển động ô tô thường hoạt động theo hướng chuyển động thẳng, vì vậy sự mài mòn trong cơ cấu lái xảy ra nhiều nhất tại lân cận vị trí ăn khớp trung gian, sự mài mòn giảm dần ở các vùng biên. Do vậy để đánh giá sự mài mòn, chúng ta thường đặt vành lái tương ứng với chế độ ô tô đi thẳng và kiểm tra độ rơ vành lái.</para>
+          <para id="id6512612">Mài mòn đột biến xảy ra do chế độ nhiệt luyện bề mặt không đồng đều, do sai sót trong chế tạo. Hiện tượng này xảy ra theo quy luật ngẫu nhiên và không cố định tại một vị trí nào. Tuy nhiên có thể xác định được khi chúng ta đánh lái đều về hai phía và xác định sự thay đổi lực đánh tay lái.</para>
+          <para id="id6512626">Sự mài mòn cơ cấu lái còn do nguyên nhân mòn các ổ bi, bạc tựa, thiếu dầu, mỡ bôi trơn. Hậu quả của mài mòn này là: gây nên độ rơ vành lái, tăng lực điều khiển vành lái, đôi khi còn có thể xuất hiện độ ồn trong khi quay vành lái.</para>
+          <para id="id6512640">Với cơ cấu lái trục vít con lăn sự mài mòn chủ yếu xảy ra ở chỗ ăn khớp của trục vít với con lăn. Cơ cấu lái bánh răng thanh răng mài mòn chủ yếu là bánh răng với thanh răng, các bạc tựa của thanh răng. Với cơ cấu lái trục vít êcu bi thanh răng mài mòn chủ yếu tại chỗ ăn khớp của thanh răng bánh răng.</para>
+          <para id="id6512656">b. Rạn nứt gãy trong cơ cấu lái</para>
+          <para id="id6512662">Sự làm việc nặng nề trước tải trọng va đập có thể dẫn tới rạn nứt gãy trong cơ cấu lái. Các hiện tượng phổ biến là: rạn nứt chân răng, gãy răng. Các hư hỏng này có thể làm cho cơ cấu lái khi làm việc gây nặng đột biến tại các chỗ rạn nứt gãy. Các mài mòn tiếp theo tạo nên các hạt mài có kích thước lớn làm kẹt cơ cấu hoặc tăng nhanh tốc độ mài mòn cơ cấu lái.</para>
+          <para id="id6792892">Sự mài mòn và rạn nứt cơ cấu lái còn gây ồn và tăng nhiệt độ cho cơ cấu lái, tăng tải tác dụng lên các chi tiết trục lái.</para>
+          <para id="id6792903">c. Hiện tượng thiếu dầu, mỡ trong cơ cấu lái</para>
+          <para id="id6792910">Các cơ cấu lái luôn được bôi trơn bằng dầu mỡ, Cần hết sức lưu ý đến sự thất thoát dầu mỡ của cơ cấu lái thông qua sự chảy dầu mỡ, đặc biệt trong cơ cấu lái có xi lanh thủy lực cùng chung buồng bôi trơn. Nguyên nhân của thiếu dầu mỡ có thể là do rách nát đệm kín, joăng phớt làm kín, các bạc mòn tạo nên khe hở hướng tâm lớn mà phớt không đủ khả năng làm kín. Hậu quả dẫn tới là thiếu dầu, gây mài mòn nhanh, tăng độ ồn và nhiệt độ cơ cấu lái.</para>
+          <para id="id6792926">Trên hệ thống trợ lực thủy lực còn dẫn tới khả năng mất áp suất dầu và khả năng trợ lực.</para>
+          <para id="id6792936">d. Rơ lỏng các liên kết vỏ cơ cấu lái với khung, vỏ xe</para>
+          <para id="id6792943">Cơ cấu lái liên kết với khung vỏ xe nhờ các liên kiết bằng mối ghép bulông, êcu. Các mối ghép này lâu ngày có hiện tượng tự nới lỏng. Nếu không kịp thời vặn chặt thì có thể gây nên hiện tượng tăng độ rơ vành lái, khi thay đổi chiều chuyển hướng có thể gây nên tiếng va chạm mạnh, quá trình điều khiển xe mất chính xác.</para>
+        </section>
+        <section id="id-299211269769">
+          <title>Dẫn động lái</title>
+          <para id="id6792967">a. Đối với dẫn động lái kiểu cơ khí</para>
+          <para id="id6792973">Mòn rơ các khớp cầu, khớp trụ:</para>
+          <para id="id6792979">Trong sử dụng các khớp cầu, khớp trụ thường là những chi tiết có kích thước nhỏ, làm việc trong trạng thái bôi trơn bằng mỡ, tính chất chịu tải va đập thường xuyên, luôn luôn phải xoay tương đối với đệm hoặc vỏ, dễ bụi bẩn bám vào, do vậy rất hay bị mòn.</para>
+          <para id="id6792995">Các dạng mòn thường tạo nên các hình ovan không đều. Một số khớp cầu có lò xo tỳ nhằm tự triệt tiêu khe hở, một số khác không có. Do vậy khi bị mòn thường dẫn tới tăng độ rơ trong hệ thống lái và thể hiện qua độ rơ vành lái.</para>
+          <para id="id6793010">Khi bị mòn lớn thường gây nên va đập và tạo nên tiếng ồn khi đổi chiều quay vòng, Đặc biệt nghiêm trọng là khi mòn, rơ lỏng các khớp cầu, khớp trụ sẽ làm thay đổi góc bố trí bánh xe dẫn hướng, gây nên sai lệch các sai lệch các góc đặt bánh xe và mài mòn lệch lốp xe.</para>
+          <para id="id6793026">Biến dạng các đòn dẫn động bánh xe dẫn hướng:</para>
+          <para id="id6793035">Các đòn dẫn hướng đều có thể bị quá tải trong sử dụng, nhưng nghiêm trọng hơn cả là đòn ngang (hay cụm đòn ngang) hệ thống lái. Hiện tượng cong vênh đòn ngang do va chạm với chướng ngại vật trên đường, hoặc do sai lệch kích thước đòn ngang đều làm sai lệch góc quay bánh xe dẫn hướng. Bánh xe sẽ bị trượt ngang nhiều trên đường khi quay vòng (kể cả bánh xe dẫn hướng và bánh xe không dẫn hướng), như vậy sẽ gây nên khả năng điều khiển hướng không còn chính xác, luôn phải giữ chặt vành lái và thường xuyên hiệu chỉnh hướng chuyển động, mài mòn nhanh lốp xe…</para>
+          <para id="id6793066">Các hư hỏng phổ biến kể trên là đặc trưng tổng quát cho các hệ thống lái, kể cả hệ thống lái có trợ lực.</para>
+          <para id="id6793076">Hư hỏng ốc hạn chế quay bánh xe dẫn hướng:</para>
+          <para id="id6793082">Các ốc hạn chế sự quay bánh xe dẫn hướng thường đặt ở khu vực bánh xe, do vậy khi quay vòng với góc quay lớn nhất, tải trọng trực tiếp va đập lên ốc hạn chế, có thể gây nên lỏng ốc, cong thân ốc. Sự nguy hiểm là khi quay bánh xe ở tốc độ cao sẽ có thể lật xe. Biểu hiện của hư hỏng này là bán kính quay vòng của ô tô về hai phía không giống nhau.</para>
+          <para id="id6793098">Biến dạng dầm cầu dẫn hướng:</para>
+          <para id="id6793107">Dầm cầu trên hệ thống treo phụ thuộc đóng vai trò là một khâu cố định hình thang lái, trên dầm cầu có bố trí các chi tiết: đòn bên, đòn ngang, trụ đứng liên kết với nhíp để tạo nên liên kết động học với khung xe. Mặt khác, dầm cầu lại là bộ phận đỡ toàn bộ ô tô. Trên dầm cầu dẫn hướng khi bị quá tải, do xe chuyển động trên đường xấu có thể gây nên biến dạng và làm sai lệch kích thước hình học của các chi tiết trong hệ thống treo, lái. Tùy theo mức độ biến dạng của dầm cầu mà gây nên các hậu quả như:</para>
+          <para id="id6793135">- Mài mòn lốp do sai lệch góc bố trí bánh xe.</para>
+          <para id="id6793142">- Nặng tay lái, lực đánh lái về hai phía không đều do thay đổi cánh tay đòn quay bánh xe quanh trụ đứng.</para>
+          <para id="id6793152">- Mất khả năng chuyển động thẳng.</para>
+          <para id="id6793159">b. Đặc điểm hư hỏng đối với dẫn động lái có trợ lực</para>
+          <para id="id6793167">Hư hỏng trong nguồn năng lượng trợ lực (thủy lực, khí nén):</para>
+          <para id="id6793177">Dạng hư hỏng phổ biến là mòn bơm thủy lực hay bơm khí nén.</para>
+          <para id="id6793185">Sự mòn bơm thủy lực dẫn tới thiếu áp suất làm việc hay tăng chậm áp suất làm việc. Do vậy, khi đánh lái mà động cơ làm việc ở số vòng quay nhỏ thì lực trên vành lái gia tăng đáng kể, còn khi động cơ làm việc với số vòng quay cao thì trợ lực có hiệu quả rõ rệt.</para>
+          <para id="id6793201">Hư hỏng bơm thủy lực còn do hư hỏng ổ bi đỡ trục và phát ra tiếng ồn khi bơm làm việc, do mòn bề mặt đầu cánh bơm, do dầu quá bẩn không đủ dầu cấp cho bơm, do tắc lọc, bẹp đường ống dẫn dầu…</para>
+          <para id="id6793215">Trong sử dụng chúng ta còn gặp sự thiếu trợ lực do dây đai bị chùng, do thiếu dầu. Vì vậy trước khi kết luận về hư hỏng bơm nhất thiết phải loại trừ khả năng này.</para>
+          <para id="id6793228">Kiểm soát các hiện tượng này tốt nhất là dùng đồng hồ đo áp suất sau bơm, qua lực tác dụng lên vành lái ở các chế độ làm việc của động cơ, tiếng ồn phát ra từ bơm.</para>
+          <para id="id6793241">Sai lệch vị trí của van điều tiết áp suất và lưu lượng, các cụm van này thường lắp ngay trên thân bơm, do làm việc lâu ngày các van này bị rò rỉ, bị kẹt hay quá mòn. Giải pháp tốt nhất là kiểm tra áp suất sau bơm thủy lực.</para>
+          <para id="id6793255">Sự cố trong van phân phối dầu:</para>
+          <para id="id6793261">Van phân phối dầu có thể được đặt trong cơ cấu lái, trên các đòn dẫn động hay ở ngay đầu xi lanh lực. Sự sai lệch vị trí tương quan của con trượt và vỏ van sẽ làm cho việc đóng mở đường dầu thay đổi, dẫn tới áp suất đường dầu cấp cho các buồng của xi lanh lực khác nhau, gây nên tay lái nặng nhẹ khi quay vòng về hai phía. Cảm nhận hay lực đánh tay lái không đều, sự điều khiển ô tô lúc đó bị mất chính xác.</para>
+          <para id="id5858513">Hiện tượng mòn con trượt van có thể xảy ra do dầu thiếu hay quá bẩn, trong trường hợp này hiệu quả trợ lực giảm và gây nên nặng tay lái.</para>
+          <para id="id5858525">Sự cố trong xi lanh hệ thống trợ lực:</para>
+          <para id="id5858531">Trước hết phải kể đến sự hư hỏng joăng phớt bao kín, sự cố này dẫn đến lọt dầu, giảm áp suất, mất dần khả năng trợ lực, hao dầu.</para>
+          <para id="id5858542">Mòn xi lanh trợ lực xảy ra do cặn bẩn dầu đọng lại trong xi lanh, dầu lẫn tạp chất và nước, do mạt kim loại gây nên, hậu quả của nó cũng làm giảm áp suất, mất dần khả năng trợ lực.</para>
+          <para id="id5858556">Trường hợp đặc biệt có thể xảy ra khi ô tô va chạm mạnh, cong cần của piston trợ lực, gây kẹt xi lanh lực, khi đó tay lái nặng và có khi bó kẹt xi lanh lực và mất khả năng lái.</para>
+          <para id="id5858569">Lỏng và sai lệch các liên kết:</para>
+          <para id="id5858575">Sự rơ lỏng và sai lệch các liên kết trong sử dụng, đòi hỏi thường xuyên kiểm tra vặn chặt.</para>
+          <para id="id5858584">Các hư hỏng thường gặp kể trên, có thể tổng quát qua các biểu hiện chung và được gọi là thông số chẩn đoán như sau:</para>
+          <para id="id5858595">1. Độ rơ vành lái tăng.</para>
+          <para id="id5858602">2. Lực trên vành lái gia tăng hay không đều.</para>
+          <para id="id5858609">3. Xe mất khả năng chuyển động thẳng ổn định.</para>
+          <para id="id5858617">4. Mất cảm giác điều khiển.</para>
+          <para id="id5858624">5. Rung vành lái, phải thường xuyên giữ chặt vành lái.</para>
+          <para id="id5858632">6. Mài mòn lốp nhanh.</para>
+        </section>
+        <section id="id-100859280398">
+          <title>Các biểu hiện của ô tô khi hư hỏng hệ thống lái</title>
+          <para id="id5858648">a. Tay lái nặng </para>
+          <para id="id5858654">Đối với hệ thống lái có trợ lực khi tay lái nặng do bơm trợ lực hỏng hoặc thiếu dầu, rơ ổ bi, thiếu dầu bôi trơn, ổ trụ đứng bị mòn làm sai lệch các góc đặt bánh xe, lốp bơm không đủ áp suất.</para>
+          <para id="id5858664">b. Tay lái bị rơ</para>
+          <para id="id5858669">Ổ bi côn trong cơ cấu lái bị mòn, bánh vít và trục vít bị mòn, khớp cầu (rô tuyn) bị mòn, bị rơ. Ổ bi moay ơ mòn, khe hở trụ quay đứng lớn.</para>
+          <para id="id5858685">c. Tay lái nặng một bên</para>
+          <para id="id5858690">Piston van phân phối trợ lực lái chỉnh không đều, nhíp lệch một bên. </para>
+          <para id="id5858702">d. Vành tay lái rơ dọc và rơ ngang</para>
+          <para id="id5858708">Ổ bi đỡ trụ vô lăng mòn.</para>
+          <para id="id5858719">e. Vô lăng trả không về vị trí cân bằng</para>
+          <para id="id5858726">Sai góc đặt bánh xe: góc nghiêng ngang và dọc của trụ đứng , , do mòn gây giảm hiệu ứng nghịch từ bánh xe lên vành tay lái.</para>
+        </section>
+      </section>
+      <section id="id-198079393501">
+        <title>Phương pháp, thiết bị chẩn đoán và điều chỉnh hệ thống lái</title>
+        <section id="id-708995219381">
+          <title>Xác định độ rơ và lực lớn nhất đặt trên vành lái</title>
+          <para id="id5858772">a. Đo độ rơ vành lái</para>
+          <para id="id5858777">Độ rơ vành lái là thông số tổng hợp quan trọng nói lên độ mòn của hệ thống lái, bao gồm độ mòn của cơ cấu lái, khâu khớp trong dẫn động lái và cả của hệ thống treo. Việc đo độ rơ này được thực hiện khi xe đứng yên, trên nền phẳng, coi bánh xe bị khóa cứng không dịch chuyển.</para>
+          <para id="id5858795">Sử dụng vành dẻ quạt có thang chia độ hình 10.16 (có thể kết hợp với lực kế) hay bằng cảm nhận trực tiếp của người kiểm tra để đo độ rơ vành lái.</para>
+          <table id="id5858807" summary="">
+            <tgroup cols="2">
+              <colspec colnum="1" colname="c1"/>
+              <colspec colnum="2" colname="c2"/>
+              <tbody>
+                <row>
+                  <entry>- Gá vành dẻ quạt 3 lên ống bọc trục trụ lái 4.- Kẹp kim chỉ lên vành tay lái 1- Đổ xe ở nơi bằng phẳng và các bánh xe ở vị trí đi thẳng- Quay nhẹ vành tay lái hết mức về bên phải để khử hết độ rơ, xoay bảng chia độ 3 để kim chỉ ở vị trí số 0. Sau đo xoay nhẹ vành tay lái hết mức bên trái để khử hết độ rơ tự do. Góc chỉ của kim 2 trên vành chia độ 3 sẽ là hành trình tự do của vành tay lái. Hành trình tự do của những xe còn tốt khoảng (10÷150) với những xe đã cũ &lt;250. Nếu giá trị đo được không đúng với những giá trị trên ta phải tiến hành kiểm tra và điều chỉnh từng bộ phận trong hệ thống lái.Lực kéo phải được đặt theo phương tiếp tuyến với vòng tròn vành lái.</entry>
+                  <entry><media id="id17813429" alt=""><image src="../../media/graphics17.jpg" mime-type="image/jpeg"/></media>Hình 10. 16. Kiểm tra độ rơ ngang của vô lăng1-vành tay lái. 2-kim của dụng cụ đo. 3-vành dẻ quạt có thang chia độ của dụng cụ đo. 4-trục trụ lái</entry>
+                </row>
+              </tbody>
+            </tgroup>
+          </table>
+          <para id="id5926524">Nếu hệ thống có trợ lực thì động cơ phải nổ máy ở số vòng quay nhỏ nhất.</para>
+          <para id="id5926533">Giá trị lực kéo để đo độ rơ tùy thuộc vào loại xe, thường nằm trong khoảng:</para>
+          <para id="id5926542">- Đối với xe con (10 ÷ 20)N, khi có trợ lực (15 ÷ 25)N.</para>
+          <para id="id5926553">- Đối với xe vận tải (15 ÷ 30)N, khi có trợ lực (20 ÷ 35)N.</para>
+          <para id="id5926561">Độ rơ vành lái có thể cho bằng độ hay mm, tùy thuộc vào quy ước của nhà sản xuất. Ví dụ: trên ô tô tải của hãng HINO hoặc HYUNHDAI cho độ rơ vành lái là 15÷35 mm.</para>
+          <para id="id5926573">Ô tô có tốc độ càng cao thì độ rơ vành lái yêu cầu càng nhỏ. Giá trị độ rơ cho phép ban đầu thường được tra theo tiêu chuẩn kỹ thuật của nhà sản xuất.</para>
+          <para id="id5926586">b. Đo lực lớn nhất đặt trên vành lái</para>
+          <para id="id5926595">- Để xe đứng yên trên mặt đường tốt và phẳng.</para>
+          <para id="id5926602">- Đánh lái đến vị trí gần tận cùng, dùng lực kế đo giá trị lực tại đó để xác định giá trị lực vành lái lớn nhất. Nếu xe có trợ lực lái thì động cơ phải hoạt động.</para>
+          <para id="id5926615">- Dùng lực kế khi đánh lái ở hai phía khác nhau còn cho biết sai lệch lực đánh lái khi rẽ phải hay trái.</para>
+          <para id="id5926628">Khi xuất hiện sự sai khác chứng tỏ:</para>
+          <para id="id5926635">- Độ mòn của cơ cấu lái về hai phía khác nhau.</para>
+          <para id="id5926649">- Góc đặt bánh xe hai phía không đều.</para>
+          <para id="id5926656">- Có hiện tượng biến dạng thanh đòn dẫn động hai bánh xe dẫn hướng.</para>
+          <para id="id5926664">- Lốp hai bên có áp suất khác nhau…</para>
+          <para id="id5926671">c. Đo góc quay bánh xe dẫn hướng</para>
+          <para id="id5926684">- Cho đầu xe lên các bệ kiểu mâm xoay. Dùng vành lái lần lượt đánh về hai phía, xác định các góc quay bánh xe hai bên trên mâm xoay chia độ</para>
+          <para id="id5926696"><figure id="id5926722"><media id="id13980026" alt=""><image src="../../media/graphics18-44b3.jpg" mime-type="image/jpeg" height="190" width="321"/></media></figure>Hình 10.17. Đo góc quay bánh xe dẫn hướng bằng phương pháp đánh dấu- Khi không có mâm xoay chia độ có thể tiến hành kiểm tra như sau: nâng bánh xe cầu trước lên khỏi mặt đường, đặt vành lái và bánh xe ở vị trí đi thẳng, đánh dấu mặt phẳng bánh xe trên nền, đánh lái về từng phía, đánh dấu các mặt phẳng bánh xe tại các vị trí quay hết vành lái. Xác định các góc quay bánh xe dẫn hướng như hình 10.17.</para>
+          <para id="id5926770">Trên hình 10.17 các góc quay bánh xe dẫn hướng về hai phía αt, αn khác nhau, nhưng các giá trị đó ở cả hai bên bánh xe phải bằng nhau.</para>
+          <para id="id5926792">Góc quay bánh xe lớn nhất của ô tô về hai bên phải bằng nhau và đảm bảo tiêu chuẩn quy định.</para>
+          <para id="id5926802">Khi đánh lái về hai phía các góc quay bánh xe không bằng nhau có thể do:</para>
+          <para id="id5926811">- Trụ đứng hay rôtuyn mòn.</para>
+          <para id="id5926817">- Cơ cấu lái bị mòn gây kẹt.</para>
+          <para id="id5926824">- Đòn ngang dẫn động lái bị sai lệch.</para>
+          <para id="id5926831">- Ốc hạn chế quay bánh xe bị hỏng .</para>
+          <para id="id5926839">d. Kiểm tra qua tiếng ồn</para>
+          <para id="id5926844">Ô tô đứng yên trên nền phẳng, lắc mạnh vành lái theo hai chiều nhằm tạo xung đổi chiều nghe tiếng ồn phát ra trong hệ thống, xác định vị trí bị va đập, tìm hiểu nguyên nhân.</para>
+          <para id="id5926853">Đặc biệt cần kiểm tra độ rơ dọc của trục lái và các liên kết với buồng lái, bằng cách lắc mạnh dọc vành lái theo phương dọc trục lái.</para>
+          <para id="id5926865">e. Chẩn đoán khi thử trên đường</para>
+          <para id="id5926870">+ Cho xe chạy trên mặt đường rộng, tốc độ thấp, lần lượt đánh lái hết về phía trái, sau đó về phía phải, tạo nên chuyển động rích rắc, theo dõi sự hoạt động của xe, lực đánh lái, khả năng quay vòng tốc độ thấp có thể xác định hư hỏng của hệ thống lái theo toàn bộ góc quay.</para>
+          <para id="id5902259">+ Tiến hành kiểm tra ở tốc độ cao, khoảng 50% vận tốc lớn nhất của ô tô, nhưng giới hạn góc quay vành lái từ 300 đến 500.</para>
+          <para id="id5902284">Xác định khả năng chuyển hướng linh hoạt qua đó đánh giá tính điều khiển của ô tô, cảm nhận lực đánh lái trên vành lái.</para>
+          <para id="id5902295">Hư hỏng của hệ thống lái và góc kết cấu bánh xe sẽ phản ảnh chất lượng tổng hợp của hệ thống lái, treo, bánh xe. Trên các xe có nhiều cầu chủ động còn chịu ảnh hưởng của hệ thống truyền lực.</para>
+          <para id="id5902309">f. Xác định khả năng ổn định chuyển động thẳng khi thử trên đường</para>
+          <para id="id5902316">Chọn mặt đường phẳng, tốt, cho ô tô chuyển động với vận tốc cao bằng khoảng 2/3 vận tốc lớn nhất, đặt tay lên vành lái, cho xe chạy thẳng (vành lái đặt ở vị trí trung gian), không giữ chặt và hiệu chỉnh hướng khi thử, cho xe chạy trên đoạn đường 1000m, xem xét độ lệch bên của ô tô. Nếu độ lệch bên không quá 3m thì hệ thống lái và kết cấu bánh xe tốt, ngược lại cần xem xét kỹ hơn bằng các phương pháp xác định khác.</para>
+        </section>
+        <section id="id-652325552475">
+          <title>Chẩn đoán hệ thống lái liên quan tới các hệ thống khác trên xe</title>
+          <para id="id5902347">a. Chẩn đoán hệ thống lái liên quan tới góc đặt bánh xe, hệ thống treo</para>
+          <para id="id5902354">Tải trọng thẳng đứng có ảnh hưởng rất lớn đến quỹ đạo chuyển động của ô tô, nhất là trên ô tô con. Sự sai lệch lớn giá trị tải trọng thẳng đứng sẽ khó đảm bảo giữ chuyển động của ô tô đi thẳng. Khi quay vòng sẽ làm cho các bánh xe chịu tải khác nhau và có thể sau một thời gian dài gây nên mài mòn lốp và khó đảm bảo quay vòng chính xác. Những kết cấu liên quan thường gặp trên ô tô là: thanh ổn định ngang, lò xo hay nhíp bị yếu sau thời gian dài làm việc, góc bố trí bánh xe bị sai lệch. Biểu hiện rõ nét nhất là sự mài mòn bất thường của lốp xe.</para>
+          <para id="id5902391">Sự mòn lốp xe trên bề mặt sau thời gian sử dụng nói lên trạng thái của góc đặt bánh xe và trụ đứng. Các góc này chịu ảnh hưởng của các đòn trong hình thang lái và dầm cầu, hệ thống treo. Vì vậy để chẩn đoán sâu hơn về tình trạng của hệ thống lái liên quan đến bánh xe cần phải loại trừ trước khi kết luận.</para>
+          <para id="id5902410">b. Chẩn đoán hệ thống lái liên quan đến hệ thống phanh</para>
+          <para id="id5902417">Khi xe chuyển động, lực dọc (phanh, kéo) tác dụng lên bánh xe, nếu các lực này khác nhau hoặc bán kính lăn của bánh xe không đồng đều sẽ gây hiện tượng lệch hướng chuyển động. Sự lệch hướng này sẽ được khắc phục nếu loại trừ được các khuyết điểm nói trên. Trường hợp đã loại trừ được các khuyết điểm nói trên mà hiện tượng vẫn còn chứng tỏ sự cố nằm trong hệ thống lái.</para>
+          <para id="id5902459">Đối với xe nhiều cầu chủ động, hiện tượng lệch lái còn có thể do nhiều nguyên nhân khác. Đặc biệt chú ý đối với hệ thống truyền lực mà trong đó vi sai có khớp ma sát, khi có sự cố của khớp ma sát có thể cũng gây hiện tượng lệch lái hay tay lái nặng một phía.</para>
+          <para id="id5902480">Đối với xe có hệ thống truyền lực kiểu AWD có khớp ma sát giữa các cầu và thường xuyên gài cầu thì khi hư hỏng khớp ma sát này cũng gây nên sai lệch tốc độ chuyển động của hai cầu và ô tô sẽ rất khó điều khiển chính xác hướng chuyển động. Trong trường hợp kể trên có thể tháo các đăng truyền để thử chạy ô tô bằng một cầu trong thời gian ngắn, nhằm loại trừ ảnh hưởng của khớp ma sát và phát hiện hư hỏng trong hệ thống lái.</para>
+        </section>
+        <section id="id-61627876037">
+          <title>Kiểm tra các góc đặt bánh xe dẫn hướng</title>
+          <para id="id5902517">a. Xác định các góc đặt bánh xe bằng dụng cụ cơ khí đo góc</para>
+          <para id="id5902524"><figure id="id5902552"><media id="id9767412" alt=""><image src="../../media/graphics19-8349.jpg" mime-type="image/jpeg" height="368" width="264"/></media></figure>Hình 10. 18 Cấu tạo của đồng hồ bọt nước M21421-thang đo góc lệch ; 2-chốt xoay của đồng hồ quanh trục 3; 3-trục; 4-mỏ kẹp; 5,5’-tay vặn, tay hãm; 6- thân dụng cụ; 7-thang đo góc lệch ; 8-thang đo góc lệch Sử dụng đồng hồ bọt nước và hộp đo góc hình 10.18 để kiểm tra các góc:</para>
+          <para id="id5902621">- Góc doãng bánh xe .</para>
+          <para id="id5902633">- Góc nghiêng ngang của trụ quay đứng .</para>
+          <para id="id6621135">- Góc nghiêng dọc của trụ quay đứng .</para>
+          <para id="id6621147">a1. Kiểm tra góc doãng bánh xe </para>
+          <para id="id6621169">- Kích cầu trước lên.</para>
+          <para id="id6621175">- Bắt đồng hồ bọt nước vào bulông bắt lốp ở vị trí trên cùng, quay mặt đồng hồ xuống, điều chỉnh đồng hồ ở vị trí thăng bằng và song song với mặt phẳng đường bọt nước ở vị trí “0” của thang đo 8, hình 10.19.</para>
+          <para id="id6621194">- Quay bánh xe đi 1800 xuống phía dưới thấp nhất mặt đồng hồ sẽ quay lên, giá trị của bọt nước dịch chuyển trên thang đo 8 là góc .</para>
+          <para id="id6621225">Với ô tô có hệ thống treo độc lập có thể điều chỉnh được góc  nhờ bạc lệch tâm và ren của nạng 2 nối thanh chống 3 với đòn dưới 1, hình 10.20. Với ô tô có hệ thống treo phụ thuộc góc  không điều chỉnh được. Nếu khi kiểm tra  không đúng tiêu chuẩn thì phải kiểm tra lại khe hở chốt chuyển hướng, độ cong của cầu dẫn hướng.  = -50 ÷ 50</para>
+          <table id="id6621294" summary="">
+            <tgroup cols="2">
+              <colspec colnum="1" colname="c1"/>
+              <colspec colnum="2" colname="c2"/>
+              <tbody>
+                <row>
+                  <entry><media id="id5891083" alt=""><image src="../../media/graphics20.jpg" mime-type="image/jpeg"/></media>Hình 10. 19 Kiểm tra góc </entry>
+                  <entry><media id="id4151024" alt=""><image src="../../media/graphics21.jpg" mime-type="image/jpeg"/></media>Hình 10. 20. Vị trí điều chỉnh góc 1-đòn dưới. 2-vị trí điều chỉnh (bạc lệch tâm và ren). 3-thanh chống.</entry>
+                </row>
+              </tbody>
+            </tgroup>
+          </table>
+          <para id="id6621411">a2. Kiểm tra góc nghiêng ngang của trụ quay đứng </para>
+          <para id="id6621422"/>
+          <table id="id6621426" summary="">
+            <tgroup cols="2">
+              <colspec colnum="1" colname="c1"/>
+              <colspec colnum="2" colname="c2"/>
+              <tbody>
+                <row>
+                  <entry>Khi kiểm tra ,  phải quay bánh xe đi 1 góc, để xác định được góc quay người ta thêm hộp đo góc, dụng cụ gồm hai đĩa để giảm ma sát bánh xe khi quay 7 và 8. Thân hộp đo 1, bảng khắc vạch 2, kim chỉ 3 liền với ổ chốt quay 4 và khung của thanh tựa 5, hình 10.21 Thao tác kiểm tra:Hình 10. 21. Kiểm tra góc nghiêng ngang 1-thân hộp đo; 2-bảng khắc vạch; 3-kim chỉ; 4-chốt quay; 5-khung của thanh tựa; 6-đồng hồ bọt nước; 7,8-đĩa giảm ma sát; 9-thang đo góc lệch  ;10-giá trị bọt nước dịch chuyển trên thang đo; 12-thang đo góc lệch ; 13-thang đo góc lệch  </entry>
+                  <entry>
+                    <media id="id16588925" alt=""><image src="../../media/graphics22-fc19.jpg" mime-type="image/jpeg"/></media>
+                  </entry>
+                </row>
+              </tbody>
+            </tgroup>
+          </table>
+          <para id="id6540122">- Kích cầu trước, để từng cặp đĩa dưới bánh xe dẫn hướng (hai đĩa quay mặt lồi tiếp xúc với nhau), hạ kích.</para>
+          <para id="id6540132">- Quay vô lăng để bánh xe ở vị trí đi thẳng, nền bằng phẳng.</para>
+          <para id="id6540140">- Đặt các hộp đo góc, lắp giá của kim 3 và khung thanh tì 5 vào chốt 4 lắp thanh tì 5 sát vào lốp bánh xe.</para>
+          <para id="id6540150">- Lắp đồng hồ bọt nước vào bu lông bắt lốp, quay mặt đồng hồ lên trên, điều chỉnh đồng hồ bọt nước nằm trong mặt phẳng nằm ngang và thanh đo  7 song song với mặt phẳng quay bánh xe.</para>
+          <para id="id6540170">- Quay vô lăng về bên trái một góc 200 (nhờ quan sát hộp đo), quan sát giá trị của thang đo khi bọt nước dịch chuyển và quay tay lái về phía phải qua vị trí trung gian 200 (tổng cộng về hai phía là 400), quan sát sự dịch chuyển của bọt nước.</para>
+          <para id="id6540201">Giá trị dịch chuyển bọt nước về hai phía sẽ là góc .  = 00 ÷ 160</para>
+          <para id="id6540231">a3. Kiểm tra góc nghiêng dọc của trụ quay đứng </para>
+          <para id="id6540242">Mọi thao tác đo, cách lắp đặt đồng hồ như kiểm tra góc  (nhưng chú ý: đồng hồ bọt nước nằm trong mặt phẳng nằm ngang và thang đo  1 vuông góc với mặt phẳng quay bánh xe).</para>
+          <para id="id6540266"> = -30 ÷ 100’</para>
+          <para id="id6540288">Nếu quay bánh xe quanh chốt chuyển hướng 900 thì sẽ phản ánh được góc ,  trên đồng hồ, nhưng thực tế quay bánh xe về hai phía 400 nên người ta đã hiệu chỉnh thang đo để đánh giá đúng góc ,  khi chỉ cần quay bánh xe như kiểm tra trên.</para>
+          <para id="id6540337">b. Xác định độ chụm</para>
+          <table id="id6540342" summary="">
+            <tgroup cols="2">
+              <colspec colnum="1" colname="c1"/>
+              <colspec colnum="2" colname="c2"/>
+              <tbody>
+                <row>
+                  <entry><media id="id20962661" alt=""><image src="graphics23.wmf" mime-type="image/wmf"/></media>Hình 10.22 Kiểm tra độ chụm1-ống trượt. 2-kim chỉ. 3-dây xích. 4-đầu tì</entry>
+                  <entry><media id="id21512489" alt=""><image src="../../media/graphics24-d9e5.jpg" mime-type="image/jpeg"/></media>Hình 10. 23. Điều chỉnh độ chụm</entry>
+                </row>
+              </tbody>
+            </tgroup>
+          </table>
+          <para id="id6540452">Độ chụm có thể kiểm tra trên thiết bị đo độ trượt ngang của bánh xe dẫn hướng và thông qua trị số lực trượt ngang để đánh giá độ chụm. Khi kiểm tra trị số chỉ trên bảng điện tử thường ≤ 5mm nếu lớn hơn phải điều chỉnh lại độ chụm. Có thể dùng dụng cụ đơn giản là thước đo độ chụm có thể thay đổi được chiều dài, hình 10.22. Tiến hành đo: để xe ở vị trí đi thẳng, nền bằng phẳng, đặt thước đo độ chụm tì vào chỗ phình to nhất của lốp và nằm trong mặt phẳng ngang qua tâm bánh xe, điều chỉnh sợi dây xích 3 chạm đất. Đánh dấu phấn vào vị trí hai chốt tì 4 trên lốp, quan sát kim chỉ của thước khắc vạch (khoảng cách B). Đẩy xe tiến về phía trước (giữ vô lăng để xe vẫn chuyển động thẳng) sao cho dấu phấn chuyển về phía sau và đầu dây xích 3 chạm đất, đo khoảng cách giữa hai điểm đánh dấu phấn (khoảng cách A)</para>
+          <para id="id6540478">Độ chụm  = A-Bmm. Ta đo nhiều lần và lấy giá trị trung bình để đánh giá . Với xe con  = (1,5÷3,5)mm, xe tải  = (1,5 ÷ 5)mm.</para>
+          <para id="id5929778">Nếu độ chụm không đúng qui định phải tiến hành điều chỉnh lại bằng cách nới các bu lông hãm ở đầu đòn kéo ngang, dùng clê ống thay đổi chiều dài đòn kéo ngang để điều chỉnh độ chụm, hình 10.23. Điều chỉnh xong vặn bu lông hãm lại.</para>
+          <para id="id5929794">c. Chẩn đoán trên bệ đo trượt ngang bánh xe tĩnh và động</para>
+          <para id="id5929801">Khi bánh xe đặt nghiêng trên bề mặt đường sẽ tạo nên lực ngang tác dụng lên đường. Giá trị lực ngang tùy thuộc vào kết cấu xe và được cho bởi nhà sản xuất. Việc đặt nghiêng bánh xe phụ thuộc vào các thông số kết cấu của đòn dẫn động lái, góc nghiêng trục bánh xe và hệ thống treo. Thông số này ảnh hưởng rất lớn đến khả năng quay vòng, ổn định chuyển động thẳng, lực đặt trên vành lái, vì vậy việc xác định lực ngang là một thông số chẩn đoán quan trọng.</para>
+          <para id="id5929817">Thiết bị đo lực ngang có tên gọi là thiết bị đo độ trượt ngang tĩnh bánh xe. Thiết bị đo độ trượt ngang tĩnh có hai loại chính: một bàn trượt và hai bàn trượt.</para>
+          <para id="id5929830">Sơ đồ nguyên lý của thiết bị một bàn trượt mô tả trên hình 10.24.</para>
+          <para id="id5929838"><figure id="id5929845"><media id="id9486580" alt=""><image src="../../media/graphics25.jpg" mime-type="image/jpeg" height="257" width="515"/></media></figure>Hình 10.24. Sơ đồ nguyên lý của thiết bị đo độ trượt ngang</para>
+          <para id="id5929880">Thiết bị bao gồm: bàn trượt ngang đặt bánh xe, bàn trượt có thể di chuyển trên các con lăn trơn, nhưng bị giữ lại nhờ gối điểm tựa mềm biến dạng bằng lò xo cân bằng. Lực ngang đặt trên bàn trượt, do tải trọng thẳng đứng của bánh xe sinh ra, gây nên biến dạng lò xo và dịch chuyển bàn trượt. Cảm biến đo chuyển vị của lò xo và chỉ thị trên đồng hồ giá trị trượt ngang.</para>
+          <para id="id5929896">Thiết bị có hai bàn trượt ngang cho phép đo với chỉ thị độc lập của từng bánh xe, do vậy có độ chính xác cao hơn.</para>
+          <para id="id5929906"><figure id="id5929913"><media id="id15030203" alt=""><image src="../../media/graphics26.jpg" mime-type="image/jpeg" height="198" width="575"/></media></figure>Hình 10.25. Thiết bị đo độ trượt ngang loại hai bàn trượt</para>
+          <para id="id5929948">Thiết bị đo độ trượt ngang bánh xe tĩnh chỉ thích hợp cho việc chẩn đoán khi ô tô còn mới, độ mòn các khâu khớp khác còn nhỏ. Nếu mòn hệ thống cầu dẫn hướng lớn, các loại thiết bị này cho số liệu đo không chính xác (không phản ảnh đúng trạng thái của góc đặt bánh xe).</para>
+          <para id="id5929964">Thiết bị đo độ trượt ngang bánh xe động dùng thêm bộ gây rung điện khí nén hay thủy lực tạo nên lực động theo phương trượt ngang có tính chất chu kỳ, nhằm đảm bảo độ nhạy của thiết bị.</para>
+          <para id="id5929978"><figure id="id5929985"><media id="id21509342" alt=""><image src="../../media/graphics27.jpg" mime-type="image/jpeg" height="228" width="472"/></media></figure>Hình 10.26. Sơ đồ nguyên lý của thiết bị đo độ trượt ngang động</para>
+          <para id="id5930020">Thiết bị đòi hỏi thêm cụm xử lý tín hiệu và cho ra thông sô đo, sau khi đã xử lý các số liệu ghi lại được trong quá trình rung. Các bộ thiết bị đo động có khả năng thay thế thiết bị tĩnh nhưng giá thành cao.</para>
+          <para id="id5930035">Trên một số thiết bị thử phanh có bố trí đồng thời với thiết bị đo độ trượt ngang. Thiết bị này đòi hỏi quá trình đo phải tuân thủ theo quy định riêng. Chẳng hạn khi đo độ trượt ngang, bàn trượt được nâng lên, tách bánh xe khỏi tang trống của bệ đo phanh. Giá trượt được thay bằng con lăn có khả năng trượt bên, đồng thời khi thử phanh con lăn đóng vai trò bộ đo tốc độ bánh xe. Khi thử phanh con lăn làm việc như bộ đo tốc độ.</para>
+          <para id="id5930051">Ngày nay, các thiết bị này được tách rời, nhưng sử dụng chung hệ thống chỉ thị và bố trí trong cùng khu vực chẩn đoán.</para>
+          <para id="id5930062"><figure id="id5930069"><media id="id20417316" alt=""><image src="../../media/graphics28.jpg" mime-type="image/jpeg" height="317" width="467"/></media></figure>Hình 10.27. Bệ đo phanh kết hợp với đo trượt ngang</para>
+          <para id="id5930103">d. Xác định góc đặt bánh xe trên bệ thử chuyên dùng</para>
+          <para id="id5930110">Sự sai lệch vị trí bố trí các góc đặt bánh xe còn do một số nguyên nhân khác, việc chẩn đoán bằng các thiết bị nói trên có thể không phản ảnh đúng các trạng thái kết cấu đặt bánh xe tương quan với khung hay vỏ.</para>
+          <para id="id5930124"><figure id="id5930152"><media id="id20762350" alt=""><image src="../../media/graphics29.jpg" mime-type="image/jpeg" height="242" width="403"/></media></figure>Hình.10.28. Cấu tạo hệ thống đo và sơ đồ nguyên lý1-Tủ máy, 2- Giá đo lắp tại bánh xe.Thiết bị đo góc đặt bánh xe bằng ánh sáng laser (hay hồng ngoại) cho phép xác định các thông số kết cấu góc đặt bánh xe chính xác hơn.</para>
+          <para id="id5763907">Thiết bị bao gồm:</para>
+          <para id="id5763914">- Các giá đo lắp tại bánh xe bằng các cơ cấu định vị chắc chắn trên vành bánh xe. Mặt phẳng thẳng đứng của giá chép nguyên dạng vị trí của bánh xe. Trên giá có lắp bộ nguồn phát sáng bằng đèn neon laser helium. Chùm tia sáng được phát ra thông qua hệ thống quang học định hướng truyền ánh sáng.</para>
+          <para id="id5763929">Phía trên đầu xe có tủ máy gồm: cơ cấu thu nhân chùm ánh sáng phát ra từ các giá đo đặt tại bánh xe trước và sau, cơ cấu xác định vị trí chùm tia sáng laser, các bộ chuyển đổi digital nhằm số hóa các số liệu và vị trí, màn hình chỉ thị, bàn phím giao tiếp, máy in kết quả, các bộ nhớ động, các bộ lưu trữ dữ liệu.</para>
+          <para id="id5763945">Nguyên lý đo được thực hiện như sau:</para>
+          <para id="id5763952">Chùm sáng từ giá đo các bánh sau chuyển dọc thân xe về giá đo bánh trước và chuyển về tủ máy đầu xe.</para>
+          <para id="id5763961">Chùm sáng từ giá đo bánh xe trước và chuyển về tủ máy đầu xe.</para>
+          <para id="id5763968">Các chùm tia phát ra từ các giá trị đo được ghi và lưu trữ trên máy bao gồm vị trí tương đối của các bánh xe với khung vỏ xe. Các số liệu này hiển thị trên màn hình, khi trong bộ lưu trữ đã có sẵn số liệu của xe, màn hình có thể cho phép so sánh dữ liệu và hiển thị mức độ phù hợp với số liệu chuẩn để tiện đánh giá kết quả.</para>
+          <para id="id5763983">Thực hiện đo tiến hành theo trình tự sau:</para>
+          <para id="id5763990">Đặt xe lên bệ nâng thích hợp, lắp các mâm đỡ giữa bánh xe và bệ nâng, nếu là bánh xe dẫn hướng phải lắp mâm xoay.</para>
+          <para id="id5763997">Nhấn mạnh đầu xe và đuôi xe để hệ thống nằm về vị trí xác định.</para>
+          <para id="id5764004">Lắp các giá đo vào các bánh xe và đặt bánh xe ở vị trí đi thẳng, điều chỉnh các giá trị đo để hướng chùm tia sáng về tủ máy bằng cách đóng tủ máy và đóng điện cho giá đo.</para>
+          <para id="id5764016">Hiệu chỉnh màn hình để hiển thị số liệu của chùm tia.</para>
+          <para id="id5764023">Xác định góc doãng bánh xe, ghi số liệu vào bộ nhớ (ấn phím MEMORRY).</para>
+          <para id="id5764030">Xác định góc nghiêng ngang, góc nghiêng dọc trụ đứng, độ chụm bánh xe, bằng cách quay bánh xe dẫn hướng đi khoảng 200, ghi số liệu vào bộ nhớ. Quay trả lại bánh xe dẫn hướng về vị trí đi thẳng, ghi số liệu vào bộ nhớ.</para>
+          <para id="id5764049">Cho hiển thị số liệu.</para>
+          <para id="id5764054">So sánh với các số liệu chuẩn. Đánh giá, kết luận.</para>
+          <para id="id5764061">Các thông số thu được bao gồm các thông số góc đặt bánh xe. Thiết bị này có độ chính xác cao, có thể dùng trong chẩn đoán trạng thái kỹ thuật ô tô con, ô tô tải nặng…khi đang sử dụng, sửa chữa, sau sự cố lớn như: đâm, đổ, va chạm…</para>
+        </section>
+        <section id="id-89913952117">
+          <title>Chẩn đoán và điều chỉnh cơ cấu lái</title>
+          <para id="id5764086">a. Độ rơ cơ cấu lái</para>
+          <para id="id5764092">Chẩn đoán cơ cấu lái bằng cách đo độ rơ được thực hiện khi khóa cứng phần bị động cơ cấu lái, xác định độ rơ trên vành lái (tương tự như xác định độ rơ hệ thống lái)</para>
+          <para id="id5764105">Kết hợp việc đo độ rơ hệ thống lái, sử dụng phương pháp suy luận loại trừ, xác định khu vực hay chi tiết bị mòn, hư hỏng.</para>
+          <para id="id5764116">b. Xác định khả năng hư hỏng trong toàn bộ góc quay của cơ cấu lái</para>
+          <para id="id5764124">Nâng toàn bộ bánh xe cầu trước dẫn hướng, quay vành lái tới vị trí tận cùng bên phải và bên trái, phát hiện các hư hỏng trong cơ cấu lái và độ rơ vành lái ở các vị trí, đặc biệt ở vị trí tận cùng. Việc xác định này có thể dùng cảm nhận thay đổi lực quay vành lái hay nhờ lực kế.</para>
+          <para id="id5764139">c. Điều chỉnh cơ cấu lái</para>
+          <para id="id5764145">Ở các cơ cấu lái kiểu trục vít - con lăn, quạt răng và đai ốc-thanh răng, có hai việc điều chỉnh: điều chỉnh khe hở chiều trục của vòng bi trục vít và điều chỉnh sự vào khớp của quạt răng và đai ốc-thanh răng.</para>
+          <para id="id5764156">Việc kiểm tra và điều chỉnh khe hở chiều trục của vòng bi tiến hành như sau: xả hết dầu nhờn trong cacte cơ cấu lái, tách khớp nối giữa trục vít cơ cấu lái và trục tay lái, khớp nối giữa đòn quay đứng và bộ trợ lực thuỷ lực. </para>
+          <para id="id5764172">Dùng tay lắc đòn quay đứng, kiểm tra khe hở trong các vòng bi trục vít. Nếu thấy có khe hở, phải tháo bulông, tháo nắp dưới của cacte cơ cấu lái 1 và rút đệm điều chỉnh ra, hình 10.29.</para>
+          <table id="id5764186" summary="">
+            <tgroup cols="2">
+              <colspec colnum="1" colname="c1"/>
+              <colspec colnum="2" colname="c2"/>
+              <tbody>
+                <row>
+                  <entry><media id="id5636478" alt=""><image src="../../media/graphics30.jpg" mime-type="image/jpeg"/></media>Hình 10.29. Điều chỉnh khe hở chiều trục cơ cấu lái kiểu trục vít con lăn1-Nắp. 2-Các te cơ cấu lái. 3-Đệm điều chỉnh</entry>
+                  <entry><media id="id15060848" alt=""><image src="../../media/graphics31.jpg" mime-type="image/jpeg"/></media>Hình 10. 30. Điều chỉnh khe hở ăn khớp của trục vít- con lăn.1-clê. 2-đai ốc điều chỉnh. 3-ốc hãm. 4-đệm hãm</entry>
+                </row>
+              </tbody>
+            </tgroup>
+          </table>
+          <para id="id6820385">Điều chỉnh khe hở ăn khớp của cặp truyền động trong cơ cấu lái: có nhiều loại cơ cấu lái khác nhau được sử dụng trên các ô tô khác nhau, tuỳ thuộc vào kết cấu cụ thể mà có cách điều chỉnh khác nhau nhưng nguyên tắc điều chỉnh là:</para>
+          <para id="id6820401">- Dịch chuyển dọc trục đòn quay đứng sẽ điều chỉnh được khe hở ăn khớp của cặp truyền động trong cơ cấu lái. Ví dụ cơ cấu lái trục vít-con lăn hình 10.30. Ta tiến hành điều chỉnh như sau: </para>
+          <para id="id6820415">- Tháo đai ốc hãm 3.</para>
+          <para id="id6820421">- Lấy đệm hãm 4 ra.</para>
+          <para id="id6820428">- Dùng clê 1 điều chỉnh đai ốc điều chỉnh 2.</para>
+          <para id="id6820435"><figure id="id6820463"><media id="id7847013" alt=""><image src="../../media/graphics32.jpg" mime-type="image/jpeg" height="288" width="256"/></media></figure>Hình 10.31. Loại khớp cầu tự động điều chỉnh độ rơ trong quá trình làm việc</para>
+        </section>
+        <section id="id-744286887043">
+          <title>Kiểm tra dẫn động lái và khắc phục khe hở</title>
+          <para id="id6820512">a. Các khớp nối</para>
+          <para id="id6820517">Kết cấu của khớp nối cầu rất đa dạng, có loại kết cấu tự động điều chỉnh khe hở trong quá trình làm việc, hình 10.31, có loại ta phải điều chỉnh hình 10.32. </para>
+          <para id="id6820530">Có thể dễ dàng phát hiện khe hở trong các khớp nối của cơ cấu dẫn động lái bằng cách lắc mạnh đòn quay đứng trong khi xoay tay lái và nắm tay vào các khớp kiểm tra hình10.33 (a). Nếu khe hở vượt quá qui định, hãy khắc phục bằng cách vặn các nút có ren của khớp nối tương ứng hình 10.29 (b). Muốn vậy, phải tháo chốt chẻ ở nút ra, vặn nút vào đến hết cữ rồi lại nới nút ra đến khi mặt đầu của nút trùng với một lỗ lắp chốt chẻ.</para>
+          <para id="id6820545"><figure id="id6820552"><media id="id16451801" alt=""><image src="../../media/graphics33.jpg" mime-type="image/jpeg" height="248" width="582"/></media></figure>Hình 10. 32. Loại khớp cầu không tự động điều chỉnh độ rơ 1-chốt cầu. 2-gối đỡ chốt cầu. 3-đai ốc điều chỉnh. 4-chốt chẻ</para>
+          <table id="id6820597" summary="">
+            <tgroup cols="2">
+              <colspec colnum="1" colname="c1"/>
+              <colspec colnum="2" colname="c2"/>
+              <tbody>
+                <row>
+                  <entry>
+                    <media id="id19081023" alt=""><image src="../../media/graphics34.png" mime-type="image/png"/></media>
+                  </entry>
+                  <entry>
+                    <media id="id14233961" alt=""><image src="../../media/graphics35.png" mime-type="image/png"/></media>
+                  </entry>
+                </row>
+                <row>
+                  <entry namest="c1" nameend="c2">Hình 10. 33. Kiểm tra (a) và khắc phục (b) khe hở trong các khớp nối dẫn </entry>
+                </row>
+              </tbody>
+            </tgroup>
+          </table>
+          <para id="id6820703">b. Kiểm tra khe hở chốt chuyển hướng</para>
+          <para id="id6820712">Để bánh xe ở vị trí thẳng.</para>
+          <para id="id6820718">Kích cầu để bánh xe không tiếp đất.</para>
+          <para id="id6820724">Gá đồng hồ so 1 vào dầm cầu 3, điều chỉnh để đầu đo tì vào mâm phanh 2, xoay mặt đồng hồ để kim chỉ vị trí số “0”.</para>
+          <para id="id6820735">+ Kiểm tra, điều chỉnh khe hở hướng trục hình 10.34 a.</para>
+          <para id="id6820742">Dùng căn lá đo khe hở phía dưới của dầm cầu với mặt cam quay, khe hở này phải ≤ 1,5mm. Nếu khe hở lớn hơn ta phải tháo cam quay khỏi dầu cầu và thêm đệm mặt đầu dày hơn để giảm khe hở hướng trục.</para>
+          <table id="id6820747" summary="">
+            <tgroup cols="2">
+              <colspec colnum="1" colname="c1"/>
+              <colspec colnum="2" colname="c2"/>
+              <tbody>
+                <row>
+                  <entry> + Kiểm tra khe hở hướng kính hình 10.34 b. Hạ kích để bánh xe đứng trên mặt đất. Trị số chỉ trên đồng hồ là khe hở hướng kính u. u ≤ 0,75mm, nếu khe hở lớn hơn ta phải thay bạc chốt chuyển hướng mới.</entry>
+                  <entry><media id="id16485038" alt=""><image src="../../media/graphics36.jpg" mime-type="image/jpeg"/></media>Hình 10. 34. Kiểm tra khe hở chốt chuyển hướng1- đồng hồ so; 2- mâm phanh; 3- dầm cầu</entry>
+                </row>
+              </tbody>
+            </tgroup>
+          </table>
+          <para id="id6841475"/>
+        </section>
+        <section id="id-276245241096">
+          <title>Chẩn đoán hệ thống lái có trợ lực</title>
+          <para id="id6841489">a. Xác định hiệu quả của trợ lực</para>
+          <para id="id6841495">Để ô tô đứng yên tại chỗ, không nổ máy, đánh tay lái về hai phía cảm nhận lực vành lái. Cho động cơ hoạt động ở các số vòng quay khác nhau: chạy chậm, có tải, gần tải lớn nhất, đánh tay lái về hai phía cảm nhận lực vành lái.</para>
+          <para id="id6841506">So sánh bằng cảm nhận lực trên vành lái ở hai trạng thái, để biết được hiệu quả của trợ hệ thống lực lái.</para>
+          <para id="id6841516">b. Đối với hệ thống có trợ lực thủy lực</para>
+          <para id="id6841523">b1. Kiểm tra bên ngoài</para>
+          <para id="id6841528">Trước khi kiểm tra chất lượng của hệ thống trợ lực thủy lực cần thiết phải xem xét và hiệu chỉnh theo các nội dung sau:</para>
+          <para id="id6841539">Sự rò rỉ dầu trợ lực xung quanh bơm, van phân phối, xi lanh lực, các đường ống và chỗ nối.</para>
+          <para id="id6841547">Kiểm tra, điều chỉnh độ căng dây đai kéo bơm thủy lực.</para>
+          <para id="id6841554">Kiểm tra lượng dầu và chất lượng dầu, nếu cần thiết phải bổ sung dầu.</para>
+          <para id="id6841562">Kiểm tra và làm sạch lưới lọc dầu nếu có thể.</para>
+          <para id="id6841568">b2. Xác định hiệu quả trợ lực trên giá đỡ mâm xoay</para>
+          <para id="id6841575">Việc xác định hiệu quả của trợ lực còn có thể xác định trên mâm xoay. Trình tự tiến hành theo hai trạng thái động cơ không làm việc và động cơ hoạt động ở chế độ không tải. So sánh lực đánh lái trên vành lái</para>
+          <para id="id6841590">b3. Xác định chất lượng hệ thống thủy lực nhờ dụng cụ chuyên dùng đo áp suất</para>
+          <para id="id6841598">Xác đinh chất lượng hệ thống thủy lực bằng cách dùng đồng hồ đo áp suất sau bơm, như trên hình 10.35.</para>
+          <para id="id6841608">Dụng cụ đo chuyên dùng gồm: một đường ống nối thông đường dầu, trên đó có bố trí đầu nối ba ngả để dẫn dầu vào đường dầu đo áp suất, đồng hồ này có khả năng đo đến 150 kG/cm2, phía sau là van khóa đường dầu cung cấp cho van phân phối. Dụng cụ này được lắp nối tiếp trên đường dầu ra cơ cấu lái.</para>
+          <para id="id6841633"><figure id="id6841660"><media id="id14223996" alt=""><image src="../../media/graphics37.jpg" mime-type="image/jpeg" height="224" width="400"/></media></figure>Hình 10.35. Đo áp suất bơm bằng dụng cụ chuyên dùng+ Sau khi lắp dụng cụ vào đường dầu, cho động cơ làm việc, chờ cho hệ thống nóng lên tới nhiệt độ ổn định (sau 15 đến 30 giây).</para>
+          <para id="id6841703">+ Tiến hành xả hết không khí trong hệ thống thủy lực bằng cách: đánh tay lái về hai phía, tại các vị trí tận cùng dừng vành lái và giữ tại chỗ khoảng 2÷3 phút.</para>
+          <para id="id6841716">+ Để động cơ làm việc với chế độ không tải, mở hết van khóa của dụng cụ đo chuyên dùng để dầu lưu thông. Xác định áp suất làm việc của hệ thống trên đồng hồ (p1) tương ứng khi ô tô chạy thẳng.</para>
+          <para id="id6841736">+ Để động cơ làm việc với số vòng quay trung bình, đóng hết van khóa của dụng cụ để khóa kín đường dầu. Xác định áp suất làm việc của bơm không tải trên đồng hồ (p2).</para>
+          <para id="id6841754">+ Mở hoàn toàn van khóa, động cơ làm việc ở chế độ không tải, quay vành lái đến vị trí tận cùng, giữ vành lái và xác định áp suất trên đồng hồ, áp suất phải quay về trị số p2.</para>
+          <para id="id6270840">Ví dụ trên ô tô HINO FF các giá trị đo kiểm như sau:</para>
+          <para id="id6841760">p1 = 50±0,5kG/cm2 (ở 800 vòng/phút) </para>
+          <para id="id6270865">p2 = 122÷130kG/cm2 (ở 2000 vòng/phút) </para>
+          <para id="id6270884">p3 = 122kG/cm2 (ở 800 vòng/phút)</para>
+          <para id="id6270902">Nhờ việc kiểm tra như trên có thể xác định chất lượng bơm, van điều áp và lưu lượng, van phân phối xi lanh lực.</para>
+          <para id="id6270912">b4. Xác định chất lượng hệ thống thủy lực nhờ quan sát phần bị động</para>
+          <para id="id6270920">Xác định chất lượng hệ thống thủy lực nhờ quan sát phần bị động có thể thực hiện bằng các phương pháp sau:</para>
+          <para id="id6270931">+ Cho đầu xe lên các bệ kiểu mâm xoay có ghi độ. Dùng vành lái lần lượt đánh hết về hai phía, xác định chất lượng hệ thống thủy lực nhờ quan sát sự chuyển động của phần bị động:</para>
+          <para id="id6270944">- Nếu cơ cấu lái chung với xi lanh lực, quan sát sự dịch chuyển của: đòn ngang lái (cơ cấu lái bánh răng thanh răng), đòn quay đứng (nếu cơ cấu lái trục vít ê cu bi thanh răng bánh răng)</para>
+          <para id="id6270958">- Nếu xi lanh lực đặt riêng, quan sát sự dịch chuyển của cần piston xi lanh lực.</para>
+          <para id="id6270967">+ Khi không có mâm xoay chia độ có thể tiến hành kiểm tra như sau: nâng bánh xe của cầu trước lên khỏi mặt đường, quan sát sự chuyển động của phần bị động như trên.</para>
+          <para id="id6270979">c. Đối với hệ thống có trợ lực khí nén</para>
+          <para id="id6270986">c1. Kiểm tra nhanh</para>
+          <para id="id6270991">+ Độ chùng dây đai kéo máy nén khí, liên kết máy nén khí với động cơ.</para>
+          <para id="id6271000">+ Theo dõi sự rò rỉ khí nén trợ lực khi xe đứng yên và khi xe chuyển động có đánh lái.</para>
+          <para id="id6271009">+ Kiểm tra áp suất khí nén nhờ đồng hồ trên bảng tablo: khởi động động cơ, đảm bảo nạp đầy khí nén tới áp suất định mức (khoảng 8 kG/cm2) sau thời gian 2 phút.</para>
+          <para id="id6271027">+ Kiểm tra nước và dầu trong bình chứa khí, công việc này cần kiểm tra thường xuyên, nếu thấy lượng nước và dầu gia tăng đột xuất cần xem xét chất lượng của máy nén khí.</para>
+          <para id="id6271040">c2. Kiểm tra máy nén khí và van điều áp</para>
+          <para id="id6271047">Xác định chất lượng máy nén khí bằng đồng hồ đo áp suất khí nén sau máy nén:</para>
+          <para id="id6271056">- Nếu áp suất quá nhỏ (so với áp suất định mức) thì có thể do máy nén khí chất lượng kém, hở đường ống khí nén, sai lệch vị trí van điều áp và van an toàn.</para>
+          <para id="id6271068">- Nếu áp suất quá lớn chứng tỏ van điều áp và van an toàn bị hỏng.</para>
+          <para id="id6271077">c3. Xác định chất lượng hệ thống trợ lực</para>
+          <para id="id6271083">Xác định chất lượng hệ thống trợ lực bao gồm: cụm cơ cấu lái, van phân phối, xy lanh lực: tiến hành nâng cầu dẫn hướng, đánh lái về các phía đều đặn, đo lực tác dụng lên vành lái theo hai chiều, quan sát sự dịch chuyển của cần piston lực. Nếu thấy có hiện tượng lực vành lái không ổn định, sự di chuyển của cần piston lực. Nếu thấy có hiện tượng vành lái không ổn định, sự di chuyển của cần piston lực không đều đặn là do cụm cơ cấu lái, van phân phối, xi lanh lực hư hỏng.</para>
+        </section>
+      </section>
+    </section>
+    <section id="id-0902880781055">
+      <title>CHẨN ĐOÁN HỆ THỐNG TREO </title>
+      <section id="id-997281992873">
+        <title>Nhiệm vụ và cấu tạo</title>
+        <section id="id-063585139559">
+          <title>Nhiệm vụ</title>
+          <para id="id6271136">Liên kết giữa dầm cầu với khung hoặc vỏ ô tô.</para>
+        </section>
+        <section id="id-325796366391">
+          <title>Cấu tạo</title>
+          <para id="id6271152">Hệ thống treo trên ô tô bao gồm: bộ phận đàn hồi, bộ phận dẫn hướng, bộ phận giảm chấn, bộ phận ổn định ngang thân xe. </para>
+          <para id="id6271163">a. Phân loại tổng quát về hệ thống treo</para>
+          <para id="id6271169">Hệ thống treo phụ thuộc có dầm cầu cứng, trong đó bao gồm: hệ thống treo phụ thuộc đơn (dùng cho treo một cầu) đặt trên cầu trước hoặc cầu sau và hệ thống treo phụ thuộc cân bằng đặt trên cầu kép ở các cầu sau ô tô nhiều cầu.</para>
+          <para id="id6271184">Hệ thống treo độc lập, các dạng kết cấu cơ bản:</para>
+          <para id="id6271190">Hệ thống treo đòn ngang bao gồm: hai đòn ngang, một đòn ngang, đặt trên cầu trước, cầu sau. </para>
+          <para id="id6271198">Hệ thống treo đòn dọc bao gồm: đòn dọc đơn và đòn dọc có thanh ngang liên kết chỉ đặt trên cầu sau.</para>
+          <para id="id6271207">Hệ thống treo đòn chéo: đặt trên cầu sau.</para>
+          <para id="id6271213">b. Phân loại bộ phận đàn hồi</para>
+          <para id="id6271219">Nhíp lá: loại một là, loại nhiều lá bó thành bộ nhíp, loại đối xứng, loại không đối xứng. Nhíp bao gồm: lá nhíp, quang nhíp, bu lông định vị, cao su gối nhíp hạn chế hành trình.</para>
+          <para id="id6271231">Lò xo xoắn ốc: lò xo trụ, lò xo côn, lò xo xếp phẳng, loại có tiết diện điều, loại có tiết diện thay đổi</para>
+          <para id="id6418238">Thanh xoắn: thanh xoắn đơn, thanh xoắn ghép bó, loại tiết diện tròn, tiết diện vuông hay sáu cạnh.</para>
+          <para id="id6418246">Ngoài ra còn có các dạng bộ phận đàn hồi đặc biệt như: khí nén, khí nén-thủy lực-điện tử, đàn hồi bằng cao su, bộ phận đàn hồi kết hợp với giảm chấn…</para>
+          <para id="id6418259">c. Phân loại giảm chấn</para>
+          <para id="id6418265">Bộ giảm chấn gồm: xi lanh, piston, van và có các loại:</para>
+          <para id="id6418272">Giảm chấn ống một lớp vỏ được đặt trên ô tô con.</para>
+          <para id="id6418279">Giảm chấn ống hai lớp vỏ thông dụng được đặt trên ô tô con, ô tô tải và ô tô buýt.</para>
+          <para id="id6418288">Giảm chấn ống một lớp vỏ có khả năng dập tắt dao động rất cao, nhưng lại có độ bền thấp (bằng 80% tuổi thọ của loại hai lớp vỏ) nên chỉ dùng trên ô tô con có giá thành cao.</para>
+          <para id="id6418301">d. Kết cấu thanh ổn định ngang</para>
+          <para id="id6418307">Tùy thuộc yêu cầu và khả năng làm việc của hệ thống treo trên ô tô, mà có thể có mặt thanh ổn định hay không. Phần lớn ô tô con, ô tô buýt và trên một số ô tô tải có bố trí thanh ổn định ngang. Thanh ổn định ngang thường bố trí ngang theo cầu xe và sẽ làm việc khi thân xe bị nghiêng lệch về một phía, tạo điều kiện giảm góc nghiêng ngang và sàn đều tải trọng cho hai bên thùng xe của cùng một cầu.</para>
+          <para id="id6418323">Thanh ổn định có kết cấu đa dạng, phần lớn là chữ U tiết diện tròn, hình dạng và kích thước cấu tạo tùy thuộc vào yêu cầu gây nên mô men chống lật, không nhất thiết tuân thủ theo tải trọng của ô tô.</para>
+        </section>
+        <section id="id-578508925826">
+          <title>Một số tiêu chuẩn trong kiểm tra hệ thống treo</title>
+          <para id="id6418347">a. Tiêu chuẩn về độ ồn</para>
+          <para id="id6418353">Độ ồn trên ô tô do nhiều nguyên nhân. Các chỉ tiêu dưới đây là độ ồn tổng hợp: độ ồn do hệ thống treo, truyền lực, do động cơ qua khí thải và do tạo nên nguồn rung động từ động cơ, do cấu trúc thùng, vỏ xe gây nên… Khi tiến hành kiểm tra hệ thống treo có thể đo đạt xác định một số lần để kết luận nguyên nhân.</para>
+          <para id="id6418373">Tiêu chuẩn về độ ồn chung cho toàn xe phụ thuộc vào phương pháp đo: đặt microphone thu bên trong xe nhằm đo độ ồn trong xe, đặt microphone ngoài nhằm đo độ ồn ngoài. Các chỉ tiêu dưới đây dùng cho xe mới khi xuất xưởng.</para>
+          <para id="id6418388">Các tiêu chuẩn về độ ồn yêu cầu đo trong khi xe đứng yên nổ máy và khi xe chuyển động. Nhưng nếu để ý đến ảnh hưởng của hệ thống treo cần thiết kiểm tra độ ồn khi xe chuyển động. Nếu có thể kiểm tra độ ồn khi xe đứng yên thì có thể thu được các thông tin để loại trừ ảnh hưởng của các thông số khác.</para>
+          <para id="id6418403"><figure id="id6418410"><media id="id12897657" alt=""><image src="../../media/graphics38.jpg" mime-type="image/jpeg" height="656" width="609"/></media></figure>Hình 10.36. Hệ thống treo xe Zil 130</para>
+          <para id="id6418446"/>
+          <para id="id6418450">- Các thông số độ ồn cho phép của ECE (N0 41; N0 51)-1984 cho các loại ô tô khác nhau, khi thử trên đường tốt ở 80 km/h cho trong bảng.</para>
+          <para id="id6418471">- Các thông số độ ồn cho phép của Việt Nam TCVN 5948:1999 khi thử trên đường tốt ở 50 km/h cho trong bảng.</para>
+          <para id="id6418481">Bảng. Các thông số độ ồn cho phép của ECE</para>
+          <table id="id6418487" summary="">
+            <tgroup cols="4">
+              <colspec colnum="1" colname="c1"/>
+              <colspec colnum="2" colname="c2"/>
+              <colspec colnum="3" colname="c3"/>
+              <colspec colnum="4" colname="c4"/>
+              <tbody>
+                <row>
+                  <entry namest="c1" nameend="c2">Độ ồn trong ECE N0 41</entry>
+                  <entry namest="c3" nameend="c4">Độ ồn ngoài ECE N0 51</entry>
+                </row>
+                <row>
+                  <entry>Loại xe*</entry>
+                  <entry>Độ ồn dB (A) không qua</entry>
+                  <entry>Loại xe*</entry>
+                  <entry>Độ ồn dB(A) không quá</entry>
+                </row>
+                <row>
+                  <entry>M1- ô tô con</entry>
+                  <entry>80</entry>
+                  <entry>M1- ô tô con</entry>
+                  <entry>80</entry>
+                </row>
+                <row>
+                  <entry>M2- ô tô buýt đến 5 tấn</entry>
+                  <entry>82</entry>
+                  <entry>M2- ô tô buýt có tải &lt;3,5 tấn</entry>
+                  <entry>81</entry>
+                </row>
+                <row>
+                  <entry>M3- ô tô buýt hơn 5 tấn</entry>
+                  <entry>82</entry>
+                  <entry>M2, M3 ô tô buýt có tải &gt;3,5 tấn</entry>
+                  <entry>82</entry>
+                </row>
+                <row>
+                  <entry>Ô tô buýt</entry>
+                  <entry>82</entry>
+                  <entry>M2, M3 ô tô buýt có động cơ &gt;147kW</entry>
+                  <entry>85</entry>
+                </row>
+                <row>
+                  <entry>Các loại buýt</entry>
+                  <entry>84</entry>
+                  <entry/>
+                  <entry>80</entry>
+                </row>
+                <row>
+                  <entry namest="c1" nameend="c2">Chú thích: (*) Loại xe xem trong phân loại xe.</entry>
+                  <entrytbl namest="c3" nameend="c4" cols="2">
+                    <colspec colnum="1" colname="c1"/>
+                    <colspec colnum="2" colname="c2"/>
+                    <tbody>
+                      <row>
+                        <entry>N2 ô tô tải có tải &lt;3,5 tấn</entry>
+                        <entry>81</entry>
+                      </row>
+                      <row>
+                        <entry>N2, N3 ô tô tải có tải &lt;12 tấn</entry>
+                        <entry>86</entry>
+                      </row>
+                      <row>
+                        <entry>N3 ô tô tải có tải &gt;12 tấn động cơ &gt;147kW</entry>
+                        <entry>88</entry>
+                      </row>
+                    </tbody>
+                  </entrytbl>
+                </row>
+              </tbody>
+            </tgroup>
+          </table>
+          <para id="id6433333">Bảng. Các thông số độ ồn ngoài cho phép của Việt Nam 1999.</para>
+          <table id="id6433340" summary="">
+            <tgroup cols="2">
+              <colspec colnum="1" colname="c1"/>
+              <colspec colnum="2" colname="c2"/>
+              <tbody>
+                <row>
+                  <entry namest="c1" nameend="c2">Độ ồn ngoài TCVN 5948:1999</entry>
+                </row>
+                <row>
+                  <entry>Loại xe</entry>
+                  <entry>Độ ồn dB (A) không quá</entry>
+                </row>
+                <row>
+                  <entry>M1 ô tô con</entry>
+                  <entry>74÷77</entry>
+                </row>
+                <row>
+                  <entry>M2- ô tô buýt có tải &lt;3,5 tấn</entry>
+                  <entry>76÷79</entry>
+                </row>
+                <row>
+                  <entry>M2, M3 ô tô buýt có tải &gt;3,5 tấn</entry>
+                  <entry>78÷83</entry>
+                </row>
+                <row>
+                  <entry>M2, M3 ô tô buýt có động cơ &gt;147kW</entry>
+                  <entry>77÷84</entry>
+                </row>
+                <row>
+                  <entry>N2, N3 ô tô tải có tải &lt;12 tấn</entry>
+                  <entry>78÷83</entry>
+                </row>
+                <row>
+                  <entry>N3 ô tô tải có tải &gt;12 tấn động cơ &gt;147kW</entry>
+                  <entry>77÷84</entry>
+                </row>
+              </tbody>
+            </tgroup>
+          </table>
+          <para id="id5930976">b. Tiêu chuẩn về độ bám đường của ECE</para>
+          <para id="id5930983">Trong khoảng tần số kích động từ thiết bị gây rung, giá trị độ bám dính bánh xe trên nền không nhỏ hơn 70%</para>
+          <para id="id5930993"><figure id="id5931000"><media id="id10014608" alt=""><image src="../../media/graphics39.jpg" mime-type="image/jpeg" height="259" width="509"/></media></figure>Tiêu chuẩn về độ bám đường</para>
+        </section>
+      </section>
+      <section id="id-333437219261">
+        <title>Hư hỏng của hệ thống treo</title>
+        <section id="id-442126425019">
+          <title>Bộ phận dẫn hướng:</title>
+          <para id="id5931047">Mòn các khớp trụ, khớp cầu.</para>
+          <para id="id5931053">Biến dạng khâu: đòn giằng, bệ đỡ, bệ xoay, dầm cầu, nhíp lá, quang treo.</para>
+          <para id="id5931060">Sai lệch các thông số cấu trúc, các chỗ điều chỉnh, vấu giảm va, vấu tăng cứng…</para>
+          <para id="id5931068">Các hư hỏng này sẽ làm cho bánh xe mất quan hệ động học, động lực học đúng, gây nên mài mòn lốp nhanh, mất khả năng ổn định chuyển động, mất tính dẫn hướng của xe… Tùy theo mức độ hư hỏng mà biểu hiện của nó rõ nét hay mờ.</para>
+        </section>
+        <section id="id-364426598577">
+          <title>Bộ phận đàn hồi</title>
+          <para id="id5931092">Bộ phận đàn hồi quyết định tần số dao động riêng của ô tô, do vậy khi hư hỏng sẽ ảnh hưởng nhiều tới các chỉ tiêu chất lượng đã kể trên.</para>
+          <para id="id5931104">Giảm độ cứng, hậu quả của nó là giảm chiều cao của thân xe, tăng khả năng va đập cứng khi phanh hay tăng tốc, gây ồn, đồng thời dẫn tới tăng gia tốc dao động thân xe, làm xấu độ êm dịu khi xe đi trên đường xấu.</para>
+          <para id="id5931118">Bó kẹt nhíp do hết mỡ bôi trơn làm tăng độ cứng, hậu quả của việc bó cứng nhíp làm cho ô tô chuyển động trên đường xấu bị rung xóc mạnh, mất êm dịu chuyển động, tăng lực tác dụng lên thân xe, giảm khả năng bám dính, tuổi thọ của giảm chấn trên cầu xe sẽ thấp.</para>
+          <para id="id5931132">Gãy bộ phận đàn hồi do quá tải khi làm việc, hay do mỏi của vật liệu. Khi gãy một số lá nhíp trung gian sẽ dẫn tới giảm độ cứng. Khi bị gãy các lá nhíp chính thì bộ nhíp sẽ mất vai trò của bộ phận dẫn hướng. Nếu là lò xo xoắn ốc hay thanh xoắn bị gãy, sẽ dẫn tới mất tác dụng bộ phận đàn hồi.</para>
+          <para id="id5931147">Vỡ ụ tăng cứng của hệ thống treo làm mềm bộ phận đàn hồi, tăng tải trọng tác dụng lên bộ phận đàn hồi. Vỡ ụ tỳ hạn chế hành trình cũng tăng tải trọng tác dụng lên bộ phận đàn hồi. Cả hai trường hợp này đều gây nên va đập, tăng ồn trong hệ thống treo. Các tiếng ồn của hệ thống treo sẽ làm cho toàn bộ thân xe hay vỏ xe phát ra tiếng ồn lớn, làm xấu môi trường hoạt động của ô tô.</para>
+          <para id="id5931161">Rơ lỏng các liên kết như: quang nhíp, đai kẹp, giá đỡ lò xo…đều gây nên tiếng ồn, xô lệch cầu ô tô, khó điều khiển, nặng tay lái, tăng độ ồn khi xe hoạt động, dễ gây tai nạn giao thông.</para>
+        </section>
+        <section id="id-859740691963">
+          <title>Bộ phận giảm chấn</title>
+          <para id="id5931182">Bộ phận giảm chấn cần thiết phải làm việc với lực cản hợp lý nhằm dập tắt nhanh chóng dao động thân xe. Hư hỏng của giảm chấn dẫn tới thay đổi lực cản này. Tức là giảm khả năng dập tắt dao động của thân xe, đặc biệt gây nên giảm mạnh độ bám dính trên nền đường.</para>
+          <para id="id5931198">Các hư hỏng thường gặp là:</para>
+          <para id="id5931205">Mòn bộ đôi xy lanh, piston. Piston xi lanh đóng vai trò dẫn hướng và cùng với séc măng hay phớt làm nhiệm vụ bao kín các khoang dầu. Trong quá trình làm việc của giảm chấn piston và xi lanh dịch chuyển tương đối, gây mòn nhiều trên piston, làm xấu khả năng dẫn hướng và bao kín. Khi đó, sự thay đổi thể tích các khoang dầu, ngoài việc dầu lưu thông qua lỗ tiết lưu, còn chảy qua giữa khe hở của piston và xi lanh, gây giảm lực cản trong cả hai hành trình nén và trả, mất dần tác dụng dập tắt dao động nhanh.</para>
+          <para id="id5931231">Hở phớt bao kín và chảy dầu của giảm chấn. Hư hỏng này hay xảy ra đối với giảm chấn ống, đặc biệt trên giảm chấn ống một lớp vỏ. Do điều kiện bôi trơn của phớt bao kín và cần piston hạn chế, nên sự mòn là không thể tránh được sau thời gian dài sử dụng, dầu có thể chảy qua khe phớt làm mất tác dụng giảm chấn. Sự thiếu dầu giảm chấn hai lớp vỏ dẫn tới lọt không khí vào buồng bù, giảm tính chất ổn định làm việc. Ở giảm chấn một lớp vỏ, sự hở phớt bao kín dẫn tới đẩy hết dầu ra ngoài và giảm nhanh áp suất. Ngoài ra sự hở phớt còn kéo theo bụi bẩn bên ngoài vào và tăng nhanh tốc độ mài mòn.</para>
+          <para id="id5931262">Dầu biến chất sau một thời gian sử dụng. Thông thường dầu trong giảm chấn được pha thêm phụ gia đặc biệt để tăng tuổi thọ khi làm việc ở nhiệt độ và áp suất thay đổi. Giữ được độ nhớt trong khoảng thời gian dài. Khi có nước hay tạp chất hóa học lẫn vào dễ làm dầu biến chất. Các tính chất cơ lý thay đổi làm cho tác dụng của giảm chấn mất đi, có khi làm bó kẹt giảm chấn.</para>
+          <para id="id5931276">Kẹt van giảm chấn có thể xảy ra ở hai dạng: luôn mở hoặc luôn đóng. Nếu các van kẹt mở thì lực cản giảm chấn bị giảm nhỏ. Nếu van giảm chấn bị kẹt đóng thì lực cản giảm chấn không được điều chỉnh, làm tăng lực cản giảm chấn. Sự kẹt van giảm chấn chỉ xảy ra khi dầu thiếu hay bị bẩn, phớt bao kín bị hở. Các biểu hiện của hư hỏng này phụ thuộc vào các trạng thái kẹt của van ở hành trình trả hay van làm việc ở hành trình nén, van giảm tải…</para>
+          <para id="id5931290">Thiếu dầu, hết dầu đều xuất phát từ các hư hỏng của phớt bao kín. Khi thiếu dầu hay hết dầu giảm chấn vẫn còn khả năng dịch chuyển thì nhiệt phát sinh trên vỏ rất lớn, tuy nhiên khi đó độ cứng của giảm chấn thay đổi, làm xâu chức năng của nó. Có nhiều trường hợp hết dầu có thể gây kẹt giảm chấn, cong trục.</para>
+          <para id="id5931305">Do quá tải trong làm việc, cần piston giảm chấn bị cong, gây kẹt hoàn toàn giảm chấn.</para>
+          <para id="id5666711">Nát cao su chỗ liên kết có thể phát hiện thông qua quan sát các đầu liên kết. khi bị vỡ nát ô tô chạy trên đường xấu gây nên va chạm mạnh, kèm theo tiếng ồn.</para>
+          <para id="id5666722">Các hư hỏng của giảm chấn kể trên có thể phát hiện thông qua cảm nhận về độ êm dịu chuyển động, nhiệt độ vỏ ngoài giảm chấn, sự chảy dầu hay đo trên bệ kiểm tra hệ thống treo.</para>
+        </section>
+        <section id="id-426055981744">
+          <title>Bánh xe</title>
+          <para id="id5666743">Bánh xe có thể được coi là một phần trong hệ thống treo, các thay đổi chính trong sử dụng là: áp suất lốp, độ mòn, mất cân bằng…</para>
+        </section>
+        <section id="id-646815695975">
+          <title>Thanh ổn định</title>
+          <para id="id5666763">Hư hỏng của thanh ổn định chủ yếu là: nát các gối tựa cao su, giảm độ cứng, hư hỏng các đòn liên kết. Hậu quả của các hư hỏng này cũng tương tự như của bộ phận đàn hồi, nhưng xảy ra khi ô tô bị nghiêng hay chạy trên đường có sóng ghềnh.</para>
+        </section>
+      </section>
+      <section id="id-78828028787">
+        <title>Kiểm tra, điều chỉnh hệ thống treo </title>
+        <para id="id5666789">- Quan sát sự rạn nứt của nhíp, vặn chặt các mối ghép: quang nhíp, các đầu cố định, di động của nhíp...</para>
+        <para id="id5666800">- Bôi trơn cho ắc nhíp.</para>
+        <para id="id5666806">- Đo độ võng tĩnh của nhíp so sánh với tiêu chuẩn, nếu không đảm bảo phải thay mới.</para>
+        <para id="id5666815">- Kiểm tra độ mòn của ắc nhíp, bạc ắc nhíp.</para>
+        <para id="id5666823">- Đối với giảm chấn phải kiểm tra rò rỉ dầu (với giảm chấn ống, rỉ dầu nhiều phải thay mới, với giảm chấn đòn bổ xung dầu giảm chấn qua lỗ bổ xung dầu), xiết chặt các mối ghép...</para>
+      </section>
+    </section>
+    <section id="id-927507064555">
+      <title>CHẨN ĐOÁN HỆ THỐNG PHANH</title>
+      <section id="id-0119268633924">
+        <title>Nhiệm vụ và cấu tạo chung của hệ thống phanh</title>
+        <section id="id-504029169675">
+          <title>Nhiệm vụ</title>
+          <para id="id5666863">Hệ thống phanh dùng để giảm tốc độ của ô tô cho đến khi dừng lại hẳn, đảm bảo tính năng an toàn khi sử dụng ô tô.</para>
+        </section>
+        <section id="id-140126993658">
+          <title>Cấu tạo</title>
+          <para id="id5666882">Cấu tạo phụ thuộc từng loại hệ thống phanh.</para>
+          <para id="id5666889">a. Phân loại hệ thống phanh</para>
+          <para id="id5666895">Theo kết cấu</para>
+          <para id="id5666900">- Hệ thống phanh thủy lực: thường gặp trên ô tô con, ô tô tải nhẹ (tổng trọng lượng không quá 12 tấn) và có thể chia ra:</para>
+          <para id="id5666911">+ Phanh thủy lực đơn giản, gồm có: bàn đạp, xi lanh chính, xi lanh bánh xe, cơ cấu phanh.</para>
+          <para id="id5666920">+ Phanh thủy lực có trợ lực bàn đạp phanh, các dạng trợ lực là: trợ lực chân không, điện tử (dùng cho ô tô nhỏ), trợ lực khí nén, thủy lực (dùng cho ô tô tải nhỏ và vừa).</para>
+          <para id="id5666934">+ Phanh thủy lực có điều chỉnh lực phanh cho bánh xe, các bộ điều chỉnh thường dùng là: bộ điều hòa lực phanh đơn giản (trên cơ sở van hạn chế áp suất cho các bánh xe cầu sau), bộ điều chỉnh tự động chống trượt lết (điều chỉnh sự phanh theo khả năng chống bó cứng bánh xe ABS…)</para>
+          <para id="id5666950">- Hệ thống phanh khí nén: thường gặp trên ô tô tải, ô tô buýt loại vừa, nặng và có thể chia ra:</para>
+          <para id="id5666959">+ Phanh khí nén đơn giản gồm: bàn đạp, van phanh, máy nén khí, bộ điều áp, bình chứa khí nén, bầu phanh bánh xe, cơ cấu phanh.</para>
+          <para id="id5666970">+ Phanh khí nén có điều chỉnh lực phanh, các bộ điều chỉnh thường dùng là: bộ điều chỉnh đơn giản, bộ điều chỉnh tự động chống trượt lết (điều chỉnh phanh theo khả năng chống bó cứng bánh xe ABS…)</para>
+          <para id="id5666985">- Hệ thống phanh thủy lực khí nén: thường gặp trên ô tô tải nhẹ và trung bình (tổng trọng lượng 6 tấn đến không quá 22 tấn). Hệ thống phanh loại này dùng chất lỏng điều khiển cơ cấu phanh thông qua xi lanh bánh xe như hệ thống phanh thủy lực, việc tạo áp lực cho chất lỏng nhờ hệ thống cung cấp khí nén qua van phân phối và xi lanh khí nén. Hệ thống này cho phép có các ưu điểm chung của cả hệ thống khí nén và hệ thống thủy lực.</para>
+          <para id="id5667000"><figure id="id5667008"><media id="id9298539" alt=""><image src="../../media/graphics40.png" mime-type="image/png" height="342" width="475"/></media></figure>Hình 10.37. Sơ đồ hệ thống phanh khí nén xe ZIL 130</para>
+          <para id="id5667044">Việc chia hai dòng phanh có thể được thực hiện tại van phân phối khí nén hay tại xi lanh chính thủy lực.</para>
+          <para id="id5667054">Theo số dòng dẫn động: dẫn động điều khiển một dòng, hai dòng.</para>
+          <para id="id5667061">Theo qui chuẩn của quốc tế chỉ cho phép dùng loại dẫn động điều khiển hai dòng, các dòng điều khiển làm việc độc lập với nhau, nhằm tránh xảy ra mất phanh cùng một lúc trên tất cả hệ thống phanh, nâng cao độ tin cậy, an toàn cho xe khi chuyển động. Cấu trúc hai dòng có thể là: độc lập, song song (bố trí hỗn hợp).</para>
+          <para id="id5667077">Theo vị trí cơ cấu phanh: bố trí ở trong lòng bánh xe, bố trí ở cạnh cầu xe.</para>
+          <para id="id5667085">Theo tiêu chuẩn kiểm tra chất lượng phanh:</para>
+          <para id="id5667091">- Loại M: M1 cho ô tô con, M2 cho ô tô buýt có tổng trọng lượng đến 5 tấn, M3 lớn hơn 5tấn.</para>
+          <para id="id5667101">- Loại N dùng cho ô tô tải: N1 cho ô tô tải có tổng trọng lượng đến 3,5 tấn, N2 từ 3,5 đến 12 tấn, N3 lớn hơn 12 tấn.</para>
+          <para id="id5667111">- Loại O dùng cho các loại rơmoóc và bán rơmoóc.</para>
+          <para id="id6129144">b. Phân loại cơ cấu phanh</para>
+          <para id="id6129149">Cơ cấu phanh dạng tang trống.</para>
+          <para id="id6129155">Cơ cấu phanh dạng đĩa.</para>
+          <para id="id6129160">Kết cấu của phanh đĩa rất đa dạng, các chức năng hoàn thiện nhiều, chẳng hạn: trong các phanh đĩa nằm trên bánh xe sau thường có cơ cấu liên động điều khiển với phanh tay, cơ cấu tự động điều chỉnh khe hở má phanh và đĩa phanh, cảm biến đo tốc độ quay của bánh xe…Do đó các hư hỏng xảy ra có thể là các biểu hiện không rõ ràng. Việc phân tích hư hỏng và chẩn đoán kỹ thuật cần nắm chắc kết cấu cụ thể của chúng.</para>
+          <para id="id6129176">3. Một số tiêu chuẩn cơ bản trong kiểm tra hiệu quả phanh</para>
+          <para id="id6129183">a. Các yêu cầu cơ bản khi kiểm tra hệ thống phanh</para>
+          <para id="id6129190">Hệ thống phanh là một hệ thống đảm bảo an toàn chuyển động cho ô tô. Do vậy phải chấp hành những yêu cầu kiểm tra khắt khe, nhất là đối với ô tô thường xuyên hoạt động ở tốc độ cao. Các yêu cầu sau:</para>
+          <para id="id6129204">- Phải đảm bảo nhanh chóng dừng xe khẩn cấp trong bất kỳ tình huống nào. Khi phanh đột ngột, xe phải dừng sau sau quãng đường phanh ngắn nhất, tức là có gia tốc phanh cực đại.</para>
+          <para id="id6129218">- Phải đảm bảo phanh giảm tốc độ ô tô trong mọi điều kiện sử dụng, lực phanh trên bàn đạp phải tỷ lệ với hành trình bàn đạp, có khả năng rà phanh khi cần thiết. Hiệu quả phanh cao và phải kèm theo sự phanh êm dịu để đảm bảo phanh chuyển động với gia tốc chậm dần biến đổi đều đặn giữ ổn định chuyển động của xe.</para>
+          <para id="id6129233">- Tối thiểu trên ô tô phải có hai hệ thống phanh là: phanh chính và phanh dự phòng (phanh chân và phanh tay). Hai hệ thống đều phải sẵn sàng làm việc khi cần thiết. Dẫn động phanh tay và phanh chân làm việc độc lập không ảnh hưởng lẫn nhau. Phanh tay có thể thay thế phanh chân khi phanh chân có sự cố. Phanh tay dùng để giữ nguyên vị trí xe trên đường bằng cũng như trên dốc nghiêng theo thiết kế ban đầu.</para>
+          <para id="id6129249">- Lực điều khiển không quá lớn và điều khiển nhẹ nhàng, dễ dàng kể cả điều khiển bằng chân hoặc bằng tay.</para>
+          <para id="id6129260">- Hành trình bàn đạp phanh hoặc tay phanh phải thích hợp và nằm trong phạm vi điều khiển có thể của người sử dụng.</para>
+          <para id="id6129270">- Hệ thống phanh cần có độ nhạy cao, hiệu quả phanh không thay đổi nhiều giữa các lần phanh. Độ chậm tác dụng phải nhỏ và có thể làm việc nhanh chóng tạo hiệu quả phanh ô tô ngay sau khi vừa mới thôi phanh.</para>
+          <para id="id6129285">- Khi phanh lực phanh phát sinh ra giữa các bánh xe cùng một cầu phải bằng nhau, Nếu có sai lệch thì phải nhỏ trong phạm vi cho phép. Khi thử phanh trên đường phải đúng quỹ đạo mong muốn theo điều khiển.</para>
+          <para id="id6129299">- Các hệ thống điều khiển có trợ lực phanh, khi bị hư hỏng trợ lực, hệ thống phanh vẫn được điều khiển và có tác dụng lên ô tô.</para>
+          <para id="id6129310">- Đảm bảo độ tin cậy sử dụng của ô tô trong cả hệ thống và các chi tiết trong hệ thống, nhất là các chi tiết bao kín bằng vật liệu cao su, nhựa tổng hợp.</para>
+          <para id="id6129323">- Các cơ cấu phanh phải thoát nhiệt tốt, không truyền nhiệt ra các khu vực làm ảnh hưởng tới sự làm việc của các cơ cấu xung quanh (lốp xe, moay ơ…) phải dễ dàng điều chỉnh, thay thế các chi tiết hư hỏng.</para>
+          <para id="id6129337">b. Một số tiêu chuẩn cơ bản trong kiểm tra</para>
+          <para id="id6129344">Các quốc gia khác nhau đều có tiêu chuẩn riêng cho phù hợp với mức độ phát triển kinh tế, chính vì vậy các tiêu chuẩn sử dụng đều không giống nhau. Tiêu chuẩn cơ bản trong kiểm tra hiệu quả phanh cho trong bảng 10.1 của ECE R13 Châu Âu, và của TCVN 6919-2001 Việt Nam trong trường hợp lắp ráp, xuất xưởng ô tô.</para>
+          <para id="id6129359">+ Khi phanh xe trên đường quỹ đạo chuyển động của ô tô không lệch quá 80 so với phương chuyển động thẳng và không bị lệch bên 3,50m.</para>
+          <para id="id6129376">+ Tiêu chuẩn kiểm tra chất lượng phanh chân dùng trong kiểm định lưu hành của Việt Nam do bộ GTVT ban hành trong bản 10.2. Tiêu chuẩn ngành 224-2000.</para>
+          <para id="id6129388">Cũng trong tiêu chuẩn này yêu cầu cho phanh tay: khi phanh tay (phanh dừng xe) xe được dừng trên dốc (độ dốc 20%), hay lực phanh trên bánh xe kiểm tra trên bệ thử không nhỏ hơn 16% trọng lượng ô tô.</para>
+          <para id="id6129401">Tiêu chuẩn Châu Âu: ECE-R13</para>
+          <table id="id6129407" summary="">
+            <tgroup cols="3">
+              <colspec colnum="1" colname="c1"/>
+              <colspec colnum="2" colname="c2"/>
+              <colspec colnum="3" colname="c3"/>
+              <tbody>
+                <row>
+                  <entry namest="c1" nameend="c2">ECE-R13Trọng lượng lớn</entry>
+                  <entrytbl cols="6">
+                    <colspec colnum="1" colname="c1"/>
+                    <colspec colnum="2" colname="c2"/>
+                    <colspec colnum="3" colname="c3"/>
+                    <colspec colnum="4" colname="c4"/>
+                    <colspec colnum="5" colname="c5"/>
+                    <colspec colnum="6" colname="c6"/>
+                    <tbody>
+                      <row>
+                        <entry namest="c1" nameend="c3">Ô tô chở người</entry>
+                        <entry namest="c4" nameend="c6">Ô tô chở hàng</entry>
+                      </row>
+                      <row>
+                        <entry>Ô tô con</entry>
+                        <entry namest="c2" nameend="c3">Ô Tô buýt</entry>
+                        <entry namest="c4" nameend="c6">Ô tô có tổng trọng lượng</entry>
+                      </row>
+                      <row>
+                        <entry>M1</entry>
+                        <entry>M2</entry>
+                        <entry>M3</entry>
+                        <entry>≤3,5Tấn N1</entry>
+                        <entry>&gt;3,5tấn,≤12Tấn N2</entry>
+                        <entry>&gt;12Tấn N3</entry>
+                      </row>
+                    </tbody>
+                  </entrytbl>
+                </row>
+                <row>
+                  <entry>Phanh chính (chân)</entry>
+                  <entrytbl namest="c2" nameend="c3" cols="7">
+                    <colspec colnum="1" colname="c1"/>
+                    <colspec colnum="2" colname="c2"/>
+                    <colspec colnum="3" colname="c3"/>
+                    <colspec colnum="4" colname="c4"/>
+                    <colspec colnum="5" colname="c5"/>
+                    <colspec colnum="6" colname="c6"/>
+                    <colspec colnum="7" colname="c7"/>
+                    <tbody>
+                      <row>
+                        <entry>Tốc độ ban đầu (v) km/h</entry>
+                        <entry>80</entry>
+                        <entry>60</entry>
+                        <entry>60</entry>
+                        <entry>80</entry>
+                        <entry>60</entry>
+                        <entry>60</entry>
+                      </row>
+                      <row>
+                        <entry>Công thức tính toán gần đúng quãng đường phanh</entry>
+                        <entry>
+                          <m:math>
+                            <m:semantics>
+                              <m:mrow>
+                                <m:mstyle fontsize="12pt">
+                                  <m:mrow>
+                                    <m:mrow>
+                                      <m:mn>0,1</m:mn>
+                                      <m:mrow>
+                                        <m:mi>v</m:mi>
+                                        <m:mo stretchy="false">+</m:mo>
+                                        <m:mfrac>
+                                          <m:msup>
+                                            <m:mi>v</m:mi>
+                                            <m:mstyle fontsize="8pt">
+                                              <m:mrow>
+                                                <m:mn>2</m:mn>
+                                              </m:mrow>
+                                            </m:mstyle>
+                                          </m:msup>
+                                          <m:mtext>150</m:mtext>
+                                        </m:mfrac>
+                                      </m:mrow>
+                                    </m:mrow>
+                                  </m:mrow>
+                                </m:mstyle>
+                                <m:mrow/>
+                              </m:mrow>
+                              <m:annotation encoding="StarMath 5.0"> size 12{0,1v+ {  {v rSup { size 8{2} } }  over  {"150"} } } {}</m:annotation>
+                            </m:semantics>
+                          </m:math>
+                        </entry>
+                        <entry namest="c3" nameend="c4">
+                          <m:math>
+                            <m:semantics>
+                              <m:mrow>
+                                <m:mstyle fontsize="12pt">
+                                  <m:mrow>
+                                    <m:mrow>
+                                      <m:mn>0,</m:mn>
+                                      <m:mtext>15</m:mtext>
+                                      <m:mrow>
+                                        <m:mi>v</m:mi>
+                                        <m:mo stretchy="false">+</m:mo>
+                                        <m:mfrac>
+                                          <m:msup>
+                                            <m:mi>v</m:mi>
+                                            <m:mstyle fontsize="8pt">
+                                              <m:mrow>
+                                                <m:mn>2</m:mn>
+                                              </m:mrow>
+                                            </m:mstyle>
+                                          </m:msup>
+                                          <m:mtext>130</m:mtext>
+                                        </m:mfrac>
+                                      </m:mrow>
+                                    </m:mrow>
+                                  </m:mrow>
+                                </m:mstyle>
+                                <m:mrow/>
+                              </m:mrow>
+                              <m:annotation encoding="StarMath 5.0"> size 12{0,"15"v+ {  {v rSup { size 8{2} } }  over  {"130"} } } {}</m:annotation>
+                            </m:semantics>
+                          </m:math>
+                        </entry>
+                        <entry namest="c5" nameend="c7"><m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mn>0,</m:mn><m:mtext>15</m:mtext><m:mrow><m:mi>v</m:mi><m:mo stretchy="false">+</m:mo><m:mfrac><m:msup><m:mi>v</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mn>2</m:mn></m:mrow></m:mstyle></m:msup><m:mtext>130</m:mtext></m:mfrac></m:mrow></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{0,"15"v+ {  {v rSup { size 8{2} } }  over  {"130"} } } {}</m:annotation></m:semantics></m:math>(*)</entry>
+                      </row>
+                      <row>
+                        <entry>Quãng đường phanh ≤m</entry>
+                        <entry>50,7</entry>
+                        <entry>36,7</entry>
+                        <entry>36,7</entry>
+                        <entry>61,2</entry>
+                        <entry>36,7</entry>
+                        <entry>36,7</entry>
+                      </row>
+                      <row>
+                        <entry>Gia tốc chậm dần trung bình ≥m/s2</entry>
+                        <entry>5,8</entry>
+                        <entry namest="c3" nameend="c4">5,0</entry>
+                        <entry namest="c5" nameend="c7">5,0</entry>
+                      </row>
+                      <row>
+                        <entry>Lực bàn đạp max ≤N</entry>
+                        <entry>500</entry>
+                        <entry namest="c3" nameend="c4">700</entry>
+                        <entry namest="c5" nameend="c7">700</entry>
+                      </row>
+                      <row>
+                        <entry>Thời gian chậm tác dụng max ≤s</entry>
+                        <entry>0,36s</entry>
+                        <entry namest="c3" nameend="c4">0,54s</entry>
+                        <entry namest="c5" nameend="c7">0,54s</entry>
+                      </row>
+                    </tbody>
+                  </entrytbl>
+                </row>
+                <row>
+                  <entry>Phanh tay</entry>
+                  <entrytbl namest="c2" nameend="c3" cols="7">
+                    <colspec colnum="1" colname="c1"/>
+                    <colspec colnum="2" colname="c2"/>
+                    <colspec colnum="3" colname="c3"/>
+                    <colspec colnum="4" colname="c4"/>
+                    <colspec colnum="5" colname="c5"/>
+                    <colspec colnum="6" colname="c6"/>
+                    <colspec colnum="7" colname="c7"/>
+                    <tbody>
+                      <row>
+                        <entry>Tốc độ ban đầu phanh (v) km/h</entry>
+                        <entry>80</entry>
+                        <entry>60</entry>
+                        <entry>60</entry>
+                        <entry>70</entry>
+                        <entry>50</entry>
+                        <entry>40</entry>
+                      </row>
+                      <row>
+                        <entry>Công thức tính toán gần đúng quãng đường phanh</entry>
+                        <entry>
+                          <m:math>
+                            <m:semantics>
+                              <m:mrow>
+                                <m:mstyle fontsize="12pt">
+                                  <m:mrow>
+                                    <m:mrow>
+                                      <m:mn>0,1</m:mn>
+                                      <m:mrow>
+                                        <m:mi>v</m:mi>
+                                        <m:mo stretchy="false">+</m:mo>
+                                        <m:mfrac>
+                                          <m:msup>
+                                            <m:mn>2v</m:mn>
+                                            <m:mstyle fontsize="8pt">
+                                              <m:mrow>
+                                                <m:mn>2</m:mn>
+                                              </m:mrow>
+                                            </m:mstyle>
+                                          </m:msup>
+                                          <m:mtext>150</m:mtext>
+                                        </m:mfrac>
+                                      </m:mrow>
+                                    </m:mrow>
+                                  </m:mrow>
+                                </m:mstyle>
+                                <m:mrow/>
+                              </m:mrow>
+                              <m:annotation encoding="StarMath 5.0"> size 12{0,1v+ {  {2v rSup { size 8{2} } }  over  {"150"} } } {}</m:annotation>
+                            </m:semantics>
+                          </m:math>
+                        </entry>
+                        <entry namest="c3" nameend="c4">
+                          <m:math>
+                            <m:semantics>
+                              <m:mrow>
+                                <m:mstyle fontsize="12pt">
+                                  <m:mrow>
+                                    <m:mrow>
+                                      <m:mn>0,</m:mn>
+                                      <m:mtext>15</m:mtext>
+                                      <m:mrow>
+                                        <m:mi>v</m:mi>
+                                        <m:mo stretchy="false">+</m:mo>
+                                        <m:mfrac>
+                                          <m:msup>
+                                            <m:mn>2v</m:mn>
+                                            <m:mstyle fontsize="8pt">
+                                              <m:mrow>
+                                                <m:mn>2</m:mn>
+                                              </m:mrow>
+                                            </m:mstyle>
+                                          </m:msup>
+                                          <m:mtext>130</m:mtext>
+                                        </m:mfrac>
+                                      </m:mrow>
+                                    </m:mrow>
+                                  </m:mrow>
+                                </m:mstyle>
+                                <m:mrow/>
+                              </m:mrow>
+                              <m:annotation encoding="StarMath 5.0"> size 12{0,"15"v+ {  {2v rSup { size 8{2} } }  over  {"130"} } } {}</m:annotation>
+                            </m:semantics>
+                          </m:math>
+                        </entry>
+                        <entry namest="c5" nameend="c7"><m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mn>0,</m:mn><m:mtext>15</m:mtext><m:mrow><m:mi>v</m:mi><m:mo stretchy="false">+</m:mo><m:mfrac><m:msup><m:mn>2v</m:mn><m:mstyle fontsize="8pt"><m:mrow><m:mn>2</m:mn></m:mrow></m:mstyle></m:msup><m:mtext>115</m:mtext></m:mfrac></m:mrow></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{0,"15"v+ {  {2v rSup { size 8{2} } }  over  {"115"} } } {}</m:annotation></m:semantics></m:math>(*)</entry>
+                      </row>
+                      <row>
+                        <entry>Quãng đường phanh ≤m</entry>
+                        <entry>93,3</entry>
+                        <entry>64,4</entry>
+                        <entry>64,4</entry>
+                        <entry>95,7</entry>
+                        <entry>54,0</entry>
+                        <entry>38,3</entry>
+                      </row>
+                      <row>
+                        <entry>Gia tốc chậm dần trung bình ≥m/s2</entry>
+                        <entry>2,9</entry>
+                        <entry>2,5</entry>
+                        <entry/>
+                        <entry namest="c5" nameend="c7">2,2</entry>
+                      </row>
+                      <row>
+                        <entry>Lực tay kéo max ≤N</entry>
+                        <entry>400</entry>
+                        <entry namest="c3" nameend="c4">600</entry>
+                        <entry namest="c5" nameend="c7">600</entry>
+                      </row>
+                    </tbody>
+                  </entrytbl>
+                </row>
+              </tbody>
+            </tgroup>
+          </table>
+          <para id="id3990871">Chú thích: (*)-Công thức tính toán gần đúng quãng đường phanh lấy bằng n,v tính bằng km/h</para>
+          <para id="id3990880">Tiêu chuẩn ngành 22-TTN 224-2000</para>
+          <table id="id3990885" summary="">
+            <tgroup cols="3">
+              <colspec colnum="1" colname="c1"/>
+              <colspec colnum="2" colname="c2"/>
+              <colspec colnum="3" colname="c3"/>
+              <tbody>
+                <row>
+                  <entry namest="c1" nameend="c2">22-TCN 224:2000Trọng lượng lớn nhất</entry>
+                  <entrytbl cols="5">
+                    <colspec colnum="1" colname="c1"/>
+                    <colspec colnum="2" colname="c2"/>
+                    <colspec colnum="3" colname="c3"/>
+                    <colspec colnum="4" colname="c4"/>
+                    <colspec colnum="5" colname="c5"/>
+                    <tbody>
+                      <row>
+                        <entry namest="c1" nameend="c3">Ô tô chở người</entry>
+                        <entry namest="c4" nameend="c5">Ô tô chở hàng</entry>
+                      </row>
+                      <row>
+                        <entry>Ô tô con</entry>
+                        <entry namest="c2" nameend="c3">Ô tô buýt</entry>
+                        <entry namest="c4" nameend="c5">Ô tô tải</entry>
+                      </row>
+                      <row>
+                        <entry/>
+                        <entry>≤8,0Tấn</entry>
+                        <entry>&gt;8,0Tấn</entry>
+                        <entry>≤8,0Tấn</entry>
+                        <entry>&gt;8,0Tấn</entry>
+                      </row>
+                    </tbody>
+                  </entrytbl>
+                </row>
+                <row>
+                  <entry/>
+                  <entrytbl namest="c2" nameend="c3" cols="6">
+                    <colspec colnum="1" colname="c1"/>
+                    <colspec colnum="2" colname="c2"/>
+                    <colspec colnum="3" colname="c3"/>
+                    <colspec colnum="4" colname="c4"/>
+                    <colspec colnum="5" colname="c5"/>
+                    <colspec colnum="6" colname="c6"/>
+                    <tbody>
+                      <row>
+                        <entry>Tốc độ ban đầu phanh (v)km/h</entry>
+                        <entry>30</entry>
+                        <entry>30</entry>
+                        <entry>30</entry>
+                        <entry>30</entry>
+                        <entry>30</entry>
+                      </row>
+                      <row>
+                        <entry>Quãng đường phanh ≤m</entry>
+                        <entry>7,2</entry>
+                        <entry>9,5</entry>
+                        <entry>11,0</entry>
+                        <entry>9,5</entry>
+                        <entry>11,0</entry>
+                      </row>
+                      <row>
+                        <entry>Gia tốc chậm dần lớn nhất ≥m/s2</entry>
+                        <entry>5,8</entry>
+                        <entry namest="c3" nameend="c4">5,0</entry>
+                        <entry>5,0</entry>
+                        <entry>4,2</entry>
+                      </row>
+                    </tbody>
+                  </entrytbl>
+                </row>
+              </tbody>
+            </tgroup>
+          </table>
+        </section>
+      </section>
+      <section id="id-404929205676">
+        <title>Hư hỏng của hệ thống phanh</title>
+        <section id="id-167272635032">
+          <title>Cơ cấu phanh</title>
+          <para id="id5739372">a. Mòn các cơ cấu phanh</para>
+          <para id="id5739378">Quá trình phanh xảy ra trong cơ cấu phanh được thực hiện nhờ ma sát giữa phần quay và phần không quay, vì vậy sự mài mòn của các chi tiết má phanh với tang trống hay đĩa phanh là không tránh khỏi. Sự mài mòn này làm tăng kích thước bề mặt làm việc của tang trống, giảm chiều dày má phanh, tức là làm tăng khe hở má phanh và tang trống khi không phanh. Khi đó, muốn phanh hành trình bàn đạp phải lớn lên hoặc với hệ thống phanh khí nén thời gian chậm tác dụng sẽ tăng. Hậu quả của nó là làm tăng quãng đường phanh, tăng thời gian phanh, giảm gia tốc chậm dần trung bình của ô tô, chúng ta thường nói là sự mòn cơ cấu phanh làm giảm hiệu quả phanh của ô tô. Nếu hiện tượng mòn xảy ra còn ít thì ảnh hưởng của nó tới hiệu quả phanh là không đáng kể, nhưng khi sự mài mòn tăng lên nhiều sẽ dẫn tới giảm đáng kể hiệu quả phanh, đồng thời làm cho người lái phải tập trung cao độ xử lý các tình huống khi phanh và sẽ nhanh chóng mệt mỏi.</para>
+          <para id="id5739413">Sự mài mòn quá mức của má phanh có thể dẫn tới bong tróc liên kết (đinh tán, hay keo dán) giữa má phanh và guốc phanh, má phanh có thể rơi vào không gian nằm giữa guốc phanh và tang trông, gây kẹt cứng cơ cấu phanh.</para>
+          <para id="id6156842">Sự mài mòn tang trống có thể xảy ra theo các dạng: bị cào xước lớn trên bề mặt ma sát của tang trống và làm biến động lớn mô men phanh, gây méo tang trống khi phanh và có thể nứt tang trống do chịu tải trọng quá lớn.</para>
+          <para id="id6156857">Sự mài mòn các cơ cấu phanh thường xảy ra:</para>
+          <para id="id6156864">Mòn đều giữa các cơ cấu phanh, khi phanh hiệu quả phanh sẽ giảm, hành trình bàn đạp phanh tăng lên (nếu là hệ thống phanh thủy lực).</para>
+          <para id="id6156875">Mòn không đều giữa các cơ cấu phanh, hiệu quả phanh giảm mạnh, ô tô bị lệch hướng chuyển động mong muốn, điều này thường dẫn tới các tai nạn giao thông khi phanh ngặt. Các trạng thái lệch hướng chuyển động thường nguy hiểm kể cả khi ô tô chuyển động thẳng, và đặc biệt khi ô tô quay vòng và phanh gấp.</para>
+          <para id="id6156891">b. Mất ma sát trong cơ cấu phanh</para>
+          <para id="id6156897">Cơ cấu phanh ngày nay thường dùng ma sát khô, vì vậy nếu bề mặt ma sát dính dầu, mỡ, nước thì hệ số ma sát giữa má phanh và tang trống sẽ giảm, tức là giảm mô men phanh sinh ra. Thông thường trong sử dụng do mỡ từ moay ơ, dầu từ xi lanh bánh xe, nước từ bên ngoài xâm nhập vào, bề mặt má phanh, tang trống chai cứng… làm mất ma sát trong cơ cấu phanh. Sự mất ma sát xảy ra không đồng thời trên các cơ cấu phanh nên sẽ làm giảm hiệu quả phanh và gây lệch hướng chuyển động của ô tô khi phanh. Trường hợp này hành trình bàn đạp phanh không tăng, nhưng lực trên bàn đạp dù có tăng cũng không làm tăng đáng kể mô men sinh ra.</para>
+          <para id="id6156929">Nếu bề mặt ma sát bị nước xâm nhập thì có thể sau một số lần phanh nhất định, mô men phanh sinh ra sẽ phục hồi lại trạng thái ban đầu.</para>
+          <para id="id6156940">c. Bó kẹt cơ cấu phanh</para>
+          <para id="id6156946">Cơ cấu phanh cần thiết phải tạo cho bánh xe lăn trơn khi không phanh. Trong một số trường hợp cơ cấu phanh bị bó kẹt do: bong tấm ma sát gốc phanh, hư hỏng các cơ cấu hồi vị, do điều chỉnh không đúng, vật lạ rơi vào không gian làm việc… Sự bó kẹt cơ cấu phanh còn có thể xảy ra trên cơ cấu phanh có phanh tay và phanh chân làm việc chung trong cùng một cơ cấu phanh.</para>
+          <para id="id6156962">Sự bó kẹt cơ cấu phanh sẽ gây mài mòn không theo qui luật, phá hỏng các chi tiết cơ cấu, đồng thời làm mất khả năng chuyển động của ô tô ở tốc độ cao. Sự bó phanh khi không phanh làm tăng ma sát không cần thiết, nung nóng các bề mặt ma sát trong cơ cấu phanh, do vậy hệ số ma sát giảm và giảm hiệu quả phanh khi cần phanh. Khi có hiện tượng này có thể phát hiện thông qua sự lăn trơn của ô tô hay kích bánh xe quay trơn, qua tiếng chạm phát ra trong cơ cấu…</para>
+        </section>
+        <section id="id-252006272051">
+          <title>Dẫn động điều khiển phanh</title>
+          <para id="id6156986">a. Đối với dẫn động điều khiển thủy lực</para>
+          <para id="id6156993">Khu vực xi lanh chính:</para>
+          <para id="id6156998">- Thiếu dầu phanh.</para>
+          <para id="id6157004">- Dầu phanh lẫn nước.</para>
+          <para id="id6157011">- Rò rỉ dầu phanh ra ngoài, rò rỉ dầu phanh qua các joăng, phớt bao kín bên trong.</para>
+          <para id="id6157020">- Dầu phanh bị bẩn, nhiều cặn làm giảm khả năng cấp dầu hay tắt lỗ cấp dầu từ buồng chứa dầu tới xi lanh chính.</para>
+          <para id="id6157031">- Sai lệch vị trí các piston dầu do điều chỉnh không đúng hay do các sự cố khác.</para>
+          <para id="id6157040">- Nát hay hỏng các van dầu.</para>
+          <para id="id6157049">- Cào xước hay rỗ bề mặt làm việc của xi lanh.</para>
+          <para id="id6157057">Đường ống dẫn dầu bằng kim loại hay bằng cao su:</para>
+          <para id="id6157062">- Tắc bên trong, bẹp bên ngoài đường ống dẫn.</para>
+          <para id="id6157069">- Thủng hay nứt, rò rỉ dầu tại các chỗ nối.</para>
+          <para id="id6157077">Khu vực các xi lanh bánh xe.</para>
+          <para id="id6157082">- Rò rỉ dầu phanh ra ngoài, rò rỉ dầu phanh qua các joăng, phớt bao kín bên trong.</para>
+          <para id="id6157091">- Xước hay rỗ bề mặt làm việc của xi lanh.</para>
+          <para id="id6157098">Hư hỏng trong cụm trợ lực: bao gồm các hư hỏng của:</para>
+          <para id="id6157112">- Nguồn năng lượng trợ lực (tùy thuộc vào dạng năng lượng truyền: chân không, thủy lực, khí nén, hoặc tổ hợp thủy lực-khí nén, điện…). Ví dụ: hư hỏng của bơm chân không, máy nén khí, bơm thủy lực, nguồn điện, đường ống dẫn, lưới lọc, van điều áp…</para>
+          <para id="id6157128">- Van điều khiển trợ lực: mòn, nát các bề mặt van, sai lệch vị trí, không kín khít hay tắt hoàn toàn các lỗ van…</para>
+          <para id="id6157138">- Các xi lanh trợ lực: sai lệch vị trí, không kín khít, rò rỉ…Đặc biệt sự hư hỏng do các màng cao su, các vòng bao kín sẽ làm cho xi lanh trợ lực mất tác dụng, thậm chí còn cản trở lại hoạt động của hệ thống.</para>
+          <para id="id6157156">- Các cơ cấu bộ phận liên kết giữa phần trợ lực và phần dẫn động điều khiển, gây nên sai lệch hay phá hỏng mối tương quan của các bộ phận với nhau.</para>
+          <para id="id6157171">Khi xuất hiện các hư hỏng trong phần trợ lực có thể dẫn tới làm tăng đáng kể lực bàn đạp, cảm nhận về lực bàn đạp thất thường, không chính xác. Trên ô tô có trợ lực phanh, khi có các sự cố trong phần trợ lực sẽ còn dẫn tới giảm hiệu quả phanh, hay gây bó kẹt bất thường cơ cấu phanh.</para>
+          <para id="id6157190">Hư hỏng trong cụm điều hòa lực phanh: mòn, nát các bề mặt van, sai lệch vị trí, không kín khít hay tắc hoàn toàn các lỗ van…</para>
+          <para id="id6157203">b. Đối với dẫn động phanh khí nén</para>
+          <para id="id6157209">Dẫn động phanh khí nén yêu cầu độ kín khít cao, do vậy phổ biến nhất là sự rò rỉ khí nén, thường gặp ở tất cả mọi vị trí trên hệ thống.</para>
+          <para id="id6157224">Máy nén khí và van điều áp có các hư hỏng thường gặp sau:</para>
+          <para id="id6157238">- Mòn buồng nén khí: séc măng, piston, xi lanh.</para>
+          <para id="id6157245">- Mòn hỏng các bộ bạc hay bi trục khuỷu.</para>
+          <para id="id5757415">- Thiếu dầu bôi trơn.</para>
+          <para id="id5757420">- Mòn, hở van một chiều.</para>
+          <para id="id5757426">- Chùng dây đai.</para>
+          <para id="id5757432">- Kẹt van điều áp của hệ thống.</para>
+          <para id="id5757439">Đường ống và bình chứa khí nén:</para>
+          <para id="id5757452">- Tắc đường ống dẫn.</para>
+          <para id="id5757458">- Dầu và nước đọng lại.</para>
+          <para id="id5757465">Van phân phối, van ba ngả, các đầu nối:</para>
+          <para id="id5757478">- Kẹt các van làm mất hiệu quả dẫn khí.</para>
+          <para id="id5757486">- Nát hỏng các màng cao su.</para>
+          <para id="id5757492">- Sai lệch vị trí làm việc.</para>
+          <para id="id5757498">Cụm bầu phanh bánh xe:</para>
+          <para id="id5757511">- Thủng các bát cao su.</para>
+          <para id="id5757518">- Gãy lò xo hồi vị các bát cao su.</para>
+          <para id="id5757524">- Sai lệch vị trí làm việc.</para>
+          <para id="id5757531">Các cụm quay cơ cấu phanh:</para>
+          <para id="id5757544">- Bó kẹt các cơ cấu do va chạm hay khô mỡ bôi trơn.</para>
+          <para id="id5757551">- Sai lệch vị trí liên kết</para>
+          <para id="id5757558">- Mòn mất biên dạng cam.</para>
+        </section>
+        <section id="id-799607276553">
+          <title>Các thông số chẩn đoán cơ bản</title>
+          <para id="id5757573">Qua phân tích và liệt kê các hư hỏng trong hệ thống phanh có thể dẫn tới các thông số biểu hiện kết cấu chung như sau:</para>
+          <para id="id5757584">- Giảm hiệu quả phanh: quãng đường phanh tăng, gia tốc chậm dần trung bình nhỏ, thời gian phanh dài.</para>
+          <para id="id5757593">- Lực phanh hay mô men phanh ở bánh xe không đảm bảo.</para>
+          <para id="id5757601">- Tăng hành trình tự do bàn đạp phanh.</para>
+          <para id="id5757608">- Phanh trên đường thẳng nhưng xe bị lệch hướng chuyển động.</para>
+          <para id="id5757616">- Không lăn trơn khi không phanh…</para>
+        </section>
+        <section id="id-510514293888">
+          <title>Các biểu hiện của ô tô khi hư hỏng hệ thống phanh</title>
+          <para id="id5757632">a. Phanh không ăn</para>
+          <para id="id5757637">Do trợ lực không hiệu quả.</para>
+          <para id="id5757644">Khe hở má phanh và tang trống lớn</para>
+          <para id="id5757650">Má phanh dính dầu, má phanh bị ướt, tang trống bị các vết rãnh vòng, má phanh ép không hết lên tang trống. Má phanh bị chai cứng.</para>
+          <para id="id5757661">Đối với phanh dầu: </para>
+          <para id="id5757666">Lọt khí trong đường ống thuỷ lực, dầu phanh bị chảy, piston của xi lanh phanh chính bị kẹt. Piston xi lanh con bị kẹt, đường ống dầu bẩn, tắc. Thiếu dầu.</para>
+          <para id="id5757682">Đối với phanh khí: </para>
+          <para id="id5757687">Áp suất trong bầu phanh không đủ, bộ điều chỉnh áp suất không làm việc, dây cua roa bị chùng làm áp suất giảm, van của máy nén bị hở, séc măng của máy nén bị mòn, lưới lọc không khí vào máy nén bị tắc, van an toàn của máy nén điều chỉnh sai, van của tổng phanh bị mòn, bầu phanh không kín, đường ống dẫn khí bị hở. Điều chỉnh cụm phanh không đúng, màng trong bầu phanh bị chùng.</para>
+          <para id="id5757719">b. Phanh bị dật</para>
+          <para id="id5757724">Lò xo kéo các guốc phanh bị gãy, má phanh bị gãy, khe hở má phanh và trống phanh không đúng qui định nhỏ quá, gối đỡ má phanh mòn, trục trái đào bị rơ, tang trống bị đảo, ổ bi moay ơ bị rơ.</para>
+          <para id="id5757738">Bàn đạp không có hành trình tự do: Không có khe hở giữa má phanh và tang trống, piston xi lanh phanh bánh xe bị kẹt. Khe hở giữa cán piston và piston của xi lanh chính quá lớn.</para>
+          <para id="id5757750">c. Phanh ăn không đều ở các bánh xe</para>
+          <para id="id5757756">Piston của xi lanh bánh xe bị kẹt (phanh dầu), điều chỉnh sai cam nhả (phanh khí), má phanh và tang trống bị mòn, điều chỉnh sai khe hở tang trống, má phanh.</para>
+          <para id="id5757768">d. Phanh bị bó</para>
+          <para id="id5757772">Guốc phanh bị dính vào trống, lò xo trả guốc phanh bị gãy, má phanh bị tróc ra khỏi guốc phanh. Lỗ bổ xung dầu ở xi lanh chính bị bẩn, tắc. Vòng cao su của xi lanh chính bị nở ra, kẹt. Piston xi lanh chính bị kẹt.</para>
+          <para id="id5757787">e. Có tiếng kêu trong trống phanh</para>
+          <para id="id5757792">Má phanh mòn quá, bị chai cứng, lò xo trong guốc phanh bị gãy.</para>
+          <para id="id5757800">f. Mức dầu giảm</para>
+          <para id="id5757805">Xi lanh chính bị chảy dầu, xi lanh bánh xe bị chảy dầu.</para>
+          <para id="id5757820">Kiểm tra, điều chỉnh hệ thống phanh</para>
+        </section>
+        <section id="id-332201239634">
+          <title>Xác định hiệu quả phanh</title>
+          <para id="id5757835">a. Đo quãng đường phanh trên đường</para>
+          <para id="id5720877">Chọn đoạn đường phẳng dài, mặt đường khô có hệ số bám cao, không có chướng ngại vật. Tại 1/3 quãng đường cắm cọc chỉ thị điểm bắt đầu đặt chân lên bàn đạp phanh.</para>
+          <para id="id5720890">Cho ô tô không tải gia tốc đến tốc độ qui định (v), duy trì tốc độ này cho đến vị trí cọc tiêu phanh. Tại vị trí cọc tiêu cắt ly hợp, đặt chân lên bàn đạp phanh và phanh ngặt. Khi phanh, giữ yên vị trí bàn đạp phanh, vành lái ở trạng thái đi thẳng. Chờ cho ô tô dừng lại.</para>
+          <para id="id5720909">Đo khoảng cách từ cọc tiêu đến vị trí ô tô dừng, khoảng cách này là quãng đường phanh. So sánh với chỉ tiêu đánh giá.</para>
+          <para id="id5720920">Phương pháp này khá thuận lợi, không đòi hỏi nhiều thiết bị, nhưng nhược điểm là độ chính xác không cao, quá trình đo phụ thuộc vào mặt đường và trạng thái đạp phanh, dễ gây nguy hiểm khi thử trên đường.</para>
+          <para id="id5720938">b. Đo gia tốc chậm dần, thời gian phanh trên đường</para>
+          <para id="id5720944">Phương pháp này tương tự như trên, nhưng cần có dụng cụ đo gia tốc với độ chính xác ±0,1m/s2 và xác định bằng giá trị gia tốc phanh lớn nhất trên dụng cụ đo. Đo gia tốc chậm dần lớn nhất là phương pháp cho độ chính xác tốt, có thể dùng đánh giá chất lượng hệ thống phanh, vì dụng cụ đo nhỏ gọn (gắn trên kính ô tô).</para>
+          <para id="id5720975">Việc tiến hành đo thời gian phanh cần đồng hồ đo thời gian theo kiểu bấm giây với độ chính xác 1/10 giây. Thời điểm bắt đầu bấm giây là lúc đạt chân lên bàn đạp phanh, thời điểm kết thúc là lúc ô tô dừng hẳn.</para>
+          <para id="id5720990">c. Đo lực phanh hoặc mômen phanh trên bệ thử</para>
+          <para id="id5720996">Dạng cơ bản của thiết bị đo hiệu quả phanh thông qua việc đo lực phanh ở bánh xe bằng bệ thử con lăn.</para>
+          <para id="id5721009">Bệ thử phanh bao gồm ba phần chính: bệ đo, tủ điều khiển và đồng hồ chỉ thị.</para>
+          <para id="id5721018"><figure id="id5721046"><media id="id17224662" alt=""><image src="../../media/graphics41.jpg" mime-type="image/jpeg" height="230" width="406"/></media></figure>Hình 10.38. Sơ đồ nguyên lý bệ thử phanh ô tôBệ đo là một thiết bị đối xứng. Bệ đo bao gồm hai tang trống được dẫn động quay nhờ động cơ điện thông qua một hộp số. Vỏ hộp số được liên kết với vỏ động cơ điện và cùng quay trên hai ổ đỡ. Trên vỏ hộp số có gắn tay đòn đo mô men cảm ứng của stator. Do vậy khi có lực cảm ứng sinh ra trên vỏ động cơ điện thì vỏ hộp số sẽ quay đi một góc nhỏ tạo nên cảm biến đo mô men cảm ứng và thể hiện bằng chuyển vị đo lực. Giữa hai tang trống có bố trí con lăn đo tốc độ dài của bánh xe, nhằm xác định đo tốc độ bánh xe và khả năng lăn trơn. Phía trước bệ đo có đặt bộ đo trọng lượng đặt lên các bánh xe.</para>
+          <para id="id5721108">Màn hình hiển thị cho biết lực đo tại cảm biến đo lực, biểu thị mô men cảm ứng stator. Khi phanh tới trạng thái gần bó cứng (độ trượt bánh xe khoảng 25 đến 50%), mô men cảm ứng lớn nhất và thiết bị không hiển thị các giá trị tiếp sau.</para>
+          <para id="id5721124">Tủ điện bao gồm mạch điện, rơ le tự động điều khiển, máy tính lưu trữ và hiển thị số liệu.</para>
+          <para id="id5721134">Quy trình đo được xác định bởi nhà chế tạo thiết bị, bao gồm các trình tự sau đây: ô tô không tải, sau khi đã được kiểm tra áp suất lốp, cho lăn từ từ lên bệ thử, qua bàn đo trọng lượng, vào giá đỡ tang trống. Động cơ hoạt động nhưng tay số ở vị trí trung gian. Bánh xe phải cố đinh trên tang trống. Khởi động động cơ của bệ thử, lúc này do ma sát của tang trống với bánh xe, bánh xe lăn trên tang trống. Người lái đạp phanh nhanh, đều cho đến khi bánh xe không quay được và kim chỉ thị của đồng hồ bệ thử không tăng lên được nữa. Quá trình kết thúc và cho bánh xe cầu sau tiếp tục vào bệ đo. Khi đo các bánh xe cầu sau thường kết hợp đo phanh tay.</para>
+          <para id="id5721166">Các loại bệ thử có thể chỉ thị số tức thời hay lưu trữ ghi lại quá trình thay đổi lực phanh trên các bánh xe. Kết quả đo được bao gồm:</para>
+          <para id="id5721177">- Trọng lượng ô tô đặt lên các bánh xe.</para>
+          <para id="id5721184">- Lực phanh tại các bề mặt tiếp xúc bánh xe với tang trống theo thời gian .</para>
+          <para id="id5721193">- Tốc độ dài của bánh xe theo thời gian.</para>
+          <para id="id5721200">Cách tính toán xử lý số liệu</para>
+          <para id="id5721206">- Sai lệch tuyệt đối và tương đối của trọng lượng giữa hai bên.</para>
+          <para id="id5721215">- Sai lệch tuyệt đối và tương đối của lực phanh giữa hai bên.</para>
+          <para id="id5721223">- Lực phanh đơn vị: là lực phanh chia cho trọng lượng của từng bánh xe.</para>
+          <para id="id5721232">- Tốc độ góc của từng bánh xe theo thời gian.</para>
+          <para id="id5721239">- Độ trượt của từng bánh xe theo thời gian.</para>
+          <para id="id5721247">Kết quả tính toán và hiển thị bao gồm:</para>
+          <para id="id5721253">- Trọng lượng của ô tô đặt lên các bánh xe, sai lệch tuyệt đối và tương đối giữa hai bên.</para>
+          <para id="id5721263">- Lực phanh tại các bề mặt tiếp xúc của bánh xe trên cùng một cầu, sai lệch tuyệt đối và tương đối giữa hai bên.</para>
+          <para id="id5721273">- Quá trình phanh (lực phanh) theo thời gian.</para>
+          <para id="id5721281">- Độ không đồng đều của lực phanh sinh ra trong một vòng quay bánh xe tính bằng % (độ méo của tang trống).</para>
+          <para id="id5721291">- Lực phanh của các bánh xe cầu sau khi phanh bằng phanh tay.</para>
+          <para id="id5721299">- Tỷ lệ lực phanh và trọng lượng trên một bánh xe (%).</para>
+          <para id="id6183012">- Giá trị sai lệch của lực phanh giữa hai bánh xe trên cùng một cầu, dùng để đánh giá khả năng ổn định hướng chuyển động khi phanh.</para>
+          <para id="id5721304">Qua các thông số này cho biết: chất lượng tổng thể của hệ thống phanh, giá trị lực phanh hay mô men phanh của từng bánh xe. Khi giá trị lực phanh này nhỏ hơn tiêu chuẩn ban đầu thì cơ cấu phanh có thể bị mòn, hệ thống dẫn động điều khiển có sự cố, hay cơ cấu phanh bị bó cứng (kẹt). Tuy nhiên, kết quả không chỉ rõ hư hỏng hay sự cố ở khu vực nào, điều này phù hợp với đánh giá chất lượng tổng thể của hệ thống phanh, thông qua thông số hiệu quả.</para>
+          <para id="id6183038">Kết quả của việc đo phanh trên bệ thử cho ô tô con ghi lại trên giấy trong hình 10.39.</para>
+          <para id="id6183047"><figure id="id6183055"><media id="id7734624" alt=""><image src="../../media/graphics42.jpg" mime-type="image/jpeg" height="828" width="630"/></media></figure>Hình 10.39. Ví dụ kết quả đo phanh ô tô con</para>
+        </section>
+        <section id="id-545902138451">
+          <title>Đo lực phanh và hành trình bàn đạp phanh</title>
+          <para id="id6183097">Việc đo lực phanh và hành trình bàn đạp phanh có thể tiến hành thông qua cảm nhận của người điều khiển. Song để chính xác các giá trị này có thể dùng lực kế đo lực và thước đo chiều dài, khi xe đứng yên trên nền đường.</para>
+          <para id="id6183112">Khi đo cần xác định: lực phanh lớn nhất đặt trên bàn đạp phanh, hành trình tự do của bàn đạp phanh, khoảng cách tới sàn khi không phanh hay hành trình toàn bộ bàn đạp phanh, khoảng cách còn lại tới sàn.</para>
+          <para id="id6183126">Hành trình tự do của bàn đạp phanh được đo với lực bàn đạp nhỏ khoảng (20 ÷50)N, giá trị nhỏ với ô tô con, giá trị lớn với ô tô tải. Hành trình toàn bộ được đo khi đạp với lực bàn đạp khoảng (500 ÷700)N.</para>
+          <para id="id6183141">Lực phanh lớn nhất trên bàn đạp được đo bằng lực kế đặt trên bàn đạp phanh, ứng với khi đạp hết hành trình toàn bộ.</para>
+          <para id="id6183152">Các giá tri đo được phải so sánh với tiêu chuẩn kỹ thuật của nhà sản xuất. Một số số liệu cho trong bảng 6.3.</para>
+          <para id="id6183163">Khi hành trình tự do của bàn đạp phanh quá lớn hoặc quá nhỏ và hành trình toàn bộ bàn đạp phanh thay đổi chứng tỏ cơ cấu phanh bị mòn, có sai lệch vị trí đòn dẫn động.</para>
+          <para id="id6183176">Khi lực phanh lớn nhất trên bàn đạp quá lớn chứng tỏ cơ cấu phanh bị kẹt, hoặc có hư hỏng trong phần dẫn động.</para>
+        </section>
+        <section id="id-776347180248">
+          <title>Đo lực phanh và hành trình cần kéo phanh tay</title>
+          <para id="id6183195">Một số số liệu của hành trình bàn đạp phanh, phanh tay</para>
+          <table id="id6183202" summary="">
+            <tgroup cols="5">
+              <colspec colnum="1" colname="c1"/>
+              <colspec colnum="2" colname="c2"/>
+              <colspec colnum="3" colname="c3"/>
+              <colspec colnum="4" colname="c4"/>
+              <colspec colnum="5" colname="c5"/>
+              <tbody>
+                <row>
+                  <entry>Mác ô tô</entry>
+                  <entrytbl namest="c2" nameend="c5" cols="4">
+                    <colspec colnum="1" colname="c1"/>
+                    <colspec colnum="2" colname="c2"/>
+                    <colspec colnum="3" colname="c3"/>
+                    <colspec colnum="4" colname="c4"/>
+                    <tbody>
+                      <row>
+                        <entry namest="c1" nameend="c3">Phanh chân</entry>
+                        <entry>Phanh tay</entry>
+                      </row>
+                      <row>
+                        <entry>A</entry>
+                        <entry>B</entry>
+                        <entry>D</entry>
+                        <entry>Tiếng “tách”</entry>
+                      </row>
+                    </tbody>
+                  </entrytbl>
+                </row>
+                <row>
+                  <entry>HINO FC</entry>
+                  <entry>3÷4</entry>
+                  <entry/>
+                  <entry>70÷100</entry>
+                  <entry>3÷6</entry>
+                </row>
+                <row>
+                  <entry>HINO FF</entry>
+                  <entry/>
+                  <entry>194÷204</entry>
+                  <entry/>
+                  <entry/>
+                </row>
+                <row>
+                  <entry>KAMAZ</entry>
+                  <entry>20÷30</entry>
+                  <entry>100÷130</entry>
+                  <entry>10÷30</entry>
+                  <entry>Van khóa</entry>
+                </row>
+                <row>
+                  <entry>HUYNDAI</entry>
+                  <entry>12÷16</entry>
+                  <entry/>
+                  <entry/>
+                  <entry/>
+                </row>
+                <row>
+                  <entry>CROWN</entry>
+                  <entry>1÷6</entry>
+                  <entry>125÷135</entry>
+                  <entry/>
+                  <entry>8÷10</entry>
+                </row>
+                <row>
+                  <entry>MAZDA</entry>
+                  <entry>3÷6</entry>
+                  <entry>50÷70</entry>
+                  <entry/>
+                  <entry>4÷7</entry>
+                </row>
+                <row>
+                  <entry>TOYOTA 4WD</entry>
+                  <entry>3÷6</entry>
+                  <entry/>
+                  <entry>60÷70</entry>
+                  <entry>5÷7</entry>
+                </row>
+              </tbody>
+            </tgroup>
+          </table>
+          <para id="id6914432">A-hành trình tự do; B- khoảng cách tới sàn; D- khoảng cách còn lại tới sàn.</para>
+          <para id="id6914440">Khi đo cần xác định: lực phanh lớn nhất đặt trên cần kéo phanh tay, hành trình toàn bộ cần kéo. Thông thường trên phanh tay có cơ cấu cóc hãm, vì vậy dùng tiếng “tách” để xác định. Số lượng tiếng “tách” cho bởi nhà chế tạo, tham khỏa ở bảng 6.3. </para>
+        </section>
+        <section id="id-780652610144">
+          <title>Đo hiệu quả của phanh tay</title>
+          <para id="id6914463">a. Trên bệ thử phanh</para>
+          <para id="id6914469">Tương tự như thử phanh chân, có thể đồng thời tiến hành khi thử phanh cho cầu sau. Thông số cần xác định bao gồm:</para>
+          <para id="id6914479">Lực phanh trên các bánh xe.</para>
+          <para id="id6914485">Hiệu quả phanh đo bằng lực phanh đơn vị (TCVN 5658-1999) không nhỏ hơn 20% trọng lượng đặt lên cầu sau.</para>
+          <para id="id6914494">Số lượng tiếng “tách” theo yêu cầu của nhà sản xuất.</para>
+          <para id="id6914501">b. Kiểm tra trên đường phẳng</para>
+          <para id="id6914507">Chọn mặt đường như đã trình bày khi thử phanh chân trên đường. Cho ô tô chạy thẳng với tốc độ 15km/h, kéo nhanh đều phanh tay. Quãng đường phanh không được lớn hơn 6m, gia tốc không nhỏ hơn 2m/s2, ô tô không lệch khỏi quỹ đạo thẳng.</para>
+          <para id="id6914527">Với ô tô con có thể cho ô tô đứng yên tại nền đường phẳng, kéo phanh tay, dùng từ 4 đến 5 người đẩy xe về trước, xe không lăn bánh là được.</para>
+          <para id="id6914538">c. Kiểm tra trên dốc</para>
+          <para id="id6914543">Chọn mặt đường tốt có độ dốc 200. Cho ô tô dừng trên dốc bằng phanh chân, tắt máy, chuyển về số trung gian, kéo phanh tay, từ từ nhả phanh chân, xe không bị trôi là được.</para>
+        </section>
+        <section id="id-0893426464085">
+          <title>Xác định sự không đồng đều của lực hay mô men phanh</title>
+          <para id="id6914572">a. Bằng cách đo trên bệ thử (chẩn đoán) phanh</para>
+          <para id="id6914578">Sự không đồng đều này có thể xác định độc lập của từng lực phanh sinh ra trên các bánh xe (như đã nêu trên nhờ kết quả đo ghi).</para>
+          <para id="id6914590">b. Bằng cách thử xe trên đường</para>
+          <para id="id6914596">Các công việc chính tiến hành như sau:</para>
+          <para id="id6914603">Chọn mặt đường tốt khô, có độ nhẵn và độ bám gần đồng đều, chiều dài khoảng 150m, chiều rộng mặt đường lớn từ 4 đến 6 lần chiều rộng thân xe. Kẻ sẵn trên nền đường vạch chuẩn tim đường, cắm mốc tiêu vị trí bắt đầu phanh. Cho xe chuyển động thẳng với vận tốc qui định và phanh ngặt, giữ chặt vành lái.</para>
+          <para id="id6914617">Thông qua trạng thái dừng xe xác định độ lệch hướng chuyển động ô tô, đo chiều dài quãng đường phanh AB, và độ lệch quĩ đạo BC.</para>
+          <para id="id6914627"><figure id="id6914635"><media id="id7771942" alt=""><image src="../../media/graphics43.jpg" mime-type="image/jpeg" height="136" width="608"/></media></figure>Hình Xác định độ lệch hướng chuyển động của ô tô khi phanh</para>
+          <para id="id6462765">Trị số lệch hướng này có thể lấy bằng giá trị trung bình của độ lệch ngang thân xe trên chiều dài quãng đường phanh, nó biểu thị sự không đồng đều của mômen phanh trên các cơ cấu phanh, do mòn hoặc do hư hỏng trong các đường dẫn động (dòng dẫn động phanh). Điều kiện thử như vậy có ý nghĩa khi xem xét an toàn chuyển động mà không chỉ rõ sự không đồng đều cho các bánh xe. Theo TCVN 224-95 độ lệch quĩ đạo khi phanh ở vận tốc qui định (30m/h với ô tô tải, buýt, 40km/h với ô tô con) không quá 8 độ hay 3,5m.</para>
+          <para id="id6462793">Trước khi thử cần chú ý một số vấn đề sau:</para>
+          <para id="id6462800">- Xe không tải hoặc có tải bố trí đối xứng qua mặt cắt dọc tâm xe.</para>
+          <para id="id6462809">- Kiểm tra chất lượng bánh xe, áp suất lốp, điều chỉnh đúng góc kết cấu bánh xe.</para>
+          <para id="id6462818">Trên các ô tô không có bộ điều chỉnh lực phanh, bánh xe và mặt đường có chất lượng tốt, đồng đều có thể xác định qua vết lết của các bánh xe để xác định sự không đều này.</para>
+        </section>
+        <section id="id-246971572944">
+          <title>Chẩn đoán cơ cấu phanh</title>
+          <para id="id6462840">Cơ cấu phanh được chẩn đoán thông qua các biểu hiện chung khi xác định trên toàn xe. Hiệu quả và chính xác hơn cả là nhờ việc xác định lực phanh hay mô men phanh ở các bánh xe bằng bệ thử.</para>
+          <para id="id6462854">Trên các xe tải lớn và trung bình sử dụng phanh tang trống có lỗ kiểm tra khe hở má phanh tang trống để xác định trạng thái.</para>
+          <para id="id6462863">Quan sát:</para>
+          <para id="id6462868">- Bằng mắt thấy các hiện tượng rò rỉ dầu phanh ở khu vực xi lanh bánh xe.</para>
+          <para id="id6462877">- Sự hoạt động cam quay ở hệ thống phanh khí nén.</para>
+          <para id="id6462885">Kiểm tra sự lăn trơn bằng cách kích nâng và quay các bánh xe, xác định sự va chạm của má phanh với tang trống hoặc đĩa phanh.</para>
+          <para id="id6462894">Kiểm tra sự rò rỉ khí nén, khi đạp phanh.</para>
+          <para id="id6462900">Kiểm hiện tượng bó phanh bằng cách xác định nhiệt độ của tang trống hoặc đĩa phanh sau khi thử phanh trên đường, qua mùi khét cháy của tấm ma sát (mùi khét đặc trưng).</para>
+          <para id="id6462912">Kiểm tra sự lăn trơn toàn bánh xe khi thử trên đường bằng, cắt ly hợp hay nhả số về số 0. Nhận xét và đánh giá theo kinh nghiệm sử dụng.</para>
+          <para id="id6462922">Đối với cơ cấu phanh có đặt điểm riêng có thể kiểm tra:</para>
+          <para id="id6462929">a. Cơ cấu phanh thủy lực</para>
+          <para id="id6462935">Kích bánh xe, kiểm tra trạng thái bó cứng bánh xe lần lượt qua các trạng thái: phanh bằng phanh chân, phanh bằng phanh tay, khi thôi phanh.</para>
+          <para id="id6462946"><figure id="id6462953"><media id="id19302855" alt=""><image src="../../media/graphics44.jpg" mime-type="image/jpeg" height="254" width="505"/></media></figure>Hình 10. 40. Kết cấu cơ cấu phanh dầu1-đường ống dẫn. 2-xi lanh phụ. 3-vít xả gió. 4-đệm guốc phanh. 5-piston xi lanh phụ. 6-lò xo hồi vị guốc phanh. 7-trống phanh (tang trông). 8-guốc phanh. 9-cupen vành khăn. 10-lò xo giãn cách. 11-cam lệch tâm để điều chỉnh khe hở phía trên. 12-chốt lệch tâm để điều chỉnh khe hở phía dưới.</para>
+          <para id="id6463004">Khe hở giữa má phanh và tang trống (đĩa phanh) có ảnh hưởng đến hành trình tự do và hiệu quả phanh, khả năng ổn định, dẫn hướng khi phanh.</para>
+          <table id="id6463018" summary="">
+            <tgroup cols="2">
+              <colspec colnum="1" colname="c1"/>
+              <colspec colnum="2" colname="c2"/>
+              <tbody>
+                <row>
+                  <entry><media id="id7086288" alt=""><image src="../../media/graphics45.jpg" mime-type="image/jpeg"/></media>Hình 10. 41. Điều chỉnh khe hở giữa má phanh và trống phanh đối với phanh dầu1-cam lệch tâm. 2-tang trống. 3-má phanh. 4-guốc phanh. 5-căn lá. chốt lệch tâm.</entry>
+                  <entry><media id="id14977066" alt=""><image src="../../media/graphics46.jpg" mime-type="image/jpeg"/></media>Hình 10.42. Xả không khí trong xi lanh bánh xe1-ốc xả khí. 2-ống cao su. 3-bình chứa dầu phanh.</entry>
+                </row>
+              </tbody>
+            </tgroup>
+          </table>
+          <para id="id6463138">Kiểm mức dầu và bổ sung dầu trong tổng bơm: mức dầu trong tổng bơm nếu cao quá dễ trào gây lãng phí, nếu thấp khi xe lên hoặc xuống dốc dễ làm lọt khí vào trong đường ống dẫn làm phanh không ăn. Mức dầu đo từ mặt thoáng đến mặt lỗ đổ dầu là (15 ÷ 20)mm. Nếu thiếu bổ xung dầu phanh đúng chủng loại, mã hiệu, số lượng.</para>
+          <para id="id6463153">Kiểm tra điều chỉnh khe hở giữa má phanh và tang trống</para>
+          <para id="id6463161">Khe hở giữa má phanh và tang trống được đo phía trên và phía dưới (cách đầu mút khoảng 15 ÷ 20mm) của má phanh và tang trống nhờ căn lá 5 hình 10.41.</para>
+          <para id="id6463173">Phanh không tự cường hoá</para>
+          <table id="id6463181" summary="">
+            <tgroup cols="3">
+              <colspec colnum="1" colname="c1"/>
+              <colspec colnum="2" colname="c2"/>
+              <colspec colnum="3" colname="c3"/>
+              <tbody>
+                <row>
+                  <entry>Loại phanh</entry>
+                  <entry>khe hở phía trên</entry>
+                  <entry>khe hở phía dưới</entry>
+                </row>
+                <row>
+                  <entry>Đối với phanh dầu</entry>
+                  <entry>(0,2 ÷ 0,25)mm</entry>
+                  <entry>0,12mm</entry>
+                </row>
+                <row>
+                  <entry>Đối với phanh hơi</entry>
+                  <entry>(0,4 ÷ 0,5)mm</entry>
+                  <entry>0,2mm</entry>
+                </row>
+              </tbody>
+            </tgroup>
+          </table>
+          <para id="id6648696">Nếu khe hở này không đúng qui định hoặc khác nhau ở các bánh xe ta phải tiến hành điều chỉnh bằng cách xoay cam lệch tâm 11 và chốt lệch tâm 12, hình 10.40</para>
+          <para id="id6648708">Xả khí trong xi lanh bánh xe, hình 10.42</para>
+          <para id="id6648715">- Một người ở dưới, dùng đoạn ống cao su một đầu cắm vào nút xả dầu, một đầu cắm vào bình chứa.</para>
+          <para id="id6648725">- Một người ngồi trên ca bin đạp phanh, nhả phanh. Đạp- nhả nhiều lần đến khi cứng chân phanh và giữ nguyên.</para>
+          <para id="id6648735">- Người ngồi dưới nới ốc xả khí 1/2 ÷ 3/4 vòng sẽ thấy dầu và bọt khí chảy ra ở bình chứa. Đến khi thấy chỉ có dầu chảy ra thì vặn chặt ốc xả, người ngồi trên nhả chân phanh.</para>
+          <para id="id6648749">b. Cơ cấu phanh đĩa</para>
+          <para id="id6648754">Trên ô tô con dùng phanh đĩa có gắn thêm miếng kim loại báo hết má phanh, khi mòn tới giới hạn phải thay, miếng kim loại này sẽ cọ sát với đĩa phanh tóe tia lửa và phát tiếng va chạm báo hiệu. Tiếng va chạm cọ sát này có thể nhận biết được khi phanh hay quay khi kích nâng bánh xe.</para>
+          <para id="id6648770">c. Cơ cấu phanh khí nén</para>
+          <para id="id6648776">Cơ cấu phanh guốc cam quay có bầu phanh tích năng và tự động điều chỉnh khe hở má phanh tang trống.</para>
+          <para id="id6648785">Cơ cấu phanh loại này dùng phổ biến trên xe buýt, xe tải hiện đại, khi kiểm tra chất lượng cần phải tiến hành cho động cơ nổ máy tới áp suất khí nén làm việc, mở van phanh tay, rồi mới xác định khả năng lăn trơn của bánh xe.</para>
+          <para id="id6648801">Điều chỉnh khe hở phía dưới giữa má phanh và tang trống</para>
+          <para id="id6648810">Điều chỉnh khe hở phía dưới tiến hành độc lập cho từng má phanh nhờ quay đầu bu lông 7 sẽ xoay chốt lệch tâm 8 làm thay đổi khe hở phía dưới giữa má phanh và tang trống, hình 10.43</para>
+          <para id="id6648821"><figure id="id6648828"><media id="id15759575" alt=""><image src="../../media/graphics47.jpg" mime-type="image/jpeg" height="448" width="622"/></media></figure>Hình 10. 43 Kết cấu cơ cấu phanh khí1-má phanh. 2-lò xo hồi vị guốc phanh. 3-guốc phanh. 4-vòng hãm. 5-thanh nối. 6-cam phanh. 7-bu lông điều chỉnh liền với trục lệch tâm. 8-trục lệch tâm để điều chỉnh khe hở phía dưới giữa má phanh và tang trống</para>
+          <para id="id6648878">Điều chỉnh khe hở phía trên giữa má phanh và tang trống hình 10.45 và hình 10.45</para>
+          <para id="id6648885">- Xoay trục vít 2, ren vít 3 quay, làm vành răng 4 quay, làm cho trục cam lắp then hoa với then phía trong của vành răng quay làm cam 5 xoay đi một góc, hoặc đẩy hai guốc phanh đi ra (giảm khe hở) hoặc làm hai guốc sát vào (tăng khe hở).</para>
+          <table id="id6648903" summary="">
+            <tgroup cols="2">
+              <colspec colnum="1" colname="c1"/>
+              <colspec colnum="2" colname="c2"/>
+              <tbody>
+                <row>
+                  <entry><media id="id11139851" alt=""><image src="../../media/graphics48.jpg" mime-type="image/jpeg"/></media>Hình 10. 44. Điều chỉnh khe hở phía trên1-được làm liền với nhau tạo thành giá đỡ và đòn đẩy. 2-trục vít. 3-răng vít. 4-vành răng. 5-trục cam lệch tâm.</entry>
+                  <entry><media id="id9931566" alt=""><image src="../../media/graphics49.jpg" mime-type="image/jpeg"/></media>Hình 10.45. Điều chỉnh phanh bánh xe dẫn động khí nén</entry>
+                </row>
+              </tbody>
+            </tgroup>
+          </table>
+          <para id="id6649015">Với cơ cấu phanh hơi không thể điều chỉnh độc lập từng má phanh cho nên yêu cầu độ mòn của hai má phanh của cùng một cơ cấu phanh phải như nhau, mới có khe hở giữa má phanh và tang trống như nhau khi điều chỉnh</para>
+          <para id="id6649030">Thông thường khi điều chỉnh khe hở người ta tiến hành theo kinh nghiệm:</para>
+          <para id="id6649038">- Kích cầu lên.</para>
+          <para id="id6601065">- Quay bánh xe ta tiến hành điều chỉnh: vặn chặt chốt lệch tâm để bánh xe ngừng quay sau đó nới ra từ từ để bánh xe quay được và không chạm sát má phanh là được, tiến hành điều chỉnh chốt lệch tâm của má phanh bên kia cũng tương tự.</para>
+          <para id="id6601080">Tiến hành điều chỉnh khe hở phía trên nhờ cam lệch tâm hoặc trục vít quay cam phanh cũng tương tự như điều chỉnh khe hở phía dưới.</para>
+        </section>
+        <section id="id-0497702746219">
+          <title>Chẩn đoán hệ thống dẫn động phanh</title>
+          <para id="id6601101">Ngoài các việc xác định các thông số chung đánh giá hiệu quả phanh khi tiến hành chẩn đoán các loại hệ thống phanh khác nhau cũng có các biểu hiện khác nhau.</para>
+          <para id="id6601113">a. Đối với phanh thủy lực</para>
+          <para id="id6601119">Do đặc truyền năng lượng điều khiển cơ cấu phanh là chất lỏng nên khi chẩn đoán cần thiết phải xác định trạng thái kỹ thuật của hệ thống thông qua:</para>
+          <para id="id6601131">Sự rò rỉ chất lỏng dẫn động.</para>
+          <para id="id6601137">Sự lọt khí vào hệ thống dẫn động.</para>
+          <para id="id6601143">Hư hỏng các van điều tiết chất lỏng.</para>
+          <para id="id6601149">Vấn đề bao kín các khu vực không gian chứa chất lỏng.</para>
+          <para id="id6601155">Việc chẩn đoán có thể tiến hành bằng việc quan sát bằng mắt các vết rò rỉ của dầu phanh. Song tốt nhất là dùng đồng hồ đo áp suất ở những vị trí có thể đo được như sau: sau xi lanh chính, ở xi lanh bánh xe.</para>
+          <para id="id6601170">Hiện tượng giảm áp suất so với tiêu chuẩn có thể là do các nguyên nhân nêu ở trên, nhất là hiện tượng hư hỏng do mòn các joăng, phớt bao kín các không gian chứa chất lỏng. Đồng thời cũng cần chú ý thêm những nguyên nhân:</para>
+          <para id="id6601185">Do sai lệch các đòn dẫn động.</para>
+          <para id="id6601191">Tắc, bẹp đường dẫn dầu.</para>
+          <para id="id6601196">Vỡ đường ống.</para>
+          <para id="id6601201">Thiếu dầu hoặc tắc lỗ dầu tại bình chứa dầu…</para>
+          <para id="id6601208">a1. Với hệ thống phanh có bộ điều hòa lực phanh</para>
+          <para id="id6601214">Tiến hành kiểm tra áp suất chất lỏng sau bộ điều hòa như trên hình 10.46. Sử dụng các đồng hồ đo có trị số lớn nhất đến 100kG/cm2. Việc đo được tiến hành nhờ tháo các đường ống dẫn dầu ra các cầu, lắp vào đó các đồng hồ đo áp suất, xả không khí trong hệ thống và bổ sung đủ dầu phanh. Khi đo, đạp phanh và theo dõi sự tăng áp suất dầu và xác định áp suất đường dầu ra cầu sau trên bộ điều chỉnh lực phanh ở hai trạng thái:</para>
+          <para id="id6601241">Tương ứng mức độ bàn đạp chân phanh nhỏ, khi bệ điều hòa chưa thực hiện điều chỉnh (với áp suất nhỏ), áp suất dẫn ra cầu sau và cầu trước là như nhau.</para>
+          <para id="id6601252">Tương ứng với mức độ bàn đạp chân phanh lớn, khi bộ điều hòa thực hiện điều chỉnh (với áp suất cao), áp suất dẫn ra cầu cầu sau thấp hơn áp suất dẫn ra cầu trước.</para>
+          <para id="id6601264">Khi bộ điều hòa có một đường dẫn dầu ra cầu sau chỉ cần dùng một đồng hồ đo áp suất ra cầu sau.</para>
+          <para id="id6601274">Việc đánh giá kết quả tùy thuộc vào thông số chuẩn do nhà chế tạo qui định và bảng số liệu dùng để đối chiếu cho trong bảng (đối với một ô tô con). Nhờ việc đo áp suất có thể xác định khả năng làm việc của bộ điều hòa trên ô tô. Các thông số kiểm tra áp suất của bộ điều hòa trên các xe cùng loại có thể không giống nhau, vì vậy công việc này cần có tài liệu cụ thể. Một bộ số liệu của xe sử dụng tại Úc của hãng TOYOTA cho trong bảng.</para>
+          <para id="id6601290"><figure id="id6601297"><media id="id9111770" alt=""><image src="../../media/graphics50.jpg" mime-type="image/jpeg" height="253" width="566"/></media></figure>Hình 10.46. Chẩn đoán sự làm việc của bộ điều hòa lực phanh</para>
+          <para id="id6601332">Số liệu kiểm tra sự làm việc của bộ điều hòa lực phanh</para>
+          <table id="id6601339" summary="">
+            <tgroup cols="2">
+              <colspec colnum="1" colname="c1"/>
+              <colspec colnum="2" colname="c2"/>
+              <tbody>
+                <row>
+                  <entry>Áp suất sau xi lanh chính </entry>
+                  <entry>Áp suất ra cầu sau</entry>
+                </row>
+                <row>
+                  <entry>15kG/cm2(213psi=1,471kPa)</entry>
+                  <entry>15kG/cm2(213psi=1,471kPa)</entry>
+                </row>
+                <row>
+                  <entry>80kG/cm2(1138psi=7,845kPa)</entry>
+                  <entry>39kG/cm2(555psi=3,825kPa)</entry>
+                </row>
+              </tbody>
+            </tgroup>
+          </table>
+          <para id="id6601443">a2. Với hệ thống phanh có trợ lực chân không</para>
+          <para id="id6601450">Các hư hỏng xuất hiện trong hệ thống trợ lực thường là:</para>
+          <para id="id6601457">- Hỏng van một chiều nối giữa nguồn chân không và xi lanh trợ lực.</para>
+          <para id="id6601465">- Van mở trợ lực bị mòn, nát, hở.</para>
+          <para id="id6601472">- Màng cao su bị thủng.</para>
+          <para id="id6601482">- Hệ thống bị hở.</para>
+          <para id="id6601488">- Dầu phanh lọt vào xi lanh.</para>
+          <para id="id6601494">- Tắc, bẹp do sự cố bất thường.</para>
+          <para id="id6601501">- Nguồn chân không bị hỏng (trên động cơ phun xăng, hay động cơ diesel).</para>
+          <para id="id6601510">Các biểu hiện xuất hiện như sau:</para>
+          <para id="id6601515">- Rò rỉ dầu phanh khu vực bộ cường hóa.</para>
+          <para id="id6601526">- Lực trên bàn đạp tăng cao.</para>
+          <para id="id6601532">- Hành trình tự do của bàn đạp bị giảm nhỏ.</para>
+          <para id="id6601540">- Hiệu quả cường hóa không còn.</para>
+          <para id="id6601546">Phương pháp chẩn đoán</para>
+          <para id="id6601552">- Nổ máy đạp phanh ba lần đạt được hành trình đồng nhất.</para>
+          <para id="id6245165">- Khi động cơ không làm việc, đo hành trình tự do, đặt chân lên bàn đạp phanh, giữ nguyên chân trên bàn đạp, nổ máy, bàn đạp phanh có xu hướng thụt xuống một đoạn nhỏ nữa chứng tỏ hệ thống cường hóa làm việc tốt, nếu không hệ thống có hư hỏng.</para>
+          <para id="id6245180">- Đo lực đặt trên bàn đạp tới khi đạt giá trị lớn nhất, so với giá trị tiêu chuẩn, khi lực bàn đạp lớn chứng tỏ hệ thống có hư hỏng ở phần nguồn chân không (máy hút chân không hỏng, hở đường ống chân không tới xi lanh cường hóa) hay van một chiều. Khi lực bàn đạp tăng quá cao chứng tỏ hệ thống cường hóa bị mất hiệu quả.</para>
+          <para id="id6245199">- Khi làm việc có hiện tượng mất cảm giác tại bàn đạp phanh: có giai đoạn quá nặng hay quá nhẹ (hẫng chân phanh) chứng tỏ van cường hóa sai lệch vị trí hoặc hỏng (mòn, nở, nát đế van bằng cao su).</para>
+          <para id="id6245216">- Khi phanh có hiện tượng mất hết cảm giác tại bàn đạp phanh, muốn rà phanh mà không được, chứng tỏ van một chiều bị kẹt, vị trí van cường hóa bi sai lệch.</para>
+          <para id="id6245229">- Trên động cơ xăng có chế hòa khí khi bị hở đường chân không, có thể dẫn tới không nổ máy được, hay động cơ không có khả năng chạy chậm.</para>
+          <para id="id6245240">- Hệ cường hóa làm việc tốt khi dừng xe, tắt máy, hiệu quả cường hóa còn duy trì được trong 2,3 lần đạp phanh tiếp theo.</para>
+          <para id="id6245254">b. Đối với hệ thống phanh khí nén</para>
+          <para id="id6245260">Hệ thống phanh khí nén ngoài việc đo đạc các thông số chung ở trên còn cần thiết phải:</para>
+          <para id="id6245269">Xác định sự rò rỉ khí nén trước và sau van phân phối.</para>
+          <para id="id6245276">Tắc đường ống dẫn.</para>
+          <para id="id6245281">Kẹt các van làm mất hiệu quả dẫn khí.</para>
+          <para id="id6245287">Hư hỏng các màng xi lanh.</para>
+          <para id="id6245292">Bơm khí nén không đủ khả năng làm việc.</para>
+          <para id="id6245298">Khi xác định: cho động cơ làm việc, chờ hệ thống khí nén làm việc đủ áp suất yêu cầu trong khoảng (5,5 ÷ 8,0)kG/cm2, sau đó:</para>
+          <para id="id6245320">Kiểm tra sự rò rỉ qua việc xuất hiện tiếng khí nén lọt qua khe hở hẹp trước và sau lúc đạp phanh.</para>
+          <para id="id6245329">Kiểm tra sự hoạt động của các cơ cấu cam quay tại khu vực bánh xe.</para>
+          <para id="id6245336">Độ kín kít của hệ thống có thể phát hiện lúc dừng xe, tắt máy, đồng hồ chị thị áp suất phải duy trì được áp suất trong một thời gian dài nhất định, khi có hiện tượng tụt nhanh áp suất chứng tỏ hệ thống bị rò, kể cả khi hệ phanh tay liên động qua hệ khí nén.</para>
+          <para id="id6245356">Các hư hỏng trong máy nén khí là:</para>
+          <para id="id6245363">Mòn buồng nén khí: séc măng, piston, xi lanh.</para>
+          <para id="id6245369">Mòn, hở van một chiều.</para>
+          <para id="id6245374">Mòn hỏng bộ bạc, hoặc bi trục khuỷu.</para>
+          <para id="id6245380">Thiết bị bôi trơn.</para>
+          <para id="id6245385">Chùng dây đai</para>
+          <para id="id6245390">Kẹt van điều áp hệ thống.</para>
+          <para id="id6245396">Các hư hỏng trên có thể phát hiện thông qua các biểu hiện sau:</para>
+          <para id="id6245404">Kiểm tra điều chỉnh độ chùng của dây đai kéo bơm hơi.</para>
+          <para id="id6245410">Xác định lượng và chất lượng bôi trơn.</para>
+          <para id="id6245416">Áp suất khí nén thấp do kẹt van hoặc máy nén khí bị mòn, hỏng.</para>
+          <para id="id6245422">Thường xuyên xả nước và dầu tại bình tích lũy khí nén, theo dõi lượng dầu xả ra để xem xét khả năng làm việc của máy nén, nếu lượng dầu nhiều quá mức thì cần tiến hành kiểm tra chất lượng của máy nén khí. Khi tiến hành phanh liên lực 3 lần độ giảm áp suất cho phép không được vượt quá (0,8 ÷1,0)kG/cm2 (xem trên đồng hồ đo áp suất của ô tô), tương ứng với động cơ làm việc ở chế độ chạy không tải.</para>
+          <para id="id6245452">Nghe tiếng gõ trong quá trình bơm hơi làm việc.</para>
+          <para id="id6245458">Trên hệ thông phanh có dòng phanh cho rơ moóc việc xác định cũng như trên, song khối lượng công việc tăng lên nhiều.</para>
+          <para id="id6245472">Kiểm tra điều chỉnh các bộ phận của máy nén khí</para>
+          <para id="id6245478">+ Kiểm tra, điều chỉnh độ căng của dây đai dẫn động máy nén khí.</para>
+          <para id="id6245486">+ Kiểm tra, điều chỉnh van điều chỉnh áp suất. </para>
+          <table id="id6245494" summary="">
+            <tgroup cols="2">
+              <colspec colnum="1" colname="c1"/>
+              <colspec colnum="2" colname="c2"/>
+              <tbody>
+                <row>
+                  <entry>Khi thấy áp suất trong hệ thống phanh (trên đồng hồ báo) bị giảm không bảo đảm thì ta phải tiến hành chỉnh lại sức căng lò xo của van điều chỉnh áp suất: hình 10.47.- Vặn vào chụp có ren 1 để tăng sức căng lò xo 2, sẽ tăng được áp suất trong bình chứa. Khi điều chỉnh phải so sánh với áp suất lớn nhất cho phép trong bình chứa.- Kiểm tra độ kín các mặt phân cách của van phân phối và bầu phanh bánh xe, các đầu nối bằng cách bôi nước xà phòng và quan sát.- Kiểm tra áp suất lớn nhất ở bầu phanh bánh xe khi phanh có thể quan sát trên đông hồ đo áp suất của bầu phanh bánh xe, hoặc dùng đồng hồ đo áp suất nối với đường khí nén vào bầu phanh (với loại không có đồng hồ chỉ thị trên ca bin). Khi đạp phanh và giữ nguyên chân phanh áp lực khoảng (4÷5) kG/cm2.</entry>
+                  <entry><media id="id12929244" alt=""><image src="../../media/graphics51.jpg" mime-type="image/jpeg"/></media>Hình 10. 47. Van điều chỉnh áp suất1- chụp có ren, 2- lò xo</entry>
+                </row>
+              </tbody>
+            </tgroup>
+          </table>
+          <para id="id6245629">c. Đối với hệ thống phanh thủy lực khí nén</para>
+          <para id="id6245635">Trên ô tô tải thường sử dụng hệ thống phanh thủy lực khí nén: cơ cấu phanh làm việc nhờ thủy lực, điều khiển nhờ khí nén.</para>
+          <para id="id6245646">Khi chẩn đoán cần tiến hành các công việc cho hệ thông phanh thủy lực và các công việc cho phần hệ thống phanh khí nén. Ngoài ra còn cần tiến hành các công việc sau:</para>
+          <para id="id6245658">c1. Kiểm tra áp lực khí nén sau van phân phối p (kG/cm2) tương ứng với các vị trí góc bàn đạp phanh (β0)</para>
+          <para id="id6581695">Lắp đồng hồ đo áp suất khí nén vào đầu vào của xi lanh khí nén. Đồng hồ đo có giá trị đo lớn nhất tới 10kG/cm2.</para>
+          <para id="id6581716">Nổ máy cho động cơ làm việc ổn định, áp suất khí nén đạt giá trị 7,0 kG/cm2.</para>
+          <para id="id6581736"><figure id="id6581743"><media id="id9531657" alt=""><image src="../../media/graphics52.jpg" mime-type="image/jpeg" height="186" width="609"/></media></figure>Hình 10.48. Phương pháp đánh giá chất lượng hệ thống điều khiển tại van phân phối</para>
+          <para id="id6581779">Dùng thước đo chiều cao hay thước đo độ đo vị trí bàn đạp phanh, tương ứng với các góc cho trong bảng, ghi lại giá trị áp suất chỉ thị trên đồng hồ.</para>
+          <para id="id6581790">Nếu các giá trị đo được nằm trong vùng của hai đường đậm thì van phân phối và hệ thống thủy lực làm việc tốt. Nếu nằm ngoài cần tiến hành xem xét tiếp chất lượng của van phân phối và hệ thống.</para>
+          <para id="id6581804">c2. Kiểm tra áp lực thủy lực sau xi lanh chính p(kG/cm2) tương ứng với các vị trí góc bàn đạp phanh (β0)</para>
+          <para id="id6581828">Lắp đồng hồ đo áp suất khí nén vào đầu ra của van phân phối. Đồng hồ đo có giá trị đo lớn nhất tới 10kG/cm2.</para>
+          <para id="id6581842">Nổ máy cho động cơ làm việc tới nhiệt độ ổn định, áp suất khí nén đạt giá trị 7,0 kG/cm2.</para>
+          <para id="id6581855">Dùng đồng hồ đo áp suất thủy lực lắp ở đầu ra. Xả không khí trong hệ thống sau đó vặn chặt đồng hồ đo.</para>
+          <para id="id6581864">Đạp bàn đạp theo mức độ phanh nhẹ, theo dõi đồng hồ đo áp suất thủy lực, nhận rõ trạng thái áp suất thủy lực bắt đầu gia tăng, xác định giá trị áp suất khí nén.</para>
+          <para id="id6581872">Đạp bàn đạp theo mức độ chế độ phanh ngặt, theo dõi đồng hồ đo áp suất thủy lực, đồng hồ đo áp suất khí nén, xác định áp suất khí nén cực đại và áp suất thủy lực cực đại.</para>
+          <para id="id6581881">Kết quả được xem xét theo kết cấu:</para>
+          <para id="id6581888">Với loại van phân phối không chênh áp suất thủy lực giữa cầu trước và cầu sau (loại I).</para>
+          <para id="id6581896">Với loại van phân phối chênh áp suất thủy lực giữa cầu trước và cầu sau (loại II).</para>
+          <para id="id6581904"><figure id="id6581911"><media id="id9399737" alt=""><image src="../../media/graphics53.jpg" mime-type="image/jpeg" height="187" width="576"/></media></figure>Hình 10.48. Phương pháp đánh giá chất lượng hệ thống điều khiển tại xi lanh khí nén và thủy lực</para>
+          <para id="id6581947">d. Đối với ô tô nhiều cầu chủ động làm việc ở chế độ luôn gài</para>
+          <para id="id6581954">Một số ô tô có khả năng cơ động cao sử dụng hệ thống truyền lực với nhiều cầu chủ động. Cầu trước và cầu sau liên kết với nhau thông qua khớp ma sát và làm việc ở chế độ luôn gài cả hai cầu. Nếu khi đo kiểm tra phanh trên bệ thử chỉ cho một cầu, thì các giá trị đo không phản ảnh được mô men phanh trên các cơ cấu phanh của bánh xe.</para>
+          <para id="id6581970">Trong trường hợp này có thể đánh giá thông qua:</para>
+          <para id="id6581976">Tháo các đăng liên kết giữa các cầu và từng cầu xe riêng biệt thử trên bệ thử thông thường.</para>
+          <para id="id6581985">Sử dụng các bệ thử có khả năng lưu trữ dữ liệu của nhà sản xuất khi thử trên bệ thử phanh một cầu thông thường. Sau khi thử xong so sánh kết quả với số liệu được lưu trữ.</para>
+          <para id="id6581997">Thử phanh ô tô trên đường.</para>
+          <para id="id6582002">Sử dụng bệ thử chuyên dụng cho ô tô hai cầu chủ động, thử đồng thời trên hai cầu.</para>
+          <para id="id6582011">Một vài dạng sơ đồ ô tô có khả năng cơ động sử dụng hệ thống truyền lực với nhiều cầu chủ động. Hình 10.49.</para>
+          <para id="id6582021"><figure id="id6582028"><media id="id15150178" alt=""><image src="../../media/graphics54.jpg" mime-type="image/jpeg" height="222" width="670"/></media></figure>Hình 10.49. Các dạng cấu trúc truyền lực trên ô tô con có khả năng cơ động<figure id="id6582067"><media id="id9259939" alt=""><image src="../../media/graphics55.jpg" mime-type="image/jpeg" height="59" width="428"/></media></figure></para>
+        </section>
+        <section id="id-138204727977">
+          <title>Chẩn đoán hệ thống phanh có ABS</title>
+          <para id="id6582100">Hệ thống ABS được chẩn đoán bằng các phương thức sau đây:</para>
+          <para id="id6582108">a. Chẩn đoán chung</para>
+          <para id="id6582114">Dùng chẩn đoán hệ thống phanh thông qua các thông số hiệu quả đã trình bày ở trên, hệ thống ABS chỉ làm việc ở tốc độ bánh xe tương ứng với tốc độ từ 10 km/h trở lên. Vì vậy khi kiểm tra trên bệ thử phanh vẫn xác định các thông số như hệ thống không ABS.</para>
+          <para id="id6582128">Dùng tự chẩn đoán có sẵn trên xe.</para>
+          <para id="id6582134"><figure id="id6582141"><media id="id9323530" alt=""><image src="../../media/graphics56.jpg" mime-type="image/jpeg" height="237" width="583"/></media></figure>Hình 10.50. Kiểm tra áp suất trên bình tích năng của ABS</para>
+          <para id="id5750970">Quy luật kiểm tra chung của chúng như sau:</para>
+          <para id="id5750977">Đưa khóa điện về vị trí ON, khởi động động cơ, đèn BRAKE hay ANTILOCK sáng, sau đó đèn tắt, chứng tỏ hệ thống làm việc bình thường, ngược lại, hệ thống có sự cố cần xem xét sâu hơn.</para>
+          <para id="id5750987">Việc tiến hành chẩn đoán sâu hơn theo phương thức đã trình bày ở phần tự chẩn đoán của các hệ thống có tự động điều chỉnh. Các qui trình chẩn đoán phần điều khiển thủy lực điện từ tùy thuộc vào kết cấu của các nhà sản xuất (theo tài liệu riêng).</para>
+          <para id="id5751002">Sự biến động của áp suất thủy lực có thể xác định thông qua lỗ chuyên dùng trên khối (block) điều chỉnh áp suất dầu.</para>
+          <para id="id5751013">b. Chẩn đoán hệ thống phanh ABS cho ô tô TOYOTA CROWN</para>
+          <para id="id5751020">Kiểm tra:</para>
+          <para id="id5751024">- Bật khóa điện về ON, đen ABS sáng, nhịp sáng đều đặn, trong vòng 3 giây rồi tắt, báo hiệu hệ thống đã được kiểm soát và tốt.</para>
+          <para id="id5751036">- Nếu đèn nháy liên tục không tắt, chứng tỏ hệ thống có sự cố.</para>
+          <para id="id5751044"><figure id="id5751052"><media id="id16578428" alt=""><image src="../../media/graphics57.jpg" mime-type="image/jpeg" height="136" width="528"/></media></figure>Hình 10.51. Tìm mã báo hỏng<figure id="id5751088"><media id="id12345478" alt=""><image src="../../media/graphics58.jpg" mime-type="image/jpeg" height="148" width="411"/></media></figure>Hình 10.52. Đọc mã</para>
+          <para id="id5751123">Tìm mã báo hỏng:</para>
+          <para id="id5751128">- Mở hộp đấu dây nối E1 với Tc, rút PIN ro khỏi hộp nối dây,</para>
+          <para id="id5751137">- Chờ một lát, xác định hư hỏng qua đèn ABS.</para>
+          <para id="id5751144">- Đọc mã hư hỏng và tra sổ tay sửa chữa, so mã tìm hư hỏng.</para>
+          <para id="id5751153">Đọc mã:</para>
+          <para id="id5751157">- Mã báo hỏng gồm hai số đầu – chỉ số thứ tự lỗi, hai số sau – chỉ số mã lỗi, mỗi lỗi báo 3 lần, sau đó chuyển sang lỗi khác, lỗi nặng báo trước lỗi nhẹ báo sau.</para>
+          <para id="id5751170">- Mã báo bình thường là đèn nháy liên tục.</para>
+          <para id="id5751178">Xóa mã:</para>
+          <para id="id5751183">- Bật khóa điện về ON, nối E1 với Tc.</para>
+          <para id="id5751190">- Đạp phanh và giữ chừng 3 giây.</para>
+          <para id="id5751197">- Kiểm tra lại trạng thái báo mã đã về mã bình thường.</para>
+          <para id="id5751205">Hệ thống ABS là hệ thống quan trọng do đó không thể làm theo kinh nghiệm, cần thiết có tài liệu hướng dẫn chi tiết và kiểm tra trước hết là trạng thái bình điện.</para>
+        </section>
+      </section>
+    </section>
+    <section id="id-505950770377">
+      <title>CHẤN ĐOÁN CỤM BÁNH XE, MOAY Ơ, LỐP</title>
+      <section id="id-582730587809">
+        <title>CÁC HƯ HỎNG THƯỜNG GẶP</title>
+        <section id="id-621512025328">
+          <title>Mòn bề mặt ngoài của lốp</title>
+          <para id="id5751245">Mòn đều trên bề mặt tựa theo chu vi của lốp. Hiện tượng này thường gặp trên ô tô do thời gian sử dụng nhiều, kèm theo đó là sự bong tróc các lớp xương mành của lốp. Đánh giá sự hao mòn này bằng chiều sâu còn lại của các lớp hoa lốp bằng cao su trên mặt lốp. Nếu có sự bong tróc các lớp xương mành sẽ dẫn tới thay đổi kích thước hình học của bánh xe. Với lốp dùng cho xe tải có chiều sâu tối thiểu còn lại của lớp hoa lốp phải 2mm, với ô tô con phải là 1mm.</para>
+          <para id="id5751260">Hiện tượng mòn của các bánh xe có thể khác nhau trên một xe, các trường hợp này liên quan đến sự không đồng đều tuổi thọ sử dụng hay do kết cấu chung của toàn bộ các bánh xe liên kết trên khung không đúng tiêu chuẩn quy định cho phép. Khi xuất hiện sự mòn gia tăng đột xuất trên một bánh xe cần phải xác định lại trạng thái liên kết các bánh xe đồng thời.</para>
+          <para id="id5751276">Mòn vệt bánh xe theo các trạng thái:</para>
+          <para id="id5751283">+ Mòn nhiều ở phần giữa của bề mặt lốp là do lốp thường xuyên làm việc ở trạng thái quá áp suất. Khi duy trì ở áp suất lốp định mức thấy lõm ở giữa.</para>
+          <para id="id5751296">+ Mòn nhiều ở cả hai mép của bề mặt lốp là do lốp thường xuyên làm việc ở trạng thái thiếu áp suất lốp.</para>
+          <para id="id5751306">+ Mòn lệch một phía (trong hay ngoài của các bánh xe) là do liên kết bánh xe trên xe không đúng qui định của hãng sản xuất.</para>
+          <para id="id5751316">+ Mòn vẹt một phần của chu vi lốp, trước hết là do sự chịu tải của các lớp xương mành không đồng nhất trên chu vi lốp, do mất cân bằng khi xe chạy ở tốc độ cao (lớn hơn 50km/h), do các sự cố kỹ thuật của hệ thống phanh gây nên khi phanh ngặt làm bó cứng và mài bề mặt lốp trên đường.</para>
+        </section>
+        <section id="id-0487326454596">
+          <title>Không cân bằng bánh xe </title>
+          <para id="id5751341">Với các bánh xe khi quay ở tốc độ cao (thường lớn hơn 60km/h) các phần khối lượng không cân bằng của bánh xe sẽ gây nên lực ly tâm, sinh ra sự dao động lớn của bánh xe theo phương hướng kính. Sự biến dạng ở vùng này của bánh xe sẽ thu nhỏ bánh kính tại vùng khác trên chu vi, tạo nên sự biến đổi bán kính bánh xe làm rung động lớn. Trên bánh xe dẫn hướng người lái cảm nhận qua vành lái. Trên bánh xe không dẫn hướng tạo nên sự rung động thân xe gần giống xe chạy trên đường mấp mô dạng sóng liên tục.</para>
+          <para id="id5751368">Sự mất cân bằng bánh xe là một yếu tố tổ hợp bởi: sự không cân bằng của lốp, săm (nếu có), vành, moay ơ, tang trống hay đĩa phanh… nhưng chịu ảnh hưởng lớn hơn cả là của cả bánh xe (trọng lượng lớn và khối lượng phân bố xa tâm hơn) như mô tả trên hình 10.53.</para>
+          <para id="id5751384"><figure id="id5751391"><media id="id16586247" alt=""><image src="../../media/graphics59.jpg" mime-type="image/jpeg" height="216" width="645"/></media></figure>Hình 10.53 . Nguyên nhân và hậu quả của sự không cân bằng</para>
+          <para id="id5751426">Có thể hình dung sự mất cân bằng bánh xe như sau: bánh xe đặt trên trục dạng công sôn nhờ hai ổ bi. Do có sự mất cân bằng nên khi quay bánh xe quanh trục xuất hiện lực ly tâm làm cho tâm trục bị cong, mặt phẳng bánh xe bị đảo. Nhưng vì sự thay đổi vị trí của phần không cân bằng theo góc quay bánh xe nên trục quay banh xe bị ngoáy tròn, tạo nên sự rung ngang bánh xe rất lớn đồng thời dẫn đến thay đổi đường kính bánh xe theo chu kỳ quay của chúng.</para>
+          <para id="id5751441">Sự mất cân bằng dẫn tới biến dạng trục bánh xe tăng, dồn ép các khe hở theo chiều tác dụng của lực ly tâm quán tính và bởi vậy gây nên đảo mặt phẳng quay của lốp như hình 10.53.</para>
+          <para id="id5751455">Sự cân bằng lốp được đặc biệt quan tâm trên ô tô con ở khía cạnh điều khiển và an toàn giao thông trên đường.</para>
+        </section>
+        <section id="id-751842446741">
+          <title>Rơ lỏng các liên kết</title>
+          <para id="id5751461">Các liên kết của khu vực bánh xe gồm: liên kết bánh xe với moay ơ, liên kết bánh xe với khung, hư hỏng các liên kết có thể chia thành hai dạng: do bị tự nối lỏng, bị mòn các mối ghép.</para>
+          <para id="id7031972">Liên kết bánh xe với moay ơ thường do ốc bánh xe bị lỏng, ổ bi bánh xe bị mòn. Hậu quả của nó là bánh xe khi chuyển động bị đảo, lắc, kèm theo tiếng ồn. Nếu bánh xe ở cầu dẫn hướng thì làm tăng độ rơ vành lái, việc điều khiển bánh xe dẫn hướng không chính xác. Ngoài ra tiếng ồn còn chịu ảnh hưởng của độ rơ của bạc và trục trụ đứng.</para>
+          <para id="id7031988">Liên kết cụm bánh xe với khung gồm các liên kết của: trụ đứng với trục bánh xe dẫn hướng, các khớp cầu (rôtuyn) trong hệ thống treo động lập. Khi các liên kết bị hư hỏng sẽ dẫn tới: sai lệch vị trí bố trí bánh xe, đặc biệt trên bánh xe dẫn hướng, gây nên mài mòn lốp nhanh, đồng thời làm phát sinh tiếng ồn và rung ở khu vực gầm sàn xe, khi xe chuyển động trên đường xấu.</para>
+          <para id="id7032004">Các biểu hiện chính trong quá trình chẩn đoán có thể dựa vào để phát hiện hư hỏng:</para>
+          <para id="id7032013">Các rạn nứt bên ngoài.</para>
+          <para id="id7032018">Hiện tượng mài mòn lốp.</para>
+          <para id="id7032023">Sự thay đổi kích thước hình học.</para>
+          <para id="id7032029">Xác định sự cân bằng bánh xe.</para>
+          <para id="id7032035">Độ ồn và sự rung động toàn xe.</para>
+          <para id="id7032039">Sự rơ lỏng các kết cấu liên kết…</para>
+        </section>
+      </section>
+      <section id="id-94560676236">
+        <title>PHƯƠNG PHÁP VÀ CÁC THIẾT BỊ CHẨN ĐOÁN CỤM BÁNH XE</title>
+        <section id="id-211071239629">
+          <title>Xác định áp suất bánh xe</title>
+          <para id="id7032063">Xác định áp suất khí nén trong lốp là điều kiện cơ sơ để xác định tất cả các nhiệm vụ chẩn đoán tiếp sau thuộc các vấn đề xác định trạng thái kỹ thuật: giảm chấn, bộ phận đàn hồi, trong hệ thống treo, hệ thống lái, hệ thống phanh, hệ thống truyền lực.</para>
+          <para id="id7032079">Áp suất khí trong lốp cũng liên quan nhiều đến các tính chất tổng quát chuyển động của ô tô, chẳng hạn như: tính năng động lực học, tính điều khiển, khả năng dẫn hướng, độ êm dịu, độ bền chung… của xe.</para>
+          <para id="id7032089">Giá trị áp suất chuẩn:</para>
+          <para id="id7032096">Giá trị áp suất chuẩn được quy định bởi nhà chế tạo, giá trị này là trị số tối ưu nhiều mặt trong khai thác, phù hợp với khả năng chịu tải và sự an toàn của lốp khi sử dụng, do vậy trước hết cần phải biết các giá trị tiêu chuẩn bằng các cách:</para>
+          <para id="id7032112">Áp suất ghi trên bề mặt lốp. Trong hệ thống đo lường có một số loại lốp ghi áp suất bằng đơn vị “psi” có thể chuyển đổi như sau:</para>
+          <para id="id7032119">1psi ≈ 6,9Pa</para>
+          <para id="id7032126">Ví dụ: Trên bề mặt lốp ô tô con có ghi: MAX. PRESS 32 psi</para>
+          <para id="id7032134">Nghĩa là: áp suất lớn nhất 32psi ≈ 0,22Mpa ≈ 2,2KG/cm2</para>
+          <para id="id7032147">Áp suất sử dụng thường cho trong các tài liệu kỹ thuật kèm theo xe.</para>
+          <para id="id7032153">Trên một số lốp ô tô con của Châu Âu không quy định phải ghi trên bề mặt lốp, các loại lốp này đã được quy định theo quy ước của số lớp mành tiêu chuẩn ghi trên bề mặt lốp. Với loại có 4,6,8 lớp mành tiêu chuẩn, tương ứng với mỗi loại áp suất khí nén lớn nhất trong lốp như sau:</para>
+          <para id="id7032169">4PRtương ứngpmax = 0,22MPa ≈ 2,2KG/cm2</para>
+          <para id="id7032191">6PRtương ứngpmax = 0,25MPa ≈ 2,5KG/cm2</para>
+          <para id="id7032212">8PRtương ứngpmax = 0,28MPa ≈ 2,8KG/cm2</para>
+          <para id="id7032234">Trên một số lốp ô tô con của Mỹ, áp suất lốp được suy ra theo quy định từ chế độ tải trọng của lốp. Phân loại tải trọng ghi bằng chữ: “LOAD RANGE”. So sánh giữa hai tiêu chuẩn của Mỹ và Châu Âu:</para>
+          <para id="id7032248">Load Range B: pmax = 0,22MPa tương ứng 4PR</para>
+          <para id="id7032261">Load Range B: pmax = 0,25MPa tương ứng 6PR</para>
+          <para id="id7032275">Load Range B: pmax = 0,28MPa tương ứng 8PR</para>
+          <para id="id7032288">Để thực hiện công việc kiểm tra áp suất khí nén ngày nay thường dùng các thiết bị đo áp suất khí nén.</para>
+          <para id="id7032296">Đối với người sử dụng xe có thể dùng loại đơn giản. Loại này có cấu trục: một đầu tỳ mở van khí nén của bánh xe, một cặp piston xi lanh có lò xo cân bằng, cần piston có ghi vạch mức áp suất tùy theo sự dịch chuyển của piston bên trong.</para>
+          <para id="id7032312">Đối với các trạm sửa chữa dùng giá đo có độ chính xác cao hơn.</para>
+        </section>
+        <section id="id-101758241616">
+          <title>Kiểm tra trạng thái hư hỏng bên ngoài</title>
+          <para id="id7032328">Các rạn nứt bên ngoài trong sử dụng do các nguyên nhân đột xuất gây nên như: va chạm mạnh trên nền cứng, lão hóa vật liệu khi chịu áp lực gia tăng đột biến, lốp sử dụng trong tình trạng thiếu áp suất…</para>
+          <para id="id7032342">Có thể nhận thấy các vết rạn nứt hình thành trên bề mặt khu vực có vân lốp và ở mặt bên của bề mặt lốp. Các rạn nứt trong sử dụng không cho phép, do vậy cần thường xuyên kiểm tra.</para>
+          <para id="id7032356">Đặc biệt cần quan sát kỹ các tổn thất có chiều sâu lớn, các vật nhọn cứng bằng kim loại cắm vào lốp trong khi bánh xe lăn, mà chưa gây thủng, cần sửa chữa hoặc thay thế ngay. Một số dạng hư hỏng trình bày trên hình 10.54.</para>
+          <para id="id7032367"><figure id="id7032375"><media id="id20582440" alt=""><image src="../../media/graphics60.jpg" mime-type="image/jpeg" height="125" width="527"/></media></figure>Hình 10.54. Một số dạng hư hỏng bề mặta. Vết nứt chân chim chạy dọc theo chu vi bề mặt bên của lốpb. Vết nứt hướng tâmc. Vết cứa rách bề mặt lốp do va chạm với vật cứngd. Các vết thủng bề mặt lốp do bị các vật cứng đâm xuyên.</para>
+        </section>
+        <section id="id-215262232675">
+          <title>Kiểm tra kích thước hình học bánh xe</title>
+          <para id="id7032454">Hình dạng hình học bánh xe được chú ý là sự méo của bánh xe thể hiện bằng giá trị sai lệch kích thước hình học của bánh xe khi quay trục.</para>
+          <para id="id6711691">Thiết bị kiểm tra bao gồm: giá đỡ đồng hồ so và đầu đo. Đầu đo được gắn trên giá đo.</para>
+          <para id="id6711700">Khi đo đặt ô tô trên nền phẳng, cứng. Dùng kích nâng bánh xe cần đo lên để có thể quay bánh xe bằng tay quanh trục của nó. Đưa đầu đo vào và quay nhẹ bánh xe sang các vị trí khác nhau cho đến hết một vòng quay bánh xe.</para>
+          <para id="id6711715"><figure id="id6711722"><media id="id9557759" alt=""><image src="../../media/graphics61.jpg" mime-type="image/jpeg" height="295" width="658"/></media></figure>Hình 10.55. Kiểm tra kích thước hình học bánh xe</para>
+          <para id="id6711756">Các vị trí cần đo trên lốp và vành được chỉ ra trên hình 10.55. Quan trọng hơn cả là các kích thước sai lệch đường kính, chiều rộng bánh xe và vành.</para>
+          <para id="id6711768">Sai lệch đường kính được so sánh với các loại lốp khác nhau và tra theo tiêu chuẩn.</para>
+          <para id="id6711777">Khi sai lệch lớn giá trị đường kính có thể dẫn đến mất cân bằng bánh xe.</para>
+        </section>
+        <section id="id-0315985826699">
+          <title>Xác định sự hao mòn lốp do mài mòn</title>
+          <para id="id6711795">Sự mòn lốp xe trên bề mặt sau thời gian sử dụng là một thông tin quan trọng hữu ích cho việc chẩn đoán về: tuổi thọ, áp suất khí trong lốp đang sử dụng, góc đặt bánh xe và các hư hỏng trụ đứng, khớp quay…</para>
+          <para id="id6711810"><figure id="id6711817"><media id="id7178998" alt=""><image src="../../media/graphics62.jpg" mime-type="image/jpeg" height="205" width="655"/></media></figure>Hình 10.56. Các dạng cơ bản của mòn lốpNhìn vào đầu xe, bánh xe bên phải:a. Khi áp suất quá thấp hay quá tải; b. khi áp suất quá cao;c. Khi độ chụm dương quá lớn; d. Góc nghiêng ngang trụ đứng quá lớn;e. Góc nghiêng ngang bánh xe quá lớn; f. Lốp bị mất cân bằng.</para>
+          <para id="id6711882">Để đảm bảo cho lốp mòn đều và tăng tuổi thọ của lốp cứ khoảng (5000 – 9000)km cần thay đổi vị trí của lốp theo sơ đồ hình 10.57.</para>
+          <para id="id6711894"><figure id="id6711901"><media id="id13921485" alt=""><image src="../../media/graphics63.jpg" mime-type="image/jpeg" height="258" width="423"/></media></figure>Hình 10.57. Sơ đồ thay đổi vị trí lốp</para>
+        </section>
+        <section id="id-874423327897">
+          <title>Kiểm tra sự rơ lỏng các kết cấu liên kết bánh xe</title>
+          <para id="id6711944">Sự rơ lỏng của các bánh xe dẫn hướng liên quan tới: mòn ổ bi bánh xe, lỏng ốc bắt bánh xe, mòn trụ đứng, hay các khớp cầu, khớp trụ trong hệ thống treo độc lập, các khớp cầu trong các đòn dẫn động lái.</para>
+          <para id="id6711959">+ Phát hiện các rơ lỏng này có thể tiến hành khi kích nâng bánh xe cần xem xét lên khỏi mặt nền. Dùng lực của cả hai cánh tay lắc bánh xe quay xung quanh tâm quay theo các phương AA và BB. Cảm nhận độ rơ của chúng.</para>
+          <para id="id6711974">- Nếu bị rơ theo cả hai phương thì đó là ổ bi bánh xe bị mòn.</para>
+          <para id="id6711982">- Nếu chỉ rơ theo phương AA thì đó là mòn trụ đứng, hay các khớp cầu, khớp trụ trong hệ thống treo độc lập.</para>
+          <para id="id6711992">- Nếu bị rơ theo phương BB thì do mòn các khớp cầu trong hệ thống lái.</para>
+          <para id="id6712001">Sự rơ lỏng ổ bi hay trụ đứng còn có thể tiến hành xác định khi đưa lên bệ thử kiểu rung ngang.</para>
+          <para id="id6712011">Bằng thiết bị đo rung ngang theo thời gian có thể phát hiện được các xung va đập, hay nhìn trực tiếp bằng mắt nếu có độ rơ mòn lớn tại chỗ liên kết.</para>
+          <para id="id6712023">Sự rơ lỏng các bánh xe sẽ ảnh hưởng lớn tới độ chụm và các góc đặt, đồng thời với sự xuất hiện mòn lốp không đều.</para>
+          <para id="id6712034">Trên các bệ thử đo độ trượt ngang tĩnh, khi có sự rơ lỏng này, không thể xác định chính xác giá trị góc đặt bánh xe.</para>
+          <para id="id6712045">+ Phát hiện rơ lỏng khi xe chuyển động trên đường thông qua cảm nhận những va đập, độ rơ vành lái trên đường xấu.</para>
+        </section>
+        <section id="id-511622182979">
+          <title>Xác định sự mất cân bằng bánh xe.</title>
+          <para id="id6712065">a. Bằng cảm nhận trực quan</para>
+          <para id="id6712070">- Thông qua hiện tượng mài mòn cục bộ bề mặt lốp theo chu vi</para>
+          <para id="id6712079">- Khi xe chuyển động với tốc độ cao (khoảng trên 50 km/h) có thể xác định mất cân bằng này nhờ cảm nhận trực quan về sự rung nảy bánh xe trên nền đường ở các bánh xe không dẫn hướng (cầu sau). Trên các bánh xe dẫn hướng, ngoài hiện tượng rung nảy bánh xe còn kèm theo sự rung lắc bánh xe dẫn hướng và vành lái, do hiện tượng xuất mô men hiệu ứng con quay. Nếu sự mất cân bằng không lớn thì các hiện tượng này chỉ xảy ra ở một vùng tốc độ nhất định.</para>
+          <para id="id6712095">b. Bằng thiết bị kiểm tra trực tiếp trên xe</para>
+          <para id="id6712101">Việc kiểm tra mất cân bằng có thể thực hiện đối với các bánh xe đã tháo ra khỏi xe và đưa lên bệ quay để kiểm tra cân bằng tĩnh, cân bằng động. Trong chẩn đoán thường sử dụng phương pháp kiểm tra trực tiếp trên xe.</para>
+          <para id="id6712116">Trong các ga ra sửa chữa có nhiều loại thiết bị đo và cân bằng bánh xe. Nguyên lý chung của thiết bị đo cân bằng dựa trên việc đo dao động trục khi có sự mất cân bằng các bánh xe. Các dụng cụ đo này đều đảm nhận chức năng đo, kiểm tra trước và sau khi bù khối lượng cân bằng và gọi chung là thiết bị cân bằng bánh xe.</para>
+          <para id="id6712132">c. Thiết bị kiểm tra cân bằng bánh xe khi tháo bánh xe ra khỏi xe</para>
+          <para id="id6712140">Việc xác định mất cân bằng tốt nhất là tháo rời bánh xe ra khỏi xe, khi đó bánh xe không chịu ảnh hưởng của các lực tỳ con lăn. Tốc độ quay của bánh xe có thể đạt lớn nhất khoảng 120km/h, tạo điều kiện phát hiện và tiến hành lắp thêm đối trọng bù lại trọng lượng gây nên mất cân bằng.</para>
+          <para id="id6712155">Cần chú ý: bánh xe gồm lốp (có hay không có săm) phải đồng bộ với các loại vành tương ứng, do nhà sản xuất quy định.</para>
+        </section>
+      </section>
+    </section>
+  </content>
+</document>
