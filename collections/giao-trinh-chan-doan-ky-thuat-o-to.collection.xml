@@ -1,3 +1,26 @@
-<col:collection xmlns="http://cnx.rice.edu/collxml" xmlns:col="http://cnx.rice.edu/collxml" xml:lang="en">  <metadata xmlns:md="http://cnx.rice.edu/mdml" mdml-version="0.5">  <md:content-id>col10810</md:content-id>  <md:title>Giáo trình chẩn đoán kỹ thuật ô tô</md:title>      <md:license url="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution License 3.0</md:license>  <md:language>vi</md:language>              <md:uuid>8859000b-e7c2-4c41-9b90-eaa42c161742</md:uuid>
-<md:slug>giao-trinh-chan-doan-ky-thuat-o-to</md:slug>
-</metadata>  <col:content>          <col:module document="m30649"/>                            <col:module document="m30546"/>                            <col:module document="m30364"/>                            <col:module document="m30616"/>                            <col:module document="m30593"/>                            <col:module document="m30607"/>                            <col:module document="m30609"/>                            <col:module document="m30619"/>                            <col:module document="m30787"/>                            <col:module document="m30651"/>                            <col:module document="m30302"/>                            <col:module document="m30307"/>                            <col:module document="m30299"/>                    </col:content></col:collection>
+<?xml version="1.0"?>
+<col:collection xmlns="http://cnx.rice.edu/collxml" xmlns:col="http://cnx.rice.edu/collxml" xml:lang="en" authors="TS. Tr&#x1EA7;n Thanh H&#x1EA3;i T&#xF9;ng ,KS. Nguy&#x1EC5;n L&#xEA; Ch&#xE2;u Th&#xE0;nh">
+  <metadata xmlns:md="http://cnx.rice.edu/mdml" mdml-version="0.5">
+    <md:content-id>col10810</md:content-id>
+    <md:title>Gi&#xE1;o tr&#xEC;nh ch&#x1EA9;n &#x111;o&#xE1;n k&#x1EF9; thu&#x1EAD;t &#xF4; t&#xF4;</md:title>
+    <md:license url="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution License 3.0</md:license>
+    <md:language>vi</md:language>
+    <md:uuid>8859000b-e7c2-4c41-9b90-eaa42c161742</md:uuid>
+    <md:slug>giao-trinh-chan-doan-ky-thuat-o-to</md:slug>
+  </metadata>
+  <col:content>
+    <col:module document="m30649"/>
+    <col:module document="m30546"/>
+    <col:module document="m30364"/>
+    <col:module document="m30616"/>
+    <col:module document="m30593"/>
+    <col:module document="m30607"/>
+    <col:module document="m30609"/>
+    <col:module document="m30619"/>
+    <col:module document="m30787"/>
+    <col:module document="m30651"/>
+    <col:module document="m30302"/>
+    <col:module document="m30307"/>
+    <col:module document="m30299"/>
+  </col:content>
+</col:collection>
