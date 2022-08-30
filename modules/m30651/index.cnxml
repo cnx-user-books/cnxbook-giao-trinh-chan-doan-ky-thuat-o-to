@@ -250,12 +250,7 @@
         </table>
         <para id="id6555166">Như vậy là nhờ chẩn đoán ta biết được một phần nào trạng thái kỹ thuật, do đó độ bất định (về trạng thái kỹ thuật của ôtô) sẽ giảm đi. Như vậy càng hiểu biết nhiều, nắm chắc trạng thái kỹ thuật của phương tiện đang sử dụng thì entrôpi càng giảm đi. Khi trạng thái kỹ thuật của đối tượng hoàn toàn xác định thì entrôpi của nó sẽ có trị số bằng 0. Do đó trong trường hợp này số lượng tin tức về đối tượng X bằng entrôpi của nó.</para>
         <para id="id6555181">
-          <m:math>
-            <m:semantics>
-              <m:mrow/>
-              <m:annotation encoding="StarMath 5.0">{}</m:annotation>
-            </m:semantics>
-          </m:math>
+          
           <m:math>
             <m:semantics>
               <m:mrow>
